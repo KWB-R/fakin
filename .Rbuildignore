@@ -1,0 +1,4 @@
+^\.httr-oauth$
+create_and_import_bibtex.R
+import_bibtex.bat
+knitcitations.bib

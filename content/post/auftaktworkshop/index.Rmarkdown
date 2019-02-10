@@ -1,0 +1,55 @@
+---
+title: "Auftaktworkshop: Ergebnisse & weiteres Vorgehen"
+authors: 
+  - rustler
+date: '2017-09-25'
+output:
+  html_document: default
+categories:
+  - workshop
+tags:
+  - workshop
+---
+
+# 1 IST-/SOLL Zustand 
+
+```{r, echo= FALSE, include=FALSE, cache=FALSE}
+#source("get_limesurvey_data.R")
+```
+
+## 1.1 Gesamt 
+
+```{r, echo= FALSE, out.width = "900px"}
+knitr::include_graphics("Fragebogen_Ergebnisse.jpg")
+```
+
+## 1.2 Nach Abteilung 
+```{r, echo= FALSE, out.width = "900px"}
+knitr::include_graphics("Fragebogen_Ergebnisse_perDepartment_IST.jpg")
+```
+
+```{r, echo= FALSE, out.width = "900px"}
+knitr::include_graphics("Fragebogen_Ergebnisse_perDepartment_SOLL.jpg")
+```
+
+# 2 TOP3-Ergebnisse
+
+## 1. Platz: Daten finden & bekommen
+```{r, echo= FALSE, out.width = "900px"}
+knitr::include_graphics("1_DatenBekommenFinden.jpg")
+```
+
+## 2. Platz: Daten analyisieren, visualisieren & kommunizieren 
+```{r, echo= FALSE, out.width = "900px"}
+knitr::include_graphics("2_DatenAnalysierenVisualisierenKommunizieren.jpg")
+```
+
+
+## 3. Platz: Daten verifizieren & säubern
+```{r, echo= FALSE, out.width = "900px"}
+knitr::include_graphics("3_DatenVerifizierenSaeubern.jpg")
+```
+
+# 3 Weiteres Vorgehen 
+
+In Bearbeitung....

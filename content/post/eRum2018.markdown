@@ -1,0 +1,92 @@
+---
+title: "eRum 2018"
+authors:
+  - rustler
+date: "14 May 2018"
+output: 
+  html_document: 
+    number_sections: yes
+  beforeInit: "https://platform.twitter.com/widgets.js"
+---
+
+
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">You&#39;re doing it right if you get frustrated: if you&#39;re not frustrated, you&#39;re (probably) not stretching yourself mentally</p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/565516733516349441?ref_src=twsrc%5Etfw">11. Februar 2015</a></blockquote>
+
+# Tutorials
+
+## Geocomputing with R
+
+[https://github.com/jannes-m/erum18_geocompr](https://github.com/jannes-m/erum18_geocompr)
+
+[https://geocompr.robinlovelace.net/](https://geocompr.robinlovelace.net/)
+
+## Efficient R programming
+
+[https://github.com/csgillespie/efficient](https://github.com/csgillespie/efficient)
+
+[https://csgillespie.github.io/efficientR/](https://csgillespie.github.io/efficientR/)
+## Reproducible data screening and quality control
+
+[http://www.biostatistics.dk/eRum2018/](http://www.biostatistics.dk/eRum2018/)
+
+[https://ekstroem.github.io/dataMaid/](https://ekstroem.github.io/dataMaid/)
+
+## Building a package that lasts
+
+[Sources](https://github.com/ColinFay/erum2018)
+
+
+# Tuesday
+
+## Machine learning
+
+![performance](https://pbs.twimg.com/media/DdQTk-FX4AE6r20.jpg:large)
+
+Source: [Twitter](https://twitter.com/DataScienceLA/status/996443690280345603)
+
+
+[GBM better than deep lerning](https://speakerdeck.com/szilard/better-than-deep-learning-gradient-boosting-machines-gbm-in-r-erum-conference-budapest-may-2018)
+
+
+[Benchmarks](https://github.com/szilard/benchm-ml)
+
+[GBM benchmarks](https://github.com/szilard/GBM-perf)
+
+RStudio:
+ 
+- Practitioners should use Keras library
+ 
+- Use R package `tfruns` for logging model performance progress
+
+- If training takes longer than > 5min, cloudml could be an option [https://tensorflow.rstudio.com/tools/cloudml/articles/getting_started.html](https://tensorflow.rstudio.com/tools/cloudml/articles/getting_started.html)
+
+
+[https://github.com/andrie/erum-tensorflow-tools](https://github.com/andrie/erum-tensorflow-tools)
+
+
+Slides of other talks: 
+
+- [Show me your model 2.0](https://github.com/pbiecek/Talks/blob/master/2018/ShowMeYourModel_20_eRum.pdf), [R Package DALEX](https://pbiecek.github.io/DALEX/); alternative R package lime
+
+- [Modelling Item Worth Based on Rankings](https://gitpitch.com/hturner/talks/eRum2018)
+
+- [Faster package installation](http://dirk.eddelbuettel.com/blog/2017/11/27/#011_faster_package_installation_one)
+
+- [R/shiny interface for interactive visualization of data in objects derived from the SummarizedExperiment class](https://github.com/csoneson/iSEE)
+
+- [Errors & conditions](https://www.dropbox.com/s/fi5fswytwatw1kk/condition-erum.pdf)
+
+- [First steps with Stan](https://datawookie.github.io/talk-first-steps-with-stan/)
+
+# Wednesday 
+
+- [Keynote: History of R](https://github.com/rsbivand/eRum18)
+
+- Data science: stories instead of code, thinking of the long-term horizon (value of data!)
+      
+- Building a data science team around R
+    
+    + Infrastructure questions (How to access R / get packages)
+    
+- [Drilldown data discovery with shiny](https://github.com/bborgesr/erum2018)
