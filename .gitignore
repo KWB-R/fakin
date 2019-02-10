@@ -4,4 +4,4 @@
 .Ruserdata
 resources
 public
-^config.toml$
+config.toml
