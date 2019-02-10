@@ -22,9 +22,9 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This document is the outcome of the KWB project [FAKIN](http://www.kompetenz-wasser.de/en/project/fakin-research-data-management)(Forschungsdatenmanagement an kleinen Instituten = research data management at small institutes). This report defines [Best Practices](#best-practices) for research data management especially designed for small reserach institutes."
+abstract = "This document is the outcome of the KWB project [FAKIN](http://www.kompetenz-wasser.de/en/project/fakin-research-data-management)(Forschungsdatenmanagement an kleinen Instituten = research data management at small institutes). This report defines Practices for research data management especially designed for small reserach institutes."
 
-abstract_short = ""
+abstract_short = "This document is the outcome of the KWB project [FAKIN](http://www.kompetenz-wasser.de/en/project/fakin-research-data-management)(Forschungsdatenmanagement an kleinen Instituten = research data management at small institutes)."
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -50,9 +50,9 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://kwb-r.github.io/fakin.doc/fakin_documentation.pdf"
+url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/kwb-r/fakin.doc"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -62,7 +62,10 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Epub", url = "https://kwb-r.github.io/fakin.doc/fakin_documentation.epub"}]
+url_custom = [{name = "HTML", url = "https://kwb-r.github.io/fakin.doc/index.html"}, 
+{name = "PDF", url = "https://kwb-r.github.io/fakin.doc/fakin_documentation.pdf"},
+{name = "Epub", url = "https://kwb-r.github.io/fakin.doc/fakin_documentation.epub"}, 
+{name = "Code", url = "https://github.com/kwb-r/fakin.doc"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
