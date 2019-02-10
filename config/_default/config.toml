@@ -19,7 +19,7 @@ publishDir = "public"
 googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "fakin"
 
 ############################
 ## Advanced options below ##
