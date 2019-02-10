@@ -1,6 +1,8 @@
 language: r
 dist: trusty
 sudo: false
+before_install:
+  - sudo apt-get install libstdc++6
 branches:
   only:
     - master
