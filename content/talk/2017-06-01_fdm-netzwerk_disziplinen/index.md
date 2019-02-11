@@ -54,7 +54,7 @@ url_slides = ""
 url_video = ""
 url_code = ""
 
-url_custom = [{name = "Blog: event summary", url = "post/fdm-netzwerk/"}]
+url_custom = [{name = "Statement", url = "post/fdm-netzwerk/#projekt-fakin-hauke-sonnenberg-http-www-kompetenz-wasser-de-team-14-0-html-kwb-statement"}, {name = "Blog: event summary", url = "post/fdm-netzwerk/"}]
 
 # Does the content use math formatting?
 math = true
