@@ -1,7 +1,7 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # Do not modify this line!
-active = false # Activate this widget? true/false
+active = true # Activate this widget? true/false
 
 title = "Accomplish&shy;ments"
 subtitle = ""
@@ -11,7 +11,7 @@ weight = 9
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2, 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,28 +19,30 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  title = ""
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+# [[item]]
+#   title = "Lessons-Learnt Workshop"
+#   organization = ""
+#   certificate_url = ""
+#   date_start = "2019-03-14"
+#   date_end = ""
+#   description = "WP 3: Communication"
+
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Best-Practices Workshop"
+  organization = ""
+  certificate_url = ""
+  date_start = "2018-01-29"
   date_end = ""
-  description = ""
+  description = "WP 3: Communication"
   
 [[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Auftaktworkshop"
+  organization = ""
+  certificate_url = ""
+  date_start = "2017-09-25"
+  date_end = ""
+  description = "WP 3: Communication"
+
 
 +++
