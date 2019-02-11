@@ -16,7 +16,7 @@
 [[main]]
   name = "Talks"
   url = "/talk/"
-  weight = 3
+  weight = 8
 
 #[[main]]
 #  name = "Posts"
