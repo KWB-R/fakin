@@ -7,33 +7,38 @@
   name = "Publications"
   url = "#publications_featured"
   weight = 1
-  
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
 
 [[main]]
-  name = "Code"
-  url = "#code"
-  weight = 4
+  name = "Talks"
+  url = "#talks"
+  weight = 2
 
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
+
+
+#[[main]]
+#  name = "Code"
+#  url = "#code"
+#  weight = 4
 
 [[main]]
   name = "Team"
   url = "#team"
   weight = 5
 
+[[main]]
+  name = "Tags"
+  url = "#tags"
+  weight = 6
+
+
 #[[main]]
 #  name = "Tutorials"
 #  url = "/tutorial/"
 #  weight = 5
-
-#[[main]]
-#  name = "Tags"
-#  url = "#tags"
-#  weight = 6
 
 #[[main]]
 #  name = "Contact"

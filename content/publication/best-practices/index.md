@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This document is the outcome of the KWB project [FAKIN](http://www.kompetenz-wasser.de/en/project/fakin-research-data-management)(Forschungsdatenmanagement an kleinen Instituten = research data management at small institutes). This report defines Practices for research data management especially designed for small reserach institutes."
+abstract = "This document is the outcome of the KWB project  [FAKIN](http://www.kompetenz-wasser.de/en/project/fakin-research-data-management)(Forschungsdatenmanagement an kleinen Instituten = research data management at small institutes). This report defines Practices for research data management especially designed for small reserach institutes."
 
 abstract_short = "This document is the outcome of the KWB project [FAKIN](http://www.kompetenz-wasser.de/en/project/fakin-research-data-management)(Forschungsdatenmanagement an kleinen Instituten = research data management at small institutes)."
 
@@ -35,7 +35,7 @@ featured = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["fakin"]
+projects = []
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["communication-internal", "communication-external", "qms", "test-projects", "best-practices"]
 
 # Links (optional).
 url_pdf = ""

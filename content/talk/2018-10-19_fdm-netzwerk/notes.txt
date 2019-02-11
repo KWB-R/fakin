@@ -1,0 +1,44 @@
+FAKIN-Praesentation am 18.10.2018 im Harnack-Haus
+
+Besonderheiten eines kleinen Forschungsinstituts
+
+Definition "klein"
+- weniger als 100 Mitarbeiter
+- KWB: 25-30 Mitarbeiter + etwa so viele Praktikanten bzw. Studenten
+
+# Spezifika
+
+## Wissenstransfer 
+
+- ist bsonders wichtig, da der Verlust an Wissen relativ groß ist, wenn ein e
+  inzelner Mitarbeiter geht
+
+## Keine eigene IT-Abteilung
+
+- nur ein externer IT-Administrator
+- keine eigens dafür angestellten IT- oder Datenexperten, "no data curator" 
+
+-> es gibt keine Vorgaben, Konventionen
+-> jeder muss ein bisschen selbst ein Datenexperte sein 
+-> unterschiedliche Niveaus sowohl, was strukturierte Datenablage als auch 
+   Datenverarbeitung angeht, sind vorhanden
+-> das FDM liegt auf mehreren Schultern verteilt (oder sollte verteilt sein?)
+  
+## Projektbezogene Arbeit
+
+- es wird kein übergeordnetes Ziel verfolgt, abhängig von Forschungsprogrammen
+- das spiegelt sich schon in der Ordnerstruktur wider, wo die Projekte auf 
+  oberster Ebene stehen
+  
+## Einfache Organisationsstruktur
+
+- viel informeller Austausch
+- gut: ggf. bekommt man eine schnelle Antwort
+- schlecht: nicht dokumentiert
+- Neuerungen, neue Methoden, Software, Organisation geht von den Mitarbeitern
+  aus (bottom-up) anstatt einer Vorgabe von oben (top-down)
+
+# Ziel
+
+- FDM für kleine Institute etablieren
+- Unterziele: z.B. Entwicklung eines internen Standards für Metadaten

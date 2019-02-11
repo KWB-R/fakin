@@ -29,7 +29,7 @@ date_format = "January 2, 2006"
 
 
 [[item]]
-  title = "Best-Practices Workshop"
+  title = "[Workshop #2 (internal): Best-Practices](talk/2018-01-29_workshop-best-practices/)"
   organization = ""
   certificate_url = ""
   date_start = "2018-01-29"
@@ -37,7 +37,7 @@ date_format = "January 2, 2006"
   description = "WP 3: Communication"
   
 [[item]]
-  title = "Auftaktworkshop"
+  title = "[Workshop #1 (internal): Kick-off](talk/2017-09-25_workshop-kickoff/)"
   organization = ""
   certificate_url = ""
   date_start = "2017-09-25"
