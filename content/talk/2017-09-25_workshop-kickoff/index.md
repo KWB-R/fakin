@@ -57,7 +57,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [{name = "Result: TOP3 RDM topics at KWB (PDF)", url = "top3-rdm-topics-at-kwb.pdf"}, 
-{name = "Result: TOP3 RDM topics at KWB (Blog)", url = "fakin/post/workshop-kickoff/"},
+{name = "Result: TOP3 RDM topics at KWB (Blog)", url = "post/workshop-kickoff/"},
 {name = "Result: survey comments", url = "survey_comments.pdf"}
 ]
 
