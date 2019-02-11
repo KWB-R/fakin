@@ -14,7 +14,10 @@ authors = ["rustler"]
 
 # Abstract and optional shortened version.
 abstract = "What research data management competences are needed and for whom?"
-abstract_short = "What competences are needed and for whom?"
+
+
+# Summary. An optional shortened abstract.
+summary = "What competences are needed and for whom?"
 
 # Name of event and optional event URL.
 event = "FDM-Netzwerkveranstaltung des BMBF"

@@ -24,7 +24,8 @@ publication_short = ""
 # Abstract and optional shortened version.
 abstract = "This document is the outcome of the KWB project  [FAKIN](http://www.kompetenz-wasser.de/en/project/fakin-research-data-management)(Forschungsdatenmanagement an kleinen Instituten = research data management at small institutes). This report defines Practices for research data management especially designed for small reserach institutes."
 
-abstract_short = "This document is the outcome of the KWB project [FAKIN](http://www.kompetenz-wasser.de/en/project/fakin-research-data-management)(Forschungsdatenmanagement an kleinen Instituten = research data management at small institutes)."
+# Summary. An optional shortened abstract.
+summary = "This document is the outcome of the KWB project [FAKIN](http://www.kompetenz-wasser.de/en/project/fakin-research-data-management)(Forschungsdatenmanagement an kleinen Instituten = research data management at small institutes)."
 
 # Is this a featured publication? (true/false)
 featured = true

@@ -3,7 +3,7 @@
 widget = "talks"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Recent & Upcoming Talks"
+title = "Talks"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,6 +19,6 @@ count = 10
 view = 2
 
 # Exclude talks that are shown in the Featured Talks widget?
-exclude_featured = false
+exclude_featured = true
 +++
 

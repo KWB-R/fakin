@@ -14,7 +14,9 @@ authors = ["sonnenberg", "rustler", "sprenger"]
 
 # Abstract and optional shortened version.
 abstract = "What are the sucesses / failures of the project? How were intermediate results shared with the research community)? How were discipline-specific standards considered? What research data management topics are also relevant for other projects in natural sciences / engineering?"
-abstract_short = "Project`s successes and failures? Sharing of results? What is interesting for similar projects in natural sciences / engineering?"
+
+# Summary. An optional shortened abstract.
+summary = "Project`s successes and failures? Sharing of results? What is interesting for similar projects in natural sciences / engineering?"
 
 # Name of event and optional event URL.
 event = "Forschungsdatenmanagement – künftige Entwicklungen und aktuelle Fragen der Wissenschaft"

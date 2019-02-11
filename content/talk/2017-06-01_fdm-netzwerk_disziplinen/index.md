@@ -14,7 +14,9 @@ authors = ["sonnenberg"]
 
 # Abstract and optional shortened version.
 abstract = "Challenges for disciplin-specific type of research data"
-abstract_short = "Challenges for disciplin-specific type of research data"
+
+# Summary. An optional shortened abstract.
+summary = ""
 
 # Name of event and optional event URL.
 event = "FDM-Netzwerkveranstaltung des BMBF"

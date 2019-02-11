@@ -18,7 +18,7 @@ authors = ["rustler"]
 superuser = false
 
 # Role/position
-role = "Data scientist"
+role = "Project Manager \"FAKIN\", Data scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -48,7 +48,7 @@ interests = [
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
-user_groups = ["Project Manager", "Researchers"]
+user_groups = [""]
 
 
 # List qualifications (such as academic degrees)

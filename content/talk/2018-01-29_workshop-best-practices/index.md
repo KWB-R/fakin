@@ -14,7 +14,10 @@ authors = ["rustler", "sonnenberg", "sprenger"]
 
 # Abstract and optional shortened version.
 abstract = "Propose best-practices for research data management and define test projects"
-abstract_short = "Propose best-practices for research data management and define test projects"
+
+# Summary. An optional shortened abstract.
+summary = "Propose best-practices for research data management and define test projects"
+
 # Name of event and optional event URL.
 event = "Workshop, internal (Kompetenzzentrum Wasser Berlin gGmbH)"
 event_url = ""

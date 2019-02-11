@@ -1,6 +1,6 @@
 +++
 title = "Workshop #3 (internal): Lessons-learnt (t.b.c.)"
-date = 2019-03-11T13:00:00  # Schedule page publish date.
+date = 2019-02-11T13:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -14,7 +14,10 @@ authors = ["rustler", "sonnenberg", "sprenger"]
 
 # Abstract and optional shortened version.
 abstract = "Test projects: what was successfull, what not and which processes do we now integrate in the QMS?"
-abstract_short = "Propose best-practices for research data management and define test projects"
+
+# Summary. An optional shortened abstract.
+summary = "Test projects: what was successfull, what not and which processes do we now integrate in the QMS?"
+
 # Name of event and optional event URL.
 event = "Workshop, internal (Kompetenzzentrum Wasser Berlin gGmbH)"
 event_url = ""
@@ -23,7 +26,7 @@ event_url = ""
 location = "Conference room, Komptenzzentrum Wasser Berlin, Cicerostr. 24, 10709 Berlin"
 
 # Is this a featured talk? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

@@ -14,7 +14,10 @@ authors = ["rustler", "sonnenberg"]
 
 # Abstract and optional shortened version.
 abstract = "What is FAKIN? What is rearch data management? Identify and prioritize topics to be adressed within FAKIN together with KWB colleagues."
-abstract_short = "Identify and prioritize topics to be adressed within FAKIN"
+
+# Summary. An optional shortened abstract.
+summary = "Identify and prioritize topics to be adressed within FAKIN"
+
 # Name of event and optional event URL.
 event = "Workshop, internal (Kompetenzzentrum Wasser Berlin gGmbH)"
 event_url = ""

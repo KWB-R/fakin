@@ -1,5 +1,5 @@
 +++
-title = "Brownbag: FAKIN"
+title = "Brownbag #1: FAKIN"
 date = 2017-07-07T12:00:00  # Schedule page publish date.
 draft = false
 
@@ -14,7 +14,10 @@ authors = ["rustler", "sonnenberg", "schwarzmueller"]
 
 # Abstract and optional shortened version.
 abstract = "What is FAKIN? What is rearch data management? An introduction for all colleagues"
-abstract_short = "What is FAKIN? What is rearch data management? An introduction for all colleagues"
+
+# Summary. An optional shortened abstract.
+summary = ""
+
 # Name of event and optional event URL.
 event = "Brownbag (Kompetenzzentrum Wasser Berlin gGmbH)"
 event_url = ""
