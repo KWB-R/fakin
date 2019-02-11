@@ -13,7 +13,7 @@ time_end = 2017-07-07T13:00:00
 authors = ["rustler", "sonnenberg", "schwarzmueller"]
 
 # Abstract and optional shortened version.
-abstract = "What is FAKIN? What is rearch data management? An introduction for all colleagues"
+abstract = "What is FAKIN? What is research data management? An introduction for all colleagues"
 
 # Summary. An optional shortened abstract.
 summary = ""

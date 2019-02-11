@@ -16,7 +16,7 @@ authors = ["rustler", "sonnenberg", "sprenger"]
 abstract = "Test projects: what was successfull, what not and which processes do we now integrate in the QMS?"
 
 # Summary. An optional shortened abstract.
-summary = "Test projects: what was successfull, what not and which processes do we now integrate in the QMS?"
+summary = ""
 
 # Name of event and optional event URL.
 event = "Workshop, internal (Kompetenzzentrum Wasser Berlin gGmbH)"

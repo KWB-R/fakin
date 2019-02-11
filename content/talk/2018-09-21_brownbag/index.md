@@ -13,10 +13,10 @@ time_end = 2018-09-21T12:00:00
 authors = ["rustler", "sonnenberg", "sprenger"]
 
 # Abstract and optional shortened version.
-abstract = "What is FAKIN? What is rearch data management? An introduction for all colleagues"
+abstract = "File not found? Insights into research data management at KWB."
 
 # Summary. An optional shortened abstract.
-summary = "What is FAKIN? What is rearch data management? An introduction for all colleagues"
+summary = ""
 
 # Name of event and optional event URL.
 event = "Brownbag (Kompetenzzentrum Wasser Berlin gGmbH)"

@@ -17,7 +17,7 @@ abstract = "What research data management competences are needed and for whom?"
 
 
 # Summary. An optional shortened abstract.
-summary = "What competences are needed and for whom?"
+summary = ""
 
 # Name of event and optional event URL.
 event = "FDM-Netzwerkveranstaltung des BMBF"
