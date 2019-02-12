@@ -1,7 +1,7 @@
 +++
 # Projects widget.
 widget = "projects"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Code"
 subtitle = ""
@@ -36,14 +36,139 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
+
+[[filter]]
+  name = "Project Fakin"
+  tag = "project-fakin"
+  
+[[filter]]
+  name = "Automated Reporting"
+  tag = "automated-reporting"
+
+[[filter]]
+  name = "Data Aggregation"
+  tag = "data-aggregation"
+
+[[filter]]
+  name = "Data Cleaning"
+  tag = "data-cleaning"
+
+[[filter]]
+  name = "Data Export"
+  tag = "data-export"
+
+[[filter]]
+  name = "Data Import"
+  tag = "data-import"
+
+[[filter]]
+  name = "Data Management"
+  tag = "data-management"
+
+[[filter]]
+  name = "Data Visualisation"
+  tag = "data-visualisation"
+
+[[filter]]
+  name = "Data Visualization"
+  tag = "data-visualization"
+
+[[filter]]
+  name = "Drawdown Model"
+  tag = "drawdown-model"
+
+[[filter]]
+  name = "Groundwater Modelling"
+  tag = "groundwater-modelling"
+
+[[filter]]
+  name = "Groundwater Mounding"
+  tag = "groundwater-mounding"
+
+[[filter]]
+  name = "Hugo Academic"
+  tag = "hugo-academic"
+
+[[filter]]
+  name = "Infiltration Basin"
+  tag = "infiltration-basin"
+
+[[filter]]
+  name = "Knowledge Repo"
+  tag = "knowledge-repo"
+
+[[filter]]
+  name = "Lca Modelling"
+  tag = "lca-modelling"
+
+[[filter]]
+  name = "Life Cycle Assessment"
+  tag = "life-cycle-assessment"
+
+[[filter]]
+  name = "Literature Data Management"
+  tag = "literature-data-management"
+
+[[filter]]
+  name = "Modelling"
+  tag = "modelling"
+
+[[filter]]
+  name = "Project Aquanes"
+  tag = "project-aquanes"
+
+[[filter]]
+  name = "Project Demeau"
+  tag = "project-demeau"
+
+[[filter]]
+  name = "Project Demoware"
+  tag = "project-demoware"
+
+[[filter]]
+  name = "Project Dswt"
+  tag = "project-dswt"
+
+[[filter]]
+  name = "Project Geosalz"
+  tag = "project-geosalz"
+
+[[filter]]
+  name = "Project Networks4"
+  tag = "project-networks4"
+
+[[filter]]
+  name = "Project Optiwells2"
+  tag = "project-optiwells2"
+
+[[filter]]
+  name = "Publication"
+  tag = "publication"
+
+[[filter]]
+  name = "Publications"
+  tag = "publications"
+
+
+#[[filter]]
+#  name = "R"
+#  tag = "r"
+
+[[filter]]
+  name = "R Package Automation"
+  tag = "r-package-automation"
+
+[[filter]]
+  name = "Research Data Management"
+  tag = "research-data-management"
+
+[[filter]]
+  name = "Rstats"
+  tag = "rstats"
+
 [[filter]]
   name = "All"
   tag = "*"
-
-
-[[filter]]
-  name = "R"
-  tag = "rstats"
-
+  
 +++
 

@@ -40,10 +40,10 @@
   weight = 6
 
 
-#[[main]]
-#  name = "Tutorials"
-#  url = "/tutorial/"
-#  weight = 5
+[[main]]
+  name = "Code"
+  url = "#code"
+  weight = 5
 
 #[[main]]
 #  name = "Contact"

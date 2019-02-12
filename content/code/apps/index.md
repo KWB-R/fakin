@@ -1,11 +1,11 @@
 +++
-title = "Apps"
-date = 2019-02-09T22:02:00+01:00
+title = "apps"
+date = 2019-02-12T01:11:44+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["data-visualisation", "publication", "r", "rstats", "project-fakin", "knowledge-repo"]
 
 # Project summary to display on homepage.
 summary = ""
@@ -23,7 +23,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/KWB-R/apps"
 url_dataset = ""
 url_slides = ""
 url_video = ""

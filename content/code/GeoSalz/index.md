@@ -1,11 +1,11 @@
 +++
 title = "GeoSalz"
-date = 2019-02-09T22:01:52+01:00
+date = 2019-02-12T01:11:31+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["data-import", "data-cleaning", "r", "rstats", "project-fakin", "project-geosalz"]
 
 # Project summary to display on homepage.
 summary = ""
@@ -23,7 +23,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/KWB-R/GeoSalz"
 url_dataset = ""
 url_slides = ""
 url_video = ""
