@@ -1,14 +1,12 @@
 +++
-title = "kwb.hantush"
-date = 2019-02-12T01:11:20+01:00
+title = "hantush"
+date = 2019-02-12T01:11:25+01:00
 draft = false
 
 authors = ["rustler"]
-
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "infiltration-basin", "groundwater-mounding", "groundwater-modelling", "project-demeau", "shiny-app"]
-
+tags = ["r", "rstats", "infiltration-basin", "groundwater-mounding", "groundwater-modelling", "project-demeau", "shiny-app", "project-fakin", "mybinder", "publication"]
 # Project summary to display on homepage.
 summary = "Calculation of Groundwater Mounding Beneath an Infiltration Basin"
 
@@ -33,19 +31,20 @@ url_poster = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 url_custom = [
-{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.hantush"}, 
-{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.hantush/blob/master/LICENSE"},
-{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.hantush/dev"},
-{name = "Related App", url = "app/hantush/"},
+{name = "App", url = "https://mybinder.org/v2/gh/kwb-r/apps/wtaqWeb?urlpath=shiny"}, 
+{icon_pack = "fas", icon="code", name = "Code", url = "https://github.com/KWB-R/apps/tree/wtaqWeb"}, 
+{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/apps/blob/hantush/LICENSE.txt"}, 
+{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.hantush/dev/articles/shiny-app.html#english"},
+{icon_pack = "fab", icon="r-project", name="Related R Package", url = "code/kwb.wtaq/"}
 ]
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Screenshot of Shiny App (deployed using [mybinder.org](https://mybinder.org)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -54,7 +53,9 @@ url_custom = [
 
 ### Calculation of Groundwater Mounding Beneath an Infiltration Basin
 
-Calculation groundwater mounding beneath an infiltration basin based on the 
-[Hantush (1967)](http://doi.org/10.1029/WR003i001p00227) equation. 
-The correct implementation is shown with a verification example based on a USGS
-report ([page 25](http://pubs.usgs.gov/sir/2010/5102/support/sir2010-5102.pdf#page=35)).
+The [app](https://mybinder.org/v2/gh/kwb-r/apps/wtaqWeb?urlpath=shiny) is deployed 
+using the free service [mybinder.org](https://mybinder.org/).
+
+**Important note:** in order to see the plot in the tab **Explore** (see 
+screenshot abovce) it is necessary to enable the checkbox **Details** once after 
+starting the app. 

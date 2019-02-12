@@ -3,47 +3,46 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+[[main]]
+  name = "Upcoming"
+  url = "#talks_featured"
+  weight = 1
+  
 #[[main]]
 #  name = "Upcoming"
 #  url = "#publications_featured"
 #  weight = 1
-
-[[main]]
-  name = "Upcoming"
-  url = "#talks_featured"
-  weight = 2
-
-[[main]]
-  name = "Talks"
-  url = "talk"
-  weight = 8
 
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 3
 
-
-#[[main]]
-#  name = "Code"
-#  url = "#code"
-#  weight = 4
-
 [[main]]
-  name = "Team"
-  url = "#team"
-  weight = 5
-
-[[main]]
-  name = "Tags"
-  url = "#tags"
-  weight = 6
-
+  name = "Apps"
+  url = "#app"
+  weight = 4
 
 [[main]]
   name = "Code"
   url = "#code"
   weight = 5
+
+[[main]]
+  name = "Team"
+  url = "#team"
+  weight = 6
+
+[[main]]
+  name = "Tags"
+  url = "#tags"
+  weight = 7
+
+[[main]]
+  name = "Talks"
+  url = "talk"
+  weight = 8
+
 
 #[[main]]
 #  name = "Contact"

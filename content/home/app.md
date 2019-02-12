@@ -3,16 +3,16 @@
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Code"
+title = "App"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 49
 
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "code"
+folder = "app"
 
 # View.
 #   1 = List
@@ -62,10 +62,6 @@ filter_default = 0
   tag = "data-import"
 
 [[filter]]
-  name = "Data Management"
-  tag = "data-management"
-
-[[filter]]
   name = "Data Visualisation"
   tag = "data-visualisation"
 
@@ -82,24 +78,12 @@ filter_default = 0
   tag = "groundwater-mounding"
 
 [[filter]]
-  name = "Hugo Academic"
-  tag = "hugo-academic"
-
-[[filter]]
   name = "Infiltration Basin"
   tag = "infiltration-basin"
 
 [[filter]]
   name = "Knowledge Repo"
   tag = "knowledge-repo"
-
-[[filter]]
-  name = "Life Cycle Assessment"
-  tag = "life-cycle-assessment"
-
-[[filter]]
-  name = "Literature Data Management"
-  tag = "literature-data-management"
 
 [[filter]]
   name = "Modelling"
@@ -114,26 +98,6 @@ filter_default = 0
   tag = "project-demeau"
 
 [[filter]]
-  name = "Project Demoware"
-  tag = "project-demoware"
-
-[[filter]]
-  name = "Project Dswt"
-  tag = "project-dswt"
-
-[[filter]]
-  name = "Project Fakin"
-  tag = "project-fakin"
-
-[[filter]]
-  name = "Project Geosalz"
-  tag = "project-geosalz"
-
-[[filter]]
-  name = "Project Networks4"
-  tag = "project-networks4"
-
-[[filter]]
   name = "Project Optiwells2"
   tag = "project-optiwells2"
 
@@ -146,18 +110,10 @@ filter_default = 0
 #  tag = "r"
 
 [[filter]]
-  name = "R Package Automation"
-  tag = "r-package-automation"
-
-[[filter]]
-  name = "Research Data Management"
-  tag = "research-data-management"
-
-[[filter]]
   name = "Rstats"
   tag = "rstats"
 
-  [[filter]]
+[[filter]]
   name = "All"
   tag = "*"
   
