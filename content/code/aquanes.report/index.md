@@ -3,6 +3,7 @@ title = "aquanes.report"
 date = 2019-02-12T01:11:25+01:00
 draft = false
 
+authors = ["rustler", "sonnenberg"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "data-import", "data-visualisation", "automated-reporting", "data-aggregation", "data-export", "project-aquanes"]
@@ -31,7 +32,7 @@ url_poster = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+url_custom = [{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/aquanes.report/blob/master/LICENSE"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
