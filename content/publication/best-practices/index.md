@@ -63,7 +63,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "HTML", url = "https://kwb-r.github.io/fakin.doc/index.html"}, 
+links = [{name = "HTML", url = "https://kwb-r.github.io/fakin.doc/index.html"}, 
 {name = "PDF", url = "https://kwb-r.github.io/fakin.doc/fakin_documentation.pdf"},
 {name = "Epub", url = "https://kwb-r.github.io/fakin.doc/fakin_documentation.epub"}, 
 {name = "Code", url = "https://github.com/kwb-r/fakin.doc"}]

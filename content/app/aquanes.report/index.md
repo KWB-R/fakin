@@ -32,7 +32,7 @@ url_poster = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [
+links = [
 {name = "App", url = "https://mybinder.org/v2/gh/kwb-r/apps/aquanes.report?urlpath=shiny/haridwar/"}, 
 {icon_pack = "fas", icon="code", name = "Code", url = "https://github.com/KWB-R/apps/tree/aquanes.report"}, 
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/apps/blob/aquanes.report/LICENSE.txt"}, 

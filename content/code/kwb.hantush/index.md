@@ -33,8 +33,8 @@ url_poster = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
-url_custom = [
+# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+links = [
 {icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.hantush"}, 
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.hantush/blob/master/LICENSE"},
 {icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.hantush/dev"},

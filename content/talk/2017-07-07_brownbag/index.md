@@ -56,7 +56,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Mindmap", url = "2017-07-07_brownbag_fakin_mindmap_v1.0.pdf"}]
+links = [{name = "Mindmap", url = "2017-07-07_brownbag_fakin_mindmap_v1.0.pdf"}]
 
 
 # Does the content use math formatting?
