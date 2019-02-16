@@ -51,11 +51,11 @@ links = [
 +++
 
 
-[Andreas Matzinger](../authors/matzinger/) had R scripts with functions for assessing 
+[Andreas Matzinger](../../authors/matzinger/) had R scripts with functions for assessing 
 the resilience of technical systems. 
 
 Within FAKIN this functions were semi-automatically (with the help of the R 
-package [kwb.pkgbuild](../code/kwb.pkgbuild) compiled into the R package  [kwb.resilience](../code/kwb.resilience), with the following features:
+package [kwb.pkgbuild](../../code/kwb.pkgbuild) compiled into the R package  [kwb.resilience](../../code/kwb.resilience), with the following features:
 
 - Open-source code on [Github](https://github.com/kwb-r/kwb.resilience) with 
 [MIT license](https://choosealicense.com/licenses/mit/)
