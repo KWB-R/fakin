@@ -49,8 +49,9 @@ url_poster = ""
 **Challenge** 
 
 How to best collect budgets from multiple project partners during the proposal 
-pahse?
+phase?
 
 **Solution**
 
-EXCEL template developed which is automatically imported into R ....
+EXCEL template developed which is automatically imported into R for data 
+aggregation and analyis.
