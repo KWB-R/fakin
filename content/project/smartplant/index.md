@@ -7,7 +7,7 @@ authors = ["conzelmann", "rustler", "sonnenberg"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["modelling", "life-cycle-assessment"]
+tags = ["modelling", "life-cycle-assessment", "excel-template"]
 
 # Project summary to display on homepage.
 summary = "Low-carbon Footprint Material Recovery Techniques"
