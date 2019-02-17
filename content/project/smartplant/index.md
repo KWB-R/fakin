@@ -3,7 +3,7 @@ title = "SMART-Plant"
 date = 2019-02-15T22:54:02+01:00
 draft = false
 
-authors = ["conzelmann"]
+authors = ["conzelmann", "rustler", "sonnenberg"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

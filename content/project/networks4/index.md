@@ -3,7 +3,7 @@ title = "netWORKS4"
 date = 2019-02-16T14:05:42+01:00
 draft = false
 
-authors = ["matzinger"]
+authors = ["matzinger", "rustler", "sonnenberg"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

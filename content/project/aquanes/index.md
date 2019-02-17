@@ -3,7 +3,7 @@ title = "Aquanes"
 date = 2019-02-15T22:54:00+01:00
 draft = false
 
-authors = ["jaehrig", "rustler", "stapf", "wicke"]
+authors = ["jaehrig", "stapf", "wicke", "rustler"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["monitoring", "qmra", "automated-reporting"]
