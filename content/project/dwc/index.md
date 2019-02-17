@@ -46,4 +46,11 @@ url_poster = ""
   focal_point = ""
 +++
 
+**Challenge** 
+
+How to best collect budgets from multiple project partners during the proposal 
+pahse?
+
+**Solution**
+
 EXCEL template developed which is automatically imported into R ....
