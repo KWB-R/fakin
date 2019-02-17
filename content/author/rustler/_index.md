@@ -13,7 +13,7 @@ authors = ["rustler"]
 superuser = false
 
 # Role/position
-role = "Project Manager \\FAKIN\\, Data scientist"
+role = "Project Manager FAKIN, Data scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -64,7 +64,7 @@ user_groups = ["Team FAKIN"]
 
 
 [[education.courses]]
-  course = "Diplom Geoökologe (Dipl. Geoecologist)"
+  course = "Diplom Geo?kologe (Dipl. Geoecologist)"
   year = "2008"
 
 
