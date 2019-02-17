@@ -3,8 +3,8 @@
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Projects"
-subtitle = "for testing best-practices developed within FAKIN"
+title = "Test Projects"
+subtitle = "for best-practices developed within FAKIN"
 
 # Order that this section will appear in.
 weight = 48
