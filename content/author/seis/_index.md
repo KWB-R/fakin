@@ -1,12 +1,12 @@
 +++
 # Display name
-name = "Michael Stapf"
+name = "Wolfgang Seis"
 
 # Author name (required for "people" without content) 
 # for details see: https://github.com/gcushen/hugo-academic/issues/274#issuecomment-460926722
 # Username (this should match the folder name)
 
-authors = ["stapf"]
+authors = ["seis"]
 
 
 # Is this the primary user of the site?
@@ -37,7 +37,7 @@ email = ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
-user_groups = ["Test Projects", "Communication (internal)"]
+user_groups = ["Communication (internal)"]
 
 
 # List qualifications (such as academic degrees)
@@ -80,13 +80,19 @@ user_groups = ["Test Projects", "Communication (internal)"]
 [[social]]
   icon = "phone"
   icon_pack = "fas"
-  link = "tel:+493053653823"
+  link = "tel:+493053653807"
 
 
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:michael.stapf@kompetenz-wasser.de"
+  link = "mailto:wolfgang.seis@kompetenz-wasser.de"
+
+
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-7436-8575"
 
 
 

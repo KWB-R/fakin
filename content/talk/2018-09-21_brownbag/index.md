@@ -10,7 +10,9 @@ time_end = 2018-09-21T12:00:00
 #all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["rustler", "sonnenberg", "sprenger"]
+authors = ["rustler", "sonnenberg", "sprenger", "conzelmann", 
+"kleyboecker", "rouault", "seis", "weigert"]
+
 
 # Abstract and optional shortened version.
 abstract = "File not found? Insights into research data management at KWB."

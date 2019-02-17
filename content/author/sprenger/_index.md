@@ -1,11 +1,10 @@
 +++
 # Display name
-
 name = "Christoph Sprenger"
 
 # Author name (required for "people" without content) 
 # for details see: https://github.com/gcushen/hugo-academic/issues/274#issuecomment-460926722
-
+# Username (this should match the folder name)
 
 authors = ["sprenger"]
 
@@ -14,8 +13,7 @@ authors = ["sprenger"]
 superuser = false
 
 # Role/position
-role = "Quality Assurance \"FAKIN\", Head of Department \"Groundwater\""
-
+role = "Head of Department \"Groundwater\""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -39,7 +37,8 @@ email = ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
-user_groups = [""]
+user_groups = ["Team FAKIN"]
+
 
 # List qualifications (such as academic degrees)
 #[[education.courses]]

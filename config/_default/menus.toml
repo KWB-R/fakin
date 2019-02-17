@@ -34,8 +34,8 @@
   weight = 6
 
 [[main]]
-  name = "Team"
-  url = "#team"
+  name = "People"
+  url = "#people"
   weight = 6
 
 [[main]]

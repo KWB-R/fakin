@@ -10,7 +10,8 @@ time_end = 2017-09-21T16:00:00
 #all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["rustler", "sonnenberg"]
+authors = ["rustler", "sonnenberg", "sprenger",  "jaehrig", "kraus", 
+"loderer",  "matzinger", "menz", "miehe", "tatis-muvdi", "remy", "rouault"]
 
 # Abstract and optional shortened version.
 abstract = "What is FAKIN? What is rearch data management? Identify and prioritize topics to be adressed within FAKIN together with KWB colleagues."

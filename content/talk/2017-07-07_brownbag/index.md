@@ -10,7 +10,9 @@ time_end = 2017-07-07T13:00:00
 #all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["rustler", "sonnenberg", "schwarzmueller"]
+authors = ["rustler", "sonnenberg", "schwarzmueller", "evel", "loderer", 
+"jaehrig", "kraus", "rouault", "seis", "stapf", "matzinger", "miehe", "remy", 
+"wicke", "zhou"]
 
 # Abstract and optional shortened version.
 abstract = "What is FAKIN? What is research data management? An introduction for all colleagues"

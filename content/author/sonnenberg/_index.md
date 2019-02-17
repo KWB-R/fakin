@@ -1,11 +1,10 @@
 +++
 # Display name
-
 name = "Hauke Sonnenberg"
 
 # Author name (required for "people" without content) 
 # for details see: https://github.com/gcushen/hugo-academic/issues/274#issuecomment-460926722
-
+# Username (this should match the folder name)
 
 authors = ["sonnenberg"]
 
@@ -38,7 +37,7 @@ email = ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
-user_groups = [""]
+user_groups = ["Team FAKIN"]
 
 
 # List qualifications (such as academic degrees)

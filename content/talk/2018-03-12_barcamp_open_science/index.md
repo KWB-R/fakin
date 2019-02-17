@@ -1,13 +1,13 @@
 +++
-title = "Barcamp Open Science"
-date = 2018-02-11T13:00:00  # Schedule page publish date.
+title = "Barcamp Open Science 2018"
+date = 2018-03-12T13:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#time_start = 2019-03-11T13:00:00
-#time_end = 2019-03-11T15:00:00
-#all_day = false
+time_start = 2018-03-12T09:30:00
+time_end = 2018-03-12T18:00:00
+all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["rustler", "sonnenberg"]

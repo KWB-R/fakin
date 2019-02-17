@@ -1,12 +1,12 @@
 +++
 # Display name
-name = "Michael Stapf"
+name = "Nicolas Caradot"
 
 # Author name (required for "people" without content) 
 # for details see: https://github.com/gcushen/hugo-academic/issues/274#issuecomment-460926722
 # Username (this should match the folder name)
 
-authors = ["stapf"]
+authors = ["caradot"]
 
 
 # Is this the primary user of the site?
@@ -80,13 +80,13 @@ user_groups = ["Test Projects", "Communication (internal)"]
 [[social]]
   icon = "phone"
   icon_pack = "fas"
-  link = "tel:+493053653823"
+  link = "tel:+493053653805"
 
 
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:michael.stapf@kompetenz-wasser.de"
+  link = "mailto:nicolas.caradot@kompetenz-wasser.de"
 
 
 

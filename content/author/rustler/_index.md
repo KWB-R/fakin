@@ -1,15 +1,10 @@
 +++
 # Display name
-
 name = "Michael Rustler"
 
 # Author name (required for "people" without content) 
 # for details see: https://github.com/gcushen/hugo-academic/issues/274#issuecomment-460926722
-
-# Influence how many relevant research areas are shown (top K).
-# Default is 2. A larger number will result in a larger amount of results.
-# Values below 1 are ignored and truncated to 1.
-topk = 4
+# Username (this should match the folder name)
 
 authors = ["rustler"]
 
@@ -18,7 +13,7 @@ authors = ["rustler"]
 superuser = false
 
 # Role/position
-role = "Project Manager \"FAKIN\", Data scientist"
+role = "Project Manager \\FAKIN\\, Data scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -48,7 +43,7 @@ interests = [
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
-user_groups = [""]
+user_groups = ["Team FAKIN"]
 
 
 # List qualifications (such as academic degrees)
@@ -69,7 +64,7 @@ user_groups = [""]
 
 
 [[education.courses]]
-  course = "Diplom GeoÃ¶kologe (Dipl. Geoecologist)"
+  course = "Diplom Geoökologe (Dipl. Geoecologist)"
   year = "2008"
 
 
