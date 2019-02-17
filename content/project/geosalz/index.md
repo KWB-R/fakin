@@ -1,6 +1,6 @@
 +++
 title = "Geosalz"
-date = 2019-02-15T22:54:01+01:00
+date = 2018-07-12T00:00:00+01:00
 draft = false
 
 authors = ["menz", "sprenger", "rustler", "sonnenberg"]

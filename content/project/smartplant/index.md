@@ -1,6 +1,6 @@
 +++
 title = "SMART-Plant"
-date = 2019-02-15T22:54:02+01:00
+date = 2018-11-20T00:00:00+01:00
 draft = false
 
 authors = ["conzelmann", "rustler", "sonnenberg"]
