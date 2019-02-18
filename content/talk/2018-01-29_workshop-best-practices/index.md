@@ -10,7 +10,8 @@ time_end = 2018-01-29T15:00:00
 #all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["rustler", "sonnenberg", "sprenger"]
+authors = ["rustler", "sonnenberg", "sprenger", "conzelmann", "jaehrig", "kraus", 
+"loderer",  "matzinger", "miehe", "remy", "rouault", "wicke"]
 
 # Abstract and optional shortened version.
 abstract = "Propose best-practices for research data management and define test projects"
