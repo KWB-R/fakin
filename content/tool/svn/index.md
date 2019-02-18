@@ -3,7 +3,8 @@ title = "Subversion"
 date = 2019-02-18T07:40:34+01:00
 draft = false
 
-authors = ["rustler", "sonnenberg"]
+authors = ["rustler", "sonnenberg", "caradot", "matzinger", "riechel", "stapf", 
+"schubert", "seis", "wicke"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

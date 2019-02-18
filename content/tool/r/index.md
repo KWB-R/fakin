@@ -3,6 +3,10 @@ title = "R"
 date = 2019-02-18T07:40:33+01:00
 draft = false
 
+authors = ["rustler", "sonnenberg", "caradot", "conzelmann", "guensch", 
+"jaehrig", "kraus", "menz", "matzinger", "remy", "riechel", "stapf", "schubert", 
+"schuetz", "schwarzmueller", "seis", "sprenger", "tratis-muvdi", "wicke", "zamzow"]
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["programming", "reproducibility", "r", "rstats"]
