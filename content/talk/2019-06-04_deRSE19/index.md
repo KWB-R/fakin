@@ -1,29 +1,29 @@
 +++
-title = "Barcamp Open Science 2019"
+title = "deRSE19 - Conference for Research Software Engineers in Germany"
 date = 2019-02-16T13:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-03-18T09:30:00
-time_end = 2019-03-18T18:00:00
-#all_day = false
+time_start = 2019-06-04T09:30:00
+time_end = 2019-03-06T18:00:00
+all_day = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["rustler", "sonnenberg"]
 
 # Abstract and optional shortened version.
-abstract = "Connect with the open-science community"
+abstract = "Present FAKIN results"
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Name of event and optional event URL.
-event = "Barcamp Open Science"
-event_url = "https://www.open-science-conference.eu/barcamp/"
+event = "deRSE19 - Conference for Research Software Engineers in Germany"
+event_url = "https://www.de-rse.org/en/conf2019/"
 
 # Location of event.
-location = "Wikimedia Deutschland, Tempelhofer Ufer 23-24, 10963 Berlin"
+location = "Albert Einstein Science Park, Potsdam, Germany"
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -38,7 +38,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["networking", "open-science", "barcamp"]
+tags = ["communication-external", "conference"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -60,8 +60,8 @@ url_code = ""
 #{name = "Result: survey comments", url = "survey_comments.pdf"}
 #]
 links = [
-{name = "Link to Barcamp", url = "https://www.open-science-conference.eu/barcamp/"},
-{name = "Link to Registration", url = "https://www.eventbrite.com/e/barcamp-open-science-tickets-55216091817"}
+{name = "Link to Conference", url = "https://www.de-rse.org/en/conf2019/"},
+{name = "Abstract Submission (Deadline: 2019-02-28T23:59:59CET)", url = "https://derse19.uni-jena.de/derse19/"}
 ]
 
 # Does the content use math formatting?
@@ -78,4 +78,4 @@ math = true
   focal_point = "Right"
 +++
 
-
+To do: submit abstract!
