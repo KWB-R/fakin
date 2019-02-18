@@ -3,6 +3,7 @@ title = "fhpredict"
 date = 2019-02-18T16:35:47+01:00
 draft = false
 
+authors = ["seis", "sonnenberg", "rustler"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "r-package", "project-flusshygiene"]
