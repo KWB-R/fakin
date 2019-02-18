@@ -34,8 +34,8 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
-{icon_pack = "fas", icon="home", name="Zenodo",  url = "https:/zenodo.org"},
-{name = "Link to our Zenodo Publications", url = "https://kwb-r.slack.com"},
+{icon_pack = "fas", icon="home", name="Zenodo",  url = "https://zenodo.org"},
+{name = "Link to our Zenodo Publications", url = "https://zenodo.org/search?page=1&size=20&q=Kompetenzzentrum%20Wasser"},
 ]
 
 # Featured image
