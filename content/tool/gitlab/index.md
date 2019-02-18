@@ -11,7 +11,7 @@ tags = ["programming", "reproducibility", "version-control", "collaboration",
 "publication", "repository", "web-hosting", "backup"]
 
 # Project summary to display on homepage.
-summary = "Collaborative Code Repository. Backup for Our [Github](../github/) Code Repository"
+summary = "Collaborative Code Repository. Backup for Our [Github](/github/) Code Repository"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -52,3 +52,5 @@ links = [
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+Gitlab is a collaborative code repository. It is used as backup mirror for our [Github](/github/) code repository.

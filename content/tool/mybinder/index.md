@@ -35,7 +35,7 @@ url_poster = ""
 links = [
 {icon_pack = "fas", icon="home", name="Website",  url = "https:/mybinder.org"},
 {icon_pack = "fas", icon="book", name="Documentation", url = "https://mybinder.readthedocs.io/en/latest/"},
-{name = "Link to our Showcase", url = "../../#app"},
+{name = "Link to our Showcase", url = "#app"},
 ]
 
 

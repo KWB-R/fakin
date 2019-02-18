@@ -38,6 +38,10 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
 [[filter]]
+  name = "Backup"
+  tag = "backup"
+
+[[filter]]
   name = "Collaboration"
   tag = "collaboration"
 

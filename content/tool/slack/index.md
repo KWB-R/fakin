@@ -34,6 +34,10 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+links = [
+{icon_pack = "fas", icon="home", name="Slack Website",  url = "https:/slack.com"},
+{name = "Link to our Slack", url = "https://kwb-r.slack.com"},
+]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -45,3 +49,8 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+'Slack is an American cloud-based set of proprietary team collaboration tools and 
+services, founded by Stewart Butterfield. The name is an acronym for 
+"Searchable Log of All Conversation and Knowledge"' (Wikipedia)[https://https://en.wikipedia.org/wiki/Slack_(software)]
+

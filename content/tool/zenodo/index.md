@@ -34,8 +34,8 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
-{icon_pack = "fas", icon="home", name="Slack Website",  url = "https:/slack.com"},
-{name = "Link to our Slack", url = "https://kwb-r.slack.com"},
+{icon_pack = "fas", icon="home", name="Zenodo",  url = "https:/zenodo.org"},
+{name = "Link to our Zenodo Publications", url = "https://kwb-r.slack.com"},
 ]
 
 # Featured image
@@ -49,6 +49,4 @@ links = [
   focal_point = ""
 +++
 
-'Slack is an American cloud-based set of proprietary team collaboration tools and 
-services, founded by Stewart Butterfield. The name is an acronym for 
-"Searchable Log of All Conversation and Knowledge"' (Wikipedia)[https://https://en.wikipedia.org/wiki/Slack_(software)]
+"Zenodo is a general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN. It allows researchers to deposit data sets, research software, reports, and any other research related digital artifacts. For each submission, a persistent [Digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI) is minted, which makes the stored items easily citeable."" (Wikipedia)[https://en.wikipedia.org/wiki/Zenodo]
