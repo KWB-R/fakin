@@ -62,6 +62,11 @@ filter_default = 0
   tag = "programming"
 
 [[filter]]
+  name = "Publication"
+  tag = "publication"
+
+
+[[filter]]
   name = "Repository"
   tag = "repository"
   

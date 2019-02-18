@@ -1,16 +1,14 @@
 +++
-title = "Geosalz"
-date = 2018-07-12T00:00:00+01:00
+title = "fhpredict"
+date = 2019-02-18T16:35:47+01:00
 draft = false
-
-authors = ["menz", "sprenger", "rustler", "sonnenberg"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["monitoring"]
+tags = ["r", "rstats", "r-package", "project-flusshygiene"]
 
 # Project summary to display on homepage.
-summary = "Analysis of geogenic salination"
+summary = "This R package provides all functions that are required for the Web application that is developed within the Flusshygiene project."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -35,9 +33,9 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
-{icon_pack = "fab", icon="r-project", name="R script: GeoSalz", url = "code/GeoSalz/"}, 
-{icon_pack = "fab", icon="r-project", name="R package: kwb.readxl", url = "code/kwb.readxl/"},
-{icon_pack = "fab", icon="r-project", name="R package: kwb.geosalz", url = "code/kwb.geosalz/"}
+{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/fhpredict"}, 
+{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/fhpredict/blob/master/LICENSE"},
+{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/fhpredict"},
 ]
 
 # Featured image
@@ -50,3 +48,5 @@ links = [
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+This R package provides all functions that are required for the Web application that is developed within the Flusshygiene project.

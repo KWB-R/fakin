@@ -126,6 +126,10 @@ filter_default = 0
   tag = "project-fakin"
 
 [[filter]]
+  name = "Project Flusshygiene"
+  tag = "project-flusshygiene"
+
+[[filter]]
   name = "Project Geosalz"
   tag = "project-geosalz"
 
