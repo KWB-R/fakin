@@ -52,6 +52,6 @@ links = [
 
 **Turn a Git repo into a collection of interactive notebooks.**
 
-Have a repository full of Jupyter notebooks? With Binder, open those notebooks 
+"Have a repository full of Jupyter notebooks? With Binder, open those notebooks 
 in an executable environment, making your code immediately reproducible by anyone, 
-anywhere. 
+anywhere." ([mybinder, 2019](https://mybinder.org))

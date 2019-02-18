@@ -53,4 +53,5 @@ links = [
 +++
 
 Learn Data Science from the comfort of your browser, at your own pace with 
-DataCamp's video tutorials & coding challenges on R, Python, Statistics & more
+DataCamp's video tutorials & coding challenges on R, Python, Statistics & more.
+([DataCamp, 2019](https://datacamp.com))

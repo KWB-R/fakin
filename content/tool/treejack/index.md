@@ -56,4 +56,4 @@ site structure – without the influence of navigation aids and visual design.
 Take the guesswork out of information architecture with Treejack – the usability 
 testing tool you can use to test your IA without visual distractions. Treejack 
 helps you prove your site structure will work before you get into interface 
-design." [OptimalWorkshop](https://www.optimalworkshop.com/treejack)
+design." ([OptimalWorkshop, 2019](https://www.optimalworkshop.com/treejack))

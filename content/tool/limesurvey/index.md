@@ -49,6 +49,7 @@ links = [
   focal_point = ""
 +++
 
-Professional online surveys with LimeSurvey. The worldwide leading open source 
-survey software as a professional SaaS solution or as a self-hosted Community Edition.
+"Professional online surveys with LimeSurvey. The worldwide leading open source 
+survey software as a professional SaaS solution or as a self-hosted Community Edition."
+([LimeSurvey, 2019](https://www.limesurvey.org))
 

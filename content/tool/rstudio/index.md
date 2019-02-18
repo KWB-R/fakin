@@ -47,4 +47,5 @@ links = [
   focal_point = ""
 +++
 
-RStudio is an integrated development environment (IDE) for [R](../r/).
+"RStudio is an integrated development environment (IDE) for [R](../r/)."
+([RStudio, 2019](https://www.rstudio.com/products/rstudio/))

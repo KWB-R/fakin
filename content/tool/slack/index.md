@@ -50,7 +50,7 @@ links = [
   focal_point = ""
 +++
 
-'Slack is an American cloud-based set of proprietary team collaboration tools and 
+"Slack is an American cloud-based set of proprietary team collaboration tools and 
 services, founded by Stewart Butterfield. The name is an acronym for 
-"Searchable Log of All Conversation and Knowledge"' (Wikipedia)[https://https://en.wikipedia.org/wiki/Slack_(software)]
+'Searchable Log of All Conversation and Knowledge' " ([Wikipedia, 2019](https://https://en.wikipedia.org/wiki/Slack_(software)))
 
