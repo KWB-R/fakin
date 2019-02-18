@@ -3,16 +3,16 @@
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Projects"
-subtitle = "for testing best-practices developed within FAKIN"
+title = "Tools"
+subtitle = "used within FAKIN"
 
 # Order that this section will appear in.
-weight = 48
+weight = 47
 
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "tool"
 
 # View.
 #   1 = List
@@ -36,25 +36,50 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
+
+[[filter]]
+  name = "Collaboration"
+  tag = "collaboration"
+
+[[filter]]
+  name = "DOI"
+  tag = "doi"
+  
+[[filter]]
+  name = "Knowledge Repo"
+  tag = "knowledge-repo"  
+
+[[filter]]
+  name = "Learning"
+  tag = "learning"
+  
+[[filter]]
+  name = "Programming"
+  tag = "programming"
+
+[[filter]]
+  name = "Repository"
+  tag = "repository"
+  
+[[filter]]
+  name = "Reproducibility"
+  tag = "reproducibility"
+
+[[filter]]
+  name = "Survey"
+  tag = "survey"
+
+[[filter]]
+  name = "Version Control"
+  tag = "version-control"
+  
+[[filter]]
+  name = "Web Hosting"
+  tag = "web-hosting"
+
 [[filter]]
   name = "All"
   tag = "*"
-  
-[[filter]]
-  name = "Life Cycle Assessment"
-  tag = "life-cycle-assessment"
-
-[[filter]]
-  name = "Modelling"
-  tag = "modelling"
-  
-[[filter]]
-  name = "Monitoring"
-  tag = "monitoring"
-
-[[filter]]
-  name = "QMRA"
-  tag = "qmra"
 
 +++
 
