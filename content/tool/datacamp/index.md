@@ -3,7 +3,7 @@ title = "Datacamp"
 date = 2017-06-13T00:00:00+01:00
 draft = false
 
-authors = ["seis", "rustler", "sonnenberg", "riechel", "zamzow", "guensch", "caradot", "schuetz", "menz", "wicke", "jaehrig", "conzelmann", "matzinger"
+authors = ["seis", "rustler", "sonnenberg", "riechel", "zamzow", "guensch", "caradot", "schuetz", "menz", "wicke", "jaehrig", "conzelmann", "matzinger",
  "schubert"]
 
 # Tags: can be used for filtering projects.
