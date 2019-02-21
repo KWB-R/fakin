@@ -11,7 +11,7 @@ time_end = 2018-09-21T12:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["rustler", "sonnenberg", "sprenger", "conzelmann", 
-"kleyboecker", "jaehrig", "riechel", "rouault", "seis", "weigert", "zamzow"]
+"kleyboecker", "jaehrig", "riechel", "rouault", "schuetz", "seis", "weigert", "zamzow"]
 
 
 # Abstract and optional shortened version.

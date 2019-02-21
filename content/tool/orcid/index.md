@@ -3,7 +3,7 @@ title = "Orcid"
 date = 2019-02-18T16:35:34+01:00
 draft = false
 
-authors = ["rustler", "sonnenberg", "matzinger", "seis"]
+authors = ["rustler", "sonnenberg", "matzinger", "seis", "sprenger"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["publication", "persistent-identifier"]
