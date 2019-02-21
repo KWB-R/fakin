@@ -5,7 +5,7 @@ draft = false
 
 authors = ["rustler", "sonnenberg", "caradot", "conzelmann", "guensch", 
 "jaehrig", "kraus", "menz", "matzinger", "remy", "riechel", "stapf", "schubert", 
-"schuetz", "schwarzmueller", "seis", "sprenger", "tratis-muvdi", "wicke", "zamzow"]
+"schuetz", "schwarzmueller", "seis", "sprenger", "tatis-muvdi", "wicke", "zamzow"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

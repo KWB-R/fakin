@@ -4,7 +4,7 @@ date = 2019-02-18T07:40:29+01:00
 draft = false
 
 authors = ["rustler", "sonnenberg", "jaehrig", "matzinger", "menz",
-"riechel", "sprenger", "stapf", "seis", "wicke"]
+"riechel", "sprenger", "stapf", "seis", "tatis-muvdi", "wicke"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -1,12 +1,12 @@
 +++
 # Display name
-name = "Roberto Tratis Muvdi"
+name = "Roberto Tatis Muvdi"
 
 # Author name (required for "people" without content) 
 # for details see: https://github.com/gcushen/hugo-academic/issues/274#issuecomment-460926722
 # Username (this should match the folder name)
 
-authors = ["tratis-muvdi"]
+authors = ["tatis-muvdi"]
 
 
 # Is this the primary user of the site?
@@ -86,7 +86,7 @@ user_groups = ["Communication (internal)"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:roberto.tratis-muvdi@kompetenz-wasser.de"
+  link = "mailto:roberto.tatis-muvdi@kompetenz-wasser.de"
 
 
 
