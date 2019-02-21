@@ -20,7 +20,7 @@ role = "Project Manager FAKIN, Data scientist"
 organizations = [ { name = "Kompetenzzentrum Wasser gGmbH", url = "https://kompetenz-wasser.de" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include reproducible resarch, data management and programming (R & Python)."
+bio = "My research interests include reproducible research, data management and programming (R & Python)."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
