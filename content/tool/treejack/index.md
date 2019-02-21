@@ -1,7 +1,9 @@
 +++
 title = "Treejack"
-date = 2019-02-18T07:53:22+01:00
+date = 2018-09-21T00:00:00+01:00
 draft = false
+
+authors = ["sonnenberg", "rustler"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

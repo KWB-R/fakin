@@ -1,7 +1,10 @@
 +++
 title = "Mybinder"
-date = 2019-02-18T07:40:31+01:00
+date = 2018-05-01T00:00:00+01:00
 draft = false
+
+authors = ["rustler"]
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

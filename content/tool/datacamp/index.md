@@ -1,10 +1,10 @@
 +++
 title = "Datacamp"
-date = 2019-02-18T07:40:27+01:00
+date = 2017-06-13T00:00:00+01:00
 draft = false
 
-authors = ["rustler", "sonnenberg", "caradot", "conzelmann", "guensch", "jaehrig", 
- "menz", "matzinger", "riechel", "schubert", "schuetz", "seis", "wicke", "zamzow"]
+authors = ["seis", "rustler", "sonnenberg", "riechel", "zamzow", "guensch", "caradot", "schuetz", "menz", "wicke", "jaehrig", "conzelmann", "matzinger"
+ "schubert"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
