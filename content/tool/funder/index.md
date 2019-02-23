@@ -1,5 +1,5 @@
 +++
-title = "CrossRef Open Funder Registry"
+title = "Open Funder Registry"
 date = 2019-02-23T11:32:30+01:00
 draft = false
 
