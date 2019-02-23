@@ -6,7 +6,7 @@ draft = false
 authors = ["rustler", "sonnenberg", "matzinger", "seis", "sprenger"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["publication", "persistent-identifier"]
+tags = ["publication", "persistent-identifier", "doi"]
 
 # Project summary to display on homepage.
 summary = "Provides a persistent digital identifier for researchers."
