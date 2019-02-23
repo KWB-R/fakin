@@ -36,7 +36,7 @@ url_poster = ""
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
 {name="o2r: Executable Research Compendia", url = "https://o2r.uni-muenster.de/"},
-{icon_pack = "ai", icon="doi", name="Zenodo: Research Compendium", url = "https://zenodo.org/communities/research-compendium/?page=1&size=20"},
+{icon_pack = "ai", icon="doi", name="Zenodo: Research Compendium", url = "https://zenodo.org/communities/research-compendium"},
 {name="Project: DEMOWARE", url = "project/demoware/"},
 ]
 

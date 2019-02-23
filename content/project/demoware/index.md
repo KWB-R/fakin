@@ -11,7 +11,7 @@ tags = ["r", "rstats", "qmra", "programming", "reproducibility", "research-compe
 "docker", "rmarkdown"]
 
 # Project summary to display on homepage.
-summary = "Reproducibility check for [Quantitative Microbial Risk Assessment](https://doi.org/10.5281/zenodo.15952) with [Executable Research Compendium](tool/erc/) tool of [o2r project](https://o2r.info)"
+summary = "Reproducibility check for [Quantitative Microbial Risk Assessment](https://doi.org/10.5281/zenodo.159527) with [Executable Research Compendium](tool/erc/) tool of [o2r project](https://o2r.info)"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -36,7 +36,7 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
-{icon_pack = "ai", icon="doi", name="Zenodo: QMRA Old Ford Research Compendium", url = "https://doi.org/10.5281/zenodo.15952"},
+{icon_pack = "ai", icon="doi", name="Zenodo: QMRA Old Ford Research Compendium", url = "https://doi.org/10.5281/zenodo.159527"},
 {name="Reproducibility Check for QMRA Old Ford with o2r-ERC", url = "https://o2r.uni-muenster.de/#!/erc/Bcrvh"},
 {name="Tool: Executable Research Compendium", url = "tool/erc/"},
 ]
