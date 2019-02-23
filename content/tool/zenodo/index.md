@@ -34,8 +34,9 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
-{icon_pack = "ai", icon="doi", name="Zenodo",  url = "https://zenodo.org"},
-{icon_pack = "ai", icon="doi", name = "KWB Zenodo Publications ", url = "https://zenodo.org/communities/kwb"},
+{icon_pack = "ai", icon="doi", name="Zenodo Website",  url = "https://zenodo.org"},
+{icon_pack = "ai", icon="doi", name = "Zenodo KWB: Current Publications ", url = "https://zenodo.org/communities/kwb"},
+{icon_pack = "ai", icon="doi", name = "Zenodo KWB: Upload New Publication", url = "https://zenodo.org/deposit/new?c=kwb"},
 ]
 
 # Featured image
