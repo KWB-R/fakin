@@ -46,6 +46,10 @@ filter_default = 0
   tag = "collaboration"
 
 [[filter]]
+  name = "Data Management Plan"
+  tag = "data-management-plan"
+
+[[filter]]
   name = "DOI"
   tag = "doi"
   
@@ -77,6 +81,11 @@ filter_default = 0
 [[filter]]
   name = "Survey"
   tag = "survey"
+
+[[filter]]
+  name = "Search"
+  tag = "search"
+
 
 [[filter]]
   name = "Version Control"

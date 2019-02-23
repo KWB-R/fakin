@@ -37,6 +37,7 @@ url_poster = ""
 links = [
 {icon_pack = "fas", icon="bullseye", name="Keyfacts", url = "https://www.kompetenz-wasser.de/en/project/networks/"},
 {icon_pack = "fab", icon="r-project", name="R package: kwb.resilience", url = "code/kwb.resilience/"},
+{icon_pack = "fab", icon="r-project", name="R package: kwb.pkgbuild", url = "code/kwb.pkgbuild/"},
 ]
 
 # Featured image

@@ -37,6 +37,7 @@ links = [
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/aquanes.report/blob/master/LICENSE"},
 {icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/aquanes.report"},
 {name = "Related App", url = "app/aquanes.report/"},
+{name = "Project: AquaNES", url = "project/aquanes/"},
 ]
 
 # Featured image

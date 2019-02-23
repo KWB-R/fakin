@@ -1,17 +1,17 @@
 +++
-title = "Gitlab"
-date = 2018-06-11T00:00:00+01:00
+title = "Demoware"
+date = 2019-02-22T21:42:16+01:00
 draft = false
 
-authors = ["rustler", "sonnenberg"]
+authors = ["rustler"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "reproducibility", "version-control", "collaboration", 
-"publication", "repository", "web-hosting", "backup"]
+tags = ["r", "rstats", "qmra", "programming", "reproducibility", "research-compendium", 
+"docker", "rmarkdown"]
 
 # Project summary to display on homepage.
-summary = "Collaborative Code Repository. Backup for Our [Github](tool/github/) Code Repository"
+summary = "Reproducibility check for [Quantitative Microbial Risk Assessment](https://doi.org/10.5281/zenodo.15952) with [Executable Research Compendium](tool/erc/) tool of [o2r project](https://o2r.info)"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -36,11 +36,10 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
-{icon_pack = "fas", icon="home", name="Overview", url = "http://kwb-r.gitlab.io/"},
-{icon_pack = "fas", icon="thermometer-three-quarters", name="R Package Status", url = "https://kwb-r.gitlab.io/status"},
-{icon_pack = "fas", icon="code", name="Code Repository", url = "https://gitlab.com/KWB-R"}
+{icon_pack = "ai", icon="ai-doi", name="Zenodo: QMRA Old Ford Research Compendium", url = "https://doi.org/10.5281/zenodo.15952"},
+{name="Reproducibility Check for QMRA Old Ford with o2r-ERC", url = "https://o2r.uni-muenster.de/#!/erc/Bcrvh"},
+{name="Tool: Executable Research Compendium", url = "tool/erc/"},
 ]
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -52,5 +51,3 @@ links = [
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
-Gitlab is a collaborative code repository. It is used as backup mirror for our [Github](fakin/tool/github/) code repository.

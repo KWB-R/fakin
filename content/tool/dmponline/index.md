@@ -1,17 +1,16 @@
 +++
-title = "Gitlab"
-date = 2018-06-11T00:00:00+01:00
+title = "DMPonline"
+date = 2019-02-14T00:00:00+01:00
 draft = false
 
-authors = ["rustler", "sonnenberg"]
+authors = ["sprenger"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "reproducibility", "version-control", "collaboration", 
-"publication", "repository", "web-hosting", "backup"]
+tags = ["data-management-plan", "best-practices", "project-proposal", "project-management", "data-manager"]
 
 # Project summary to display on homepage.
-summary = "Collaborative Code Repository. Backup for Our [Github](tool/github/) Code Repository"
+summary = "DMPonline helps you to create, review, and share data management plans that meet institutional and funder requirements."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -36,9 +35,8 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
-{icon_pack = "fas", icon="home", name="Overview", url = "http://kwb-r.gitlab.io/"},
-{icon_pack = "fas", icon="thermometer-three-quarters", name="R Package Status", url = "https://kwb-r.gitlab.io/status"},
-{icon_pack = "fas", icon="code", name="Code Repository", url = "https://gitlab.com/KWB-R"}
+{icon_pack = "fas", icon="home", name="DMPonline Website", url = "https://dmponline.dcc.ac.uk/"},
+{name="Project DWC", url = "project/dwc/"},
 ]
 
 
@@ -52,5 +50,3 @@ links = [
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
-Gitlab is a collaborative code repository. It is used as backup mirror for our [Github](fakin/tool/github/) code repository.
