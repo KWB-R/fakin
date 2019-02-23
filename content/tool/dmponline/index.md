@@ -10,7 +10,7 @@ authors = ["sprenger"]
 tags = ["data-management-plan", "best-practices", "project-proposal", "project-management", "data-manager"]
 
 # Project summary to display on homepage.
-summary = "DMPonline helps you to create, review, and share data management plans that meet institutional and funder requirements."
+summary = "[DMPonline]https://dmponline.dcc.ac.uk/] helps you to create, review, and share data management plans that meet institutional and funder requirements."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -35,7 +35,7 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
-{icon_pack = "fas", icon="home", name="DMPonline Website", url = "https://dmponline.dcc.ac.uk/"},
+{name="Tool: DMPonline Website", url = "https://dmponline.dcc.ac.uk/"},
 {name="Project DWC", url = "project/dwc/"},
 ]
 

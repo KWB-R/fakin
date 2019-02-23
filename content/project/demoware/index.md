@@ -36,7 +36,7 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
-{icon_pack = "ai", icon="ai-doi", name="Zenodo: QMRA Old Ford Research Compendium", url = "https://doi.org/10.5281/zenodo.15952"},
+{icon_pack = "ai", icon="doi", name="Zenodo: QMRA Old Ford Research Compendium", url = "https://doi.org/10.5281/zenodo.15952"},
 {name="Reproducibility Check for QMRA Old Ford with o2r-ERC", url = "https://o2r.uni-muenster.de/#!/erc/Bcrvh"},
 {name="Tool: Executable Research Compendium", url = "tool/erc/"},
 ]
