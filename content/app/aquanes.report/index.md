@@ -10,9 +10,9 @@ tags = ["r", "rstats", "data-import", "data-visualisation", "automated-reporting
 
 tools = ["mybinder"]
 
-projects = [aquanes]
+projects = ["aquanes"]
 
-code = [aquanes.report]
+code = ["aquanes.report"]
 
 # Project summary to display on homepage.
 summary = "Automated Reporting Tool for Water Suppliers"
