@@ -1,11 +1,15 @@
 +++
 title = "kwb.readxl"
-date = 2019-02-12T01:11:42+01:00
+date = 2018-07-12T01:11:42+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "data-import", "project-fakin"]
+tags = ["r", "rstats", "r-package", "data-import", "project-fakin"]
+
+projects = ["geosalz"]
+
+authors = ["sonnenberg"]
 
 # Project summary to display on homepage.
 summary = ""

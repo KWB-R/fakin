@@ -1,14 +1,14 @@
 +++
-title = "Endnote"
-date = 2019-02-22T21:50:01+01:00
+title = "EndNote"
+date = 2003-01-01T00:00:00+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["publication", "literature-database-management", "knowledge-repo"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "[EndNote](https://en.wikipedia.org/wiki/EndNote) is a commercial reference management software package, used to manage bibliographies and references."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

@@ -5,10 +5,13 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["search"]
+tags = ["search", "knowledge-repo", "website", "documentation"]
+
+codes = ["kwb.base", "kwb.code", "kwb.db", "kwb.endnote", "kwb.fakin", "kwb.file", "kwb.monitoring", "kwb.orcid", "kwb.pkgbuild", "kwb.pkgmeta", "kwb.pkgstatus", "kwb.pubs", "kwb.qmra",
+"kwb.read", "kwb.resilience", "kwb.umberto", "kwb.utils", "kwb.wtaq"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "[Algolia](https://algolia.com) is a French startup company offering a web search product through a SaaS (software as a service) model. "
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -32,7 +35,10 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
-
+links = [
+{icon_pack = "fas", icon="book", name="How to Add Algolia DocSearch To R Package Documentation", url = "https://pkgdown.r-lib.org/articles/pkgdown.html#search"},
+{icon_pack = "fas", icon="search", name="KWB-R Packages Using Algolia DocSearch", url = "https://github.com/algolia/docsearch-configs/tree/master/configs"},
+]
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]

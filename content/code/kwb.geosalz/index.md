@@ -1,11 +1,13 @@
 +++
 title = "kwb.geosalz"
-date = 2019-02-12T01:11:42+01:00
+date = 2018-07-05T01:11:42+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "data-import", "data-cleaning", "data-visualization", "project-fakin", "project-geosalz"]
+tags = ["r", "rstats", "r-package", "data-import", "data-cleaning", "data-visualization", "project-fakin", "project-geosalz"]
+
+projects = ["geosalz"]
 
 # Project summary to display on homepage.
 summary = ""

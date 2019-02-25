@@ -7,6 +7,9 @@ draft = false
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "data-import"]
 
+tools = ["algolia"]
+
+
 # Project summary to display on homepage.
 summary = ""
 

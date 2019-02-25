@@ -1,11 +1,14 @@
 +++
 title = "kwb.endnote"
-date = 2019-02-12T01:11:47+01:00
+date = 2018-12-21T01:11:47+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["data-management", "project-fakin", "knowledge-repo", "publication", "literature-data-management"]
+
+tools = ["algolia"]
+
 
 # Project summary to display on homepage.
 summary = ""

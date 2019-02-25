@@ -1,11 +1,16 @@
 +++
 title = "kwb.lca"
-date = 2019-02-12T01:11:44+01:00
+date = 2018-07-12T01:11:44+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "data-import", "data-aggregation", "data-visualisation", "data-export", "project-fakin", "life-cycle-assessment"]
+tags = ["r", "rstats", "r-package", "data-import", "data-aggregation", "data-visualisation", "data-export", "project-fakin", "life-cycle-assessment"]
+
+projects = ["smartplant"]
+
+authors = ["sonnenberg"]
+
 
 # Project summary to display on homepage.
 summary = ""

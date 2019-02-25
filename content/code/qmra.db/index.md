@@ -1,17 +1,21 @@
 +++
-title = "kwb.code"
-date = 2019-02-12T01:11:40+01:00
+title = "qmra.db"
+date = 2017-07-07T22:16:19+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "project-fakin"]
-
-tools = ["algolia"]
-
+tags = ["r", "rstats", "r-package", "qmra", "ms-access", "database"]
 
 # Project summary to display on homepage.
 summary = ""
+
+projects = ["aquanes"]
+
+tools = ["github"]
+
+authors = ["rustler", "seis"]
+
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -26,7 +30,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = "https://github.com/KWB-R/kwb.code"
+url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""

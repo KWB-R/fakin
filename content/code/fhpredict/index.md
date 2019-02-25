@@ -8,6 +8,8 @@ authors = ["seis", "sonnenberg", "rustler"]
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "r-package", "project-flusshygiene"]
 
+projects = ["flusshygiene"]
+
 # Project summary to display on homepage.
 summary = "This R package provides all functions that are required for the Web application that is developed within the Flusshygiene project."
 

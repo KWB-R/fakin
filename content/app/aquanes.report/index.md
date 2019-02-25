@@ -8,6 +8,12 @@ authors = ["rustler"]
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "data-import", "data-visualisation", "automated-reporting", "data-aggregation", "data-export", "project-aquanes", "shiny-app", "project-fakin", "mybinder", "publication"]
 
+tools = ["mybinder"]
+
+projects = [aquanes]
+
+code = [aquanes.report]
+
 # Project summary to display on homepage.
 summary = "Automated Reporting Tool for Water Suppliers"
 

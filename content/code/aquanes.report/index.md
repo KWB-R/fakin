@@ -1,12 +1,16 @@
 +++
 title = "aquanes.report"
-date = 2019-02-12T01:11:25+01:00
+date = 2017-03-12T01:11:25+01:00
 draft = false
 
 authors = ["rustler", "sonnenberg"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "data-import", "data-visualisation", "automated-reporting", "data-aggregation", "data-export", "project-aquanes", "shiny-app"]
+
+projects = ["aquanes"]
+
+tools = ["github"]
 
 # Project summary to display on homepage.
 summary = "Automated Reporting Tool for Water Suppliers"

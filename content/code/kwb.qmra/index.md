@@ -1,11 +1,15 @@
 +++
 title = "kwb.qmra"
-date = 2019-02-12T01:11:23+01:00
+date = 2016-02-12T01:11:23+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "project-demoware", "project-aquanes", "qmra-webapp-backend-engine"]
+
+tools = ["algolia", "github"]
+
+projects = ["demoware", "aquanes"]
 
 # Project summary to display on homepage.
 summary = ""

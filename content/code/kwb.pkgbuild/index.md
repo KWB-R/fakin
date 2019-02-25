@@ -1,11 +1,17 @@
 +++
 title = "kwb.pkgbuild"
-date = 2019-02-12T01:11:39+01:00
+date = 2018-06-12T01:11:39+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "r-package-automation", "data-management", "publication", "project-fakin"]
+
+tools = ["algolia"]
+
+projects = ["networks4", "flusshygiene", "smartplant", "aquanes"]
+
+authors = ["rustler", "sonnenberg"]
 
 # Project summary to display on homepage.
 summary = ""

@@ -1,17 +1,18 @@
 +++
-title = "kwb.code"
-date = 2019-02-12T01:11:40+01:00
+title = "kwb.dwd"
+date = 2019-02-24T00:00:00+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "project-fakin"]
+tags = ["r", "rstats", "r-package", "dwd", "rain", "radar"]
 
-tools = ["algolia"]
+projects = ["flusshygiene"]
+
 
 
 # Project summary to display on homepage.
-summary = ""
+summary = "R Package to Access Information Provided by [Deutscher Wetterdienst (DWD)](https://www.dwd.de)"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -26,7 +27,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = "https://github.com/KWB-R/kwb.code"
+url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
@@ -46,3 +47,14 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+This package provides functions to simplify the access to the data provided online 
+by the Deutscher Wetterdienst (DWD, https://www.dwd.de). It currently contains 
+a function [get_radolan_urls()](https://kwb-r.github.io/kwb.dwd/reference/get_radolan_urls.html) 
+that returns the internet addresses (Unified Resource Locators, URLs) to the zip 
+files containing rain data from the RADOLAN system in daily or hourly resolution 
+(see https://www.dwd.de/DE/leistungen/radolan/radolan.html). 
+
+The function [download_radolan()](https://kwb-r.github.io/kwb.dwd/reference/download_radolan.html) 
+helps you to download these files. But take care, you should restrict the time 
+period as each file contains the data for all of Germany.

@@ -8,6 +8,8 @@ authors = ["sonnenberg", "rustler"]
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "groundwater-modelling", "drawdown-model", "project-optiwells2", "shiny-app"]
 
+tools = ["algolia"]
+
 # Project summary to display on homepage.
 summary = "Interface to [WTAQ](http://water.usgs.gov/ogw/wtaq/) Drawdown Model"
 
