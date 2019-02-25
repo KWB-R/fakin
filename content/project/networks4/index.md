@@ -7,6 +7,8 @@ authors = ["matzinger", "rustler", "sonnenberg"]
 
 codes = ["kwb.resilience", "kwb.pkgbuild"]
 
+tools = ["zenodo", "github", "orcid"]
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["modelling", "resilience"]

@@ -11,6 +11,8 @@ tags = ["modelling", "life-cycle-assessment", "excel-template"]
 
 codes = ["kwb.lca", "kwb.umberto", "kwb.pkgbuild"]
 
+tools = ["github"]
+
 # Project summary to display on homepage.
 summary = "Low-carbon Footprint Material Recovery Techniques"
 

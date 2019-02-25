@@ -10,6 +10,7 @@ tags = []
 
 codes = ["fhpredict", "kwb.dwd", "kwb.pkgbuild"] 
 
+tools = ["github"]
 
 # Project summary to display on homepage.
 summary = ""

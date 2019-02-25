@@ -10,7 +10,7 @@ authors = ["rustler"]
 tags = ["r", "rstats", "qmra", "programming", "reproducibility", "research-compendium", 
 "docker", "rmarkdown"]
 
-tools = ["erc"]
+tools = ["erc", "zenodo"]
 
 codes = ["kwb.qmra"]
 

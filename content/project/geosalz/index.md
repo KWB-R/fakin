@@ -7,6 +7,8 @@ authors = ["menz", "sprenger", "rustler", "sonnenberg"]
 
 codes = ["kwb.geosalz", "GeoSalz", "kwb.readxl"]
 
+tools = ["github", "r", "rstudio", "zenodo", "orcid"]
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["monitoring"]

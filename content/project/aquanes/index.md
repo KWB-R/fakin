@@ -9,6 +9,8 @@ codes = ["aquanes.report", "kwb.qmra", "qmra.db", "kwb.pkgbuild"]
 
 apps = ["aquanes.report"]
 
+tools = ["erc", "mybinder", "github", "zenodo", "orcid"]
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["monitoring", "qmra", "automated-reporting"]
