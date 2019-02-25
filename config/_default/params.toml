@@ -145,6 +145,10 @@ sharing = true
   post_view = 2
   publication_view = 2
   talk_view = 2
+  app_view = 1
+  code_view = 1
+  tool_view = 1
+  project_view = 2
 
 # Search.
 [search]

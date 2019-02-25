@@ -82,7 +82,7 @@
     {{ $items := where (where .Site.RegularPages "Type" "tool") "Params.codes" "intersect" (slice $code) }}
     {{ $tools_len := len $items }}
     {{ if ge $tools_len 1 }}
-      <h2>{{ (i18n "codes") }}</h2>
+      <h2>{{ (i18n "tools") }}</h2>
       {{ range sort $items ".Params.date" "desc" }}
         {{ if eq $page.Site.Params.projects.tool_view 1 }}
           {{ partial "li_list" . }}
