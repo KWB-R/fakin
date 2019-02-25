@@ -15,6 +15,15 @@
   {{ $microdata_type = "ScholarlyArticle" }}
   {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
+{{ else if eq $item.Type "app" }}
+  {{ $microdata_type = "App" }}
+  {{ $show_buttons = true }}
+{{ else if eq $item.Type "code" }}
+  {{ $microdata_type = "Code" }}
+  {{ $show_buttons = true }}
+{{ else if eq $item.Type "tool" }}
+  {{ $microdata_type = "Tool" }}
+  {{ $show_buttons = true }}
 {{ end }}
 
 {{/* Get summary. */}}

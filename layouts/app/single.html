@@ -15,9 +15,9 @@
     {{ partial "page_author.html" . }}
 
     {{ $page := . }}
-    {{ $project := .File.ContentBaseName }}
+    {{ $app := .File.ContentBaseName }}
 
-    {{ $items := where (where .Site.RegularPages "Type" "post") ".Params.projects" "intersect" (slice $project) }}
+    {{ $items := where (where .Site.RegularPages "Type" "post") ".Params.apps" "intersect" (slice $app) }}
     {{ $count := len $items }}
     {{ if ge $count 1 }}
       <h2>{{ (i18n "posts") }}</h2>
@@ -32,7 +32,7 @@
       {{ end }}
     {{ end }}
 
-    {{ $items := where (where .Site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
+    {{ $items := where (where .Site.RegularPages "Type" "publication") ".Params.apps" "intersect" (slice $app) }}
     {{ $pubs_len := len $items }}
     {{ if ge $pubs_len 1 }}
       <h2>{{ (i18n "publications") }}</h2>
@@ -49,7 +49,7 @@
       {{ end }}
     {{ end }}
 
-    {{ $items := where (where .Site.RegularPages "Type" "talk") ".Params.projects" "intersect" (slice $project) }}
+    {{ $items := where (where .Site.RegularPages "Type" "talk") ".Params.apps" "intersect" (slice $app) }}
     {{ $talks_len := len $items }}
     {{ if ge $talks_len 1 }}
       <h2>{{ (i18n "talks") }}</h2>
@@ -64,22 +64,7 @@
       {{ end }}
     {{ end }}
 
-    {{ $items := where (where .Site.RegularPages "Type" "app") ".Params.projects" "intersect" (slice $project) }}
-    {{ $apps_len := len $items }}
-    {{ if ge $apps_len 1 }}
-      <h2>{{ (i18n "apps") }}</h2>
-      {{ range sort $items ".Params.date" "desc" }}
-        {{ if eq $page.Site.Params.projects.app_view 1 }}
-          {{ partial "li_list" . }}
-        {{ else if eq $page.Site.Params.projects.app_view 3 }}
-          {{ partial "li_card" . }}
-        {{ else }}
-          {{ partial "li_compact" . }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-
-    {{ $items := where (where .Site.RegularPages "Type" "code") ".Params.projects" "intersect" (slice $project) }}
+    {{ $items := where (where .Site.RegularPages "Type" "code") ".Params.apps" "intersect" (slice $app) }}
     {{ $code_len := len $items }}
     {{ if ge $code_len 1 }}
       <h2>{{ (i18n "codes") }}</h2>
@@ -94,14 +79,29 @@
       {{ end }}
     {{ end }}
 
-    {{ $items := where (where .Site.RegularPages "Type" "tool") ".Params.projects" "intersect" (slice $project) }}
+    {{ $items := where (where .Site.RegularPages "Type" "tool") ".Params.apps" "intersect" (slice $app) }}
     {{ $tools_len := len $items }}
     {{ if ge $tools_len 1 }}
-      <h2>{{ (i18n "tools") }}</h2>
+      <h2>{{ (i18n "codes") }}</h2>
       {{ range sort $items ".Params.date" "desc" }}
         {{ if eq $page.Site.Params.projects.tool_view 1 }}
           {{ partial "li_list" . }}
         {{ else if eq $page.Site.Params.projects.tool_view 3 }}
+          {{ partial "li_card" . }}
+        {{ else }}
+          {{ partial "li_compact" . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ $items := where (where .Site.RegularPages "Type" "project") ".Params.apps" "intersect" (slice $app) }}
+    {{ $apps_len := len $items }}
+    {{ if ge $apps_len 1 }}
+      <h2>{{ (i18n "projects") }}</h2>
+      {{ range sort $items ".Params.date" "desc" }}
+        {{ if eq $page.Site.Params.projects.project_view 1 }}
+          {{ partial "li_list" . }}
+        {{ else if eq $page.Site.Params.projects.project_view 3 }}
           {{ partial "li_card" . }}
         {{ else }}
           {{ partial "li_compact" . }}

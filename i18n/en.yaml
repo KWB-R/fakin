@@ -180,7 +180,16 @@
   translation: Talks
 
 - id: projects
-  translation: Projects
+  translation: Test Projects
+  
+- id: apps
+  translation: Apps
+
+- id: codes
+  translation: Code
+
+- id: tools
+  translation: Tools
 
 # Search
 
