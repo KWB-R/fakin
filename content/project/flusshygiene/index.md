@@ -7,6 +7,10 @@ draft = false
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = []
 
+
+codes = ["fhpredict", "kwb.dwd", "kwb.pkgbuild"] 
+
+
 # Project summary to display on homepage.
 summary = ""
 

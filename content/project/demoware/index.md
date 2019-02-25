@@ -10,6 +10,10 @@ authors = ["rustler"]
 tags = ["r", "rstats", "qmra", "programming", "reproducibility", "research-compendium", 
 "docker", "rmarkdown"]
 
+tools = ["erc"]
+
+codes = ["kwb.qmra"]
+
 # Project summary to display on homepage.
 summary = "Reproducibility check for [Quantitative Microbial Risk Assessment](https://doi.org/10.5281/zenodo.159527) with [Executable Research Compendium](tool/erc/) tool of [o2r project](https://o2r.info)"
 

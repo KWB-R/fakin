@@ -4,6 +4,11 @@ date = 2018-05-09T00:00:00+01:00
 draft = false
 
 authors = ["jaehrig", "stapf", "wicke", "rustler"]
+
+codes = ["aquanes.report", "kwb.qmra", "qmra.db", "kwb.pkgbuild"] 
+
+apps = ["aquanes.report"]
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["monitoring", "qmra", "automated-reporting"]

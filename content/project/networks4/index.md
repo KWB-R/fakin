@@ -5,6 +5,8 @@ draft = false
 
 authors = ["matzinger", "rustler", "sonnenberg"]
 
+codes = ["kwb.resilience", "kwb.pkgbuild"]
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["modelling", "resilience"]

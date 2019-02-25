@@ -5,6 +5,8 @@ draft = false
 
 authors = ["menz", "sprenger", "rustler", "sonnenberg"]
 
+codes = ["kwb.geosalz", "GeoSalz", "kwb.readxl"]
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["monitoring"]

@@ -9,6 +9,8 @@ authors = ["sprenger"]
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["data-management-plan", "best-practices", "project-proposal", "project-management", "data-manager"]
 
+projects = ["dwc"]
+
 # Project summary to display on homepage.
 summary = "[DMPonline]https://dmponline.dcc.ac.uk/] helps you to create, review, and share data management plans that meet institutional and funder requirements."
 

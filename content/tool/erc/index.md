@@ -9,6 +9,8 @@ authors = ["rustler"]
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["publication", "programming", "reproducibility", "r", "rstats", "research-compendium", "docker", "orcid", "zenodo"]
 
+projects = ["demoware", "aquanes"]
+
 # Project summary to display on homepage.
 summary = "with R and Docker. Created within the DFG project [o2r](https://o2r.info) at Uni Muenster"
 

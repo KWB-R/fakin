@@ -10,6 +10,8 @@ authors = ["rustler"]
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["programming", "publication", "reproducibility", "git", "collaboration"]
 
+projects = ["aquanes"]
+
 # Project summary to display on homepage.
 summary = "Turn a Git repo into a collection of interactive notebooks"
 

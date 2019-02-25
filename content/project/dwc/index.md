@@ -10,6 +10,8 @@ authors = ["caradot", "sprenger", "sonnenberg"]
 tags = ["project-proposal", "budget", "excel-template", "automated-reporting", 
 "data-management-plan"]
 
+tools = ["dmponline"]
+
 # Project summary to display on homepage.
 summary = "Proposal Phase: How to best collect budgets from multiple project partners?"
 

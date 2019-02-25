@@ -9,6 +9,8 @@ authors = ["rustler", "matzinger", "sonnenberg"]
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["backup", "doi", "publication", "long-term-storage", "repository"]
 
+projects = ["aquanes", "geosalz"]
+
 # Project summary to display on homepage.
 summary = "Zenodo is a general-purpose open-access repository. It allows researchers to deposit data sets, research software, reports, and any other research related digital artifacts."
 # Slides (optional).
