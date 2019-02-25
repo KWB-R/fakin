@@ -9,7 +9,7 @@ title = "FAKIN (Research Data Management At Small Institutes)"
 weight = 3
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = ""
 
 # Background (optional).
 #   Choose from a background color, gradient, or image.
