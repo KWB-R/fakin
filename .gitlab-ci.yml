@@ -1,8 +1,9 @@
 image: debian:buster-slim
 
 before_script:
-  - apt-get update && apt-get -y install pandoc pandoc-citeproc r-base git 
-  - apt-get -y install libxml2-dev libcurl4-openssl-dev libssl-dev
+  - apt-get update 
+  - sudo apt-get --install-suggests install pandoc pandoc-citeproc r-base git 
+  - sudo apt-get --install-suggests apt-get -y install libxml2-dev libcurl4-openssl-dev libssl-dev
   - R -e "install.packages(c('remotes','zip', 'RefManageR'), repos='http://cran.rstudio.com')"
   - R -e "remotes::install_github('rstudio/blogdown')"
   - R -e "blogdown::install_hugo()"
