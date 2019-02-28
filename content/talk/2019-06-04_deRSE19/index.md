@@ -1,5 +1,5 @@
 +++
-title = "Creating a Knowledge Repo at a Small Research Institute"
+title = "Creating a Knowledge Repo for a Small Research Institute"
 date = 2019-02-26T13:00:00  # Schedule page publish date.
 draft = false
 
