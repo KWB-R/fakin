@@ -1,6 +1,6 @@
 +++
-title = "deRSE19 - Conference for Research Software Engineers in Germany"
-date = 2019-02-16T13:00:00  # Schedule page publish date.
+title = "Creating a Knowledge Repo at a Small Research Institute"
+date = 2019-02-26T13:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -13,7 +13,7 @@ all_day = true
 authors = ["rustler", "sonnenberg"]
 
 # Abstract and optional shortened version.
-abstract = "Present FAKIN results"
+abstract = "Scaling"
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -38,7 +38,8 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["communication-external", "conference"]
+tags = ["communication-external", "conference", "knowledge-repo", "hugo", "hugo-academic", "blogdown", 
+"r", "rstats", "github", "zenodo", "orcid", "rstudio"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,7 +62,9 @@ url_code = ""
 #]
 links = [
 {name = "Link to Conference", url = "https://www.de-rse.org/en/conf2019/"},
-{name = "Abstract Submission (Deadline: 2019-02-28T23:59:59CET)", url = "https://derse19.uni-jena.de/derse19/"}
+{name = "Abstract Submission (Deadline: 2019-02-28T23:59:59CET)", url = "https://derse19.uni-jena.de/derse19/"},
+{icon_pack = "fas", icon = "file-pdf", name = "Abstract: PDF", url = "abstract/knowledge-repo.pdf"},
+{icon_pack = "fas", icon = "file-archive", name = "Abstract: Source Code", url = "abstract/source_code.zip"},
 ]
 
 # Does the content use math formatting?
