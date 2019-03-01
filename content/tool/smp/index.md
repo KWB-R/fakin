@@ -1,18 +1,22 @@
 +++
-title = "DMPonline"
-date = 2019-02-14T00:00:00+01:00
+title = "Software Management Plan (SMP)"
+date = 2019-03-01T09:24:52+01:00
 draft = false
 
-authors = ["sprenger"]
+authors = ["wicke", "rustler"]
+
+projects = ["aquanes"]
+
+code = ["aquanes.report", "kwb.qmra", "qmra.db"]
+
+apps = ["aquanes.report"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["data-management-plan", "best-practices", "project-proposal", "project-management", "data-manager", "dmp"]
-
-projects = ["dwc"]
+tags = ["data-management-plan", "best-practices", "project-proposal", "project-management", "data-manager", "software-development", "smp", "dmp", "sustainibility", "evaluation"]
 
 # Project summary to display on homepage.
-summary = "[DMPonline]https://dmponline.dcc.ac.uk/] helps you to create, review, and share data management plans that meet institutional and funder requirements."
+summary = "The Software Sustainibility Institute provides a checklist helping you to write a SMP."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -36,11 +40,10 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
-links = [
-{name="Tool: DMPonline Website", url = "https://dmponline.dcc.ac.uk/"},
-{name="Project DWC", url = "project/dwc/"},
+links = [{icon_pack = "fas", icon="book", name="Background: Why write a Software Management Plan", url = "https://www.software.ac.uk/software-management-plans"},
+{icon_pack = "ai", icon="doi", name="Zenodo: Checklist for a Software Management Plan", url = "https://doi.org/10.5281/zenodo.1422656"},
+{icon_pack = "fas", icon="question", name="Online Sustainability Evaluation for Software", url = "https://www.software.ac.uk/resources/online-sustainability-evaluation"},
 ]
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
