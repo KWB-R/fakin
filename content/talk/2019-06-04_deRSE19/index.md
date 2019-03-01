@@ -63,8 +63,10 @@ url_code = ""
 links = [
 {name = "Link to Conference", url = "https://www.de-rse.org/en/conf2019/"},
 {name = "Abstract Submission (Deadline: 2019-02-28T23:59:59CET)", url = "https://derse19.uni-jena.de/derse19/"},
-{icon_pack = "fas", icon = "html5", name = "Abstract: HTML", url = "abstract/knowledge-repo.html"},
-{icon_pack = "fas", icon = "code", name = "Abstract: Source Code", url = "abstract/source_code.zip"},
+{icon_pack = "fas", icon = "html5", name = "Abstract: HTML", url = "abstract/index.html"},
+{icon_pack = "fas", icon = "file-pdf", name = "Abstract: PDF", url = "abstract/knowledge-repo.pdf"},
+{icon_pack = "fas", icon = "code", name = "Abstract: Source Code (HTML)", url = "abstract/source_code_html.zip"},
+{icon_pack = "fas", icon = "code", name = "Abstract: Source Code (PDF)", url = "abstract/source_code_pdf.zip"},
 ]
 
 # Does the content use math formatting?

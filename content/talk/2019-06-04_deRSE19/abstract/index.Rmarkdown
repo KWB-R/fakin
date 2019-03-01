@@ -6,14 +6,6 @@ author:
 - '[Christoph Sprenger](https://www.kompetenz-wasser.de/en/ueber-uns/team/?search-employee-grid=Christoph%20Sprenger)¹'
 - ¹[Kompetenzzentrum Wasser Berlin gGmbH (KWB)](https://kompetenz-wasser.de)
 date: "`r format(Sys.time(), '%B %d, %Y')`"
-output:
-  pdf_document:
-    fig_caption: yes
-    keep_tex: yes
-    latex_engine: pdflatex
-    template: default-1.17.0.2.tex
-  word_document: default
-  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -105,12 +97,11 @@ if(!"zip" %in% installed.packages()[,"Package"]) {
 install.packages("zip", repos = "https://cran.rstudio.com")
 }
 
-files <- c("knowledge-repo.Rmarkdown", 
-           "default-1.17.0.2.tex", 
+files <- c("index.Rmarkdown",
            "references.bib",
            "README.txt")
 
-zip <- zip::zip(zipfile = "source_code.zip", 
+zip <- zip::zip(zipfile = "source_code_html.zip", 
                 files = files,
                 compression_level = 9.9)
 ```
@@ -118,4 +109,4 @@ zip <- zip::zip(zipfile = "source_code.zip",
 
 **Source code**
 
-The source code for generating this abstract is available [here](https://kwb-r.gitlab.io/fakin/talk/2019-06-04_derse19/abstract/source_code.zip), **Current version**: `r format(Sys.time(), '%B %d, %Y')`; **Corresponding author**: michael.rustler@kompetenz-wasser.de"
+The source code for generating this abstract is available [here](https://kwb-r.gitlab.io/fakin/talk/2019-06-04_derse19/abstract/source_code_html.zip), **Current version**: `r format(Sys.time(), '%B %d, %Y')`; **Corresponding author**: michael.rustler@kompetenz-wasser.de"
