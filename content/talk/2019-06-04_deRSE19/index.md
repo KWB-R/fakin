@@ -80,4 +80,3 @@ math = true
   focal_point = "Right"
 +++
 
-To do: submit abstract!
