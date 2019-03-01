@@ -1,11 +1,11 @@
 ---
-title: "Creating a Knowledge Repo for a Small Research Institute"
+title: "Chaining Tools to Create a Knowledge Repo"
 author:
-- '[Michael Rustler](https://www.kompetenz-wasser.de/en/ueber-uns/team/?search-employee-grid=Michael%20Rustler)\u00B9'
-- '[Hauke Sonnenberg](https://www.kompetenz-wasser.de/en/ueber-uns/team/?search-employee-grid=Hauke%20Sonnenberg)\u00B9'
-- '[Christoph Sprenger](https://www.kompetenz-wasser.de/en/ueber-uns/team/?search-employee-grid=Christoph%20Sprenger)\u00B9'
-- '*\u00B9[Kompetenzzentrum Wasser Berlin gGmbH (KWB)](https://kompetenz-wasser.de)*'
-date: "February 28, 2019"
+- '[Michael Rustler](https://www.kompetenz-wasser.de/en/ueber-uns/team/?search-employee-grid=Michael%20Rustler)¹'
+- '[Hauke Sonnenberg](https://www.kompetenz-wasser.de/en/ueber-uns/team/?search-employee-grid=Hauke%20Sonnenberg)¹'
+- '[Christoph Sprenger](https://www.kompetenz-wasser.de/en/ueber-uns/team/?search-employee-grid=Christoph%20Sprenger)¹'
+- '*¹[Kompetenzzentrum Wasser Berlin gGmbH (KWB)](https://kompetenz-wasser.de)*'
+date: "March 1, 2019"
 output:
   pdf_document:
     fig_caption: yes
@@ -31,22 +31,11 @@ bib <- RefManageR::ReadBib("references.bib",.Encoding = "UTF-8")
 
 ```
 
+In small research institutes knowledge is exchanged in an informal way. Staff fluctuation leads to a loss of knowledge as processes and decisions are documented insufficiently. A company-wide knowledge repository helps formalising the documentation process. For example AirBnB established a knowledge repo and also open-sourced its software. However, it is only designed as "knowledge sharing plattform between data scientists and other technical professions" and its features are limited to create taggable blog-posts with IPython Notebooks or R markdown, but these are not reproducible yet . 
 
-In small research institutes knowledge is exchanged in an informal way. Staff fluctuation leads to a loss of knowledge as processes and decisions are documented insufficiently. A company-wide knowledge repository helps formalising the documentation process. We tested a workflow for creating a knowledge repo within our [BMBF](https://bmbf.de) funded project [FAKIN](https://www.kompetenz-wasser.de/en/project/fakin-research-data-management/). Information from different sources (e.g. [GitHub](https://github.com/kwb-r), [Zenodo](https://zenodo.org/communities/kwb), Endnote) are collected, links between different objects (e. g. topics, projects, people, tools and expertise) are generated and stored at one place. The structure is simple and allows adding content in the form of text file templates. Everything is based on open-source tools and services such as R(Studio), [Hugo](https://gohugo.io) and [GitHub](https://github.com)/[GitLab](https://gitlab.com).
+At our research institute also knowledge about code, people, projects, publications, tools and the links between them are important and need to be stored in one place in order to make it meaningfull for all, not only technicians.
 
-
-<!-- In small research institutes knowledge is usually exchanged in an informal way. -->
-<!-- Thus, processes and decisions are often documented insufficiently. As a consequence,  -->
-<!-- staff fluctuation leads to a serious loss of knowledge. To be more resilient against  -->
-<!-- this risk, the knowledge needs to be written down and should be available to -->
-<!-- everyone. A company-wide knowledge repository helps to formalise the documentation  -->
-<!-- process. We tested a workflow for creating a knowledge repo within our BMBF  -->
-<!-- funded project FAKIN. Information from different sources (e.g. GitHub, Zenodo,  -->
-<!-- Endnote) are collected, links between different objects (e.g topics, projects,  -->
-<!-- people, tools and expertise) are generated and stored at one place. The structure  -->
-<!-- is simple and allows to add content in the form of text file templates. Everything  -->
-<!-- is based on open-source tools and services such as  R(Studio), Hugo and GitHub/GitLab. -->
-
+Thus we developed a toolchain soley based on open-source software, tools and cloud-services. Information from different sources is collected either automatically (using own R packages, e.g. for DataCamp, GitHub, Zenodo, Endnote) or manually (in the form of text file templates). These are exported into markdown files allows us to create a version controlled (Git), static website (Hugo with theme "academic") which contains all features needed for our small research institute. It is automatically deployed by chaining continous integration (Gitlab-CI, Travis) with the R package "blogdown" (website generation) and GitLab pages (to host it).
 
 <!-- # Das Wissensrepositorium (Knowledge Repo) -->
 
@@ -120,4 +109,4 @@ zip <- zip::zip(zipfile = "source_code_pdf.zip",
 
 ## Source code
 
-The source code for generating this abstract is available [here](https://kwb-r.gitlab.io/fakin/talk/2019-06-04_derse19/abstract/source_code_pdf.zip), **Current version**: February 28, 2019 ; **Corresponding author**: michael.rustler@kompetenz-wasser.de"
+The source code for generating this abstract is available [here](https://kwb-r.gitlab.io/fakin/talk/2019-07-18_user2019/abstract/source_code_pdf.zip), **Current version**: March 1, 2019; **Corresponding author**: michael.rustler@kompetenz-wasser.de"

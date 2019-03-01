@@ -1,5 +1,5 @@
 +++
-title = "useR! 2019"
+title = "Chaining Tools to Create a Knowledge Repo"
 date = 2019-02-16T13:00:00  # Schedule page publish date.
 draft = false
 
@@ -10,13 +10,13 @@ time_end = 2019-03-12T18:00:00
 all_day = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["rustler", "sonnenberg"]
+authors = ["rustler", "sonnenberg", "sprenger"]
 
 # Abstract and optional shortened version.
-abstract = "Present FAKIN results"
+abstract = 'In small research institutes knowledge is exchanged in an informal way. Staff fluctuation leads to a loss of knowledge as processes and decisions are documented insufficiently. A company-wide knowledge repository helps formalising the documentation process. For example AirBnB established a knowledge repo and also open-sourced its software. However, it is only designed as "knowledge sharing plattform between data scientists and other technical professions" and its features are limited to create taggable blog-posts with IPython Notebooks or R markdown, but these are not reproducible yet. At our research institute also knowledge about code, people, projects, publications, tools and the links between them are important and need to be stored in one place in order to make it meaningfull for all, not only technicians. Thus we developed a toolchain soley based on open-source software, tools and cloud-services. Information from different sources is collected either automatically (using own R packages, e.g. for DataCamp, GitHub, Zenodo, Endnote) or manually (in the form of text file templates). These are exported into markdown files allows us to create a version controlled (Git), static website (Hugo with theme "academic") which contains all features needed for our small research institute. It is automatically deployed by chaining continous integration (Gitlab-CI, Travis) with the R package "blogdown" (website generation) and GitLab pages (to host it).' 
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "With the Help of R, GitLab, Hugo and More" 
 
 # Name of event and optional event URL.
 event = "useR! 2019"
@@ -61,7 +61,9 @@ url_code = ""
 #]
 links = [
 {name = "Link to Conference", url = "https://www.user2019.fr"},
-{name = "Abstract Submission (Deadline: 2019-03-01)", url = "http://www.user2019.fr/abstracts/"}
+{name = "Abstract Submission (Deadline: 2019-03-01)", url = "http://www.user2019.fr/abstracts/"},
+{icon_pack = "fas", icon = "file-pdf", name = "Abstract: PDF", url = "abstract/knowledge-repo.pdf"},
+{icon_pack = "fas", icon = "code", name = "Abstract: Source Code (PDF)", url = "abstract/source_code_pdf.zip"},
 ]
 
 # Does the content use math formatting?
@@ -78,4 +80,3 @@ math = true
   focal_point = "Right"
 +++
 
-To do: submit abstract!
