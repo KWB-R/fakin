@@ -1,5 +1,5 @@
 +++
-title = "Chaining Tools to Create a Knowledge Repo"
+title = "Chaining Tools to Create a Knowledge Repo for a Small Research Institute"
 date = 2019-02-16T13:00:00  # Schedule page publish date.
 draft = false
 
@@ -13,7 +13,7 @@ all_day = true
 authors = ["rustler", "sonnenberg", "sprenger"]
 
 # Abstract and optional shortened version.
-abstract = 'In small research institutes knowledge is exchanged in an informal way. Staff fluctuation leads to a loss of knowledge as processes and decisions are documented insufficiently. A company-wide knowledge repository helps formalising the documentation process. For example AirBnB established a knowledge repo and also open-sourced its software. However, it is only designed as "knowledge sharing plattform between data scientists and other technical professions" and its features are limited to create taggable blog-posts with IPython Notebooks or R markdown, but these are not reproducible yet. At our research institute also knowledge about code, people, projects, publications, tools and the links between them are important and need to be stored in one place in order to make it meaningfull for all, not only technicians. Thus we developed a toolchain soley based on open-source software, tools and cloud-services. Information from different sources is collected either automatically (using own R packages, e.g. for DataCamp, GitHub, Zenodo, Endnote) or manually (in the form of text file templates). These are exported into markdown files allows us to create a version controlled (Git), static website (Hugo with theme "academic") which contains all features needed for our small research institute. It is automatically deployed by chaining continous integration (Gitlab-CI, Travis) with the R package "blogdown" (website generation) and GitLab pages (to host it).' 
+abstract = 'In small research institutes knowledge is exchanged in an informal way. Staff fluctuation leads to a loss of knowledge as processes and decisions are documented insufficiently. A company-wide knowledge repository helps to formalise the documentation process. For example AirBnB created a knowledge repo and open-sourced its software. However, it is only designed as "knowledge sharing platform between data scientists and other technical professions" and its features are limited to create taggable blog-posts with IPython Notebooks or Rmarkdown. At our research institute also knowledge about code, people, projects, publications, tools and the links between them are important and need to be stored in one place in order to make it meaningfull for all, not only technicians. Thus we developed a toolchain only based on open-source software, tools and cloud-services. Information from different sources are collected either automatically (using own R packages, e.g. for DataCamp, GitHub, Zenodo) or manually (in the form of text file templates). These are exported into markdown files allowing us to create a version controlled (Git), static website (Hugo with theme "academic") containing all requested features for our small research institute. Deployment is automated by chaining continous integration (Gitlab-CI) with the R package "blogdown" (website generation) and GitLab pages (hosting).' 
 
 # Summary. An optional shortened abstract.
 summary = "With the Help of R, GitLab, Hugo and More" 
@@ -38,7 +38,9 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["communication-external", "r-conference", "conference"]
+tags = ["communication-external", "r-conference", "conference", "git", "gitlab", 
+"continious-integration", "blogdown", "hugo", "hugo-academic", "knowledge-repo", 
+"data-management", "website"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -62,8 +64,7 @@ url_code = ""
 links = [
 {name = "Link to Conference", url = "https://www.user2019.fr"},
 {name = "Abstract Submission (Deadline: 2019-03-01)", url = "http://www.user2019.fr/abstracts/"},
-{icon_pack = "fas", icon = "file-pdf", name = "Abstract: PDF", url = "abstract/knowledge-repo.pdf"},
-{icon_pack = "fas", icon = "code", name = "Abstract: Source Code (PDF)", url = "abstract/source_code_pdf.zip"},
+{icon_pack = "fas", icon = "file-pdf", name = "Abstract: PDF", url = "257757.pdf"},
 ]
 
 # Does the content use math formatting?
