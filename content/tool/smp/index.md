@@ -48,7 +48,7 @@ links = [{icon_pack = "fas", icon="book", name="Background: Why write a Software
 {icon_pack = "fas", icon="book-open", name="Template (Open Office): Checklist SMP", url = "https://zenodo.org/record/2159713/files/SoftwareManagementPlanTemplate.odt"},
 {icon_pack = "fas", icon="question", name="Software Evaluation: Online Questionaire", url = "https://www.software.ac.uk/resources/online-sustainability-evaluation"},
 {icon_pack = "fas", icon="file-pdf", name="Software Evaluation (PDF): Criteria-based Assessment", url = "http://software.ac.uk/sites/default/files/SSI-SoftwareEvaluationCriteria.pdf"},
-{icon_pack = "fas", icon="file-word", name="Software Evaluation (PDF): Criteria-based Assessment", url = "http://software.ac.uk/sites/default/files/SSI-SoftwareEvaluationCriteria.doc"},
+{icon_pack = "fas", icon="file-word", name="Software Evaluation (Word): Criteria-based Assessment", url = "http://software.ac.uk/sites/default/files/SSI-SoftwareEvaluationCriteria.doc"},
 {icon_pack = "fas", icon="file-pdf", name="Software Evaluation (PDF): Tutorial-based Assessment", url = "https://software.ac.uk/sites/default/files/SSI-SoftwareEvaluationTutorial.pdf"},
 ]
 
