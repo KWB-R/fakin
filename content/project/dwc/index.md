@@ -13,7 +13,7 @@ tags = ["project proposal", "budget", "excel template", "automated reporting",
 tools = ["dmponline"]
 
 # Project summary to display on homepage.
-summary = "Proposal Phase: How to best collect budgets from multiple project partners?"
+summary = "How to best collect budgets from multiple project partners? How to write a data management plan?"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -52,14 +52,16 @@ links = [
   focal_point = ""
 +++
 
-**Challenges** 
+**Data Challenges and Solutions** 
 
-- How to best collect budgets from multiple project partners during the proposal 
-phase?
+**How to best collect budgets from multiple project partners during the proposal phase?**
 
-- How to develop a data management plan? ()
+An EXCEL template was developed by [Hauke Sonnenberg](../../authors/matzinger/), which can be automatically imported into [R](../../tool/r/) for data aggregation and analyis. 
 
-**Solutions**
+**How to write a data management plan?**
 
-EXCEL template developed which is automatically imported into R for data 
-aggregation and analyis.
+[Christoph Sprenger](../../authors/sprenger/) used the tool [DMPonline](../../tool/dmponline/) for creating a data management plan for a task (make groundwater visible) within the Digital Water City project.
+
+
+
+
