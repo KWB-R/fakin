@@ -56,7 +56,7 @@ links = [
 
 **How to best collect budgets from multiple project partners during the proposal phase?**
 
-An EXCEL template was developed by [Hauke Sonnenberg](../../authors/matzinger/), which can be automatically imported into [R](../../tool/r/) for data aggregation and analyis. 
+An EXCEL template was developed by [Hauke Sonnenberg](../../authors/sonnenberg/), which can be automatically imported into [R](../../tool/r/) for data aggregation and analyis. 
 
 **How to write a data management plan?**
 
