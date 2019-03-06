@@ -89,11 +89,11 @@ filter_default = 0
 
 [[filter]]
   name = "Version Control"
-  tag = "version-control"
+  tag = "version control"
   
 [[filter]]
   name = "Web Hosting"
-  tag = "web-hosting"
+  tag = "web hosting"
 
 [[filter]]
   name = "All"
