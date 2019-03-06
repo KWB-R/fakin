@@ -5,13 +5,13 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["search", "knowledge-repo", "website", "documentation"]
+tags = ["search", "knowledge repo", "website", "documentation"]
 
 codes = ["kwb.base", "kwb.code", "kwb.db", "kwb.endnote", "kwb.fakin", "kwb.file", "kwb.monitoring", "kwb.orcid", "kwb.pkgbuild", "kwb.pkgmeta", "kwb.pkgstatus", "kwb.pubs", "kwb.qmra",
 "kwb.read", "kwb.resilience", "kwb.umberto", "kwb.utils", "kwb.wtaq"]
 
 # Project summary to display on homepage.
-summary = "[Algolia](https://algolia.com) is a French startup company offering a web search product through a SaaS (software as a service) model. "
+summary = "[Algolia](https://algolia.com) is a French startup company offering a web search product through a SaaS (software as a service) model."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -49,3 +49,7 @@ links = [
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+# Search (Software As A Service)
+
+[Algolia](https://algolia.com) is a French startup company offering a web search product through a SaaS (software as a service) model.

@@ -1,5 +1,5 @@
 +++
-title = "Workshop #3 (internal): Lessons-learnt (t.b.c.)"
+title = "Workshop #3 (internal): Lessons-learnt"
 date = 2019-02-11T09:00:00  # Schedule page publish date.
 draft = false
 
@@ -10,7 +10,7 @@ time_end = 2019-03-11T12:00:00
 #all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["rustler", "sonnenberg", "sprenger"]
+authors = ["rustler", "sonnenberg", "sprenger", "caradot", "conzelmann", "jaehrig", "kleyboecker", "matzinger", "rouault", "schuetz", "zamzow"]
 
 
 # Abstract and optional shortened version.
@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["communication-internal", "workshop", "lessons-learnt", "test-projects", "qms"]
+tags = ["communication internal", "workshop", "lessons learnt", "test projects", "qms"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.

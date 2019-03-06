@@ -6,7 +6,7 @@ draft = false
 authors = ["rustler"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "data-import", "data-visualisation", "automated-reporting", "data-aggregation", "data-export", "project-aquanes", "shiny-app", "project-fakin", "mybinder", "publication"]
+tags = ["r", "rstats", "data import", "data visualisation", "automated reporting", "data aggregation", "data export", "project aquanes", "shiny app", "project fakin", "mybinder", "publication", "aquanes"]
 
 tools = ["mybinder"]
 

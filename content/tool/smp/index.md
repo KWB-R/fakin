@@ -13,7 +13,7 @@ apps = ["aquanes.report"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["data-management-plan", "best-practices", "project-proposal", "project-management", "data-manager", "software-development", "smp", "dmp", "sustainibility", "evaluation"]
+tags = ["data management plan", "best practices", "project proposal", "project management", "data manager", "software development", "smp", "dmp", "sustainibility", "evaluation"]
 
 # Project summary to display on homepage.
 summary = "The Software Sustainibility Institute provides a checklist helping you to write a SMP."
@@ -62,3 +62,6 @@ links = [{icon_pack = "fas", icon="book", name="Background: Why write a Software
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+>"The Software Sustainibility Institute provides a checklist helping you to write a SMP."
+--- [The Software Sustainibility Institute, 2019](https://www.software.ac.uk)

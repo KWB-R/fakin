@@ -5,12 +5,14 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r-package", "data-import", "data-cleaning", "data-visualization", "project-fakin", "project-geosalz"]
+tags = ["r", "rstats", "r package", "data import", "data cleaning", "data visualisation", "data export", "geosalz"]
+
+tools = ["algolia", "r", "rstudio", "github", "gitlab", "git", "travis", "appveyor", "codecov", "zenodo"]
 
 projects = ["geosalz"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "R Package for Documenting Workflow Used in Project geosalz"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -45,3 +47,5 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+# R Package for Documenting Workflow Used in Project geosalz

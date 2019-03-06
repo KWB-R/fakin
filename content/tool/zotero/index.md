@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["literature-data-management", "publication"]
+tags = ["literature data management", "publication"]
 
 # Project summary to display on homepage.
 summary = "[Zotero](https://www.zotero.org/) is a free and open-source reference management software to manage bibliographic data and related research materials"
@@ -47,3 +47,6 @@ links = [
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+>"[Zotero](https://www.zotero.org/) is a free and open-source reference management software to manage bibliographic data and related research materials"
+--- [Zotero, 2019](https://www.zotero.org/) 

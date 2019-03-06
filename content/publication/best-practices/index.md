@@ -48,7 +48,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["communication-internal", "communication-external", "qms", "test-projects", "best-practices"]
+tags = ["communication internal", "communication external", "qms", "test projects", "best practices"]
 
 # Links (optional).
 url_pdf = ""

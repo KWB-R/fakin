@@ -5,16 +5,16 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r-package", "data-import", "data-aggregation", "data-visualisation", "lca-modelling", "modelling", "project-fakin", "life-cycle-assessment"]
+tags = ["r", "rstats", "r package", "data import", "data aggregation", "data visualisation", "lca modelling", "modelling", "fakin", "life cycle assessment", "smartplant"]
 
-tools = ["algolia"]
+tools = ["algolia", "r", "rstudio", "github", "gitlab", "git", "travis", "appveyor", "codecov"]
 
 projects = ["smartplant"]
 
 authors = ["rustler", "sonnenberg"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Helper functions for data import, aggregation and visualisation of [UMBERTO](https://www.ifu.com/umberto/) model output."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -49,3 +49,5 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+# Helper functions for data import, aggregation and visualisation of [UMBERTO](https://www.ifu.com/umberto/) model output.

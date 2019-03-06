@@ -13,7 +13,7 @@ tools = ["erc", "mybinder", "github", "zenodo", "orcid"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["monitoring", "qmra", "automated-reporting"]
+tags = ["monitoring", "qmra", "automated reporting"]
 
 # Project summary to display on homepage.
 summary = "Combined Processes for Water Treatment Systems"

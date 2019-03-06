@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "data-management", "publication", "project-fakin"]
+tags = ["r", "rstats", "r package", "data management", "publication", "fakin"]
 
 tools = ["algolia"]
 

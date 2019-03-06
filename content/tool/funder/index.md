@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["doi", "funder", "publication", "data-management", "project-management"]
+tags = ["doi", "funder", "publication", "data management", "project management"]
 
 # Project summary to display on homepage.
 summary = "The [Funder Registry](https://www.crossref.org/services/funder-registry/) provides a common taxonomy of international funding body names that funding data participants should use to normalize funder names and IDs for deposit with [Crossref](https://www.crossref.org)"
@@ -46,3 +46,8 @@ links = [
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+# Funder Registry 
+
+>"The [Funder Registry](https://www.crossref.org/services/funder-registry/) provides a common taxonomy of international funding body names that funding data participants should use to normalize funder names and IDs for deposit with [Crossref](https://www.crossref.org)"
+--- [CrossRef, 2019](https://www.crossref.org/services/funder-registry/)

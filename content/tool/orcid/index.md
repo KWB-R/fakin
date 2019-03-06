@@ -6,7 +6,7 @@ draft = false
 authors = ["rustler", "sonnenberg", "matzinger", "seis", "sprenger"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["publication", "persistent-identifier", "doi"]
+tags = ["publication", "persistent identifier", "doi"]
 
 # Project summary to display on homepage.
 summary = "Provides a persistent digital identifier for researchers."
@@ -51,4 +51,5 @@ links = [
   focal_point = ""
 +++
 
-"ORCID provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized." ([Orcid, 2019](https://orcid.org))
+>"[ORCID](https://orcid.org) provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized." 
+--- [Orcid, 2019](https://orcid.org)

@@ -39,7 +39,7 @@ filter_default = 0
 
 [[filter]]
   name = "Shiny App"
-  tag = "shiny-app"
+  tag = "shiny app"
   
 [[filter]]
   name = "Automated Reporting"
@@ -47,43 +47,43 @@ filter_default = 0
 
 [[filter]]
   name = "Data Aggregation"
-  tag = "data-aggregation"
+  tag = "data aggregation"
 
 [[filter]]
   name = "Data Cleaning"
-  tag = "data-cleaning"
+  tag = "data cleaning"
 
 [[filter]]
   name = "Data Export"
-  tag = "data-export"
+  tag = "data export"
 
 [[filter]]
   name = "Data Import"
-  tag = "data-import"
+  tag = "data import"
 
 [[filter]]
   name = "Data Visualisation"
-  tag = "data-visualisation"
+  tag = "data visualisation"
 
 [[filter]]
   name = "Drawdown Model"
-  tag = "drawdown-model"
+  tag = "drawdown model"
 
 [[filter]]
   name = "Groundwater Modelling"
-  tag = "groundwater-modelling"
+  tag = "groundwater modelling"
 
 [[filter]]
   name = "Groundwater Mounding"
-  tag = "groundwater-mounding"
+  tag = "groundwater mounding"
 
 [[filter]]
   name = "Infiltration Basin"
-  tag = "infiltration-basin"
+  tag = "infiltration basin"
 
 [[filter]]
   name = "Knowledge Repo"
-  tag = "knowledge-repo"
+  tag = "knowledge repo"
 
 [[filter]]
   name = "Modelling"
@@ -91,15 +91,15 @@ filter_default = 0
 
 [[filter]]
   name = "Project Aquanes"
-  tag = "project-aquanes"
+  tag = "aquanes"
 
 [[filter]]
   name = "Project Demeau"
-  tag = "project-demeau"
+  tag = "demeau"
 
 [[filter]]
   name = "Project Optiwells2"
-  tag = "project-optiwells2"
+  tag = "optiwells2"
 
 [[filter]]
   name = "Publication"

@@ -6,7 +6,7 @@ draft = false
 authors = ["rustler", "sonnenberg", "matzinger", "stapf"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "reproducibility", "version-control"]
+tags = ["programming", "reproducibility", "version control"]
 
 # Project summary to display on homepage.
 summary = "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
@@ -48,9 +48,10 @@ links = [
   focal_point = ""
 +++
 
-"Git is a free and open source distributed version control system designed to 
+>"Git is a free and open source distributed version control system designed to 
 handle everything from small to very large projects with speed and efficiency.
 Git is easy to learn and has a tiny footprint with lightning fast performance. 
 It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with 
 features like cheap local branching, convenient staging areas, and multiple 
-workflows." [git-scm.com](https://git-scm.com/)
+workflows." 
+--- [git-scm.com](https://git-scm.com/)

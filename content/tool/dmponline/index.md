@@ -7,7 +7,7 @@ authors = ["sprenger"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["data-management-plan", "best-practices", "project-proposal", "project-management", "data-manager", "dmp"]
+tags = ["data management plan", "best practices", "project proposal", "project management", "data manager", "dmp"]
 
 projects = ["dwc"]
 
@@ -52,3 +52,7 @@ links = [
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+# Data Management Plan 
+
+[DMPonline]https://dmponline.dcc.ac.uk/] helps you to create, review, and share data management plans that meet institutional and funder requirements.

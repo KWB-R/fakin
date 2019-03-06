@@ -4,7 +4,7 @@ widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Projects"
-subtitle = "for testing best-practices developed within FAKIN"
+subtitle = "for testing best practices developed within FAKIN"
 
 # Order that this section will appear in.
 weight = 48
@@ -42,7 +42,7 @@ filter_default = 0
   
 [[filter]]
   name = "Life Cycle Assessment"
-  tag = "life-cycle-assessment"
+  tag = "life cycle assessment"
 
 [[filter]]
   name = "Modelling"

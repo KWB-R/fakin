@@ -3,6 +3,8 @@ title: "eRum 2018"
 authors:
   - rustler
 date: "14 May 2018"
+categories: ["r", "rstats"]
+tags: ["r conference"]
 output: 
   html_document: 
     number_sections: yes

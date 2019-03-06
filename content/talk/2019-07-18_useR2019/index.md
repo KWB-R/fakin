@@ -38,9 +38,9 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["communication-external", "r-conference", "conference", "git", "gitlab", 
-"continious-integration", "blogdown", "hugo", "hugo-academic", "knowledge-repo", 
-"data-management", "website"]
+tags = ["communication external", "r conference", "conference", "git", "gitlab", 
+"continious integration", "blogdown", "hugo", "hugo academic", "knowledge repo", 
+"data management", "website"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.

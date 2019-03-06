@@ -7,7 +7,7 @@ authors = ["conzelmann", "rustler", "sonnenberg"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["modelling", "life-cycle-assessment", "excel-template"]
+tags = ["modelling", "life cycle assessment", "excel template"]
 
 codes = ["kwb.lca", "kwb.umberto", "kwb.pkgbuild"]
 

@@ -5,14 +5,14 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "project-demoware", "project-aquanes", "qmra-webapp-backend-engine"]
+tags = ["r", "rstats", "demoware", "aquanes", "qmra", "backend", "modelling", "opencpu"]
 
-tools = ["algolia", "github"]
+tools = ["algolia", "r", "rstudio", "github", "gitlab", "git", "travis", "appveyor", "codecov", "zenodo"]
 
 projects = ["demoware", "aquanes"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Quantitative Microbial Risk Assessment (QMRA) for water supply systems"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -47,3 +47,9 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+# Quantitative Microbial Risk Assessment (QMRA) for water supply systems
+
+For performing quantitative microbiological risk assessment (QMRA) the open-source 
+R package [kwb.qmra](https://github.com/KWB-R/kwb.qmra) was developed at KWB 
+within the [DEMOWARE]() project and is extended and tested within the [AquaNES]() project

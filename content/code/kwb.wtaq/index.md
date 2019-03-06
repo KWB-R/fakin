@@ -6,7 +6,7 @@ draft = false
 authors = ["sonnenberg", "rustler"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "groundwater-modelling", "drawdown-model", "project-optiwells2", "shiny-app"]
+tags = ["r", "rstats", "groundwater modelling", "drawdown model", "optiwells2", "shiny app"]
 
 tools = ["algolia"]
 

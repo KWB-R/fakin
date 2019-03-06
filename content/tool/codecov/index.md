@@ -7,7 +7,7 @@ authors = ["rustler"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "reproducibility", "code-testing"]
+tags = ["programming", "reproducibility", "code testing"]
 
 # Project summary to display on homepage.
 summary = "Develop healthier code. Improve your code review workflow and quality. Codecov provides highly integrated tools to group, merge, archive, and compare coverage reports."
@@ -49,6 +49,7 @@ links = [
   focal_point = ""
 +++
 
-"Develop healthier code. Improve your code review workflow and quality. Codecov 
+>"Develop healthier code. Improve your code review workflow and quality. Codecov 
 provides highly integrated tools to group, merge, archive, and compare coverage 
-reports." [Codecov.io](https://codecov.io/)
+reports." 
+--- [Codecov.io](https://codecov.io/)

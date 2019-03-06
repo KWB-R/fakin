@@ -5,10 +5,12 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["data-visualisation", "publication", "r", "rstats", "project-fakin", "knowledge-repo"]
+tags = ["data visualisation", "publication", "r", "rstats", "knowledge repo", "shiny apps", "docker", "reproducibility"]
+
+tools = ["git", "github", "mybinder"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Interactive Apps"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -43,3 +45,5 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+# Interactive Apps

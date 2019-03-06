@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "data-management", "publication", "project-fakin"]
+tags = ["r", "rstats", "r package", "data management", "publication", "fakin"]
 
 # Project summary to display on homepage.
 summary = ""
@@ -16,7 +16,7 @@ summary = ""
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides = "R Package for Checking KWB Package Status (e.g. generating https://kwb-r.github.io/status)"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -43,3 +43,5 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+R Package for Checking KWB Package Status (e.g. generating https://kwb-r.github.io/status)

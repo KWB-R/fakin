@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r-package", "data-import", "data-aggregation", "data-visualisation", "data-export", "project-fakin", "life-cycle-assessment"]
+tags = ["r", "rstats", "r package", "data import", "data aggregation", "data visualisation", "data export", "fakin", "life cycle assessment", "smartplant"]
 
 projects = ["smartplant"]
 
@@ -13,7 +13,7 @@ authors = ["sonnenberg"]
 
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Functions to Be Used in Life Cycle Assessment (LCA) Projects"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -48,3 +48,7 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+# Functions to Be Used in Life Cycle Assessment (LCA) Projects
+
+This package contains a function to read LCA parameters from an Excel file that was sent to and received from a project partner. The parameters are read into a data frame. Another function can be used to write the dataframe into an Excel file with different sheets and data.

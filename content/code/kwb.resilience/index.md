@@ -5,14 +5,14 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "project-fakin", "project-networks4"]
+tags = ["r", "rstats", "r package", "fakin", "networks4"]
 
 tools = ["algolia"]
 
 projects = ["networks4"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "R Package for the Quantification of Technical Resilience"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -47,3 +47,9 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+# R Package for the Quantification of Technical Resilience
+
+[kwb.resilience](https://github.com/KWB-R/kwb.resilience) allows calculating different resilience indices for time series. Equations are described and discussed in the freely available conference paper by [Matzinger et al. (2018)](https://www.researchgate.net/publication/326040304_Quantitative_Beschreibung_der_Resilienz_urbaner_Wassersysteme) (unfortunately in German only). The sample data for the first example in the paper is also contained in the package as a data.frame “oxygen”.
+
+The package should make a starting point for a broader discussion of approaches to tackle resilience of urban water infrastructure for applied cases. Accordingly, adaptations and suggestions are encouraged!

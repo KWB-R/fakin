@@ -7,8 +7,8 @@ authors = ["caradot", "sprenger", "sonnenberg"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["project-proposal", "budget", "excel-template", "automated-reporting", 
-"data-management-plan"]
+tags = ["project proposal", "budget", "excel template", "automated reporting", 
+"data management plan"]
 
 tools = ["dmponline"]
 
@@ -52,12 +52,14 @@ links = [
   focal_point = ""
 +++
 
-**Challenge** 
+**Challenges** 
 
-How to best collect budgets from multiple project partners during the proposal 
+- How to best collect budgets from multiple project partners during the proposal 
 phase?
 
-**Solution**
+- How to develop a data management plan? ()
+
+**Solutions**
 
 EXCEL template developed which is automatically imported into R for data 
 aggregation and analyis.

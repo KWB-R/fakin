@@ -5,12 +5,12 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "hugo-academic", "knowledge-repo", "project-fakin", "publications", "publication"]
+tags = ["r", "rstats", "r package", "hugo academic", "knowledge repo", "project fakin", "publications", "publication"]
 
-tools = ["algolia"]
+tools = ["algolia", "git", "gitlab", "github", "r", "rstudio", "travis", "appveyor"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "R Package For Generating (Publication) Websites Based on Hugo Theme Academic"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -45,3 +45,15 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+# R Package For Generating (Publication) Websites Based on Hugo Theme Academic
+
+Using the following tools: 
+
+- [Hugo](https://gohugo.io): static website generator
+
+- [Academic](https://sourcethemes.com/academic/): a open-source theme for [Hugo](https://gohugo.io) adapted to the needs of researchers and/or small research labs. For example used by Stanford`s Causality in Cognition Lab (see: https://cicl.stanford.edu)
+
+- R package [blogdown](https://bookdown.org/yihui/blogdown): for generating the website from R(Studio) and 
+
+- [GitHub](https://bookdown.org/yihui/blogdown/github-pages.html)/[GitLab](https://bookdown.org/yihui/blogdown/gitlab-pages.html) Pages: for automatically deploying the website for free

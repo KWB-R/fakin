@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["publication", "literature-database-management", "knowledge-repo"]
+tags = ["publication", "literature database management", "knowledge repo"]
 
 # Project summary to display on homepage.
 summary = "[EndNote](https://en.wikipedia.org/wiki/EndNote) is a commercial reference management software package, used to manage bibliographies and references."

@@ -39,67 +39,67 @@ filter_default = 0
 
 [[filter]]
   name = "Shiny App"
-  tag = "shiny-app"
+  tag = "shiny app"
   
 [[filter]]
   name = "Automated Reporting"
-  tag = "automated-reporting"
+  tag = "automated reporting"
 
 [[filter]]
   name = "Data Aggregation"
-  tag = "data-aggregation"
+  tag = "data aggregation"
 
 [[filter]]
   name = "Data Cleaning"
-  tag = "data-cleaning"
+  tag = "data cleaning"
 
 [[filter]]
   name = "Data Export"
-  tag = "data-export"
+  tag = "data export"
 
 [[filter]]
   name = "Data Import"
-  tag = "data-import"
+  tag = "data import"
 
 [[filter]]
   name = "Data Management"
-  tag = "data-management"
+  tag = "data management"
 
 [[filter]]
   name = "Data Visualisation"
-  tag = "data-visualisation"
+  tag = "data visualisation"
 
 [[filter]]
   name = "Drawdown Model"
-  tag = "drawdown-model"
+  tag = "drawdown model"
 
 [[filter]]
   name = "Groundwater Modelling"
-  tag = "groundwater-modelling"
+  tag = "groundwater modelling"
 
 [[filter]]
   name = "Groundwater Mounding"
-  tag = "groundwater-mounding"
+  tag = "groundwater mounding"
 
 [[filter]]
   name = "Hugo Academic"
-  tag = "hugo-academic"
+  tag = "hugo academic"
 
 [[filter]]
   name = "Infiltration Basin"
-  tag = "infiltration-basin"
+  tag = "infiltration basin"
 
 [[filter]]
   name = "Knowledge Repo"
-  tag = "knowledge-repo"
+  tag = "knowledge repo"
 
 [[filter]]
   name = "Life Cycle Assessment"
-  tag = "life-cycle-assessment"
+  tag = "life cycle assessment"
 
 [[filter]]
   name = "Literature Data Management"
-  tag = "literature-data-management"
+  tag = "literature data management"
 
 [[filter]]
   name = "Modelling"
@@ -107,39 +107,39 @@ filter_default = 0
 
 [[filter]]
   name = "Project Aquanes"
-  tag = "project-aquanes"
+  tag = "aquanes"
 
 [[filter]]
   name = "Project Demeau"
-  tag = "project-demeau"
+  tag = "demeau"
 
 [[filter]]
   name = "Project Demoware"
-  tag = "project-demoware"
+  tag = "demoware"
 
 [[filter]]
   name = "Project Dswt"
-  tag = "project-dswt"
+  tag = "dswt"
 
 [[filter]]
   name = "Project Fakin"
-  tag = "project-fakin"
+  tag = "fakin"
 
 [[filter]]
   name = "Project Flusshygiene"
-  tag = "project-flusshygiene"
+  tag = "flusshygiene"
 
 [[filter]]
   name = "Project Geosalz"
-  tag = "project-geosalz"
+  tag = "geosalz"
 
 [[filter]]
   name = "Project Networks4"
-  tag = "project-networks4"
+  tag = "networks4"
 
 [[filter]]
   name = "Project Optiwells2"
-  tag = "project-optiwells2"
+  tag = "optiwells2"
 
 [[filter]]
   name = "Publication"
@@ -151,11 +151,11 @@ filter_default = 0
 
 [[filter]]
   name = "R Package Automation"
-  tag = "r-package-automation"
+  tag = "r package automation"
 
 [[filter]]
   name = "Research Data Management"
-  tag = "research-data-management"
+  tag = "research data management"
 
 [[filter]]
   name = "Rstats"

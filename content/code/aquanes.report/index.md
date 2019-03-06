@@ -6,11 +6,11 @@ draft = false
 authors = ["rustler", "sonnenberg"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "data-import", "data-visualisation", "automated-reporting", "data-aggregation", "data-export", "project-aquanes", "shiny-app"]
+tags = ["r", "rstats", "r package", "data import", "data visualisation", "automated reporting", "data aggregation", "data export", "shiny app", "aquanes"]
 
 projects = ["aquanes"]
 
-tools = ["github"]
+tools = ["algolia", "r", "rstudio", "github", "gitlab", "git", "travis", "appveyor", "codecov", "zenodo", "mybinder"]
 
 # Project summary to display on homepage.
 summary = "Automated Reporting Tool for Water Suppliers"

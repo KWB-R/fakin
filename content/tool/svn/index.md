@@ -8,7 +8,7 @@ authors = ["rustler", "sonnenberg", "caradot", "matzinger", "riechel", "stapf",
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "reproducibility", "version-control"]
+tags = ["programming", "reproducibility", "version control"]
 
 # Project summary to display on homepage.
 summary = "Our Version Control System for (internally) tracking source code"
@@ -50,4 +50,5 @@ links = [
   focal_point = ""
 +++
 
-Our Version Control System for (internally) tracking source code
+Our Version Control System for (internally) tracking source code (R scripts). 
+For developing R Packages we use [GitHub](../github/).) for version control.

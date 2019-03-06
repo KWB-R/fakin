@@ -7,7 +7,7 @@ authors = ["sonnenberg", "rustler"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["survey", "user-experience", "tree-testing"]
+tags = ["survey", "user experience", "tree testing"]
 
 # Project summary to display on homepage.
 summary = "Information architecture validation software"
@@ -50,7 +50,7 @@ links = [
 +++
 
 
-"Know where and why people get lost in your content. Tree testing is a 
+>"Know where and why people get lost in your content. Tree testing is a 
 usability technique for evaluating the findability of topics 
 in a website. It’s also known as ‘reverse card sorting’ or ‘card-based 
 classification’. Tree testing is done on a simplified text version of your 
@@ -58,4 +58,5 @@ site structure – without the influence of navigation aids and visual design.
 Take the guesswork out of information architecture with Treejack – the usability 
 testing tool you can use to test your IA without visual distractions. Treejack 
 helps you prove your site structure will work before you get into interface 
-design." ([OptimalWorkshop, 2019](https://www.optimalworkshop.com/treejack))
+design." 
+--- [OptimalWorkshop, 2019](https://www.optimalworkshop.com/treejack)

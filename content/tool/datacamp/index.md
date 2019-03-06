@@ -8,7 +8,7 @@ authors = ["seis", "rustler", "sonnenberg", "riechel", "zamzow", "guensch", "car
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "learning", "r", "python", "version-control", "spreadsheets", 
+tags = ["programming", "learning", "r", "python", "version control", "spreadsheets", 
 "git"]
 
 # Project summary to display on homepage.
@@ -53,6 +53,6 @@ links = [
   focal_point = ""
 +++
 
-Learn Data Science from the comfort of your browser, at your own pace with 
+>Learn Data Science from the comfort of your browser, at your own pace with 
 DataCamp's video tutorials & coding challenges on R, Python, Statistics & more.
-([DataCamp, 2019](https://datacamp.com))
+--- [DataCamp, 2019](https://datacamp.com)

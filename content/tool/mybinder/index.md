@@ -8,9 +8,9 @@ authors = ["rustler"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "publication", "reproducibility", "git", "collaboration"]
+tags = ["programming", "publication", "reproducibility", "git", "collaboration", "docker", "rstudio", "shiny app"]
 
-projects = ["aquanes"]
+projects = ["aquanes", "optiwells2", "demoware"]
 
 # Project summary to display on homepage.
 summary = "Turn a Git repo into a collection of interactive notebooks"
@@ -57,6 +57,7 @@ links = [
 
 **Turn a Git repo into a collection of interactive notebooks.**
 
-"Have a repository full of Jupyter notebooks? With Binder, open those notebooks 
+>"Have a repository full of Jupyter notebooks? With Binder, open those notebooks 
 in an executable environment, making your code immediately reproducible by anyone, 
-anywhere." ([mybinder, 2019](https://mybinder.org))
+anywhere." 
+--- [mybinder, 2019](https://mybinder.org)
