@@ -89,6 +89,18 @@ user_groups = ["Communication (internal)"]
   link = "mailto:kuangxin.zhou@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/kuangxin-zhou-phd-379b39b7"
+
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Kuangxin_Zhou"
+
+
 
 +++
 

@@ -101,6 +101,12 @@ user_groups = ["Team FAKIN"]
   link = "https://github.com/hsonne"
 
 
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Hauke_Sonnenberg"
+
+
 
 +++
 

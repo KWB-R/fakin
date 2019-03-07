@@ -89,6 +89,24 @@ user_groups = ["Communication (internal)"]
   link = "mailto:roberto.tatis-muvdi@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/RobertoTatisMuvdi "
+
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/rtatismriverhydraulics"
+
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Roberto_Tatis_Muvdi2"
+
+
 
 +++
 

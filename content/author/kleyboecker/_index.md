@@ -89,6 +89,12 @@ user_groups = ["Communication (internal)"]
   link = "mailto:anne.kleyboecker@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Anne_Kleyboecker"
+
+
 
 +++
 

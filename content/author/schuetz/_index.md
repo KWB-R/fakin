@@ -87,6 +87,18 @@ email = ""
   link = "mailto:jan.schuetz@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/schuej "
+
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/janschuetz"
+
+
 
 +++
 

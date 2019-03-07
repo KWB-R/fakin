@@ -89,6 +89,24 @@ user_groups = ["Team FAKIN"]
   link = "mailto:christoph.sprenger@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-0178-6645"
+
+
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/chsprenger "
+
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Christoph_Sprenger"
+
+
 
 +++
 

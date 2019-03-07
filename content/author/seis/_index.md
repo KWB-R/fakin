@@ -95,6 +95,24 @@ user_groups = ["Communication (internal)"]
   link = "https://orcid.org/0000-0002-7436-8575"
 
 
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/wseis"
+
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/wolfgang-seis-20408a78"
+
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Wolfgang_Seis"
+
+
 
 +++
 

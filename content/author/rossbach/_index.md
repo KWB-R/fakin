@@ -87,6 +87,12 @@ email = ""
   link = "mailto:edith.rossbach@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/edith-rossbach-6a819515b"
+
+
 
 +++
 

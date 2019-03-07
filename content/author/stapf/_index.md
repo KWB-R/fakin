@@ -89,6 +89,18 @@ user_groups = ["Test Projects", "Communication (internal)"]
   link = "mailto:michael.stapf@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/mstapf1"
+
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Michael_Stapf"
+
+
 
 +++
 

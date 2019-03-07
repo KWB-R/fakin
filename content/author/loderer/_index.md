@@ -95,6 +95,18 @@ user_groups = ["Communication (internal)"]
   link = "https://twitter.com/CLoderer"
 
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/christian-loderer-4b742b18"
+
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Christian_Loderer"
+
+
 
 +++
 

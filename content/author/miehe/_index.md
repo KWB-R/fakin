@@ -95,6 +95,12 @@ user_groups = ["Communication (internal)"]
   link = "https://twitter.com/UlfMiehe"
 
 
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Ulf_Miehe"
+
+
 
 +++
 

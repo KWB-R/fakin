@@ -93,6 +93,18 @@ email = ""
   link = "https://twitter.com/rgnirss"
 
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/regina-gnirss-74171090"
+
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Regina_Gnirss"
+
+
 
 +++
 

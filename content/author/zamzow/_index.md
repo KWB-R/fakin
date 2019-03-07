@@ -89,6 +89,18 @@ user_groups = ["Communication (internal)"]
   link = "mailto:malte.zamzow@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/malte-zamzow-5503a996"
+
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Malte_Zamzow2"
+
+
 
 +++
 

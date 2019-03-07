@@ -89,6 +89,24 @@ user_groups = ["Communication (internal)"]
   link = "mailto:daniel.wicke@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/daniel-wicke"
+
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/daniel-wicke-63225218"
+
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Daniel_Wicke  "
+
+
 
 +++
 

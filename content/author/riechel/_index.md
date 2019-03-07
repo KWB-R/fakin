@@ -89,6 +89,18 @@ user_groups = ["Communication (internal)"]
   link = "mailto:mathias.riechel@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/mriech"
+
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Mathias_Riechel"
+
+
 
 +++
 

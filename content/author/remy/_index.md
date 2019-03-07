@@ -89,6 +89,18 @@ user_groups = ["Communication (internal)"]
   link = "mailto:christian.remy@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/christian-remy-91ab3071"
+
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Christian_Remy2"
+
+
 
 +++
 

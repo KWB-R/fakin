@@ -95,6 +95,12 @@ user_groups = ["Communication (internal)"]
   link = "https://twitter.com/kompetenzwasser"
 
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/bodo-weigert-70720350"
+
+
 
 +++
 

@@ -89,6 +89,12 @@ user_groups = ["Communication (internal)"]
   link = "mailto:tobias.evel@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/tobias-evel-7763aa76"
+
+
 
 +++
 

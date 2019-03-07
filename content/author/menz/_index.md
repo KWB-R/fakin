@@ -95,6 +95,12 @@ user_groups = ["Test Projects", "Communication (internal)"]
   link = "https://github.com/chmenz"
 
 
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Christian_Menz"
+
+
 
 +++
 

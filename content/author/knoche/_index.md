@@ -87,6 +87,12 @@ email = ""
   link = "mailto:franziska.knoche@kompetenz-wasser.de"
 
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/franziska-knoche-55a1a3171"
+
+
 
 +++
 
