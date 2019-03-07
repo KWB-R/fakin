@@ -17,7 +17,7 @@ authors = ["rustler", "sonnenberg", "sprenger", "caradot", "conzelmann", "jaehri
 abstract = "Test projects: what was successfull, what not and which processes do we now integrate in the QMS?"
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "Test projects: what was successfull, what not and which processes do we now integrate in the QMS?"
 
 # Name of event and optional event URL.
 event = "Workshop, internal (Kompetenzzentrum Wasser Berlin gGmbH)"
@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["communication internal", "workshop", "lessons learnt", "test projects", "qms", "knowledge repo", "best practices"]
+tags = ["communication internal", "workshop", "lessons learnt", "test projects", "qms", "knowledge repo", "best practices", "survey"]
 
 tools = ["limesurvey"]
 
