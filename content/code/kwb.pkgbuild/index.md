@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r package", "r package automation", "data management", "publication", "fakin", "best practices", "qms"]
+tags = ["r", "rstats", "r package", "r package automation", "data management", "publication", "fakin", "best practices", "qms", "aquanes", "networks4", "flusshygiene"]
 
 tools = ["algolia"]
 
@@ -14,7 +14,7 @@ projects = ["networks4", "flusshygiene", "smartplant", "aquanes"]
 authors = ["rustler", "sonnenberg"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Functions for Automating R package development at KWB to a Predefined Style"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -49,3 +49,19 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+**R package for Automating R package development at KWB to a Predefined Style**
+
+For details on how to create your own R package skeleton to the predefined KWB-R 
+style, the following resources are avaiable: 
+
+- **Tutorials**
+    
+    + [How to install KWB-R packages?](https://kwb-r.github.io/kwb.pkgbuild/articles/tutorial.html)
+    
+    + [Create an KWB-R package from scratch](https://kwb-r.github.io/kwb.pkgbuild/articles/tutorial.html)
+    
+- **Code examples**: for an overview on R scripts used to either create a new R 
+package from scratch or to standardise an already existing R package, have a look at https://github.com/KWB-R/kwb.pkgbuild/issues/26. In case you successfully used 
+[kwb.pkgbuild](https://github.com/kwb-r/kwb.pkgbuild/) it would be great if you 
+could add your R script to this [showcase](https://github.com/KWB-R/kwb.pkgbuild/issues/26).

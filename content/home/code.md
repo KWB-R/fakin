@@ -106,6 +106,10 @@ filter_default = 0
   tag = "modelling"
 
 [[filter]]
+  name = "Pilot Plant"  
+  tag = "pilot plant"
+
+[[filter]]
   name = "Project Aquanes"
   tag = "aquanes"
 

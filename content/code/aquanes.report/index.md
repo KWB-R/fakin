@@ -3,10 +3,10 @@ title = "aquanes.report"
 date = 2017-03-12T01:11:25+01:00
 draft = false
 
-authors = ["rustler", "sonnenberg"]
+authors = ["rustler", "sonnenberg", "wicke"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r package", "data import", "data visualisation", "automated reporting", "data aggregation", "data export", "shiny app", "aquanes"]
+tags = ["r", "rstats", "r package", "data import", "data visualisation", "automated reporting", "data aggregation", "data export", "shiny app", "aquanes", "pilot plant", "ozonation", "nanofiltration"]
 
 projects = ["aquanes"]
 
