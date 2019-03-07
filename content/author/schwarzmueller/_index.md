@@ -90,15 +90,15 @@ user_groups = ["Team FAKIN"]
 
 
 [[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://linkedin.com/in/hella-schwarzmüller-801926100"
-
-
-[[social]]
   icon = "researchgate"
   icon_pack = "ai"
   link = "https://researchgate.net/profile/Hella_Schwarzmueller"
+
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/hella-schwarzmüller-801926100"
 
 
 

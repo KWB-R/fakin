@@ -90,9 +90,9 @@ user_groups = ["Communication (internal)"]
 
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/CLoderer"
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Christian_Loderer"
 
 
 [[social]]
@@ -102,9 +102,9 @@ user_groups = ["Communication (internal)"]
 
 
 [[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://researchgate.net/profile/Christian_Loderer"
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/CLoderer"
 
 
 

@@ -90,15 +90,15 @@ user_groups = ["Communication (internal)"]
 
 
 [[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://linkedin.com/in/kuangxin-zhou-phd-379b39b7"
-
-
-[[social]]
   icon = "researchgate"
   icon_pack = "ai"
   link = "https://researchgate.net/profile/Kuangxin_Zhou"
+
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/kuangxin-zhou-phd-379b39b7"
 
 
 

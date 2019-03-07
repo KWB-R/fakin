@@ -90,15 +90,15 @@ user_groups = ["Communication (internal)"]
 
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/UlfMiehe"
-
-
-[[social]]
   icon = "researchgate"
   icon_pack = "ai"
   link = "https://researchgate.net/profile/Ulf_Miehe"
+
+
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/UlfMiehe"
 
 
 

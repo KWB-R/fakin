@@ -90,15 +90,15 @@ user_groups = ["Communication (internal)"]
 
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/kompetenzwasser"
-
-
-[[social]]
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://linkedin.com/in/bodo-weigert-70720350"
+
+
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/kompetenzwasser"
 
 
 

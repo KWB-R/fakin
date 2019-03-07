@@ -96,15 +96,15 @@ user_groups = ["Team FAKIN"]
 
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/chsprenger "
-
-
-[[social]]
   icon = "researchgate"
   icon_pack = "ai"
   link = "https://researchgate.net/profile/Christoph_Sprenger"
+
+
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/chsprenger "
 
 
 

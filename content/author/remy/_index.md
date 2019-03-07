@@ -90,15 +90,15 @@ user_groups = ["Communication (internal)"]
 
 
 [[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://linkedin.com/in/christian-remy-91ab3071"
-
-
-[[social]]
   icon = "researchgate"
   icon_pack = "ai"
   link = "https://researchgate.net/profile/Christian_Remy2"
+
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/christian-remy-91ab3071"
 
 
 

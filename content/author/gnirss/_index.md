@@ -88,9 +88,9 @@ email = ""
 
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/rgnirss"
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Regina_Gnirss"
 
 
 [[social]]
@@ -100,9 +100,9 @@ email = ""
 
 
 [[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://researchgate.net/profile/Regina_Gnirss"
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/rgnirss"
 
 
 

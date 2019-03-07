@@ -112,15 +112,9 @@ user_groups = ["Team FAKIN"]
 
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/mrustl"
-
-
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/MichaelRustler"
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Michael_Rustler"
 
 
 [[social]]
@@ -130,9 +124,15 @@ user_groups = ["Team FAKIN"]
 
 
 [[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://researchgate.net/profile/Michael_Rustler"
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/MichaelRustler"
+
+
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/mrustl"
 
 
 [[social]]

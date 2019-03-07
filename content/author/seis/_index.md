@@ -96,9 +96,9 @@ user_groups = ["Communication (internal)"]
 
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/wseis"
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Wolfgang_Seis"
 
 
 [[social]]
@@ -108,9 +108,9 @@ user_groups = ["Communication (internal)"]
 
 
 [[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://researchgate.net/profile/Wolfgang_Seis"
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/wseis"
 
 
 

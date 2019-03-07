@@ -88,15 +88,15 @@ email = ""
 
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/schuej "
-
-
-[[social]]
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://linkedin.com/in/janschuetz"
+
+
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/schuej "
 
 
 

@@ -90,9 +90,9 @@ user_groups = ["Communication (internal)"]
 
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/RobertoTatisMuvdi "
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.net/profile/Roberto_Tatis_Muvdi2"
 
 
 [[social]]
@@ -102,9 +102,9 @@ user_groups = ["Communication (internal)"]
 
 
 [[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://researchgate.net/profile/Roberto_Tatis_Muvdi2"
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/RobertoTatisMuvdi "
 
 
 

@@ -90,15 +90,15 @@ user_groups = ["Test Projects", "Communication (internal)"]
 
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/mstapf1"
-
-
-[[social]]
   icon = "researchgate"
   icon_pack = "ai"
   link = "https://researchgate.net/profile/Michael_Stapf"
+
+
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/mstapf1"
 
 
 
