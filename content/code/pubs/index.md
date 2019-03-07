@@ -1,17 +1,21 @@
 +++
-title = "EndNote"
-date = 2003-01-01T00:00:00+01:00
+title = "Pubs"
+date = 2018-12-20T00:00:00+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["publication", "literature database management", "knowledge repo"]
+tags = ["fakin", "knowledge repo", "hugo academic", "publication", "website", 
+"endnote", "literature data management", "r blogdown", "r", "rstats", "hugo site"]
 
 
 codes = ["kwb.endnote", "kwb.pubs"]
 
+tools = ["algolia", "r", "rstudio"]
+
+
 # Project summary to display on homepage.
-summary = "[EndNote](https://en.wikipedia.org/wiki/EndNote) is a commercial reference management software package, used to manage bibliographies and references."
+summary = "Proof-Of-Concept Prototype For KWB Publication Website."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -35,6 +39,9 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+links = [{icon_pack = "fas", icon="home", name="KWB Publications Prototype Website", url = "http://kwb-r.gitlab.io/pubs"},
+{icon_pack = "fab", icon="code", name="Code", url = "http://kwb-r.github.io/pubs"},
+]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -46,3 +53,7 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+**Proof-Of-Concept Prototype For KWB Publication Website.**
+
+Linking people, publications (in KWB [Endnote](../../tool/endnote) database) and projects.
