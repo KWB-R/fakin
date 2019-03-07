@@ -37,7 +37,7 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
-{icon_pack = "fas", icon="home", name="Website",  url = "https:/datacamp.com"},
+{icon_pack = "fas", icon="home", name="DataCamp Website",  url = "https://datacamp.com"},
 {icon_pack = "fas", icon="book", name="QMS: Workflow", url = "https://kwb-r.github.io/fakin.doc/faq.html#learning-r-on-datacamp"},
 ]
 
@@ -55,4 +55,5 @@ links = [
 
 >Learn Data Science from the comfort of your browser, at your own pace with 
 DataCamp's video tutorials & coding challenges on R, Python, Statistics & more.
+>
 --- [DataCamp, 2019](https://datacamp.com)

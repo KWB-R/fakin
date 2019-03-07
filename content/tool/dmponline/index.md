@@ -55,4 +55,6 @@ links = [
 
 # Data Management Plan 
 
-[DMPonline]https://dmponline.dcc.ac.uk/] helps you to create, review, and share data management plans that meet institutional and funder requirements.
+[DMPonline](https://dmponline.dcc.ac.uk/] in an online tool, which helps you to 
+create, review, and share data management plans that meet institutional and 
+funder requirements.

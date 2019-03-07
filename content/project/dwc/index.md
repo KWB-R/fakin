@@ -1,5 +1,5 @@
 +++
-title = "Digital Water City"
+title = "Digital Water City (DWC)"
 date = 2018-10-17T22:09:12+01:00
 draft = false
 
@@ -52,15 +52,18 @@ links = [
   focal_point = ""
 +++
 
-**Data Challenges and Solutions** 
+### Challenges and Solutions  
 
 **How to best collect budgets from multiple project partners during the proposal phase?**
 
-An EXCEL template was developed by [Hauke Sonnenberg](../../authors/sonnenberg/), which can be automatically imported into [R](../../tool/r/) for data aggregation and analyis. 
+An EXCEL template was developed by [Hauke Sonnenberg](../../authors/sonnenberg/),
+which can be automatically imported into [R](../../tool/r/) for data aggregation 
+and analysis. 
 
-**How to write a data management plan?**
+**How to write a data management plan**
 
-[Christoph Sprenger](../../authors/sprenger/) used the tool [DMPonline](../../tool/dmponline/) for creating a data management plan for a task (make groundwater visible) within the Digital Water City project.
+[Christoph Sprenger](../../authors/sprenger/) used the online service [DMPonline](../../tool/dmponline/) for creating a data management plan for a 
+task (make groundwater visible) within the DWC project.
 
 
 
