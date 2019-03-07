@@ -64,7 +64,7 @@ user_groups = ["Team FAKIN"]
 
 
 [[education.courses]]
-  course = "Diplom Geoökologe (Dipl. Geoecologist)"
+  course = "Diplom GeoÃ¶kologe (Dipl. Geoecologist)"
   year = "2008"
 
 
