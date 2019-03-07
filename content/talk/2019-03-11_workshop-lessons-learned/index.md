@@ -1,6 +1,6 @@
 +++
 title = "Workshop #3 (internal): Lessons-learnt"
-date = 2019-02-11T09:00:00  # Schedule page publish date.
+date = 2019-03-06T09:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
