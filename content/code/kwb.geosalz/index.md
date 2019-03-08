@@ -36,6 +36,11 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+links = [
+{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.geosalz"},
+{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.geosalz/blob/master/LICENSE"},
+{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.gitlab.io/kwb.geosalz/articles/workflow.html"},
+]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -48,4 +53,6 @@ url_poster = ""
   focal_point = ""
 +++
 
-# R Package for Documenting Workflow Used in Project geosalz
+**R Package for Documenting Workflow Used in Project geosalz**
+
+
