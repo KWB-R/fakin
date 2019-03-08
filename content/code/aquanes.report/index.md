@@ -37,9 +37,9 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [
+{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/aquanes.report"},
 {icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/aquanes.report"}, 
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/aquanes.report/blob/master/LICENSE"},
-{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/aquanes.report"},
 {name = "Related App", url = "app/aquanes.report/"},
 {name = "Project: AquaNES", url = "project/aquanes/"},
 ]

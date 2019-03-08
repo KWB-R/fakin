@@ -81,13 +81,14 @@ filter_default = 0
   name = "Infiltration Basin"
   tag = "infiltration basin"
 
-[[filter]]
-  name = "Knowledge Repo"
-  tag = "knowledge repo"
 
 [[filter]]
   name = "Modelling"
   tag = "modelling"
+  
+[[filter]]
+  name = "Pilot Plant"  
+  tag = "pilot plant"
 
 [[filter]]
   name = "Project Aquanes"

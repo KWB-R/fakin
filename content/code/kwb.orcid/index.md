@@ -7,12 +7,12 @@ draft = false
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "r package", "data management", "publication", "fakin"]
 
-tools = ["algolia"]
+tools = ["algolia", "orcid"]
 
 authors = ["rustler"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "R Package for Checking Orcid Use at Kwb"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -36,6 +36,11 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+links = [
+{icon_pack = "fas", icon="book", name="Documentation", url = "https://kwb-r.github.io/kwb.orcid/articles/tutorial.html"},
+{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.orcid"}, 
+{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.orcid/blob/master/LICENSE"},
+]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

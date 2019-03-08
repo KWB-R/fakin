@@ -8,7 +8,7 @@ draft = false
 tags = ["r", "rstats", "r package", "qmra", "ms access", "database", "backend", "aquanes"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Database backend for web-based QMRA tool"
 
 projects = ["aquanes"]
 
@@ -39,6 +39,12 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+links = [
+{icon_pack = "fas", icon="book", name="Documentation", url = "https://github.com/KWB-R/qmra.db"},
+{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/qmra.db"}, 
+{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/qmra.db/blob/master/LICENSE"},
+{icon_pack = "fab", icon="r-project", name="Related R Package", url = "https://github.com/KWB-R/kwb.qmra"}, 
+]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

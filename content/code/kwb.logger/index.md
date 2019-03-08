@@ -8,7 +8,7 @@ draft = false
 tags = ["r", "rstats", "r package", "data import", "logger"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Functions to Read Measurement Data from Logger Files"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -23,7 +23,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = "https://github.com/KWB-R/kwb.logger"
+url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
@@ -32,6 +32,11 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+links = [
+{icon_pack = "fas", icon="book", name="Documentation", url = "https://github.com/KWB-R/kwb.logger"},
+{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.logger"}, 
+{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.logger/blob/master/LICENSE"},
+]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

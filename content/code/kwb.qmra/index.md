@@ -36,6 +36,12 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+links = [
+{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.qmra"},
+{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.qmra"}, 
+{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.qmra/blob/master/LICENSE"},
+{icon_pack = "fab", icon="r-project", name="Related R Package", url = "https://github.com/KWB-R/qmra.db"}, 
+]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -52,4 +58,4 @@ url_poster = ""
 
 For performing quantitative microbiological risk assessment (QMRA) the open-source 
 R package [kwb.qmra](https://github.com/KWB-R/kwb.qmra) was developed at KWB 
-within the [DEMOWARE]() project and is extended and tested within the [AquaNES]() project
+within the [DEMOWARE](../../project/demoware/) project and is extended and tested within the [AquaNES](../../project/aquanes/) project
