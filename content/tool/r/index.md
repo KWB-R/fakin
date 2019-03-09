@@ -7,7 +7,7 @@ authors = ["sonnenberg", "rustler", "matzinger", "caradot",  "riechel", "stapf",
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "reproducibility", "r", "rstats"]
+tags = ["programming", "reproducibility", "r", "rstats", "data analysis"]
 
 
 # Project summary to display on homepage.

@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["communication internal", "workshop", "lessons learnt", "test projects", "qms", "knowledge repo", "best practices", "survey"]
+tags = ["communication internal", "workshop", "lessons learnt", "test project", "qms", "knowledge repo", "best practices", "survey"]
 
 tools = ["limesurvey"]
 

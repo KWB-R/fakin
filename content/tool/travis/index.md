@@ -8,7 +8,7 @@ authors = ["rustler", "sonnenberg"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "reproducibility", "continious integration", "linux", "mac"]
+tags = ["programming", "reproducibility", "continious integration", "linux", "mac", "testing"]
 
 # Project summary to display on homepage.
 summary = "Continious integration for Linux and Mac (free for public repositories)"

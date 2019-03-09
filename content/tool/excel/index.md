@@ -6,7 +6,7 @@ draft = false
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["microsoft", "excel", "spreadsheets", "best practices", "data carpentry", 
-"elearning"]
+"elearning", "data analysis"]
 
 projects = ["geosalz", "smartplant"]
 

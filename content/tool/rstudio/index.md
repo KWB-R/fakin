@@ -7,7 +7,7 @@ authors = ["sonnenberg", "rustler", "matzinger", "caradot",  "riechel", "stapf",
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "reproducibility", "r", "rstats", "ide"]
+tags = ["programming", "reproducibility", "r", "rstats", "ide", "data analysis"]
 
 # Project summary to display on homepage.
 summary = "RStudio is an integrated development environment (IDE) for [R](../r/)."

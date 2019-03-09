@@ -38,16 +38,17 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
 [[filter]]
-  name = "Backup"
-  tag = "backup"
-
-[[filter]]
   name = "Collaboration"
   tag = "collaboration"
 
 [[filter]]
+  name = "Data Analysis"
+  tag = "data analysis"
+
+
+[[filter]]
   name = "Data Management Plan"
-  tag = "data-management-plan"
+  tag = "data management plan"
 
 [[filter]]
   name = "DOI"
@@ -55,7 +56,7 @@ filter_default = 0
   
 [[filter]]
   name = "Knowledge Repo"
-  tag = "knowledge-repo"  
+  tag = "knowledge repo"  
 
 [[filter]]
   name = "Learning"
@@ -86,6 +87,9 @@ filter_default = 0
   name = "Search"
   tag = "search"
 
+[[filter]]
+  name = "Testing"
+  tag = "testing"
 
 [[filter]]
   name = "Version Control"

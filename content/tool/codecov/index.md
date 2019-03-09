@@ -7,7 +7,7 @@ authors = ["rustler"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "reproducibility", "code testing"]
+tags = ["programming", "reproducibility", "code testing", "testing"]
 
 codes = ["kwb.pkgstatus", "kwb.pkgbuild"]
 
