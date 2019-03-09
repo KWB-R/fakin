@@ -7,7 +7,7 @@ authors = ["rustler"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["hugo", "website", "go" "static site generator", "blog engine", "cms", "content management system", "documentation tool"]
+tags = ["hugo", "website", "go", "static site generator", "blog engine", "cms", "content management system", "documentation tool", "academic", "theme", "github pages", "netlify", "documentation generator"]
 
 code = ["fakin", "kwb.pubs", "pubs"]
 

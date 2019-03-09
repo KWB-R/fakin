@@ -39,10 +39,9 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
-links = [{icon_pack = "fas", icon="home", name="KWB Publications Prototype Website", url = "http://kwb-r.gitlab.io/pubs"},
 links = [
+{icon_pack = "fas", icon="home", name="KWB Publications Prototype Website", url = "http://kwb-r.gitlab.io/pubs"},
 {icon_pack = "fas", icon="key", name="Access To Source Code Limited to KWB Team!", url = "https://github.com/kwb-r/pubs"},
-]
 ]
 
 # Featured image
