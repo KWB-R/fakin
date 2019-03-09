@@ -6,9 +6,11 @@ draft = false
 authors = ["sonnenberg", "rustler"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "groundwater modelling", "drawdown model", "optiwells2", "shiny app"]
+tags = ["r", "rstats", "modelling", "groundwater modelling", "drawdown model", "optiwells2", "shiny app"]
 
-tools = ["algolia", "zenodo"]
+tools = ["zenodo"]
+
+apps = ["wtaqWeb"]
 
 # Project summary to display on homepage.
 summary = "Interface to [WTAQ](http://water.usgs.gov/ogw/wtaq/) Drawdown Model"

@@ -8,6 +8,8 @@ authors = ["rustler", "sonnenberg", "matzinger", "seis", "sprenger"]
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["publication", "persistent identifier", "doi", "best practices"]
 
+codes = ["kwb.orcid"]
+
 # Project summary to display on homepage.
 summary = "Provides a persistent digital identifier for researchers."
 

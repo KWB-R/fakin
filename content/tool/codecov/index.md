@@ -9,6 +9,8 @@ authors = ["rustler"]
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["programming", "reproducibility", "code testing"]
 
+codes = ["kwb.pkgstatus", "kwb.pkgbuild"]
+
 # Project summary to display on homepage.
 summary = "Develop healthier code. Improve your code review workflow and quality. Codecov provides highly integrated tools to group, merge, archive, and compare coverage reports."
 

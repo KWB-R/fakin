@@ -9,6 +9,8 @@ authors = ["rustler", "matzinger", "sonnenberg"]
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["backup", "doi", "publication", "long term storage", "repository", "best practices"]
 
+codes = ["kwb.pkgstatus", "kwb.pkgbuild"]
+
 projects = ["aquanes", "geosalz"]
 
 # Project summary to display on homepage.

@@ -10,6 +10,8 @@ tags = ["microsoft", "excel", "spreadsheets", "best practices", "data carpentry"
 
 projects = ["geosalz", "smartplant"]
 
+codes = ["kwb.lca", "kwb.geosalz", "kwb.readxl"]
+
 
 # Project summary to display on homepage.
 summary = "Spreadsheet Software Suitable For Small Data Analysis Projects"

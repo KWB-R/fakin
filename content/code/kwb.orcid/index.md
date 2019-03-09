@@ -1,13 +1,13 @@
 +++
 title = "kwb.orcid"
-date = 2019-02-12T01:11:41+01:00
+date = 2018-07-10T00:00:00+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r package", "data management", "publication", "fakin"]
+tags = ["r", "rstats", "r package", "data management", "publication", "fakin", "knowledge repo"]
 
-tools = ["algolia", "orcid"]
+tools = ["orcid"]
 
 authors = ["rustler"]
 

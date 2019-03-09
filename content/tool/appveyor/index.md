@@ -9,6 +9,8 @@ authors = ["rustler"]
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["programming", "reproducibility", "continious integration", "linux", "mac"]
 
+codes = ["kwb.pkgstatus", "kwb.pkgbuild"]
+
 # Project summary to display on homepage.
 summary = "Continious integration for Windows (free for public repositories)"
 

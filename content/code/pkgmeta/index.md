@@ -1,13 +1,13 @@
 +++
 title = "pkgmeta"
-date = 2019-02-12T01:11:45+01:00
+date = 2018-11-29T00:00:00+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "r package", "knowledge repo", "codemeta", "metadata", "code analysis"]
 
-tools = ["algolia"]
+tools = ["git", "github"]
 
 # Project summary to display on homepage.
 summary = "R Package for meta-analysis of KWB-R packages on Github"
@@ -25,7 +25,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = "https://github.com/KWB-R/pkgmeta"
+url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""

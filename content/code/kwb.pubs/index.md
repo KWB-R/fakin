@@ -7,7 +7,7 @@ draft = false
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "r package", "hugo academic", "knowledge repo", "project fakin", "publications", "publication"]
 
-tools = ["algolia", "git", "gitlab", "github", "r", "rstudio", "travis", "appveyor"]
+tools = ["algolia", "git", "gitlab", "github", "r", "rstudio", "travis", "appveyor", "endnote", "hugo", "academic"]
 
 # Project summary to display on homepage.
 summary = "R Package For Generating (Publication) Websites Based on Hugo Theme Academic"

@@ -1,6 +1,6 @@
 +++
 title = "kwb.hantush"
-date = 2019-02-12T01:11:20+01:00
+date = 2015-04-21T00:00:00+01:00
 draft = false
 
 authors = ["rustler"]
@@ -8,6 +8,8 @@ authors = ["rustler"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "infiltration basin", "groundwater mounding", "modelling", "groundwater modelling", "demeau", "shiny app", "support project"]
+
+apps = ["hantush"]
 
 # Project summary to display on homepage.
 summary = "Calculation of Groundwater Mounding Beneath an Infiltration Basin"

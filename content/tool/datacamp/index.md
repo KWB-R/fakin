@@ -11,6 +11,8 @@ authors = ["seis", "rustler", "sonnenberg", "riechel", "zamzow", "guensch", "car
 tags = ["programming", "learning", "r", "python", "version control", "spreadsheets", 
 "git"]
 
+codes = ["datacamp"]
+
 # Project summary to display on homepage.
 summary = "Learn Data Science from the comfort of your browser, at your own pace with DataCamp's video tutorials & coding challenges on R, Python, Statistics & more"
 

@@ -41,7 +41,7 @@ url_poster = ""
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
 {icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.gitlab.io/AquaNES/"},
-{icon_pack = "fas", icon="key", name="Access To Source Code Limited to KWB Team!", url = ""},
+{icon_pack = "fas", icon="key", name="Access To Source Code Limited to KWB Team!", url = "https://github.com/kwb-r/AquaNES"},
 {icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/AquaNES"},
 {icon_pack = "fas", icon="code", name="Standardised with R package kwb.pkgbuild", url = "../kwb.pkgbuild/"},
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/AquaNES/blob/master/LICENSE"},

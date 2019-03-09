@@ -11,7 +11,7 @@ tags = ["fakin", "knowledge repo", "hugo", "hugo academic", "publication", "webs
 
 codes = ["kwb.endnote", "kwb.pubs"]
 
-tools = ["algolia", "r", "rstudio"]
+tools = ["algolia", "r", "rstudio", "endnote", "hugo", "academic", "gitlab", "github"]
 
 
 # Project summary to display on homepage.
@@ -40,7 +40,9 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [{icon_pack = "fas", icon="home", name="KWB Publications Prototype Website", url = "http://kwb-r.gitlab.io/pubs"},
-{icon_pack = "fab", icon="code", name="Code", url = "http://kwb-r.github.io/pubs"},
+links = [
+{icon_pack = "fas", icon="key", name="Access To Source Code Limited to KWB Team!", url = "https://github.com/kwb-r/pubs"},
+]
 ]
 
 # Featured image
