@@ -3,6 +3,8 @@ title = "EndNote"
 date = 2003-01-01T00:00:00+01:00
 draft = false
 
+authors = ["schwarzmueller", "matzinger", "jaehrig", "rustler", "weispfennig"]
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["publication", "literature data management", "knowledge repo"]
@@ -11,7 +13,7 @@ tags = ["publication", "literature data management", "knowledge repo"]
 codes = ["kwb.endnote", "kwb.pubs"]
 
 # Project summary to display on homepage.
-summary = "[EndNote](https://en.wikipedia.org/wiki/EndNote) is a commercial reference management software package, used to manage bibliographies and references."
+summary = "[EndNote](https://en.wikipedia.org/wiki/EndNote) is the standard software at KWB for managing literature references"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -46,3 +48,12 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+[EndNote](https://en.wikipedia.org/wiki/EndNote) is currently the standard software at KWB for managing literature references. 
+
+An open-source alternative for the future could be [Zotero](../zotero/), which offers additional features like cloud-storage or automated access through [API](https://www.zotero.org/support/dev/web_api/v3/start) (e.g. the R package 
+[RefManageR](https://cran.r-project.org/web/packages/RefManageR/) is able to connect to a [Zotero](https://zotero.org) database using the function [ReadZotero()](https://www.rdocumentation.org/packages/RefManageR/versions/1.2.0/topics/ReadZotero).
+
+
+For a full comparison of the features of different reference management software available see [Wikipedia, 2019](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software).
+

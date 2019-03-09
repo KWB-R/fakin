@@ -3,7 +3,7 @@ title = "Rstudio"
 date = 2012-01-15T00:00:00+01:00
 draft = false
 
-authors = ["sonnenberg", "rustler", "matzinger", "caradot",  "riechel", "stapf", "seis", "tatis-muvdi", "wicke", "menz", "sprenger", "schubert", "zamzow", "schuetz", "guensch", "schwarzmueller",  "jaehrig", "kraus", "conzelmann"]
+authors = ["sonnenberg", "rustler", "matzinger", "caradot",  "riechel", "stapf", "seis", "tatis-muvdi", "wicke", "menz", "sprenger", "schubert", "zamzow", "schuetz", "guensch", "schwarzmueller",  "jaehrig", "kraus", "conzelmann", "weispfennig"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -9,7 +9,7 @@ tags = ["modelling", "life cycle assessment", "smartplant"]
 
 projects = ["smartplant"]
 
-authors = ["conzelmann", "kraus", "remy"]
+authors = ["conzelmann", "kraus", "remy", "weispfennig"]
 
 
 # Project summary to display on homepage.

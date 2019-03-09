@@ -50,3 +50,7 @@ links = [
 
 >"[Zotero](https://www.zotero.org/) is a free and open-source reference management software to manage bibliographic data and related research materials"
 --- [Zotero, 2019](https://www.zotero.org/) 
+
+Compared to our current standard software [Endnote](../endnote/), [Zotero](https://zotero.org) offers offers additional features like cloud-storage or automated access through [API](https://www.zotero.org/support/dev/web_api/v3/start) (e.g. the R package [RefManageR](https://cran.r-project.org/web/packages/RefManageR/) is able to connect to a [Zotero](https://zotero.org) database using the function [ReadZotero()](https://www.rdocumentation.org/packages/RefManageR/versions/1.2.0/topics/ReadZotero).
+
+For a full comparison of the features of different reference management software available see [Wikipedia, 2019](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software).

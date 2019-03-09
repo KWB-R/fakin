@@ -3,7 +3,7 @@ title = "Git"
 date = 2018-12-01T00:00:00+01:00
 draft = false
 
-authors = ["rustler", "sonnenberg", "matzinger", "stapf"]
+authors = ["rustler", "sonnenberg", "matzinger", "riechel", "stapf", "weispfennig"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["programming", "reproducibility", "version control", "best practices"]

@@ -50,5 +50,6 @@ links = [
   focal_point = ""
 +++
 
->"[OSF](https://osf.io/) is an open source software project that facilitates open collaboration in science research.
+>"[OSF](https://osf.io/) is an open source software project that facilitates open collaboration in science research."
+>
 --- [OSF, 2019](https://osf.io/)

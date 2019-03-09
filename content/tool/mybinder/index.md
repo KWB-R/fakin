@@ -60,4 +60,5 @@ links = [
 >"Have a repository full of Jupyter notebooks? With Binder, open those notebooks 
 in an executable environment, making your code immediately reproducible by anyone, 
 anywhere." 
---- [mybinder, 2019](https://mybinder.org)
+>
+>--- [mybinder, 2019](https://mybinder.org)

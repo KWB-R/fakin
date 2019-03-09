@@ -4,7 +4,7 @@ date = 2013-04-03T00:00:00+01:00
 draft = false
 
 authors = ["rustler", "sonnenberg", "caradot", "matzinger", "riechel", "stapf", 
-"schubert", "seis", "wicke"]
+"schubert", "seis", "wicke", "weispfennig"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -38,9 +38,9 @@ url_poster = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
-{name="Link to TortoiseSVN",  url = "https://tortoisesvn.net/index.de.html"},
+{icon_pack = "fas", icon="home", name="TortoiseSVN Website",  url = "https://tortoisesvn.net/index.de.html"},
+{icon_pack = "fas", icon="book", name="QMS: Using Subversion At KWB", url = "https://kwb-r.github.io/fakin.doc/faq.html#using-subversion-at-kwb"},
 ]
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
