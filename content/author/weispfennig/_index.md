@@ -92,4 +92,4 @@ user_groups = ["Communication (internal)"]
 
 +++
 
-Manages our IT infrastructure and software, e.g. [Git](../../tool/git/), [Subversion](../../tool/svn/], [R](../../tool/r/)([Studio](../../tool/rstudio/)) and many more
+Manages our IT infrastructure and software, e.g. [Git](../../tool/git/), [Subversion](../../tool/svn/), [R](../../tool/r/)([Studio](../../tool/rstudio/)) and many more
