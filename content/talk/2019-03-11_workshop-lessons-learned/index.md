@@ -10,7 +10,7 @@ time_end = 2019-03-11T12:00:00
 #all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["rustler", "sonnenberg", "sprenger", "caradot", "conzelmann", "jaehrig", "kleyboecker", "matzinger", "rouault", "schuetz", "zamzow"]
+authors = ["rustler", "sonnenberg", "sprenger", "conzelmann", "rouault", "weigert", "wicke"]
 
 
 # Abstract and optional shortened version.

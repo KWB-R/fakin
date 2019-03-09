@@ -7,13 +7,14 @@ draft = false
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = []
 
+authors = ["seis", "sonnenberg"]
 
 codes = ["fhpredict", "kwb.dwd", "kwb.pkgbuild"] 
 
 tools = ["github"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Hygienically Relevant Microorganisms and Pathogens in Multifunctional Water Bodies and Hydrologic Circles"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -48,3 +49,5 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+**Hygienically Relevant Microorganisms and Pathogens in Multifunctional Water Bodies and Hydrologic Circles**

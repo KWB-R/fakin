@@ -13,7 +13,7 @@ all_day = true
 authors = ["rustler", "sonnenberg", "sprenger"]
 
 # Abstract and optional shortened version.
-abstract = "In small research institutes knowledge is exchanged in an informal way. Staff fluctuation leads to a loss of knowledge as processes and decisions are documented insufficiently. A company-wide knowledge repository helps formalising the documentation process. We tested a workflow for creating a knowledge repo within our [BMBF](https://bmbf.de) funded project [FAKIN](https://www.kompetenz-wasser.de/en/project/fakin-research-data-management/). Information from different sources (e.g. [GitHub](https://github.com/kwb-r), [Zenodo](https://zenodo.org/communities/kwb), Endnote) are collected, links between different objects (e. g. topics, projects, people, tools and expertise) are generated and stored at one place. The structure is simple and allows adding content in the form of text file templates. Everything is based on open-source tools and services such as R(Studio), [Hugo](https://gohugo.io) and [GitHub](https://github.com)/[GitLab](https://gitlab.com)."
+abstract = "In small research institutes knowledge is exchanged in an informal way. Staff fluctuation leads to a loss of knowledge as processes and decisions are documented insufficiently. A company-wide knowledge repository helps formalising the documentation process. We tested a workflow for creating a knowledge repo within our [BMBF](https://bmbf.de) funded project [FAKIN](https://www.kompetenz-wasser.de/en/project/fakin-research-data-management/). Information from different sources (e.g. [GitHub](https://github.com/kwb-r), [Zenodo](https://zenodo.org/communities/kwb), [Endnote](https://kwb-r.github.io/kwb.endnote/index.html)) are collected, links between different objects (e. g. topics, projects, people, tools and expertise) are generated and stored at one place. The structure is simple and allows adding content in the form of text file templates. Everything is based on open-source tools and services such as [R](../../tool/r/)([Studio](../../tool/rstudio/)), [Hugo](https://gohugo.io) and [GitHub](https://github.com)/[GitLab](https://gitlab.com)."
 
 # Summary. An optional shortened abstract.
 summary = "Increasing Resilience by Sharing Knowledge"
@@ -61,7 +61,6 @@ url_code = ""
 #]
 links = [
 {name = "Link to Conference", url = "https://www.de-rse.org/en/conf2019/"},
-{name = "Abstract Submission (Deadline: 2019-02-28T23:59:59CET)", url = "https://derse19.uni-jena.de/derse19/"},
 {icon_pack = "fas", icon = "file-pdf", name = "Abstract: PDF", url = "abstract/knowledge-repo.pdf"},
 {icon_pack = "fas", icon = "code", name = "Abstract: Source Code (PDF)", url = "abstract/source_code_pdf.zip"},
 ]
