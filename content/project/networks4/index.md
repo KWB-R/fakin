@@ -11,7 +11,7 @@ tools = ["svn", "git", "r", "rstudio", "zenodo", "github", "orcid"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["modelling", "resilience", "support project", "networks4"]
+tags = ["modelling", "resilience", "other project", "networks4"]
 
 # Project summary to display on homepage.
 summary = "Planning Criteria for Climate-just Cities" 

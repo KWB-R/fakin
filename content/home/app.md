@@ -46,8 +46,8 @@ filter_default = 0
   tag = "aquanes"
 
 [[filter]]
-  name = "Support Projects"
-  tag = "support project"
+  name = "Other Projects"
+  tag = "other project"
 
 [[filter]]
   name = "Demeau"

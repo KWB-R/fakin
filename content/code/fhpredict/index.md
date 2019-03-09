@@ -6,7 +6,7 @@ draft = false
 authors = ["seis", "sonnenberg", "rustler"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r package", "flusshygiene", "support project"]
+tags = ["r", "rstats", "r package", "flusshygiene", "other project"]
 
 tools = ["algolia", "r", "rstudio", "github", "gitlab", "git", "travis", "appveyor", "codecov"]
 

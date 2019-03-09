@@ -6,7 +6,7 @@ draft = false
 authors = ["rustler"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "infiltration basin", "modelling", "groundwater mounding", "groundwater modelling", "demeau", "shiny app", "fakin", "mybinder", "publication", "support project"]
+tags = ["r", "rstats", "infiltration basin", "modelling", "groundwater mounding", "groundwater modelling", "demeau", "shiny app", "fakin", "mybinder", "publication", "other project"]
 # Project summary to display on homepage.
 summary = "Calculation of Groundwater Mounding Beneath an Infiltration Basin"
 

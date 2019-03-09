@@ -7,7 +7,7 @@ authors = ["rustler"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "infiltration basin", "groundwater mounding", "modelling", "groundwater modelling", "demeau", "shiny app", "support project"]
+tags = ["r", "rstats", "infiltration basin", "groundwater mounding", "modelling", "groundwater modelling", "demeau", "shiny app", "other project"]
 
 apps = ["hantush"]
 

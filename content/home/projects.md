@@ -42,32 +42,8 @@ filter_default = 0
   tag = "test project"
   
 [[filter]]
-  name = "AquaNES"
-  tag = "aquanes"
-
-[[filter]]
-  name = "Geosalz"
-  tag = "geosalz"
-
-[[filter]]
-  name = "Smart-Plant"
-  tag = "smartplant"
-  
-[[filter]]
-  name = "Support Projects"
-  tag = "support project"
-
-[[filter]]
-  name = "DWC"
-  tag = "dwc"
-
-[[filter]]
-  name = "Flusshygiene"
-  tag = "flusshygiene"
-
-[[filter]]
-  name = "Networks4"
-  tag = "networks4"
+  name = "Other Projects"
+  tag = "other project"
 
 [[filter]]
   name = "Life Cycle Assessment"

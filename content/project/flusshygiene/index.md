@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["monitoring", "modelling", "flusshygiene", "support project"]
+tags = ["monitoring", "modelling", "flusshygiene", "other project"]
 
 authors = ["seis", "sonnenberg"]
 

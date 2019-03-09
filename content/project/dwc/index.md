@@ -8,7 +8,7 @@ authors = ["caradot", "sprenger", "sonnenberg"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["project proposal", "budget", "excel", "template", "automated reporting", 
-"data management plan", "support project", "dwc"]
+"data management plan", "other project", "dwc"]
 
 tools = ["dmponline", "excel", "svn", "r"]
 
