@@ -5,13 +5,13 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["monitoring", "modelling", "flusshygiene", "support project"]
 
 authors = ["seis", "sonnenberg"]
 
 codes = ["fhpredict", "kwb.dwd", "kwb.pkgbuild"] 
 
-tools = ["github"]
+tools = ["git", "github"]
 
 # Project summary to display on homepage.
 summary = "Hygienically Relevant Microorganisms and Pathogens in Multifunctional Water Bodies and Hydrologic Circles"

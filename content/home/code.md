@@ -38,8 +38,33 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
 [[filter]]
-  name = "Shiny App"
-  tag = "shiny app"
+  name = "Test Projects"
+  tag = "test project"
+  
+[[filter]]
+  name = "AquaNES"
+  tag = "aquanes"
+
+[[filter]]
+  name = "Geosalz"
+  tag = "geosalz"
+
+[[filter]]
+  name = "Smart-Plant"
+  tag = "smartplant"
+  
+[[filter]]
+  name = "Support Projects"
+  tag = "support project"
+
+[[filter]]
+  name = "Flusshygiene"
+  tag = "flusshygiene"
+
+[[filter]]
+  name = "Networks4"
+  tag = "networks4"
+
   
 [[filter]]
   name = "Automated Reporting"
@@ -72,22 +97,19 @@ filter_default = 0
 [[filter]]
   name = "Drawdown Model"
   tag = "drawdown model"
+  
+[[filter]]
+  name = "Excel"
+  tag = "excel"
 
 [[filter]]
   name = "Groundwater Modelling"
   tag = "groundwater modelling"
 
-[[filter]]
-  name = "Groundwater Mounding"
-  tag = "groundwater mounding"
 
 [[filter]]
-  name = "Hugo Academic"
-  tag = "hugo academic"
-
-[[filter]]
-  name = "Infiltration Basin"
-  tag = "infiltration basin"
+  name = "Hugo"
+  tag = "hugo"
 
 [[filter]]
   name = "Knowledge Repo"
@@ -106,52 +128,12 @@ filter_default = 0
   tag = "modelling"
 
 [[filter]]
-  name = "Pilot Plant"  
+  name = "Pilot Plants"  
   tag = "pilot plant"
-
-[[filter]]
-  name = "Project Aquanes"
-  tag = "aquanes"
-
-[[filter]]
-  name = "Project Demeau"
-  tag = "demeau"
-
-[[filter]]
-  name = "Project Demoware"
-  tag = "demoware"
-
-[[filter]]
-  name = "Project Dswt"
-  tag = "dswt"
-
-[[filter]]
-  name = "Project Fakin"
-  tag = "fakin"
-
-[[filter]]
-  name = "Project Flusshygiene"
-  tag = "flusshygiene"
-
-[[filter]]
-  name = "Project Geosalz"
-  tag = "geosalz"
-
-[[filter]]
-  name = "Project Networks4"
-  tag = "networks4"
-
-[[filter]]
-  name = "Project Optiwells2"
-  tag = "optiwells2"
 
 [[filter]]
   name = "Publication"
   tag = "publication"
-
-#[[filter]]
-#  name = "R"
-#  tag = "r"
 
 [[filter]]
   name = "R Package Automation"
@@ -162,10 +144,15 @@ filter_default = 0
   tag = "research data management"
 
 [[filter]]
-  name = "Rstats"
-  tag = "rstats"
+  name = "Shiny App"
+  tag = "shiny app"
 
-  [[filter]]
+[[filter]]
+  name = "Umberto"
+  tag = "umberto"
+
+
+[[filter]]
   name = "All"
   tag = "*"
   

@@ -7,11 +7,11 @@ authors = ["matzinger", "rustler", "sonnenberg"]
 
 codes = ["kwb.resilience", "kwb.pkgbuild"]
 
-tools = ["zenodo", "github", "orcid"]
+tools = ["svn", "git", "r", "rstudio", "zenodo", "github", "orcid"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["modelling", "resilience"]
+tags = ["modelling", "resilience", "support project", "networks4"]
 
 # Project summary to display on homepage.
 summary = "Planning Criteria for Climate-just Cities" 

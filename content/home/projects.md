@@ -36,10 +36,39 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
+
 [[filter]]
-  name = "All"
-  tag = "*"
+  name = "Test Projects"
+  tag = "test project"
   
+[[filter]]
+  name = "AquaNES"
+  tag = "aquanes"
+
+[[filter]]
+  name = "Geosalz"
+  tag = "geosalz"
+
+[[filter]]
+  name = "Smart-Plant"
+  tag = "smartplant"
+  
+[[filter]]
+  name = "Support Projects"
+  tag = "support project"
+
+[[filter]]
+  name = "DWC"
+  tag = "dwc"
+
+[[filter]]
+  name = "Flusshygiene"
+  tag = "flusshygiene"
+
+[[filter]]
+  name = "Networks4"
+  tag = "networks4"
+
 [[filter]]
   name = "Life Cycle Assessment"
   tag = "life cycle assessment"
@@ -51,10 +80,18 @@ filter_default = 0
 [[filter]]
   name = "Monitoring"
   tag = "monitoring"
+  
+[[filter]]
+  name = "Pilot Plants"
+  tag = "pilot plant"
 
 [[filter]]
   name = "QMRA"
   tag = "qmra"
+  
+[[filter]]
+  name = "All"
+  tag = "*"
 
 +++
 

@@ -38,85 +38,48 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
 [[filter]]
-  name = "Shiny App"
-  tag = "shiny app"
+  name = "Test Projects"
+  tag = "test project"
   
 [[filter]]
+  name = "AquaNES"
+  tag = "aquanes"
+
+[[filter]]
+  name = "Support Projects"
+  tag = "support project"
+
+[[filter]]
+  name = "Demeau"
+  tag = "demeau"
+  
+[[filter]]
+  name = "Optiwells 2"
+  tag = "optiwells2"
+
+[[filter]]
   name = "Automated Reporting"
-  tag = "automated-reporting"
-
-[[filter]]
-  name = "Data Aggregation"
-  tag = "data aggregation"
-
-[[filter]]
-  name = "Data Cleaning"
-  tag = "data cleaning"
-
-[[filter]]
-  name = "Data Export"
-  tag = "data export"
+  tag = "automated reporting"
 
 [[filter]]
   name = "Data Import"
   tag = "data import"
 
 [[filter]]
-  name = "Data Visualisation"
-  tag = "data visualisation"
-
-[[filter]]
-  name = "Drawdown Model"
-  tag = "drawdown model"
-
-[[filter]]
-  name = "Groundwater Modelling"
-  tag = "groundwater modelling"
-
-[[filter]]
-  name = "Groundwater Mounding"
-  tag = "groundwater mounding"
-
-[[filter]]
-  name = "Infiltration Basin"
-  tag = "infiltration basin"
-
-
+  name = "Data Aggregation"
+  tag = "data aggregation"
+  
 [[filter]]
   name = "Modelling"
   tag = "modelling"
   
 [[filter]]
-  name = "Pilot Plant"  
+  name = "Pilot Plants"  
   tag = "pilot plant"
 
 [[filter]]
-  name = "Project Aquanes"
-  tag = "aquanes"
-
-[[filter]]
-  name = "Project Demeau"
-  tag = "demeau"
-
-[[filter]]
-  name = "Project Optiwells2"
-  tag = "optiwells2"
-
-[[filter]]
-  name = "Publication"
-  tag = "publication"
-
-#[[filter]]
-#  name = "R"
-#  tag = "r"
-
-[[filter]]
-  name = "Rstats"
-  tag = "rstats"
-
-[[filter]]
-  name = "All"
-  tag = "*"
+  name = "Shiny App"
+  tag = "shiny app"
   
 +++
 

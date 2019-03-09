@@ -5,15 +5,15 @@ draft = false
 
 authors = ["jaehrig", "stapf", "wicke", "rustler"]
 
-codes = ["aquanes.report", "kwb.qmra", "qmra.db", "kwb.pkgbuild"] 
+codes = ["AquaNES", "aquanes.report", "kwb.qmra", "qmra.db", "kwb.pkgbuild"] 
 
 apps = ["aquanes.report"]
 
-tools = ["erc", "mybinder", "github", "zenodo", "orcid"]
+tools = ["svn", "excel", "erc", "mybinder", "git", "github", "zenodo", "orcid"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["monitoring", "qmra", "automated reporting"]
+tags = ["monitoring", "qmra", "automated reporting", "web app", "test project", "pilot plant", "software development", "collaborative software development", "aquanes"]
 
 # Project summary to display on homepage.
 summary = "Combined Processes for Water Treatment Systems"

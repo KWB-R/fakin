@@ -1,19 +1,19 @@
 +++
-title = "fhpredict"
-date = 2019-02-18T16:35:47+01:00
+title = "Umberto"
+date = 2015-01-01T00:00:00+01:00
 draft = false
 
-authors = ["seis", "sonnenberg", "rustler"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r package", "flusshygiene", "support project"]
+tags = ["modelling", "life cycle assessment", "smartplant"]
 
-tools = ["algolia", "r", "rstudio", "github", "gitlab", "git", "travis", "appveyor", "codecov"]
+projects = ["smartplant"]
 
-projects = ["flusshygiene"]
+authors = ["conzelmann", "kraus", "remy"]
+
 
 # Project summary to display on homepage.
-summary = "This R package provides all functions that are required for the Web application that is developed within the Flusshygiene project."
+summary = "Modelling Software Used In Life Cycle Assessment (LCA) projects"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -37,11 +37,8 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
-links = [
-{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/fhpredict"},
-{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/fhpredict"}, 
-{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/fhpredict/blob/master/LICENSE"},
-]
+links = [{icon_pack = "fas", icon="home", name="Umberto Software", url = "https://www.ifu.com/en/umberto/"}]
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -54,4 +51,6 @@ links = [
   focal_point = ""
 +++
 
-This R package provides all functions that are required for the Web application that is developed within the Flusshygiene project.
+[Umberto](https://www.ifu.com/en/umberto/) is a software for material flow management and material flow analyses. At KWB it is used for modelling in life 
+cycle assessment projects, e.g. [Smart-Plant](../project/smartplant/).
+

@@ -7,11 +7,12 @@ authors = ["menz", "sprenger", "rustler", "sonnenberg"]
 
 codes = ["kwb.geosalz", "GeoSalz", "kwb.readxl"]
 
-tools = ["github", "r", "rstudio", "zenodo", "orcid"]
+tools = ["github", "r", "rstudio", "zenodo", "orcid", "excel", "origin"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["monitoring"]
+tags = ["test project", "monitoring", "lab samples", "excel", "spreadsheets", "geosalz"]
+
 
 # Project summary to display on homepage.
 summary = "Analysis of geogenic salination"

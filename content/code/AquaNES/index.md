@@ -8,11 +8,11 @@ authors = ["stapf", "rustler"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r package", "data import", "data visualisation", "data aggregation", "data export", "aquanes", "pilot plant", "ozonation", "best practices", "qms"]
+tags = ["r", "rstats", "r package", "data import", "data visualisation", "data aggregation", "data export", "aquanes", "pilot plant", "ozonation", "best practices", "qms", "test project"]
 
 projects = ["aquanes"]
 
-tools = ["r", "rstudio", "github", "gitlab", "git"]
+tools = ["svn", "r", "rstudio", "github", "gitlab", "git"]
 
 # Project summary to display on homepage.
 summary = "Analysis of ozone pilot plant data at wastewater treatment plant Schönerlinde"

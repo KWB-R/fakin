@@ -5,8 +5,8 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["fakin", "knowledge repo", "hugo academic", "publication", "website", 
-"endnote", "literature data management", "r blogdown", "r", "rstats", "hugo site"]
+tags = ["fakin", "knowledge repo", "hugo", "hugo academic", "publication", "website", 
+"endnote", "literature data management", "r blogdown", "r", "rstats", "hugo site", "support project"]
 
 
 codes = ["kwb.endnote", "kwb.pubs"]

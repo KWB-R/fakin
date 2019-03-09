@@ -6,7 +6,7 @@
 [[main]]
   name = "Upcoming"
   url = "#talks_featured"
-  weight = 1
+  weight = 10
   
 #[[main]]
 #  name = "Upcoming"
@@ -21,37 +21,43 @@
 [[main]]
   name = "Tools"
   url = "#tool"
-  weight = 3
+  weight = 20
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 30
 
 [[main]]
   name = "Apps"
   url = "#app"
-  weight = 5
+  weight = 40
 
 [[main]]
   name = "Code"
   url = "#code"
-  weight = 6
+  weight = 50
 
 [[main]]
   name = "People"
   url = "#people"
-  weight = 6
+  weight = 60
+  
+[[main]]
+  name = "Publications"
+  url = "publication"
+  weight = 70
+
 
 [[main]]
   name = "Tags"
   url = "#tags"
-  weight = 7
+  weight = 80
 
 [[main]]
   name = "Talks"
   url = "talk"
-  weight = 8
+  weight = 90
 
 
 #[[main]]

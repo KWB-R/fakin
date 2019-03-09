@@ -27,7 +27,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = "https://github.com/KWB-R/kwb.qmra"
+url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
@@ -36,7 +36,7 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
-links = [
+links = [{icon_pack = "ai", icon="doi", name="Zenodo", url = "https://doi.org/10.5281/zenodo.1289425"},
 {icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.qmra"},
 {icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.qmra"}, 
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.qmra/blob/master/LICENSE"},

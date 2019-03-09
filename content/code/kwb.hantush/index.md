@@ -7,7 +7,7 @@ authors = ["rustler"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "infiltration basin", "groundwater mounding", "groundwater modelling", "demeau", "shiny app"]
+tags = ["r", "rstats", "infiltration basin", "groundwater mounding", "modelling", "groundwater modelling", "demeau", "shiny app", "support project"]
 
 # Project summary to display on homepage.
 summary = "Calculation of Groundwater Mounding Beneath an Infiltration Basin"
@@ -34,10 +34,10 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
-links = [
+links = [{icon_pack = "ai", icon="doi", name="Zenodo", url = "https://doi.org/10.5281/zenodo.595401"},
+{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.hantush/dev"},
 {icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.hantush"}, 
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.hantush/blob/master/LICENSE"},
-{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.hantush/dev"},
 {name = "Related App", url = "app/hantush/"},
 ]
 

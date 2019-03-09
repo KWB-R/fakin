@@ -1,14 +1,14 @@
 +++
 title = "kwb.utils"
-date = 2019-02-12T01:11:21+01:00
+date = 2016-06-01T01:11:21+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats"]
+tags = ["r", "rstats", "r package"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "General Utility Functions Developed at KWB"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -23,7 +23,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = "https://github.com/KWB-R/kwb.utils"
+url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
@@ -32,6 +32,11 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+links = [{icon_pack = "ai", icon="doi", name="Zenodo", url = "https://doi.org/10.5281/zenodo.595416"},
+{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.utils"},
+{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.utils"}, 
+{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.utils/blob/master/LICENSE"},
+]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -43,3 +48,5 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+**General Utility Functions Developed at KWB**

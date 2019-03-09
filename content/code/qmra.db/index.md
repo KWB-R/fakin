@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r package", "qmra", "ms access", "database", "backend", "aquanes"]
+tags = ["r", "rstats", "r package", "qmra", "ms access", "database", "backend", "aquanes", "test project"]
 
 # Project summary to display on homepage.
 summary = "Database backend for web-based QMRA tool"

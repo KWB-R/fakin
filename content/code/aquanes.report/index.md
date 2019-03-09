@@ -6,11 +6,11 @@ draft = false
 authors = ["rustler", "sonnenberg", "wicke"]
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r package", "data import", "data visualisation", "automated reporting", "data aggregation", "data export", "shiny app", "aquanes", "pilot plant", "ozonation", "nanofiltration"]
+tags = ["r", "rstats", "r package", "data import", "data visualisation", "automated reporting", "data aggregation", "data export", "shiny app", "aquanes", "pilot plant", "ozonation", "nanofiltration", "test project"]
 
 projects = ["aquanes"]
 
-tools = ["algolia", "r", "rstudio", "github", "gitlab", "git", "travis", "appveyor", "codecov", "zenodo", "mybinder"]
+tools = ["svn", "algolia", "r", "rstudio", "github", "gitlab", "git", "travis", "appveyor", "codecov", "zenodo", "mybinder"]
 
 # Project summary to display on homepage.
 summary = "Automated Reporting Tool for Water Suppliers"
@@ -37,6 +37,7 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [
+{icon_pack = "ai", icon="doi", name="Zenodo", url = "https://doi.org/10.5281/zenodo.825029"},
 {icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/aquanes.report"},
 {icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/aquanes.report"}, 
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/aquanes.report/blob/master/LICENSE"},

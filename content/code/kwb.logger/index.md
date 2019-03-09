@@ -7,6 +7,8 @@ draft = false
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "r package", "data import", "logger"]
 
+tools = ["zenodo"]
+
 # Project summary to display on homepage.
 summary = "Functions to Read Measurement Data from Logger Files"
 
@@ -32,7 +34,7 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
-links = [
+links = [{icon_pack = "ai", icon="doi", name="Zenodo", url = "https://doi.org/10.5281/zenodo.1289424"},
 {icon_pack = "fas", icon="book", name="Documentation", url = "https://github.com/KWB-R/kwb.logger"},
 {icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.logger"}, 
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.logger/blob/master/LICENSE"},

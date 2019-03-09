@@ -7,7 +7,7 @@ authors = ["rustler", "matzinger", "sonnenberg"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["backup", "doi", "publication", "long term storage", "repository"]
+tags = ["backup", "doi", "publication", "long term storage", "repository", "best practices"]
 
 projects = ["aquanes", "geosalz"]
 

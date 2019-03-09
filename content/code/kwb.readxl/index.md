@@ -5,14 +5,14 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r package", "data import", "fakin", "excel"]
+tags = ["r", "rstats", "r package", "data import", "excel", "spreadsheets", "geosalz", "test project"]
 
 projects = ["geosalz"]
 
 authors = ["sonnenberg"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Read Data From Excel Files"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -47,3 +47,7 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+**Read Data From Excel Files** 
+
+This package is based on the package [readxl](https://readxl.tidyverse.org/). It provides functions that read all Excel sheets as pure text and then try to split each sheet into a set of line ranges that are assumed to represent single tables.

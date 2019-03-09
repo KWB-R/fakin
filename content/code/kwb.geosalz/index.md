@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r package", "data import", "data cleaning", "data visualisation", "data export", "geosalz"]
+tags = ["r", "rstats", "r package", "data import", "excel", "spreadsheets", "data cleaning", "data visualisation", "data export", "geosalz", "monitoring", "lab samples", "test project"]
 
 tools = ["algolia", "r", "rstudio", "github", "gitlab", "git", "travis", "appveyor", "codecov", "zenodo"]
 
@@ -36,10 +36,10 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
-links = [
+links = [{icon_pack = "ai", icon="doi", name="Zenodo", url = "https://doi.org/10.5281/zenodo.2563869"},
+{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.gitlab.io/kwb.geosalz/articles/workflow.html"},
 {icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.geosalz"},
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.geosalz/blob/master/LICENSE"},
-{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.gitlab.io/kwb.geosalz/articles/workflow.html"},
 ]
 
 # Featured image

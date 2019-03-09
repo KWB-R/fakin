@@ -8,7 +8,9 @@ authors = ["rustler", "sonnenberg", "caradot", "matzinger", "riechel", "stapf",
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["programming", "reproducibility", "version control"]
+tags = ["programming", "reproducibility", "version control", "best practices"]
+
+projects = ["aquanes", "demoware"]
 
 # Project summary to display on homepage.
 summary = "Our Version Control System for (internally) tracking source code"

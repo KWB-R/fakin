@@ -7,10 +7,10 @@ authors = ["caradot", "sprenger", "sonnenberg"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["project proposal", "budget", "excel template", "automated reporting", 
-"data management plan"]
+tags = ["project proposal", "budget", "excel", "template", "automated reporting", 
+"data management plan", "support project", "dwc"]
 
-tools = ["dmponline"]
+tools = ["dmponline", "excel", "svn", "r"]
 
 # Project summary to display on homepage.
 summary = "How to best collect budgets from multiple project partners? How to write a data management plan?"

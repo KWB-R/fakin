@@ -5,9 +5,9 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["r", "rstats", "r package", "data import", "data aggregation", "data visualisation", "lca modelling", "modelling", "fakin", "life cycle assessment", "smartplant"]
+tags = ["r", "rstats", "r package", "data import", "data aggregation", "data visualisation", "lca modelling", "modelling", "fakin", "life cycle assessment", "smartplant", "umberto", "test project"]
 
-tools = ["algolia", "r", "rstudio", "github", "gitlab", "git", "travis", "appveyor", "codecov"]
+tools = ["algolia", "r", "rstudio", "github", "gitlab", "git", "travis", "appveyor", "codecov", "umberto"]
 
 projects = ["smartplant"]
 
@@ -38,6 +38,12 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+links = [
+{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.umberto"},
+{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.umberto"}, 
+{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.umberto/blob/master/LICENSE"},
+]
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

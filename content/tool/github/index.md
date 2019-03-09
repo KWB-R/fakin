@@ -9,7 +9,7 @@ authors = ["rustler", "sonnenberg", "menz", "seis", "matzinger",
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["programming", "reproducibility", "version control", "collaboration", 
-"publication", "repository", "web hosting"]
+"publication", "repository", "web hosting", "best practices"]
 
 # Project summary to display on homepage.
 summary = "Collaborative Code Repository"
