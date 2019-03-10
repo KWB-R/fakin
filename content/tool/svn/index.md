@@ -10,7 +10,7 @@ authors = ["rustler", "sonnenberg", "caradot", "matzinger", "riechel", "stapf",
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["programming", "reproducibility", "version control", "best practices"]
 
-projects = ["aquanes", "demoware"]
+projects = ["aquanes", "demoware", "dwc", "flusshygiene", "networks4"]
 
 # Project summary to display on homepage.
 summary = "Our Version Control System for (internally) tracking source code"

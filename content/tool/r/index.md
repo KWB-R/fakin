@@ -9,6 +9,7 @@ authors = ["sonnenberg", "rustler", "matzinger", "caradot",  "riechel", "stapf",
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["programming", "reproducibility", "r", "rstats", "data analysis"]
 
+projects = ["aquanes", "demoware", "dwc", "flusshygiene", "networks4", "geosalz", "smartplant"]
 
 # Project summary to display on homepage.
 summary = "The R Project for Statistical Computing"

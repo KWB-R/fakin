@@ -8,6 +8,7 @@ authors = ["rustler", "sonnenberg", "matzinger", "riechel", "stapf", "weispfenni
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["programming", "reproducibility", "version control", "best practices"]
 
+projects = ["aquanes", "flusshygiene", "geosalz", "smartplant"]
 # Project summary to display on homepage.
 summary = "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
 

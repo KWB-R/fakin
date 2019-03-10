@@ -8,7 +8,7 @@ draft = false
 tags = ["microsoft", "excel", "spreadsheets", "best practices", "data carpentry", 
 "elearning", "data analysis"]
 
-projects = ["geosalz", "smartplant"]
+projects = ["dwc", "geosalz", "smartplant"]
 
 codes = ["kwb.lca", "kwb.geosalz", "kwb.readxl"]
 

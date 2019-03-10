@@ -11,6 +11,8 @@ authors = ["rustler", "sonnenberg", "menz", "seis", "matzinger",
 tags = ["programming", "reproducibility", "version control", "collaboration", 
 "publication", "repository", "web hosting", "best practices"]
 
+projects = ["aquanes", "demoware", "flusshygiene", "networks4", "geosalz", "smartplant"]
+
 # Project summary to display on homepage.
 summary = "Collaborative Code Repository"
 

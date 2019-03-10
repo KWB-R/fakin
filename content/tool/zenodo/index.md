@@ -11,7 +11,7 @@ tags = ["backup", "doi", "publication", "long term storage", "repository", "best
 
 codes = ["kwb.pkgstatus", "kwb.pkgbuild"]
 
-projects = ["aquanes", "geosalz"]
+projects = ["aquanes", "demoware", "geosalz", "optiwells2"]
 
 # Project summary to display on homepage.
 summary = "Zenodo is a general-purpose open-access repository. It allows researchers to deposit data sets, research software, reports, and any other research related digital artifacts."
