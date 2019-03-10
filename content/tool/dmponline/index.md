@@ -12,7 +12,7 @@ tags = ["data management plan", "best practices", "project proposal", "project m
 projects = ["dwc"]
 
 # Project summary to display on homepage.
-summary = "[DMPonline]https://dmponline.dcc.ac.uk/] helps you to create, review, and share data management plans that meet institutional and funder requirements."
+summary = "[DMPonline](https://dmponline.dcc.ac.uk/) helps you to create, review, and share data management plans that meet institutional and funder requirements."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
