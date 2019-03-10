@@ -54,5 +54,5 @@ links = [{icon_pack = "fas", icon="home", name="Umberto Software", url = "https:
 +++
 
 [Umberto](https://www.ifu.com/en/umberto/) is a software for material flow management and material flow analyses. At KWB it is used for modelling in life 
-cycle assessment projects, e.g. [Smart-Plant](../project/smartplant/).
+cycle assessment projects, e.g. [Smart-Plant](../../project/smartplant/).
 
