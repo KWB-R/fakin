@@ -1,13 +1,13 @@
 +++
 title = "kwb.fakin"
-date = 2019-02-12T01:11:33+01:00
+date = 2018-05-28T00:00:00+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "r package", "fakin", "research data management"]
 
-tools = ["algolia"]
+tools = ["zenodo"]
 
 
 # Project summary to display on homepage.

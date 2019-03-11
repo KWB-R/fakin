@@ -143,7 +143,7 @@
   translation: Location
 
 - id: pub_uncat
-  translation: Uncategorized
+  translation: Code
 
 - id: pub_conf
   translation: Conference paper
