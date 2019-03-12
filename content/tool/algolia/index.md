@@ -7,7 +7,7 @@ draft = false
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["search", "knowledge repo", "website", "documentation"]
 
-codes = ["kwb.base", "kwb.code", "kwb.db", "kwb.endnote", "kwb.fakin", "kwb.file", "kwb.monitoring", "kwb.orcid", "kwb.pkgbuild", "kwb.pkgmeta", "kwb.pkgstatus", "kwb.pubs", "kwb.qmra",
+codes = ["algoliar", "kwb.base", "kwb.code", "kwb.db", "kwb.endnote", "kwb.fakin", "kwb.file", "kwb.monitoring", "kwb.orcid", "kwb.pkgbuild", "kwb.pkgmeta", "kwb.pkgstatus", "kwb.pubs", "kwb.qmra",
 "kwb.read", "kwb.resilience", "kwb.umberto", "kwb.utils", "kwb.wtaq"]
 
 # Project summary to display on homepage.
