@@ -6,6 +6,7 @@ before_script:
   - apt-get -y install libxml2-dev libcurl4-openssl-dev libssl-dev
   - apt-get -y install texlive-latex-recommended
   - R -e "install.packages(c('remotes','zip', 'RefManageR'), repos='http://cran.rstudio.com')"
+  - R -e "remotes::install_github('kwb-r/algoliar')"
   - R -e "remotes::install_github('rstudio/blogdown')"
   - R -e "blogdown::install_hugo()"
 
