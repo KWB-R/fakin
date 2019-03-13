@@ -229,7 +229,7 @@ Die `r keine_ahnung$n` Teilnehmer (`r keine_ahnung$percent` Prozent) die mit
 **`r keine_ahnung$Antwort`** antworteten, sind vermutlich der knapp bemessenen 
 Bearbeitungszeit geschuldet. Dadurch war es Einzelnen nicht möglich sich mit der 
 Thematik in der ausreichenden Tiefe auseinander zu setzen (vgl. Kommentare von 
-user_id = 24 in Tab. 5/6, sowie user_id = 21 in Tab. 7).
+user_id = 24 in Tab. 5 und Tab. 6; user_id = 15 in Tab. 4; user_id = 21 in Tab. 7).
 
 *Tab. 5: Bedarfsanalyse: KWB Wissensspeicher (Frage 9)*
 ```{r, echo= FALSE, results='as.is'}
