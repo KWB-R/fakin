@@ -189,6 +189,7 @@ get_note_text <- function(note) {
 
 ```
 
+**Antwort:**
 Insgesamt wird der [FAKIN Wissensspeicher](../../) mit der **Schulnote `r get_note_text(note)`** (Note: `r round(note, 2)`) bewertet (Tab. 3).
 
 *Tab. 3: Schulnoten für FAKIN Wissensspeicher* 
@@ -223,6 +224,7 @@ wichtig_sehrwichtig <- colSums(w2[!is_unkown, c("n", "percent")])
 keine_ahnung <- w2[is_unkown, ]
 ```
 
+**Antwort:**
 Die Schaffung eines KWB Wissensspeichers wird von **`r round(wichtig_sehrwichtig[2],0)` Prozent** der Teilnehmer als **`r wichtig$Antwort`** (`r round(wichtig$percent,0)` Prozent) oder sogar **`r sehr_wichtig$Antwort`** (`r round(sehr_wichtig$percent,0)` Prozent) eingestuft (Tab. 5).
 
 Die `r keine_ahnung$n` Teilnehmer (`r keine_ahnung$percent` Prozent) die mit 
@@ -251,6 +253,8 @@ knitr::kable(comments_w2)
 **Frage:** Welche Frage die der [FAKIN Wissensspeicher](../../) noch nicht beantwortet 
 sollte dir ein KWB Wissensspeicher beantworten? Welche Datenquelle müsste dazu 
 angezapft werden?
+
+**Antwort:**
 
 *Tab. 7: Wünsche an KWB Wissensspeicher (Frage 10)*
 
