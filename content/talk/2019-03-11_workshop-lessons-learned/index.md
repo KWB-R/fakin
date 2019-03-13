@@ -66,6 +66,7 @@ url_code = ""
 links = [
 {icon_pack = "fas", icon = "file-pdf", name = "Slides", url = "lessons_learnt_v1.0.pdf"}, 
 {icon_pack = "fas", icon = "file-pdf", name = "Result: FAKIN knowledge repo survey", url = "Umfrage_642247_Der_FAKIN_Wissensspeicher_v1.0.pdf"}, 
+{icon_pack = "fas", icon = "blog", name = "Blog: survey results", url = "post/workshop-lessons-learnt/"},
 ]
 
 # Does the content use math formatting?
