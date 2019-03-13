@@ -105,16 +105,29 @@ write.csv2(res_w2, "res_w2.csv",row.names = FALSE)
 
 ### Statistik
 
-Tabelle 1: *Suchspiel-Ergebnisse (F1-F7). n: Anzahl der abgegebenen Antworten. Die im Vergleich zur Teilnehmerzahl (13) manchmal höheren Antwortzahlen sind durch die Multiple-Choice Aufgaben mit mehreren richtigen Lösungen zu erklären.*
-```{r, echo= FALSE, results='asis'}
+```{r, echo= FALSE}
 ergebnisse <- read.csv("Umfrage_642247_Der_FAKIN_Wissensspeicher_v1.0.csv",
                        stringsAsFactors = FALSE)
 
 ergebnisse <- ergebnisse[order(ergebnisse$prozent_richtig,decreasing = TRUE),]
+```
 
+Beeindruckend an dem Suchspielergebnis (Tab. 1) ist, dass die über alle sieben 
+Fragen gewichtete prozentuale korrekte Antwortwahrscheinlichkeit mit `r round(sum(ergebnisse$prozent_richtig*ergebnisse$n/sum(ergebnisse$n)),1)`
+Prozent unglaublich hoch ausfällt. Vor allem wenn man bedenkt, dass die meisten 
+Umfrageteilnehmer die recht komplexe(n) Website(s) (FAKIN-Wissenspeicher: > 600 Seiten, 
+KWB-Publikationsprototyp: > 700 Seiten) vorher nie gesehen hatten und sie zudem 
+unter enormen Zeitdruck standen (für die Bearbeitung waren maximal 30 Minuten 
+vorgesehen).
+
+Tab. 1: *Suchspiel-Ergebnisse (F1-F7). n: Anzahl der abgegebenen Antworten. Die im Vergleich zur Teilnehmerzahl (13) manchmal höheren Antwortzahlen sind durch die Multiple-Choice Aufgaben mit mehreren richtigen Lösungen zu erklären.*
+```{r, echo= FALSE, results='asis'}
 knitr::kable(ergebnisse[,c("id", "frage", "prozent_richtig", "n")],
              row.names = FALSE)
 ```
+
+
+
 
 ### Kommentare 
 
