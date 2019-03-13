@@ -2,7 +2,7 @@
 title: "Lessons-learnt: Auswertung der FAKIN Wissenspeicher Umfrage"
 authors: 
   - rustler
-date: '2019-03-12'
+date: '2019-03-13'
 output:
   html_document
 categories:
@@ -113,14 +113,14 @@ ergebnisse <- ergebnisse[order(ergebnisse$prozent_richtig,decreasing = TRUE),]
 ```
 
 Beeindruckend an dem Suchspielergebnis (Tab. 1) ist, dass die über alle sieben 
-Fragen gewichtete prozentuale korrekte Antwortwahrscheinlichkeit mit `r round(sum(ergebnisse$prozent_richtig*ergebnisse$n/sum(ergebnisse$n)),1)`
-Prozent unglaublich hoch ausfällt. Vor allem wenn man bedenkt, dass die meisten 
+Fragen gewichtete prozentuale korrekte Antwortwahrscheinlichkeit mit **`r round(sum(ergebnisse$prozent_richtig*ergebnisse$n/sum(ergebnisse$n)),1)` Prozent** 
+unglaublich hoch ausfällt. Vor allem wenn man bedenkt, dass die meisten 
 Umfrageteilnehmer die recht komplexe(n) Website(s) (FAKIN-Wissenspeicher: > 600 Seiten, 
 KWB-Publikationsprototyp: > 700 Seiten) vorher nie gesehen hatten und sie zudem 
 unter enormen Zeitdruck standen (für die Bearbeitung waren maximal 30 Minuten 
 vorgesehen).
 
-Tab. 1: *Suchspiel-Ergebnisse (F1-F7). n: Anzahl der abgegebenen Antworten. Die im Vergleich zur Teilnehmerzahl (13) manchmal höheren Antwortzahlen sind durch die Multiple-Choice Aufgaben mit mehreren richtigen Lösungen zu erklären.*
+*Tab. 1: Suchspiel-Ergebnisse (F1-F7). Anzahl der abgegebenen Antworten (n). Für zwei Fragen (F2, F4) waren jeweils drei Antworten richtig.*
 ```{r, echo= FALSE, results='asis'}
 knitr::kable(ergebnisse[,c("id", "frage", "prozent_richtig", "n")],
              row.names = FALSE)
@@ -131,6 +131,7 @@ knitr::kable(ergebnisse[,c("id", "frage", "prozent_richtig", "n")],
 
 ### Kommentare 
 
+ 
 ```{r, echo= FALSE,warning=FALSE,message=FALSE}
 comments <- readr::read_csv2("statistic-survey642247_comments_v1.0.csv")
 
@@ -150,9 +151,36 @@ Ziel des FAKIN Wissensspeichers ist Verknüpfungen zu den im Projekt beteiligten
 
 **Statistik**
 
-```{r, echo= FALSE, results='as.is'}
+```{r, echo= FALSE}
 w1 <- read.csv2("res_w1.csv")
 
+note <- round(sum(w1$mark*w1$n/sum(w1$n)), 2) 
+
+
+get_note_text <- function(note) {
+  
+  note_rounded <- round(note,0)
+  ifelse(note_rounded == 1, 
+                    "Sehr gut",
+                    ifelse(note_rounded == 2, 
+                    "Gut", 
+                    ifelse(note_rounded == 3,
+                    "Befriedigend",
+                    ifelse(note_rounded == 4, 
+                    "Ausreichend",
+                    ifelse(note_rounded == 5,
+                    "Ungenügend", 
+                    "Mangelhaft")))))
+
+}
+
+
+```
+
+Insgesamt wird die der FAKIN Wissenspeicher mit der **Schulnote `r get_note_text(note)`** (Note: `r round(note, 2)`) bewertet (Tab. 2).
+
+*Tab. 2: Schulnoten für Wissenspeicher* 
+```{r, echo= FALSE, results='as.is'}
 knitr::kable(w1)
 ```
 
@@ -167,13 +195,30 @@ knitr::kable(comments_w1)
 
 ### Frage W2
 
-Der FAKIN Wissensspeicher ist ein Prototyp. Eine Skalierung auf das KWB ist innerhalb von FAKINaufgrund fehlender Personalresourcen (für die Erstellung standen 20 Personentage zur Verfügung) nicht möglich. Wie wichtig wäre es dir dass es einen solchen Wissenspeicher für das KWB gibt?
+Der FAKIN Wissensspeicher ist ein Prototyp. Eine Skalierung auf das KWB ist innerhalb von FAKIN aufgrund fehlender Personalresourcen (für die Erstellung standen 20 Personentage zur Verfügung) nicht möglich. Wie wichtig wäre es dir dass es einen solchen Wissenspeicher für das KWB gibt?
 
 **Statistik**
 
 ```{r, echo= FALSE}
 w2 <- read.csv2("res_w2.csv")
 
+is_unkown <- w2$Antwort == "Keine Ahnung"
+wichtig <- w2[w2$Antwort == "Wichtig", ]
+sehr_wichtig <- w2[w2$Antwort == "Sehr wichtig", ]
+wichtig_sehrwichtig <- colSums(w2[!is_unkown, c("n", "percent")])
+keine_ahnung <- w2[is_unkown, ]
+```
+
+Die Schaffung eines KWB Wissensspeichers wird von **`r round(wichtig_sehrwichtig[2],0)` Prozent** der Teilnehmer als **`r wichtig$Antwort`** (`r round(wichtig$percent,0)` Prozent) oder sogar **`r sehr_wichtig$Antwort`** (`r round(sehr_wichtig$percent,0)` Prozent) eingestuft (Tab. 3).
+
+Die `r keine_ahnung$n` Teilnehmer (`r keine_ahnung$percent` Prozent) die mit 
+**`r keine_ahnung$Antwort`** antworteten, sind vermutlich der knapp bemessenen 
+Bearbeitungszeit geschuldet. Dadurch war es Einzelnen nicht möglich sich mit der 
+Thematik in der ausreichenden Tiefe auseinander zu setzen (vgl. Kommentare von 
+user_id = 24).
+
+*Tab. 3: Bedarfsanalyse KWB-Wissenspeicher*
+```{r, echo= FALSE, results='as.is'}
 knitr::kable(w2)
 ```
 
