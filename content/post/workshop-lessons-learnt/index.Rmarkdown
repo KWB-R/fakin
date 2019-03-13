@@ -106,6 +106,8 @@ Tabelle 1: *Suchspiel-Ergebnisse (F1-F7). n: Anzahl der abgegebenen Antworten. D
 ergebnisse <- read.csv("Umfrage_642247_Der_FAKIN_Wissensspeicher_v1.0.csv",
                        stringsAsFactors = FALSE)
 
+ergebnisse <- ergebnisse[order(ergebnisse$prozent_richtig,decreasing = TRUE),]
+
 knitr::kable(ergebnisse[,c("id", "frage", "prozent_richtig", "n")])
 ```
 
