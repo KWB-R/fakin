@@ -1,5 +1,5 @@
 ---
-title: "Lesson-learnt: Auswertung der FAKIN Wissenspeicher Umfrage"
+title: "Lessons-learnt: Auswertung der FAKIN Wissenspeicher Umfrage"
 authors: 
   - rustler
 date: '2019-03-12'
@@ -14,6 +14,9 @@ tags:
   - survey
   - knowledge repo
 ---
+
+Die Analyse basiert auf 13 Umfragebögen die innerhalb des Workshops komplett 
+ausgefüllt wurden (Stand 11.03.2019 12:00).
 
 ```{r, echo= FALSE, eval = FALSE}
 remotes::install_github("cloudyr/limer")
