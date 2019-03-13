@@ -115,9 +115,7 @@ ergebnisse <- ergebnisse[order(ergebnisse$prozent_richtig,decreasing = TRUE),]
 Beeindruckend an dem Suchspielergebnis (Tab. 1) ist, dass die über alle sieben 
 Fragen gewichtete prozentuale korrekte Antwortwahrscheinlichkeit mit **`r round(sum(ergebnisse$prozent_richtig*ergebnisse$n/sum(ergebnisse$n)),1)` Prozent** 
 unglaublich hoch ausfällt. Vor allem wenn man bedenkt, dass die meisten 
-Umfrageteilnehmer die recht komplexe(n) Website(s) (FAKIN-Wissenspeicher: > 600 Seiten, 
-KWB-Publikationsprototyp: > 700 Seiten) vorher nie gesehen hatten und sie zudem 
-unter enormen Zeitdruck standen (für die Bearbeitung waren maximal 30 Minuten 
+Umfrageteilnehmer die recht komplexe(n) Website(s) ([FAKIN-Wissenspeicher](https://kwb-r.gitlab.io/fakin): > 600 Seiten, [KWB Publikationsprototyp](https://kwb-r.gitlab.io/pubs): > 700 Seiten) vorher nie gesehen hatten und sie zudem unter enormen Zeitdruck standen (für die Bearbeitung waren maximal 30 Minuten 
 vorgesehen).
 
 *Tab. 1: Suchspiel-Ergebnisse (F1-F7). Anzahl der abgegebenen Antworten (n). Für zwei Fragen (F2, F4) waren jeweils drei Antworten richtig.*
