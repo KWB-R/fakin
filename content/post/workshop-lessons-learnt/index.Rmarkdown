@@ -15,8 +15,9 @@ tags:
   - knowledge repo
 ---
 
-Die Analyse basiert auf 13 Umfragebögen die innerhalb des Workshops komplett 
-ausgefüllt wurden (Stand 11.03.2019 12:00).
+Die Analyse basiert auf dem Rücklauf von insgesamt 17 Umfragebögen (davon 4 
+teilweise und 13 vollständig ausgefüllt), die bis kurz vor dem Ende des 
+Workshops bearbeitet wurden (*Stand: 11.03.2019 12:00*).
 
 ```{r, echo= FALSE, eval = FALSE}
 remotes::install_github("cloudyr/limer")
