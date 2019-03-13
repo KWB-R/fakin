@@ -55,7 +55,8 @@ url_slides = "2017-06-01_FDM-Netzwerk_FAKIN_Kompetenzen.pdf"
 url_video = ""
 url_code = ""
 
-links = [{name = "Blog: event summary", url = "post/fdm-netzwerk/"}]
+links = [
+{icon_pack = "fas", icon = "blog", name = "Blog: event summary", url = "post/fdm-netzwerk/"}]
 
 # Does the content use math formatting?
 math = true

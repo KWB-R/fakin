@@ -59,7 +59,9 @@ url_code = ""
 #links = [{name = "Result: PM interviews mindmap", url = "mindmap_interviews_with_project-managers_v1.0.pdf"}, 
 #{name = "Result: survey comments", url = "survey_comments.pdf"}
 #]
-links = [{name = "Blog: event summary", url = "post/barcamp-open-science/"}]
+links = [
+{icon_pack = "fas", icon = "blog", name = "Blog: event summary", url = "post/barcamp-open-science/"}
+]
 
 # Does the content use math formatting?
 math = true

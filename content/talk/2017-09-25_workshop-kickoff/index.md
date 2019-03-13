@@ -53,15 +53,16 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = "2017-09-25_workshop-kickoff_v1.0.pdf"
+url_slides = ""
 url_video = ""
 url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Result: TOP3 RDM topics at KWB (PDF)", url = "top3-rdm-topics-at-kwb.pdf"}, 
-{name = "Result: TOP3 RDM topics at KWB (Blog)", url = "post/workshop-kickoff/"},
-{name = "Result: survey comments", url = "survey_comments.pdf"}
+links = [
+{icon_pack = "fas", icon = "file-pdf", name = "Slides", url = "2017-09-25_workshop-kickoff_v1.0.pdf"}, 
+{icon_pack = "fas", icon = "file-pdf", name = "Result: TOP3 RDM topics at KWB (PDF)", url = "top3-rdm-topics-at-kwb.pdf"}, 
+{icon_pack = "fas", icon = "file-pdf", name =  "Result: survey comments", url = "survey_comments.pdf"}, 
 ]
 
 # Does the content use math formatting?
