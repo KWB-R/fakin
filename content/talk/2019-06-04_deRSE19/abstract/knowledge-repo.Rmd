@@ -112,7 +112,7 @@ files <- c("knowledge-repo.Rmd",
            "references.bib",
            "README.txt")
 
-zip <- zip::zip(zipfile = "source_code_pdf.zip", 
+zip <- zip::zipr(zipfile = "source_code_pdf.zip", 
                 files = files,
                 compression_level = 9.9)
 ```
