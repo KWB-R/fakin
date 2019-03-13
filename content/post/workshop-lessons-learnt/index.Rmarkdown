@@ -160,7 +160,7 @@ knitr::kable(comments_f)
 
 ## Bewertung FAKIN Wissensspeicher
 
-**Frage:** Ziel des [FAKIN Wissensspeichers](../../) ist es Verknüpfungen zu den im Projekt beteiligten [Personen](../../#people), [Testprojekten](../../#projects), erstelltem [Code](../../#code), [Vorträgen (Workshops)](../../talk/), [Publikationen](../../publication/) und verwendeten [Tools](../../#tools) zu erstellen. Durch Sammlung aller Informationen an einem Ort, diesen Verknüpfungen und einer fortschrittlichen [Suchfunktion](../../tool/algolia), soll es sehr einfach sein Wissen zu finden. Wie gut ist dies deiner Meinung nach gelungen?
+**Frage:** Ziel des [FAKIN Wissensspeichers](../../) ist es Verknüpfungen zu den im Projekt beteiligten [Personen](../../#people), [Testprojekten](../../#projects), erstelltem [Code](../../#code), [Vorträgen (Workshops)](../../talk/), [Publikationen](../../publication/) und verwendeten [Tools](../../#tool) zu erstellen. Durch Sammlung aller Informationen an einem Ort, diesen Verknüpfungen und einer fortschrittlichen [Suchfunktion](../../tool/algolia), soll es sehr einfach sein Wissen zu finden. Wie gut ist dies deiner Meinung nach gelungen?
 
 
 ```{r, echo= FALSE}
