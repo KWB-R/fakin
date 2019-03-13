@@ -1,22 +1,107 @@
 ---
-title: "Lesson-learnt: Auswertung FAKIN Wissenspeicher Umfrage"
+title: "Lesson-learnt: Auswertung der FAKIN Wissenspeicher Umfrage"
 authors: 
   - rustler
 date: '2019-03-12'
 output:
   html_document
 categories:
+  - survey 
   - workshop
 tags:
   - communication internal
   - workshop
+  - survey
   - knowledge repo
 ---
+
+```{r, echo= FALSE, eval = FALSE}
+remotes::install_github("cloudyr/limer")
+library(limer)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(plotrix)
+
+lime_login <- read.csv(file = "user_account.csv", stringsAsFactors = FALSE)
+
+
+# Setup API details
+options(lime_api = lime_login$api)
+options(lime_username = lime_login$user)
+options(lime_password = lime_login$pw)
+
+get_session_key()
+
+
+# Do stuff with LimeSurvey API
+umfragen <- call_limer(method = "list_surveys")
+
+fakin_index <- grep("Wissensspeicher", umfragen$surveyls_title) 
+
+fakin_umfrage <- umfragen[fakin_index, ]
+
+
+responses <- get_responses(fakin_umfrage$sid,
+                           sLanguageCode = "de"
+                           )  # Get results from survey
+
+
+responses_workshop <- responses %>%  
+  dplyr::filter(as.Date(submitdate) == "2019-03-11") 
+
+
+create_marks_school <- function(x) {
+  dplyr::case_when(
+  x == "Sehr gut"  ~ 1,
+  x == "Gut"  ~ 2,
+  x == "Befriedigend"  ~ 3,
+  x == "Ausreichend"  ~ 4,
+  x == "Mangelhaft"  ~ 6,
+  TRUE ~ 5
+)
+}
+
+res_w1 <- responses_workshop %>%  
+  dplyr::count(.data$W1) %>%  
+  dplyr::arrange(dplyr::desc(.data$n)) %>%  
+  dplyr::rename("Antwort" = "W1") %>%  
+  dplyr::mutate(percent = 100*.data$n/sum(.data$n),
+                mark = create_marks_school(.data$Antwort))
+
+write.csv2(res_w1, "res_w1.csv",row.names = FALSE)
+
+
+create_importance <- function(x) {
+  dplyr::case_when(
+    x == "Sehr wichtig"  ~ 1,
+    x == "Wichtig"  ~ 2,
+    x == "Unwichtig"  ~ 3,
+    x == "Keine Ahnung"  ~ 5,
+    TRUE ~ 4
+  )
+}
+
+
+res_w2 <- responses_workshop %>%  
+  dplyr::count(.data$W2) %>%  
+  dplyr::arrange(dplyr::desc(.data$n)) %>%  
+  dplyr::rename("Antwort" = "W2") %>%  
+  dplyr::mutate(percent = round(100*.data$n/sum(.data$n), 1),
+                order = create_importance(.data$Antwort)) %>%  
+  dplyr::arrange(.data$order) %>%  
+  dplyr::select(-.data$order)
+
+write.csv2(res_w2, "res_w2.csv",row.names = FALSE)
+
+```
 
 
 ## Suchspiel (Fragen F1 - F7) 
 
-Tabelle 1: *Suchspiel-Ergebnisse (F1-F7). n: Anzahl der abgegebenen Antworten. Die im Vergleich zur Teilnehmerzahl (13) manchmal h\u00FCheren Antwortzahlen sind durch die Multiple-Choice Aufgaben mit mehreren richtigen Lösungen zu erkl\u00E4en.*
+### Statistik
+
+Tabelle 1: *Suchspiel-Ergebnisse (F1-F7). n: Anzahl der abgegebenen Antworten. Die im Vergleich zur Teilnehmerzahl (13) manchmal höheren Antwortzahlen sind durch die Multiple-Choice Aufgaben mit mehreren richtigen Lösungen zu erklären.*
 ```{r, echo= FALSE, results='asis'}
 ergebnisse <- read.csv("Umfrage_642247_Der_FAKIN_Wissensspeicher_v1.0.csv",
                        stringsAsFactors = FALSE)
@@ -24,28 +109,71 @@ ergebnisse <- read.csv("Umfrage_642247_Der_FAKIN_Wissensspeicher_v1.0.csv",
 knitr::kable(ergebnisse[,c("id", "frage", "prozent_richtig", "n")])
 ```
 
+### Kommentare 
+
+```{r, echo= FALSE,warning=FALSE,message=FALSE}
+comments <- readr::read_csv2("statistic-survey642247_comments_v1.0.csv")
+
+comments_f <- comments[grepl(pattern = "^F", comments$question_id), ] 
+
+knitr::kable(comments_f)
+
+```
+
+
 ## Wissensskalierung (Fragen W1 - W3)
 
 ### Frage W1
 
 Ziel des FAKIN Wissensspeichers ist Verknüpfungen zu den im Projekt beteiligten Personen, Testprojekten, erstelltem Code, Vorträgen (Workshops), Publikationen und verwendeten Tools zu erstellen. Durch Sammlung aller Informationen an einem Ort, diesen Verknüpfungen und einer fortschrittlichen Suchfunktion, soll es sehr einfach sein Wissen zu finden. Wie gut ist dies deiner Meinung nach gelungen?
 
-```{r, echo= FALSE, out.width = "900px"}
 
+**Statistik**
+
+```{r, echo= FALSE, results='as.is'}
+w1 <- read.csv2("res_w1.csv")
+
+knitr::kable(w1)
 ```
+
+**Kommentare**
+
+```{r, echo= FALSE, results='as.is'}
+comments_w1 <- comments[grepl(pattern = "^W1", comments$question_id), ] 
+
+knitr::kable(comments_w1)
+```
+
 
 ### Frage W2
 
 Der FAKIN Wissensspeicher ist ein Prototyp. Eine Skalierung auf das KWB ist innerhalb von FAKINaufgrund fehlender Personalresourcen (für die Erstellung standen 20 Personentage zur Verfügung) nicht möglich. Wie wichtig wäre es dir dass es einen solchen Wissenspeicher für das KWB gibt?
 
-```{r, echo= FALSE}
+**Statistik**
 
+```{r, echo= FALSE}
+w2 <- read.csv2("res_w2.csv")
+
+knitr::kable(w2)
 ```
+
+**Kommentare**
+
+```{r, echo= FALSE, results='as.is'}
+comments_w2 <- comments[grepl(pattern = "^W2", comments$question_id), ] 
+
+knitr::kable(comments_w2)
+```
+
 
 ### Frage W3
 
 Welche Frage die der FAKIN Wissenspeicher noch nicht beantwortet sollte dir ein KWB-Wissenspeicher beantworten? Welche Datenquelle müsste dazu angezapft werden?
 
-```{r, echo= FALSE}
+**Kommentare**
 
+```{r, echo= FALSE, results='as.is'}
+comments_w3 <- comments[grepl(pattern = "^W3", comments$question_id), ] 
+
+knitr::kable(comments_w3)
 ```
