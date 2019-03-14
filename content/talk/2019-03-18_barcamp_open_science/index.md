@@ -85,11 +85,11 @@ Knowledge Repo: An Innovative Way For Sharing Knowledge At An Institutional Leve
 *Suggested by:* 
 [Michael Rustler](../../authors/rustler/), [Hauke Sonnenberg](../../authors/sonnenberg/) ([Kompetenzzentrum Wasser Berlin gGmbH](https://kompetenz-wasser.de))
 
-Implementing a (pre-)reproducible ([Stark, 2018](https://www.nature.com/articles/d41586-018-05256-0)) 
-(open) science workflow ([Thorpe, 2019](https://osf.io/thvef/)) at an institutional 
-level is very challenging, as it requires that researchers do not only have the 
-sufficient skills (e.g. programming) but also know a myriad of tools (e.g. version 
-control software, virtual machines, containers, metadata, repositories). 
+Implementing a [(pre-)reproducible](https://www.nature.com/articles/d41586-018-05256-0)
+(open) science workflow at an institutional level is very challenging, as it 
+requires that researchers do not only have the sufficient skills (e.g. programming) 
+but also know a [myriad of tools](https://osf.io/thvef/) (e.g. version control 
+software, virtual machines, containers, metadata, repositories). 
 
 While learning some these skills/tools can be sometimes outsourced to elearning 
 plattforms (e.g. [DataCamp](../../tool/datacamp/), [Open Science MOOC](../../tool/mooc/), 
