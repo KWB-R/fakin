@@ -29,7 +29,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = "https://github.com/KWB-R/kwb.pkgbuild"
+url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
@@ -38,7 +38,11 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
-
+links = [
+{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.pkgbuild"},
+{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/KWB-R/kwb.pkgbuild"}, 
+{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/kwb.pkgbuild/blob/master/LICENSE"},
+]
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
@@ -57,7 +61,7 @@ style, the following resources are avaiable:
 
 - **Tutorials**
     
-    + [How to install KWB-R packages?](https://kwb-r.github.io/kwb.pkgbuild/articles/tutorial.html)
+    + [How to install KWB-R packages?](https://kwb-r.github.io/kwb.pkgbuild/articles/install.html)
     
     + [Create an KWB-R package from scratch](https://kwb-r.github.io/kwb.pkgbuild/articles/tutorial.html)
     
