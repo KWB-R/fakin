@@ -13,10 +13,10 @@ time_end = 2019-03-18T18:00:00
 authors = ["rustler", "sonnenberg"]
 
 # Abstract and optional shortened version.
-abstract = "Connect with the open-science community"
+abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "Connect with the open-science community"
 
 # Name of event and optional event URL.
 event = "Barcamp Open Science"
@@ -61,7 +61,8 @@ url_code = ""
 #]
 links = [
 {name = "Link to Barcamp", url = "https://www.open-science-conference.eu/barcamp/"},
-{name = "Link to Registration", url = "https://www.eventbrite.com/e/barcamp-open-science-tickets-55216091817"}
+{name = "Link to Registration", url = "https://www.eventbrite.com/e/barcamp-open-science-tickets-55216091817"},
+{icon_pack = "fas", icon = "edit", name = "Etherpad: Session Proposals", url = "https://etherpad.wikimedia.org/p/oscibar2019_session_proposals"},
 ]
 
 # Does the content use math formatting?
@@ -78,4 +79,39 @@ math = true
   focal_point = "Right"
 +++
 
+**Proposed Session Title:** 
+Knowledge Repo: An Innovative Way For Sharing Knowledge At An Institutional Level 
 
+*Suggested by:* 
+[Michael Rustler](../../authors/rustler/), [Hauke Sonnenberg](../../authors/sonnenberg/) ([Kompetenzzentrum Wasser Berlin gGmbH](https://kompetenz-wasser.de))
+
+Implementing a (pre-)reproducible ([Stark, 2018](https://www.nature.com/articles/d41586-018-05256-0)) 
+(open) science workflow ([Thorpe, 2019](https://osf.io/thvef/)) at an institutional 
+level is very challenging, as it requires that researchers do not only have the 
+sufficient skills (e.g. programming) but also know a myriad of tools (e.g. version 
+control software, virtual machines, containers, metadata, repositories). 
+
+While learning some these skills/tools can be sometimes outsourced to elearning 
+plattforms (e.g. [DataCamp](../../tool/datacamp/), [Open Science MOOC](../../tool/mooc/), 
+[The Turing Way](https://software.ac.uk/blog/2019-03-05-turing-way-open-source-resource-promoting-best-practice-reproducible-research)), knowledge exchange at an institutional level (Who? Where? 
+What? When?) is often informal. Consequently staff fluctuation leads to a loss of 
+knowledge as processes and decisions are documented insufficiently.
+
+Creating a knowledge repository helps formalising the documentation process. We
+tested a workflow for creating a knowledge repo within our BMBF funded project [FAKIN](https://www.kompetenz-wasser.de/en/project/fakin-research-data-management/). 
+Information from different sources (e.g. [DataCamp](../../tool/datacamp/), 
+[GitHub](../../tool/github/), [Zenodo](../../tool/zenodo/) and [Endnote](../../tool/endnote/)) 
+are collected, links between different objects (e.g. [code](../../#code), 
+[projects](../../#projects), [people](../../#people), [publications](../../publication/), 
+[tools](../../#tool)) are generated and stored at one place. The structure is simple and allows 
+adding content in the form of text file templates. Everything is based on open-source 
+tools and services such as [R](../../tool/r/)([Studio](../../tool/rstudio/)), [Hugo](../../tool/hugo/) and [GitHub](../../tool/github/)/[GitLab](../../tool/gitlab/).
+
+We would like to present our approach, compare it to similar tools we know 
+([AirBnB knowledge repo](https://github.com/airbnb/knowledge-repo),
+[TIB Vivo](https://vivo.tib.eu/fis/)) and discuss with you whether you experience 
+similar challenges and how you are trying to solve these at your (small) research 
+institute.
+
+**Contact:**
+    [Michael Rustler](../../authors/rustler/) (project manager [FAKIN](https://www.kompetenz-wasser.de/en/project/fakin-research-data-management/), [Kompetenzzentrum Wasser Berlin gGmbH](https://kompetenz-wasser.de)) 
