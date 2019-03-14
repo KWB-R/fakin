@@ -12,4 +12,4 @@ Rscript -e "blogdown::build_site()"
 # These variables are defined in the GitLab CI as 
 # protected environment variables, configured at:
 # https://gitlab.com/KWB-R/fakin/settings/ci_cd/
-Rscript -e "algoliar::algolia_post_batch(algoliar::create_config())"
+Rscript -e "algoliar::algolia_post_batch()"
