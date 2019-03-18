@@ -73,7 +73,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Sara-Isabella Behrens**](https://twitter.com/SIBehrens/status/1107642033097846786)"
+  caption = "Image credit: [**Sarah-Isabella Behrens**](https://twitter.com/SIBehrens/status/1107642033097846786)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
