@@ -1,12 +1,12 @@
 +++
-title = "Barcamp Open Science 2019"
-date = 2019-02-16T13:00:00  # Schedule page publish date.
+title = "Knowledge Repo: An Innovative Way For Sharing Knowledge At An Institutional Level"
+date = 2019-02-16T14:45:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-03-18T09:30:00
-time_end = 2019-03-18T18:00:00
+time_start = 2019-03-18T14:45:00
+time_end = 2019-03-18T15:30:00
 #all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ authors = ["rustler", "sonnenberg"]
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Connect with the open-science community"
+summary = "Chaining Open-Source Tools For Scaling Knowledge"
 
 # Name of event and optional event URL.
 event = "Barcamp Open Science"
@@ -38,7 +38,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["networking", "open science", "barcamp"]
+tags = ["networking", "open science", "barcamp", "session", "knowledge repo"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -60,9 +60,10 @@ url_code = ""
 #{name = "Result: survey comments", url = "survey_comments.pdf"}
 #]
 links = [
+{icon_pack = "fas", icon = "broadcast-tower", name = 'OpenScienceRadio Interview', url = "http://www.openscienceradio.org/2019/03/18/osr148-knowledge-repo-an-innovative-way-for-sharing-knowledge-at-an-institutional-level-oscibar-en/"},
+{icon_pack = "fas", icon = "edit", name = 'Etherpad: Session 10 "Knowledge Repo"', url = "https://etherpad.wikimedia."},
+{icon_pack = "fas", icon = "edit", name = "Etherpad: Sessions Metapad", url = "https://etherpad.wikimedia.org/p/oscibar2019"},
 {name = "Link to Barcamp", url = "https://www.open-science-conference.eu/barcamp/"},
-{name = "Link to Registration", url = "https://www.eventbrite.com/e/barcamp-open-science-tickets-55216091817"},
-{icon_pack = "fas", icon = "edit", name = "Etherpad: Session Proposals", url = "https://etherpad.wikimedia.org/p/oscibar2019_session_proposals"},
 ]
 
 # Does the content use math formatting?
@@ -72,18 +73,12 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption = "Image credit: [**Sara-Isabella Behrens**](https://twitter.com/SIBehrens/status/1107642033097846786)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-
-**Proposed Session Title:** 
-Knowledge Repo: An Innovative Way For Sharing Knowledge At An Institutional Level 
-
-*Suggested by:* 
-[Michael Rustler](../../authors/rustler/), [Hauke Sonnenberg](../../authors/sonnenberg/) ([Kompetenzzentrum Wasser Berlin gGmbH](https://kompetenz-wasser.de))
 
 Implementing a [(pre-)reproducible](https://www.nature.com/articles/d41586-018-05256-0)
 (open) science workflow at an institutional level is very challenging, as it 
@@ -97,21 +92,12 @@ plattforms (e.g. [DataCamp](../../tool/datacamp/), [Open Science MOOC](../../too
 What? When?) is often informal. Consequently staff fluctuation leads to a loss of 
 knowledge as processes and decisions are documented insufficiently.
 
-Creating a knowledge repository helps formalising the documentation process. We
-tested a workflow for creating a knowledge repo within our BMBF funded project [FAKIN](https://www.kompetenz-wasser.de/en/project/fakin-research-data-management/). 
+Creating a knowledge repository helps formalising the documentation process. We tested a workflow for creating a knowledge repo within our BMBF funded project [FAKIN](https://www.kompetenz-wasser.de/en/project/fakin-research-data-management/). 
 Information from different sources (e.g. [DataCamp](../../tool/datacamp/), 
 [GitHub](../../tool/github/), [Zenodo](../../tool/zenodo/) and [Endnote](../../tool/endnote/)) 
 are collected, links between different objects (e.g. [code](../../#code), 
 [projects](../../#projects), [people](../../#people), [publications](../../publication/), 
-[tools](../../#tool)) are generated and stored at one place. The structure is simple and allows 
-adding content in the form of text file templates. Everything is based on open-source 
-tools and services such as [R](../../tool/r/)([Studio](../../tool/rstudio/)), [Hugo](../../tool/hugo/) and [GitHub](../../tool/github/)/[GitLab](../../tool/gitlab/).
+[tools](../../#tool)) are generated and stored at one place. The structure is simple and allows adding content in the form of text file templates. Everything is based on open-source tools and services such as [R](../../tool/r/)([Studio](../../tool/rstudio/)), [Hugo](../../tool/hugo/) and [GitHub](../../tool/github/)/[GitLab](../../tool/gitlab/).
 
-We would like to present our approach, compare it to similar tools we know 
-([AirBnB knowledge repo](https://github.com/airbnb/knowledge-repo),
-[TIB Vivo](https://vivo.tib.eu/fis/)) and discuss with you whether you experience 
-similar challenges and how you are trying to solve these at your (small) research 
-institute.
-
-**Contact:**
-    [Michael Rustler](../../authors/rustler/) (project manager [FAKIN](https://www.kompetenz-wasser.de/en/project/fakin-research-data-management/), [Kompetenzzentrum Wasser Berlin gGmbH](https://kompetenz-wasser.de)) 
+We would like to present our approach, compare it to similar tools we know ([AirBnB knowledge repo](https://github.com/airbnb/knowledge-repo),
+[TIB Vivo](https://vivo.tib.eu/fis/)) and discuss with you whether you experience similar challenges and how you are trying to solve these at your (small) research institute.
