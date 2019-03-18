@@ -61,7 +61,7 @@ url_code = ""
 #]
 links = [
 {icon_pack = "fas", icon = "broadcast-tower", name = 'OpenScienceRadio Interview', url = "http://www.openscienceradio.org/2019/03/18/osr148-knowledge-repo-an-innovative-way-for-sharing-knowledge-at-an-institutional-level-oscibar-en/"},
-{icon_pack = "fas", icon = "edit", name = 'Etherpad: Session 10 "Knowledge Repo"', url = "https://etherpad.wikimedia."},
+{icon_pack = "fas", icon = "edit", name = 'Etherpad: Session 10 "Knowledge Repo"', url = "https://etherpad.wikimedia.org/oscibar2019_session10"},
 {icon_pack = "fas", icon = "edit", name = "Etherpad: Sessions Metapad", url = "https://etherpad.wikimedia.org/p/oscibar2019"},
 {name = "Link to Barcamp", url = "https://www.open-science-conference.eu/barcamp/"},
 ]
