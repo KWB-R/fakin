@@ -7,7 +7,7 @@ draft = false
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["r", "rstats", "r package", "knowledge repo", "codemeta", "metadata", "code analysis"]
 
-tools = ["git", "github"]
+tools = ["github", "codemeta"]
 
 # Project summary to display on homepage.
 summary = "R Package for meta-analysis of KWB-R packages on Github"

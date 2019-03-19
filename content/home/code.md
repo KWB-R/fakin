@@ -124,6 +124,10 @@ filter_default = 0
   tag = "literature data management"
 
 [[filter]]
+  name = "Metadata"
+  tag = "metadata"
+
+[[filter]]
   name = "Modelling"
   tag = "modelling"
 

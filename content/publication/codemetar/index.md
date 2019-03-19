@@ -6,7 +6,9 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["boettiger", "salmon", "sonnenberg", "rustler"]
 
-tool = ["codemeta"]
+code = ["pkgmeta"]
+
+tools = ["codemeta"]
 
 # Publication type.
 # Legend:
