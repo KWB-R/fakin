@@ -28,7 +28,7 @@ abstract = "This document is the outcome of the KWB project  [FAKIN](http://www.
 summary = "This document is the outcome of the KWB project [FAKIN](http://www.kompetenz-wasser.de/en/project/fakin-research-data-management)(Forschungsdatenmanagement an kleinen Instituten = research data management at small institutes)."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
