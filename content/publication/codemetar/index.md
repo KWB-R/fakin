@@ -30,7 +30,7 @@ abstract = "The 'Codemeta' Project defines a 'JSON-LD' format for describing sof
 summary = "Generate 'CodeMeta' Metadata for R Packages"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
