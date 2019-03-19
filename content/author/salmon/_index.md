@@ -94,7 +94,7 @@ user_groups = ["Collaborators"]
 [[social]]
   icon = "home"
   icon_pack = "fas"
-  link = "maelle.salmon@yahoo.se"
+  link = "https://masalmon.eu/"
 
 
 [[social]]
