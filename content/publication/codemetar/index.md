@@ -4,7 +4,7 @@ date = 2019-03-12T00:00:00+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["boettiger", "salmon", "sonnenberg", "rustler"]
+authors = ["boettiger", "salmon", "sonnenberg", "Noam Ross", "Katrin Leinweber", "Arfon Smith", "Sebastian Meyer", "rustler", "Kara Woo", "Anna Krystalli"]
 
 code = ["pkgmeta"]
 
