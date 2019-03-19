@@ -61,6 +61,10 @@ filter_default = 0
 [[filter]]
   name = "Learning"
   tag = "learning"
+
+[[filter]]
+  name = "Metadata"
+  tag = "metadata"
   
 [[filter]]
   name = "Programming"
