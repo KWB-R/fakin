@@ -14,7 +14,7 @@ authors = ["rustler", "sonnenberg", "sprenger",  "jaehrig", "kraus",
 "loderer",  "matzinger", "menz", "miehe", "schubert", "tatis-muvdi", "remy", "rouault"]
 
 # Abstract and optional shortened version.
-abstract = "What is FAKIN? What is rearch data management? Identify and prioritize topics to be adressed within FAKIN together with KWB colleagues."
+abstract = "What is FAKIN? What is research data management? Identify and prioritize topics to be adressed within FAKIN together with KWB colleagues."
 
 # Summary. An optional shortened abstract.
 summary = "Identify and prioritize topics to be adressed within FAKIN"

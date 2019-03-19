@@ -14,7 +14,9 @@ tools = ["erc", "zenodo"]
 codes = ["kwb.qmra"]
 
 # Project summary to display on homepage.
-summary = "Reproducibility check for [Quantitative Microbial Risk Assessment](https://doi.org/10.5281/zenodo.159527) with [Executable Research Compendium](tool/erc/) tool of [o2r project](https://o2r.info)"
+abstract = "Reproducibility check for [Quantitative Microbial Risk Assessment](https://doi.org/10.5281/zenodo.159527) with [Executable Research Compendium](../../tool/erc/) tool of [o2r project](https://o2r.info)"
+
+summary = "Reproducibility check for [Quantitative Microbial Risk Assessment](https://doi.org/10.5281/zenodo.159527) with Executable Research Compendium tool of [o2r project](https://o2r.info)"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
