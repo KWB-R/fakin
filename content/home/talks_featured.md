@@ -7,7 +7,7 @@ widget = "featured"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Upcoming Workshop"
+title = "Last Talk"
 subtitle = ""
 
 [content]
