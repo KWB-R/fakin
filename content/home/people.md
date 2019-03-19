@@ -14,7 +14,8 @@ weight = 65
 user_groups = [
 "Team FAKIN",
 "Test Projects",
-"Communication (internal)"
+"Communication (internal)",
+"Collaborators"
 ]
 
 +++
