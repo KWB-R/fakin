@@ -68,6 +68,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [
+{icon_pack = "ai", icon = "doi", name = "Zenodo DOI", url = "https://doi.org/10.5281/zenodo.2598516"}
 {icon_pack = "fas", icon="book", name="Documentation", url = "https://ropensci.github.io/codemetar/"},
 {icon_pack = "fab", icon="r-project", name="R Package (CRAN)", url = "https://cran.r-project.org/web/packages/codemetar/index.html"},
 {icon_pack = "fab", icon="github", name="Code (GitHub)", url = "https://github.com/ropensci/codemetar"},
