@@ -72,7 +72,7 @@ links = [
 {icon_pack = "fas", icon="book", name="Documentation", url = "https://ropensci.github.io/codemetar/"},
 {icon_pack = "fab", icon="r-project", name="R Package (CRAN)", url = "https://cran.r-project.org/web/packages/codemetar/index.html"},
 {icon_pack = "fab", icon="github", name="Code (GitHub)", url = "https://github.com/ropensci/codemetar"},
-{icon_pack = "fas", icon="tools", name="Tool: codemeta", url = "../../tool/codemeta"},
+{icon_pack = "fas", icon="tools", name="Tool: codemeta", url = "../tool/codemeta"},
 ]
 
 # Digital Object Identifier (DOI)
