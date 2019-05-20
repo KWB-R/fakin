@@ -161,7 +161,7 @@ sharing = true
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [search.algolia]
-    app_id = "E1754RDY70"
-    api_key = "7386773932721c8bc25032cb88f4c4ab"
+    app_id = "U4K60679EQ"
+    api_key = "231e8d91fcfe323848d11e2a641fe151"
     index_name = "fakin"
     show_logo = true
