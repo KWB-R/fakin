@@ -2,9 +2,9 @@
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   {{/* APA Style */}}
-  {{ if eq ($.Site.Params.publications.citation_style | default "apa") "apa" }}
+  {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
-  <span itemprop="author">
+  <span itemprop="author" class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" . }}
   </span>
   ({{- .Date.Format "2006" -}}).
@@ -14,12 +14,12 @@
   {{ else if .Params.publication }}
   {{- .Params.publication | markdownify -}}.
   {{ end }}
-  <p>{{ partial "page_links" (dict "content" . "is_list" 1) }}</p>
+  <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
   {{/* MLA Style */}}
   {{ else }}
 
-  <span itemprop="author">
+  <span itemprop="author" class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" . }}
   </span>.
   <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>.
@@ -29,7 +29,7 @@
   {{- .Params.publication | markdownify -}},
   {{ end }}
   {{- .Date.Format "2006" -}}.
-  <p>{{ partial "page_links" (dict "content" . "is_list" 1) }}</p>
+  <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
   {{ end }}
 </div>

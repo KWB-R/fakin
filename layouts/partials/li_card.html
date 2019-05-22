@@ -12,15 +12,6 @@
 {{ else if eq $item.Type "publication" }}
   {{ $microdata_type = "ScholarlyArticle" }}
   {{ $show_buttons = true }}
-{{ else if eq $item.Type "app" }}
-  {{ $microdata_type = "App" }}
-  {{ $show_buttons = true }}
-{{ else if eq $item.Type "code" }}
-  {{ $microdata_type = "Code" }}
-  {{ $show_buttons = true }}
-{{ else if eq $item.Type "tool" }}
-  {{ $microdata_type = "Tool" }}
-  {{ $show_buttons = true }}
 {{ end }}
 
 {{/* Get summary. */}}
@@ -45,12 +36,12 @@
     </div>
     {{ end }}
     <span itemprop="startDate">
-      {{ $date := $item.Params.time_start | default $item.Date }}
-      {{ (time $date).Format $.Site.Params.date_format }}
+      {{ $date := $item.Date }}
+      {{ (time $date).Format site.Params.date_format }}
       {{ if not $item.Params.all_day }}
-        {{ (time $date).Format ($.Site.Params.time_format | default "3:04 PM") }}
-        {{ with .Params.time_end }}
-        &mdash; {{ (time .).Format ($.Site.Params.time_format | default "3:04 PM") }}
+        {{ (time $date).Format (site.Params.time_format | default "3:04 PM") }}
+        {{ with $item.Params.date_end }}
+        &mdash; {{ (time .).Format (site.Params.time_format | default "3:04 PM") }}
         {{ end }}
       {{ end }}
     </span>
@@ -60,7 +51,7 @@
     {{ end }}
   </div>
   {{ else }}
-    {{ partial "page_metadata" (dict "content" $item "is_list" 1) }}
+    {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
   {{ end }}
 
   {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
@@ -84,7 +75,7 @@
 
   {{ if $show_buttons }}
   <div class="btn-links">
-    {{ partial "page_links" (dict "content" $item "is_list" 1) }}
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
   </div>
   {{ end }}
 
