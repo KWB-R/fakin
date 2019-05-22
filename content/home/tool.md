@@ -8,15 +8,9 @@ weight = 47  # Order that this section will appear.
 title = "Tools"
 subtitle = "used within FAKIN"
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "tool"
-
-
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "tool"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

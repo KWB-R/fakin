@@ -8,15 +8,9 @@ weight = 49  # Order that this section will appear.
 title = "App"
 subtitle = ""
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "app"
-
-
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "app"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

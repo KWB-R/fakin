@@ -8,14 +8,9 @@ weight = 50  # Order that this section will appear.
 title = "Code"
 subtitle = ""
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "code"
-
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "code"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
