@@ -1,13 +1,16 @@
 +++
 title = "Workshop #4 (external): Project closure"
-date = 2019-07-16T09:00:00  # Schedule page publish date.
-draft = false
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-07-25T10:00:00
-time_end = 2019-07-25T13:00:00
-#all_day = false
+date: "2019-07-25T10:00:00Z"
+date_end: "22019-07-25T13:00:00Z"
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: "2017-07-16T00:00:00Z"
+
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["rustler", "sonnenberg", "schwarzmueller", "sprenger"]
