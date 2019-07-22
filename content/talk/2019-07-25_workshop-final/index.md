@@ -1,6 +1,6 @@
 +++
 title = "Workshop #4 (external): Project closure"
-date = 2019-07-16T09:00:00  # Schedule page publish date.
+date = 2019-07-25T10:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
