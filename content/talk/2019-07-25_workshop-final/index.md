@@ -5,7 +5,7 @@ title = "Workshop #4 (external): Project closure"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-07-25T10:00:00Z"
-date_end: "22019-07-25T13:00:00Z"
+date_end: "2019-07-25T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
