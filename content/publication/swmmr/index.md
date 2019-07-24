@@ -4,7 +4,7 @@ date = 2019-03-19T00:00:00+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dominik Leutnant", "", "sonnenberg"]
+authors = ["Dominik Leutnant", "Anneke Döring", "sonnenberg"]
 
 
 # Publication type.
@@ -49,7 +49,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["metadata", "codemeta", "r package", "collaboration external"]
+tags = ["modelling", "r package", "collaboration external"]
 
 # Links (optional).
 url_pdf = ""
@@ -65,11 +65,8 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [
-{icon_pack = "ai", icon = "doi", name = "Zenodo DOI", url = "https://doi.org/10.5281/zenodo.2598516"},
-{icon_pack = "fas", icon="book", name="Documentation", url = "https://ropensci.github.io/codemetar/"},
-{icon_pack = "fab", icon="r-project", name="R Package (CRAN)", url = "https://cran.r-project.org/web/packages/codemetar/index.html"},
-{icon_pack = "fab", icon="github", name="Code (GitHub)", url = "https://github.com/ropensci/codemetar"},
-{icon_pack = "fas", icon="tools", name="Tool: codemeta", url = "../../tool/codemeta"},
+{icon_pack = "fab", icon="r-project", name="R Package (CRAN)", url = "https://cran.r-project.org/web/packages/swmmr/index.html"},
+{icon_pack = "fab", icon="github", name="Code (GitHub)", url = "https://github.com/dleutnant/swmmr"},
 ]
 
 # Digital Object Identifier (DOI)
