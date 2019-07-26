@@ -13,7 +13,7 @@ publishDate = "2017-07-16T00:00:00Z"
 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["rustler", "sonnenberg", "schwarzmueller", "sprenger"]
+authors = ["rustler", "sonnenberg"]
 
 
 # Abstract and optional shortened version.
@@ -28,7 +28,7 @@ event = "Workshop, external (Kompetenzzentrum Wasser Berlin gGmbH)"
 event_url = ""
 
 # Location of event.
-location = "Conference room, Komptenzzentrum Wasser Berlin, Cicerostr. 24, 10709 Berlin"
+location = "Conference room, Kompetenzzentrum Wasser Berlin, Cicerostr. 24, 10709 Berlin"
 
 # Is this a featured talk? (true/false)
 featured = true
@@ -43,7 +43,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["communication external", "workshop", "lessons learnt", "test project", "qms", "knowledge repo", "best practices", "survey"]
+tags = ["communication external", "workshop", "lessons learnt", "test project", "qms", "knowledge repo", "best practices", "survey", "path analysis"]
 
 
 
@@ -68,6 +68,7 @@ url_code = ""
 #]
 links = [
 {icon_pack = "fas", icon = "file-pdf", name = "Agenda", url = "FAKIN_einladung-abschlussworkshop_v1.0.pdf"},
+{icon_pack = "fas", icon = "file-pdf", name = "Documentation", url = "fakin_abschlussworkshop_dokumentation_v1.0.pdf"},
 ]
 
 # Does the content use math formatting?
@@ -77,7 +78,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption = "Image credit: [**Bodo Weigert, KWB**](https://twitter.com/kompetenzwasser/status/1154300689532751872)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

@@ -21,7 +21,16 @@ date_format = "January 2, 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "[Workshop #3 (internal): Lessons-Learnt](talk/2019-03-11_workshop-lessons-learned)"
+  title = "[Workshop #4 (external): Project Closure](talk/2019-07-25_workshop-final)"
+  organization = ""
+  certificate_url = ""
+  date_start = "2019-07-25"
+  date_end = ""
+  description = "WP 3: Communication"
+
+
+[[item]]
+  title = "[Workshop #3 (internal): Lessons-Learned](talk/2019-03-11_workshop-lessons-learned)"
   organization = ""
   certificate_url = ""
   date_start = "2019-03-11"
