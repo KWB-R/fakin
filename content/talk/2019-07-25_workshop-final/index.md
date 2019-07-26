@@ -67,7 +67,7 @@ url_code = ""
 #{name = "Result: survey comments", url = "survey_comments.pdf"}
 #]
 links = [
-{icon_pack = "fas", icon = "file-pdf", name = "Agenda", url = "FAKIN_einladung-abschlussworkshop_v1.0.pdf"},
+{icon_pack = "fas", icon = "file-pdf", name = "Agenda", url = "fakin_einladung-abschlussworkshop_v1.0.pdf"},
 {icon_pack = "fas", icon = "file-pdf", name = "Documentation", url = "fakin_abschlussworkshop_dokumentation_v1.0.pdf"},
 ]
 
