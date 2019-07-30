@@ -123,6 +123,10 @@ subtitle = ""
 [[content.filter_button]]
   name = "Pilot Plants"  
   tag = "pilot plant"
+  
+[[content.filter_button]]
+  name = "Path analysis"  
+  tag = "path analysis"
 
 [[content.filter_button]]
   name = "Publication"
