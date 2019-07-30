@@ -36,7 +36,7 @@ url_poster = ""
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 links = [
 {icon_pack = "fas", icon="code", name = "Code", url = "https://github.com/KWB-R/fakin.path.app"}, 
-{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/fakin.path.app/blob/LICENSE.md"}, 
+{icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/fakin.path.app/blob/master/LICENSE"}, 
 {icon_pack = "fas", icon="book", name="Documentation", url = "https://kwb-r.github.io/fakin.path.app/"},
 {icon_pack = "fab", icon="r-project", name="Related App", url = "app/fakin.path.app/"}
 ]
