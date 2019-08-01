@@ -1,5 +1,4 @@
-{{ partial "header.html" . }}
-{{ partial "navbar.html" . }}
+{{- define "main" -}}
 
 <article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
@@ -13,6 +12,8 @@
 
     {{ partial "tags.html" . }}
     {{ partial "page_author.html" . }}
+
+    {{ partial "comments" . }}
 
     {{ $page := . }}
     {{ $project := .File.ContentBaseName }}
@@ -73,5 +74,4 @@
 </div>
 {{ end }}
 
-{{ partial "footer_container.html" . }}
-{{ partial "footer.html" . }}
+{{- end -}}

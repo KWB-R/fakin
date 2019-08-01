@@ -1,7 +1,6 @@
 {{/* Author profile page. */}}
 
-{{ partial "header.html" . }}
-{{ partial "navbar.html" . }}
+{{- define "main" -}}
 
 {{/* If an account has not been created for this user, just display their name as the title. */}}
 {{ if not .File }}
@@ -34,9 +33,8 @@
         {{ end }}
       </ul>
     </div>
+    {{ end }}
   </div>
-  {{ end }}
 </section>
 
-{{ partial "footer_container.html" . }}
-{{ partial "footer.html" . }}
+{{- end -}}
