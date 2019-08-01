@@ -1,5 +1,4 @@
-{{ partial "header.html" . }}
-{{ partial "navbar.html" . }}
+{{- define "main" -}}
 
 <article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
@@ -14,17 +13,19 @@
     {{ partial "tags.html" . }}
     {{ partial "page_author.html" . }}
 
+    {{ partial "comments" . }}
+
     {{ $page := . }}
     {{ $code := .File.ContentBaseName }}
 
-    {{ $items := where (where site.RegularPages "Type" "post") "Params.codes" "intersect" (slice $code) }}
-    {{ $count := len $items }}
-    {{ if ge $count 1 }}
-      <h2>{{ (i18n "posts") }}</h2>
+    {{ $items := where (where site.RegularPages "Type" "app") ".Params.code" "intersect" (slice $code) }}
+    {{ $apps_len := len $items }}
+    {{ if ge $apps_len 1 }}
+      <h2>{{ (i18n "apps") }}</h2>
       {{ range $items }}
-        {{ if eq site.Params.projects.post_view 1 }}
+        {{ if eq site.Params.code.app_view 1 }}
           {{ partial "li_list" . }}
-        {{ else if eq site.Params.projects.post_view 3 }}
+        {{ else if eq site.Params.code.app_view 3 }}
           {{ partial "li_card" . }}
         {{ else }}
           {{ partial "li_compact" . }}
@@ -32,16 +33,46 @@
       {{ end }}
     {{ end }}
 
-    {{ $items := where (where site.RegularPages "Type" "publication") "Params.codes" "intersect" (slice $code) }}
+    {{ $items := where (where site.RegularPages "Type" "post") ".Params.code" "intersect" (slice $code) }}
+    {{ $count := len $items }}
+    {{ if ge $count 1 }}
+      <h2>{{ (i18n "posts") }}</h2>
+      {{ range $items }}
+        {{ if eq site.Params.code.post_view 1 }}
+          {{ partial "li_list" . }}
+        {{ else if eq site.Params.code.post_view 3 }}
+          {{ partial "li_card" . }}
+        {{ else }}
+          {{ partial "li_compact" . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ $items := where (where site.RegularPages "Type" "project") ".Params.code" "intersect" (slice $code) }}
+    {{ $project_len := len $items }}
+    {{ if ge $project_len 1 }}
+      <h2>{{ (i18n "projects") }}</h2>
+      {{ range $items }}
+        {{ if eq site.Params.code.project_view 1 }}
+          {{ partial "li_list" . }}
+        {{ else if eq site.Params.code.project_view 3 }}
+          {{ partial "li_card" . }}
+        {{ else }}
+          {{ partial "li_compact" . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ $items := where (where site.RegularPages "Type" "publication") ".Params.code" "intersect" (slice $code) }}
     {{ $pubs_len := len $items }}
     {{ if ge $pubs_len 1 }}
       <h2>{{ (i18n "publications") }}</h2>
       {{ range $items }}
-        {{ if eq site.Params.projects.publication_view 1 }}
+        {{ if eq site.Params.code.publication_view 1 }}
           {{ partial "li_list" . }}
-        {{ else if eq site.Params.projects.publication_view 3 }}
+        {{ else if eq site.Params.code.publication_view 3 }}
           {{ partial "li_card" . }}
-        {{ else if eq site.Params.projects.publication_view 4 }}
+        {{ else if eq site.Params.code.publication_view 4 }}
           {{ partial "li_citation" . }}
         {{ else }}
           {{ partial "li_compact" . }}
@@ -49,14 +80,14 @@
       {{ end }}
     {{ end }}
 
-    {{ $items := where (where site.RegularPages "Type" "talk") "Params.codes" "intersect" (slice $code) }}
+    {{ $items := where (where site.RegularPages "Type" "talk") ".Params.code" "intersect" (slice $code) }}
     {{ $talks_len := len $items }}
     {{ if ge $talks_len 1 }}
       <h2>{{ (i18n "talks") }}</h2>
-      {{ range sort $items ".Params.time_start" "desc" }}
-        {{ if eq site.Params.projects.talk_view 1 }}
+      {{ range $items }}
+        {{ if eq site.Params.code.talk_view 1 }}
           {{ partial "li_list" . }}
-        {{ else if eq site.Params.projects.talk_view 3 }}
+        {{ else if eq site.Params.code.talk_view 3 }}
           {{ partial "li_card" . }}
         {{ else }}
           {{ partial "li_compact" . }}
@@ -64,44 +95,14 @@
       {{ end }}
     {{ end }}
 
-    {{ $items := where (where site.RegularPages "Type" "app") "Params.codes" "intersect" (slice $code) }}
-    {{ $apps_len := len $items }}
-    {{ if ge $apps_len 1 }}
-      <h2>{{ (i18n "apps") }}</h2>
-      {{ range sort $items ".Params.date" "desc" }}
-        {{ if eq site.Params.projects.app_view 1 }}
-          {{ partial "li_list" . }}
-        {{ else if eq site.Params.projects.app_view 3 }}
-          {{ partial "li_card" . }}
-        {{ else }}
-          {{ partial "li_compact" . }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-
-    {{ $items := where (where site.RegularPages "Type" "tool") "Params.codes" "intersect" (slice $code) }}
+    {{ $items := where (where site.RegularPages "Type" "tool") ".Params.code" "intersect" (slice $code) }}
     {{ $tools_len := len $items }}
     {{ if ge $tools_len 1 }}
       <h2>{{ (i18n "tools") }}</h2>
-      {{ range sort $items ".Params.date" "desc" }}
-        {{ if eq site.Params.projects.tool_view 1 }}
+      {{ range $items }}
+        {{ if eq site.Params.code.tool_view 1 }}
           {{ partial "li_list" . }}
-        {{ else if eq site.Params.projects.tool_view 3 }}
-          {{ partial "li_card" . }}
-        {{ else }}
-          {{ partial "li_compact" . }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-
-    {{ $items := where (where site.RegularPages "Type" "project") ".Params.codes" "intersect" (slice $code) }}
-    {{ $codes_len := len $items }}
-    {{ if ge $codes_len 1 }}
-      <h2>{{ (i18n "projects") }}</h2>
-      {{ range sort $items ".Params.date" "desc" }}
-        {{ if eq site.Params.projects.project_view 1 }}
-          {{ partial "li_list" . }}
-        {{ else if eq site.Params.projects.project_view 3 }}
+        {{ else if eq site.Params.code.tool_view 3 }}
           {{ partial "li_card" . }}
         {{ else }}
           {{ partial "li_compact" . }}
@@ -117,5 +118,4 @@
 </div>
 {{ end }}
 
-{{ partial "footer_container.html" . }}
-{{ partial "footer.html" . }}
+{{- end -}}
