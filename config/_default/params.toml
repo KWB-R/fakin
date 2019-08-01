@@ -41,7 +41,7 @@ privacy_pack = true
 
 # Enable visitors to edit pages?
 # `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/kwb-r/fakin", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
