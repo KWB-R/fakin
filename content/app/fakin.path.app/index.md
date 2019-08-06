@@ -39,7 +39,7 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [
-{name = "App", url = "https://mybinder.org/v2/gh/kwb-r/apps/3cc09c4adbca2c10fa549614def114891ad0667c?urlpath=shiny"}, 
+{name = "App", url = "https://mybinder.org/v2/gh/kwb-r/apps/82f25380771b021f6c3a6f326b52e47828863d76?urlpath=shiny"}, 
 {icon_pack = "fas", icon="code", name = "Code", url = "https://github.com/KWB-R/apps/tree/fakin.path.app"}, 
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/apps/blob/fakin.path.app/LICENSE.txt"}, 
 {icon_pack = "fas", icon="book", name="Documentation", url = "https://kwb-r.github.io/fakin.path.app/"},
@@ -62,5 +62,5 @@ links = [
 
 This R Shiny App loads file path information from a file and displays the paths in different ways. The aim of the app is to find weaknesses in the folder structure.
 
-The [app](https://mybinder.org/v2/gh/kwb-r/apps/3cc09c4adbca2c10fa549614def114891ad0667c?urlpath=shiny) 
+The [app](https://mybinder.org/v2/gh/kwb-r/apps/82f25380771b021f6c3a6f326b52e47828863d76?urlpath=shiny) 
 is deployed using the free service [mybinder.org](https://mybinder.org/).
