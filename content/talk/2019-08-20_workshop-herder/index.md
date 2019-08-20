@@ -68,6 +68,8 @@ url_code = ""
 #]
 links = [
 {icon_pack = "fas", icon = "home", name = "Agenda", url = "https://www.herder-institut.de/veranstaltungen/workshops/2019/forschungsdatenmanagement-praktikabel-gestalten.html"},
+{icon_pack = "fas", icon = "file-pdf", name = "Abstract", url =  "workshop_herder_abstract_v1.0.pdf"}, 
+{icon_pack = "fas", icon = "file-pdf", name = "Slides", url =  "workshop_herder_fakin_v1.0.pdf"}, 
 ]
 
 # Does the content use math formatting?
