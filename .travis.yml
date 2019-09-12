@@ -4,7 +4,7 @@ latex: false
 
 branches:
   only:
-    - master
+    - hugo-academic_4.5
 
 cache:
   packages: yes
