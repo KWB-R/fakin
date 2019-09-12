@@ -9,7 +9,7 @@ Rscript -e "blogdown::build_site()"
 # Sys.setenv(algolia_app_id = "my_app_id",
 #            algolia_api_key = "my_api_key",
 #            algolia_index_name = "my_index_name")
-# These variables are defined in the GitLab CI as 
+# These variables are defined in the Travis CI as 
 # protected environment variables, configured at:
-# https://gitlab.com/KWB-R/fakin/settings/ci_cd/
+# https://travis-ci.org/KWB-R/fakin/settings
 Rscript -e "algoliar::algolia_post_batch()"

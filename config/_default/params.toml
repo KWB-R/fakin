@@ -217,9 +217,9 @@ plugins_js  = []
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [search.algolia]
-    app_id = "U4K60679EQ"
-    api_key = "231e8d91fcfe323848d11e2a641fe151"
-    index_name = "fakin"
+    app_id = "FUZHRLXPF4"
+    api_key = "7fb333226a19b1a7af131612dd428928"
+    index_name = "fakin_github"
     show_logo = true
 ############################
 ## Maps

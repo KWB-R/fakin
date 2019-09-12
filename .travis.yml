@@ -3,7 +3,7 @@ dist: xenial
 sudo: true
 branches:
   only:
-    - dev
+    - hugo-academic_4.5
 cache:
   packages: yes
   directories:
