@@ -3,6 +3,7 @@ Package: fakin
 Title: Knowledge Repo For FAKIN Project
 Version: 0.0.1
 Imports: 
+    algoliar,
     blogdown,
     readr,
     remotes,
