@@ -1,6 +1,12 @@
-Package: placeholder
 Type: Website
-Title: Does not matter.
+Package: fakin
+Title: Knowledge Repo For FAKIN Project
 Version: 0.0.1
-Imports: blogdown
-Remotes: rstudio/blogdown
+Imports: 
+    blogdown,
+    readr,
+    remotes,
+    RefManageR,
+    zip
+Remotes: 
+    github::kwb-r/algoliar
