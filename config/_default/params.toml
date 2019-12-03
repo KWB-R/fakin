@@ -137,9 +137,6 @@ address_format = "de"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
-# List delimiter (separates parts of an address)
-# Popular separators are ", " (comma), "<br>" (new line), " " (space)
-list_delimiter = ", "
 
 ############################
 ## Advanced
