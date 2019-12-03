@@ -18,7 +18,7 @@ script:
   - Rscript -e "file.copy('config/_default/config.toml', 'config.toml', overwrite = TRUE)"
 # Generate the website
   - Rscript -e "blogdown::build_site()"
-  - Rscript -e "cat(fs::dir_ls('.'), sep = '\n')"
+  - Rscript -e "cat(fs::dir_ls('./public/'), sep = '\n')"
 # Automate upload of "index.json" to Algolia
 # Sys.setenv(algolia_app_id = "my_app_id",
 #            algolia_api_key = "my_api_key",
