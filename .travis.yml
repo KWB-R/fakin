@@ -14,11 +14,11 @@ cache:
 script:
   - Rscript -e "blogdown::install_hugo(version = '0.58.3', force = TRUE)"
   - Rscript -e "blogdown::hugo_version()"
-  - Rscript -e "cat(fs::dir_ls('.'), sep = '\n')"
 # Copying needed as blogdown expects "config.toml" in root_dir
   - Rscript -e "file.copy('config/_default/config.toml', 'config.toml', overwrite = TRUE)"
 # Generate the website
   - Rscript -e "blogdown::build_site()"
+  - Rscript -e "cat(fs::dir_ls('.'), sep = '\n')"
 # Automate upload of "index.json" to Algolia
 # Sys.setenv(algolia_app_id = "my_app_id",
 #            algolia_api_key = "my_api_key",
