@@ -4,7 +4,7 @@ latex: false
 
 branches:
   only:
-    - hugo-academic_4.5
+    - hugo-academic_4.6.2
 
 cache:
   packages: yes
@@ -32,5 +32,5 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_PAT
   on:
-    branch: hugo-academic_4.5
+    branch: hugo-academic_4.6.2
   local_dir: public
