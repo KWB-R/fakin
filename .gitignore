@@ -7,5 +7,3 @@ public
 config.toml
 github_packages.pdf
 github_packages_by_testproject.pdf
-index.json
-test.json
