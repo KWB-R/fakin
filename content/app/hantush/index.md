@@ -32,11 +32,11 @@ url_poster = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [
-{name = "App", url = "https://mybinder.org/v2/gh/kwb-r/apps/wtaqWeb?urlpath=shiny"}, 
-{icon_pack = "fas", icon="code", name = "Code", url = "https://github.com/KWB-R/apps/tree/wtaqWeb"}, 
+{name = "App", url = "https://mybinder.org/v2/gh/kwb-r/apps/hantush?urlpath=shiny"}, 
+{icon_pack = "fas", icon="code", name = "Code", url = "https://github.com/KWB-R/apps/tree/hantush"}, 
 {icon_pack = "fas", icon="copyright", name="MIT License", url = "https://github.com/KWB-R/apps/blob/hantush/LICENSE.txt"}, 
-{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.hantush/dev/articles/shiny-app.html#english"},
-{icon_pack = "fab", icon="r-project", name="Related R Package", url = "code/kwb.wtaq/"}
+{icon_pack = "fas", icon="book", name="Documentation", url = "http://kwb-r.github.io/kwb.hantush/articles/shiny-app.html#english"},
+{icon_pack = "fab", icon="r-project", name="Related R Package", url = "code/kwb.hantush/"}
 ]
 
 
@@ -53,7 +53,7 @@ links = [
 
 ### Calculation of Groundwater Mounding Beneath an Infiltration Basin
 
-The [app](https://mybinder.org/v2/gh/kwb-r/apps/wtaqWeb?urlpath=shiny) is deployed 
+The [app](https://mybinder.org/v2/gh/kwb-r/apps/hantush?urlpath=shiny) is deployed 
 using the free service [mybinder.org](https://mybinder.org/).
 
 **Important note:** in order to see the plot in the tab **Explore** (see 
