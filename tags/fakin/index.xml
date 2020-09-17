@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fakin | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/fakin/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/fakin/index.xml" rel="self" type="application/rss+xml" />
+    <description>fakin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>fakin</title>
+      <link>https://kwb-r.github.io/fakin/tags/fakin/</link>
+    </image>
+    
+    <item>
+      <title>App: pathana</title>
+      <link>https://kwb-r.github.io/fakin/app/fakin.path.app/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/fakin.path.app/</guid>
+      <description>&lt;h3 id=&#34;pathana-an-interactive-tool-for-path-analysis&#34;&gt;Pathana: an interactive tool for path analysis&lt;/h3&gt;
+&lt;p&gt;This R Shiny App loads file path information from a file and displays the paths in different ways. The aim of the app is to find weaknesses in the folder structure.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/fakin.path.app?urlpath=shiny&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fakin.path.app</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin.path.app/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin.path.app/</guid>
+      <description>&lt;p&gt;This R package contains an R Shiny App that loads file path information from a
+file and displays the paths in different ways. The aim of the app is to find
+weaknesses in the folder structure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>algoliar</title>
+      <link>https://kwb-r.github.io/fakin/code/algoliar/</link>
+      <pubDate>Tue, 12 Mar 2019 11:52:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/algoliar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.code</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.code/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:40 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.pkgstatus</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.pkgstatus/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:39 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.pkgstatus/</guid>
+      <description>&lt;p&gt;R Package for Checking KWB Package Status (e.g. generating &lt;a href=&#34;https://kwb-r.github.io/status&#34;&gt;https://kwb-r.github.io/status&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fakin.doc</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin.doc/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin.doc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fakin.blog</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin.blog/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:26 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin.blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb-r.github.io</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb-r.github.io/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:22 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb-r.github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fakin</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin/</link>
+      <pubDate>Tue, 01 Jan 2019 09:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin/</guid>
+      <description>&lt;p&gt;Source code for FAKIN project website for FAKIN project based on &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;academic&lt;/a&gt; theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo.io&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.endnote</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.endnote/</link>
+      <pubDate>Fri, 21 Dec 2018 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.endnote/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R Package For Analysing KWB Endnote Library (Exported As .XML)&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pubs</title>
+      <link>https://kwb-r.github.io/fakin/code/pubs/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/pubs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Proof-Of-Concept Prototype For KWB Publication Website.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Linking people, publications (in KWB &lt;a href=&#34;../../tool/endnote&#34;&gt;Endnote&lt;/a&gt; database) and projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.twitter</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.twitter/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App: hantush</title>
+      <link>https://kwb-r.github.io/fakin/app/hantush/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/hantush/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-mounding-beneath-an-infiltration-basin&#34;&gt;Calculation of Groundwater Mounding Beneath an Infiltration Basin&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/hantush?urlpath=shiny&#34;&gt;app&lt;/a&gt; is deployed
+using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important note:&lt;/strong&gt; in order to see the plot in the tab &lt;strong&gt;Explore&lt;/strong&gt; (see
+screenshot abovce) it is necessary to enable the checkbox &lt;strong&gt;Details&lt;/strong&gt; once after
+starting the app.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/code/datacamp/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/datacamp/</guid>
+      <description>&lt;p&gt;R package for checking &lt;a href=&#34;../../tool/datacamp/&#34;&gt;Datacamp&lt;/a&gt; use at KWB. It also provides an overview on available courses, skill and career tracks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.umberto</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.umberto/</link>
+      <pubDate>Sun, 12 Aug 2018 01:11:38 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.umberto/</guid>
+      <description>&lt;h1 id=&#34;helper-functions-for-data-import-aggregation-and-visualisation-of-umbertohttpswwwifucomumberto-model-output&#34;&gt;Helper functions for data import, aggregation and visualisation of &lt;a href=&#34;https://www.ifu.com/umberto/&#34;&gt;UMBERTO&lt;/a&gt; model output.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.lca</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.lca/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.lca/</guid>
+      <description>&lt;h1 id=&#34;functions-to-be-used-in-life-cycle-assessment-lca-projects&#34;&gt;Functions to Be Used in Life Cycle Assessment (LCA) Projects&lt;/h1&gt;
+&lt;p&gt;This package contains a function to read LCA parameters from an Excel file that was sent to and received from a project partner. The parameters are read into a data frame. Another function can be used to write the dataframe into an Excel file with different sheets and data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App: aquanes.report</title>
+      <link>https://kwb-r.github.io/fakin/app/aquanes.report/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/aquanes.report/</guid>
+      <description>&lt;h3 id=&#34;automated-reporting-tool-for-water-suppliers&#34;&gt;Automated Reporting Tool for Water Suppliers&lt;/h3&gt;
+&lt;p&gt;The massive amounts of data from sensors, which is usually recorded in a high
+temporal resolution (up to every second) is challenging for data processing and
+visualisation. Especially if standard tools like MS EXCEL are used, which are
+not well suited for such tasks to data import restrictions (e.g. rows per
+spreadsheet limited to maximum 1 million rows in MS EXCEL 2010) or missing
+built-in features for data aggregation (e.g. calculating one hour median values
+from the raw data).
+In addition operational data often needs to be combined with analytical data
+(usually with a temporal resolution of days to weeks) for example in order to
+(1) assess the impact of the plant’s operation scheme (e.g. flow rate) on its
+performance for reducing specific substances or for (2) calculating substance
+loads (by multiplying substance concentrations with flow rates)&lt;/p&gt;
+&lt;p&gt;Within the AQUANES project – in order to address the above challenges for
+small companies or wa-ter operators – a data visualization and reporting tool
+was developed with the software R (&lt;a href=&#34;http://www.r-project.org&#34;&gt;www.r-project.org&lt;/a&gt;), which enables the user to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Explore online and offline data at different temporal aggregation levels (e.g.
+raw data or 10 minutes median values)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create automated reports not only including the raw (online/offline) data but
+also with more advanced calculations combining different online and/or offline
+data (e.g. specific en-ergy demand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a first step, the R reporting tool was implemented and tested for the AQUANES site Haridwar,
+which is used to demonstrate the functionality of the app.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/aquanes.report?urlpath=shiny/haridwar/&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.orcid</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.orcid/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.orcid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.pkgbuild</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.pkgbuild/</link>
+      <pubDate>Tue, 12 Jun 2018 01:11:39 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.pkgbuild/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R package for Automating R package development at KWB to a Predefined Style&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For details on how to create your own R package skeleton to the predefined KWB-R
+style, the following resources are avaiable:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.pkgbuild/articles/install.html&#34;&gt;How to install KWB-R packages?&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.pkgbuild/articles/tutorial.html&#34;&gt;Create an KWB-R package from scratch&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Code examples&lt;/strong&gt;: for an overview on R scripts used to either create a new R
+package from scratch or to standardise an already existing R package, have a look at &lt;a href=&#34;https://github.com/KWB-R/kwb.pkgbuild/issues/26&#34;&gt;https://github.com/KWB-R/kwb.pkgbuild/issues/26&lt;/a&gt;. In case you successfully used
+&lt;a href=&#34;https://github.com/kwb-r/kwb.pkgbuild/&#34;&gt;kwb.pkgbuild&lt;/a&gt; it would be great if you
+could add your R script to this &lt;a href=&#34;https://github.com/KWB-R/kwb.pkgbuild/issues/26&#34;&gt;showcase&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.file</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.file/</link>
+      <pubDate>Mon, 28 May 2018 01:11:35 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.fakin</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.fakin/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.fakin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

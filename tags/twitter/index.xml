@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>twitter | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/twitter/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <description>twitter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>twitter</title>
+      <link>https://kwb-r.github.io/fakin/tags/twitter/</link>
+    </image>
+    
+    <item>
+      <title>kwb.twitter</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.twitter/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.twitter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

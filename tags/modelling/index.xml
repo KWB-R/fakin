@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modelling | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/modelling/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>modelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>modelling</title>
+      <link>https://kwb-r.github.io/fakin/tags/modelling/</link>
+    </image>
+    
+    <item>
+      <title>swmmr</title>
+      <link>https://kwb-r.github.io/fakin/publication/swmmr/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/swmmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App: hantush</title>
+      <link>https://kwb-r.github.io/fakin/app/hantush/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/hantush/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-mounding-beneath-an-infiltration-basin&#34;&gt;Calculation of Groundwater Mounding Beneath an Infiltration Basin&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/hantush?urlpath=shiny&#34;&gt;app&lt;/a&gt; is deployed
+using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important note:&lt;/strong&gt; in order to see the plot in the tab &lt;strong&gt;Explore&lt;/strong&gt; (see
+screenshot abovce) it is necessary to enable the checkbox &lt;strong&gt;Details&lt;/strong&gt; once after
+starting the app.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.umberto</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.umberto/</link>
+      <pubDate>Sun, 12 Aug 2018 01:11:38 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.umberto/</guid>
+      <description>&lt;h1 id=&#34;helper-functions-for-data-import-aggregation-and-visualisation-of-umbertohttpswwwifucomumberto-model-output&#34;&gt;Helper functions for data import, aggregation and visualisation of &lt;a href=&#34;https://www.ifu.com/umberto/&#34;&gt;UMBERTO&lt;/a&gt; model output.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App: wtaqWeb</title>
+      <link>https://kwb-r.github.io/fakin/app/wtaqweb/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/wtaqweb/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-drawdown-beneath-an-abstraction-well&#34;&gt;Calculation of Groundwater Drawdown Beneath an Abstraction Well&lt;/h3&gt;
+&lt;p&gt;The drawdown calculation is performed with USGS model &lt;a href=&#34;https://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt;.
+For creating the &lt;a href=&#34;https://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt; input files, running the model and reading the output files the R package
+&lt;a href=&#34;code/kwb.wtaq/&#34;&gt;kwb.wtaq&lt;/a&gt; is used.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/wtaqWeb?urlpath=shiny&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>netWORKS4</title>
+      <link>https://kwb-r.github.io/fakin/project/networks4/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/networks4/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../../authors/matzinger/&#34;&gt;Andreas Matzinger&lt;/a&gt; had R scripts with functions for assessing
+the resilience of technical systems.&lt;/p&gt;
+&lt;p&gt;Within FAKIN this functions were semi-automatically (with the help of the R
+package &lt;a href=&#34;../../code/kwb.pkgbuild&#34;&gt;kwb.pkgbuild&lt;/a&gt; compiled into the R package  &lt;a href=&#34;../../code/kwb.resilience&#34;&gt;kwb.resilience&lt;/a&gt;, with the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Open-source code on &lt;a href=&#34;https://github.com/kwb-r/kwb.resilience&#34;&gt;Github&lt;/a&gt; with
+&lt;a href=&#34;https://choosealicense.com/licenses/mit/&#34;&gt;MIT license&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.resilience&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Continious integretion: automatically checks for each change in the source code,
+whether the R package can be installed on Windows (&lt;a href=&#34;https://ci.appveyor.com/project/KWB-R/kwb-resilience/branch/master&#34;&gt;Appveyor&lt;/a&gt;) and Linux (&lt;a href=&#34;https://travis-ci.org/KWB-R/kwb.resilience&#34;&gt;Travis-CI&lt;/a&gt;) platforms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tests: if the implemented R code works as expected using the free service of
+&lt;a href=&#34;https://codecov.io/github/KWB-R/kwb.resilience&#34;&gt;codecov.io&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://doi.org/10.5281/zenodo.2243961&#34;&gt;Zenodo DOI&lt;/a&gt; and is thus citable&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.wtaq</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.wtaq/</link>
+      <pubDate>Tue, 12 Jul 2016 01:11:21 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.wtaq/</guid>
+      <description>&lt;h3 id=&#34;interface-to-wtaqhttpwaterusgsgovogwwtaq-drawdown-model&#34;&gt;Interface to &lt;a href=&#34;http://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt; Drawdown Model&lt;/h3&gt;
+&lt;p&gt;Functions enabling the writing of WTAQ input files, running of WTAQ and reading
+of WTAQ output files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SMART-Plant</title>
+      <link>https://kwb-r.github.io/fakin/project/smartplant/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/smartplant/</guid>
+      <description>&lt;p&gt;Life Cycle Assessment (Modelling with &lt;a href=&#34;https://www.ifu.com/umberto/&#34;&gt;UMBERTO&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.qmra</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.qmra/</link>
+      <pubDate>Fri, 12 Feb 2016 01:11:23 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.qmra/</guid>
+      <description>&lt;h1 id=&#34;quantitative-microbial-risk-assessment-qmra-for-water-supply-systems&#34;&gt;Quantitative Microbial Risk Assessment (QMRA) for water supply systems&lt;/h1&gt;
+&lt;p&gt;For performing quantitative microbiological risk assessment (QMRA) the open-source
+R package &lt;a href=&#34;https://github.com/KWB-R/kwb.qmra&#34;&gt;kwb.qmra&lt;/a&gt; was developed at KWB
+within the &lt;a href=&#34;../../project/demoware/&#34;&gt;DEMOWARE&lt;/a&gt; project and is extended and tested within the &lt;a href=&#34;../../project/aquanes/&#34;&gt;AquaNES&lt;/a&gt; project&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flusshygiene</title>
+      <link>https://kwb-r.github.io/fakin/project/flusshygiene/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/flusshygiene/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hygienically Relevant Microorganisms and Pathogens in Multifunctional Water Bodies and Hydrologic Circles&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.hantush</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.hantush/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.hantush/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-mounding-beneath-an-infiltration-basin&#34;&gt;Calculation of Groundwater Mounding Beneath an Infiltration Basin&lt;/h3&gt;
+&lt;p&gt;Calculation groundwater mounding beneath an infiltration basin based on the
+&lt;a href=&#34;http://doi.org/10.1029/WR003i001p00227&#34;&gt;Hantush (1967)&lt;/a&gt; equation.
+The correct implementation is shown with a verification example based on a USGS
+report (&lt;a href=&#34;http://pubs.usgs.gov/sir/2010/5102/support/sir2010-5102.pdf#page=35&#34;&gt;page 25&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Umberto</title>
+      <link>https://kwb-r.github.io/fakin/tool/umberto/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/umberto/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ifu.com/en/umberto/&#34;&gt;Umberto&lt;/a&gt; is a software for material flow management and material flow analyses. At KWB it is used for modelling in life
+cycle assessment projects, e.g. &lt;a href=&#34;../../project/smartplant/&#34;&gt;Smart-Plant&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

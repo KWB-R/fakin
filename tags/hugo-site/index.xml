@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo site | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/hugo-site/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <description>hugo site</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>hugo site</title>
+      <link>https://kwb-r.github.io/fakin/tags/hugo-site/</link>
+    </image>
+    
+    <item>
+      <title>Pubs</title>
+      <link>https://kwb-r.github.io/fakin/code/pubs/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/pubs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Proof-Of-Concept Prototype For KWB Publication Website.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Linking people, publications (in KWB &lt;a href=&#34;../../tool/endnote&#34;&gt;Endnote&lt;/a&gt; database) and projects.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lessons learnt | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/lessons-learnt/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/lessons-learnt/index.xml" rel="self" type="application/rss+xml" />
+    <description>lessons learnt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 20 Aug 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>lessons learnt</title>
+      <link>https://kwb-r.github.io/fakin/tags/lessons-learnt/</link>
+    </image>
+    
+    <item>
+      <title>Wie etablieren wir FDM an unserem kleinen Wasserforschungsinstitut?</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-08-20_workshop-herder/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-08-20_workshop-herder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #4 (external): Project closure</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</link>
+      <pubDate>Thu, 25 Jul 2019 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #3 (internal): Lessons-learnt</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

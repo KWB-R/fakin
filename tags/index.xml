@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 20 Aug 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://kwb-r.github.io/fakin/tags/</link>
+    </image>
+    
+    <item>
+      <title>best practices</title>
+      <link>https://kwb-r.github.io/fakin/tags/best-practices/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>communication external</title>
+      <link>https://kwb-r.github.io/fakin/tags/communication-external/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/communication-external/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>knowledge repo</title>
+      <link>https://kwb-r.github.io/fakin/tags/knowledge-repo/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/knowledge-repo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lessons learnt</title>
+      <link>https://kwb-r.github.io/fakin/tags/lessons-learnt/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/lessons-learnt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qms</title>
+      <link>https://kwb-r.github.io/fakin/tags/qms/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/qms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survey</title>
+      <link>https://kwb-r.github.io/fakin/tags/survey/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test project</title>
+      <link>https://kwb-r.github.io/fakin/tags/test-project/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/test-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://kwb-r.github.io/fakin/tags/workshop/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data visualisation</title>
+      <link>https://kwb-r.github.io/fakin/tags/data-visualisation/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/data-visualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fakin</title>
+      <link>https://kwb-r.github.io/fakin/tags/fakin/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/fakin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mybinder</title>
+      <link>https://kwb-r.github.io/fakin/tags/mybinder/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/mybinder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>path analysis</title>
+      <link>https://kwb-r.github.io/fakin/tags/path-analysis/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/path-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publication</title>
+      <link>https://kwb-r.github.io/fakin/tags/publication/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r</title>
+      <link>https://kwb-r.github.io/fakin/tags/r/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rstats</title>
+      <link>https://kwb-r.github.io/fakin/tags/rstats/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/rstats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shiny app</title>
+      <link>https://kwb-r.github.io/fakin/tags/shiny-app/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/shiny-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collaboration external</title>
+      <link>https://kwb-r.github.io/fakin/tags/collaboration-external/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/collaboration-external/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modelling</title>
+      <link>https://kwb-r.github.io/fakin/tags/modelling/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r package</title>
+      <link>https://kwb-r.github.io/fakin/tags/r-package/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/r-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academic</title>
+      <link>https://kwb-r.github.io/fakin/tags/academic/</link>
+      <pubDate>Tue, 12 Mar 2019 11:52:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algolia</title>
+      <link>https://kwb-r.github.io/fakin/tags/algolia/</link>
+      <pubDate>Tue, 12 Mar 2019 11:52:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/algolia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api</title>
+      <link>https://kwb-r.github.io/fakin/tags/api/</link>
+      <pubDate>Tue, 12 Mar 2019 11:52:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://kwb-r.github.io/fakin/tags/hugo/</link>
+      <pubDate>Tue, 12 Mar 2019 11:52:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>search</title>
+      <link>https://kwb-r.github.io/fakin/tags/search/</link>
+      <pubDate>Tue, 12 Mar 2019 11:52:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codemeta</title>
+      <link>https://kwb-r.github.io/fakin/tags/codemeta/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/codemeta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metadata</title>
+      <link>https://kwb-r.github.io/fakin/tags/metadata/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/metadata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>communication-internal</title>
+      <link>https://kwb-r.github.io/fakin/tags/communication-internal/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/communication-internal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clean code</title>
+      <link>https://kwb-r.github.io/fakin/tags/clean-code/</link>
+      <pubDate>Fri, 01 Mar 2019 23:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/clean-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code analysis</title>
+      <link>https://kwb-r.github.io/fakin/tags/code-analysis/</link>
+      <pubDate>Fri, 01 Mar 2019 23:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/code-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>https://kwb-r.github.io/fakin/tags/conference/</link>
+      <pubDate>Fri, 01 Mar 2019 23:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dry</title>
+      <link>https://kwb-r.github.io/fakin/tags/dry/</link>
+      <pubDate>Fri, 01 Mar 2019 23:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/dry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>duplicates</title>
+      <link>https://kwb-r.github.io/fakin/tags/duplicates/</link>
+      <pubDate>Fri, 01 Mar 2019 23:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/duplicates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metrics</title>
+      <link>https://kwb-r.github.io/fakin/tags/metrics/</link>
+      <pubDate>Fri, 01 Mar 2019 23:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/metrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r conference</title>
+      <link>https://kwb-r.github.io/fakin/tags/r-conference/</link>
+      <pubDate>Fri, 01 Mar 2019 23:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/r-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducibility</title>
+      <link>https://kwb-r.github.io/fakin/tags/reproducibility/</link>
+      <pubDate>Fri, 01 Mar 2019 23:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogdown</title>
+      <link>https://kwb-r.github.io/fakin/tags/blogdown/</link>
+      <pubDate>Fri, 01 Mar 2019 21:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>continious integration</title>
+      <link>https://kwb-r.github.io/fakin/tags/continious-integration/</link>
+      <pubDate>Fri, 01 Mar 2019 21:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/continious-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data management</title>
+      <link>https://kwb-r.github.io/fakin/tags/data-management/</link>
+      <pubDate>Fri, 01 Mar 2019 21:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://kwb-r.github.io/fakin/tags/git/</link>
+      <pubDate>Fri, 01 Mar 2019 21:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitlab</title>
+      <link>https://kwb-r.github.io/fakin/tags/gitlab/</link>
+      <pubDate>Fri, 01 Mar 2019 21:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/gitlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo academic</title>
+      <link>https://kwb-r.github.io/fakin/tags/hugo-academic/</link>
+      <pubDate>Fri, 01 Mar 2019 21:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/hugo-academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>https://kwb-r.github.io/fakin/tags/website/</link>
+      <pubDate>Fri, 01 Mar 2019 21:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://kwb-r.github.io/fakin/tags/github/</link>
+      <pubDate>Fri, 01 Mar 2019 10:35:15 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>https://kwb-r.github.io/fakin/tags/learning/</link>
+      <pubDate>Fri, 01 Mar 2019 10:35:15 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mooc</title>
+      <link>https://kwb-r.github.io/fakin/tags/mooc/</link>
+      <pubDate>Fri, 01 Mar 2019 10:35:15 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/mooc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rstudio</title>
+      <link>https://kwb-r.github.io/fakin/tags/rstudio/</link>
+      <pubDate>Fri, 01 Mar 2019 10:35:15 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>version control</title>
+      <link>https://kwb-r.github.io/fakin/tags/version-control/</link>
+      <pubDate>Fri, 01 Mar 2019 10:35:15 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/version-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zenodo</title>
+      <link>https://kwb-r.github.io/fakin/tags/zenodo/</link>
+      <pubDate>Fri, 01 Mar 2019 10:35:15 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/zenodo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data management plan</title>
+      <link>https://kwb-r.github.io/fakin/tags/data-management-plan/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/data-management-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data manager</title>
+      <link>https://kwb-r.github.io/fakin/tags/data-manager/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/data-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dmp</title>
+      <link>https://kwb-r.github.io/fakin/tags/dmp/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/dmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evaluation</title>
+      <link>https://kwb-r.github.io/fakin/tags/evaluation/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project management</title>
+      <link>https://kwb-r.github.io/fakin/tags/project-management/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/project-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project proposal</title>
+      <link>https://kwb-r.github.io/fakin/tags/project-proposal/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/project-proposal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smp</title>
+      <link>https://kwb-r.github.io/fakin/tags/smp/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/smp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software development</title>
+      <link>https://kwb-r.github.io/fakin/tags/software-development/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sustainibility</title>
+      <link>https://kwb-r.github.io/fakin/tags/sustainibility/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/sustainibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>orcid</title>
+      <link>https://kwb-r.github.io/fakin/tags/orcid/</link>
+      <pubDate>Tue, 26 Feb 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/orcid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dwd</title>
+      <link>https://kwb-r.github.io/fakin/tags/dwd/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/dwd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flusshygiene</title>
+      <link>https://kwb-r.github.io/fakin/tags/flusshygiene/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/flusshygiene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radar</title>
+      <link>https://kwb-r.github.io/fakin/tags/radar/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/radar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rain</title>
+      <link>https://kwb-r.github.io/fakin/tags/rain/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doi</title>
+      <link>https://kwb-r.github.io/fakin/tags/doi/</link>
+      <pubDate>Sat, 23 Feb 2019 11:32:30 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/doi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funder</title>
+      <link>https://kwb-r.github.io/fakin/tags/funder/</link>
+      <pubDate>Sat, 23 Feb 2019 11:32:30 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/funder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentation</title>
+      <link>https://kwb-r.github.io/fakin/tags/documentation/</link>
+      <pubDate>Fri, 22 Feb 2019 21:44:30 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aquanes</title>
+      <link>https://kwb-r.github.io/fakin/tags/aquanes/</link>
+      <pubDate>Tue, 19 Feb 2019 12:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/aquanes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data aggregation</title>
+      <link>https://kwb-r.github.io/fakin/tags/data-aggregation/</link>
+      <pubDate>Tue, 19 Feb 2019 12:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/data-aggregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data export</title>
+      <link>https://kwb-r.github.io/fakin/tags/data-export/</link>
+      <pubDate>Tue, 19 Feb 2019 12:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/data-export/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data import</title>
+      <link>https://kwb-r.github.io/fakin/tags/data-import/</link>
+      <pubDate>Tue, 19 Feb 2019 12:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/data-import/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ozonation</title>
+      <link>https://kwb-r.github.io/fakin/tags/ozonation/</link>
+      <pubDate>Tue, 19 Feb 2019 12:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/ozonation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pilot plant</title>
+      <link>https://kwb-r.github.io/fakin/tags/pilot-plant/</link>
+      <pubDate>Tue, 19 Feb 2019 12:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/pilot-plant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>other project</title>
+      <link>https://kwb-r.github.io/fakin/tags/other-project/</link>
+      <pubDate>Mon, 18 Feb 2019 16:35:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/other-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>barcamp</title>
+      <link>https://kwb-r.github.io/fakin/tags/barcamp/</link>
+      <pubDate>Sat, 16 Feb 2019 14:45:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/barcamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networking</title>
+      <link>https://kwb-r.github.io/fakin/tags/networking/</link>
+      <pubDate>Sat, 16 Feb 2019 14:45:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open science</title>
+      <link>https://kwb-r.github.io/fakin/tags/open-science/</link>
+      <pubDate>Sat, 16 Feb 2019 14:45:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>session</title>
+      <link>https://kwb-r.github.io/fakin/tags/session/</link>
+      <pubDate>Sat, 16 Feb 2019 14:45:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/session/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project fakin</title>
+      <link>https://kwb-r.github.io/fakin/tags/project-fakin/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/project-fakin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publications</title>
+      <link>https://kwb-r.github.io/fakin/tags/publications/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://kwb-r.github.io/fakin/tags/docker/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shiny apps</title>
+      <link>https://kwb-r.github.io/fakin/tags/shiny-apps/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/shiny-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demeau</title>
+      <link>https://kwb-r.github.io/fakin/tags/demeau/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:34 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/demeau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>groundwater modelling</title>
+      <link>https://kwb-r.github.io/fakin/tags/groundwater-modelling/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:34 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/groundwater-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r bookdown</title>
+      <link>https://kwb-r.github.io/fakin/tags/r-bookdown/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/r-bookdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research data management</title>
+      <link>https://kwb-r.github.io/fakin/tags/research-data-management/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/research-data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test projects</title>
+      <link>https://kwb-r.github.io/fakin/tags/test-projects/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/test-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dswt</title>
+      <link>https://kwb-r.github.io/fakin/tags/dswt/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:22 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/dswt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitlab ci</title>
+      <link>https://kwb-r.github.io/fakin/tags/gitlab-ci/</link>
+      <pubDate>Tue, 01 Jan 2019 09:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/gitlab-ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitlab pages</title>
+      <link>https://kwb-r.github.io/fakin/tags/gitlab-pages/</link>
+      <pubDate>Tue, 01 Jan 2019 09:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/gitlab-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r blogdown</title>
+      <link>https://kwb-r.github.io/fakin/tags/r-blogdown/</link>
+      <pubDate>Tue, 01 Jan 2019 09:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/r-blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>endnote</title>
+      <link>https://kwb-r.github.io/fakin/tags/endnote/</link>
+      <pubDate>Fri, 21 Dec 2018 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/endnote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature data management</title>
+      <link>https://kwb-r.github.io/fakin/tags/literature-data-management/</link>
+      <pubDate>Fri, 21 Dec 2018 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/literature-data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo site</title>
+      <link>https://kwb-r.github.io/fakin/tags/hugo-site/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/hugo-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networks4</title>
+      <link>https://kwb-r.github.io/fakin/tags/networks4/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/networks4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resilience</title>
+      <link>https://kwb-r.github.io/fakin/tags/resilience/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>https://kwb-r.github.io/fakin/tags/twitter/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>groundwater mounding</title>
+      <link>https://kwb-r.github.io/fakin/tags/groundwater-mounding/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/groundwater-mounding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infiltration basin</title>
+      <link>https://kwb-r.github.io/fakin/tags/infiltration-basin/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/infiltration-basin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://kwb-r.github.io/fakin/tags/programming/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data science training</title>
+      <link>https://kwb-r.github.io/fakin/tags/data-science-training/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/data-science-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datacamp</title>
+      <link>https://kwb-r.github.io/fakin/tags/datacamp/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/datacamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elearning</title>
+      <link>https://kwb-r.github.io/fakin/tags/elearning/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/elearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://kwb-r.github.io/fakin/tags/python/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spreadsheets</title>
+      <link>https://kwb-r.github.io/fakin/tags/spreadsheets/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/spreadsheets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fdm netzwerk</title>
+      <link>https://kwb-r.github.io/fakin/tags/fdm-netzwerk/</link>
+      <pubDate>Fri, 19 Oct 2018 10:30:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/fdm-netzwerk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automated reporting</title>
+      <link>https://kwb-r.github.io/fakin/tags/automated-reporting/</link>
+      <pubDate>Wed, 17 Oct 2018 22:09:12 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/automated-reporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>budget</title>
+      <link>https://kwb-r.github.io/fakin/tags/budget/</link>
+      <pubDate>Wed, 17 Oct 2018 22:09:12 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/budget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dwc</title>
+      <link>https://kwb-r.github.io/fakin/tags/dwc/</link>
+      <pubDate>Wed, 17 Oct 2018 22:09:12 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/dwc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>excel</title>
+      <link>https://kwb-r.github.io/fakin/tags/excel/</link>
+      <pubDate>Wed, 17 Oct 2018 22:09:12 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>template</title>
+      <link>https://kwb-r.github.io/fakin/tags/template/</link>
+      <pubDate>Wed, 17 Oct 2018 22:09:12 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research compendium</title>
+      <link>https://kwb-r.github.io/fakin/tags/research-compendium/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/research-compendium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brownbag</title>
+      <link>https://kwb-r.github.io/fakin/tags/brownbag/</link>
+      <pubDate>Fri, 21 Sep 2018 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/brownbag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mindmap</title>
+      <link>https://kwb-r.github.io/fakin/tags/mindmap/</link>
+      <pubDate>Fri, 21 Sep 2018 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/mindmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tree testing</title>
+      <link>https://kwb-r.github.io/fakin/tags/tree-testing/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/tree-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>user experience</title>
+      <link>https://kwb-r.github.io/fakin/tags/user-experience/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/user-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collaboration</title>
+      <link>https://kwb-r.github.io/fakin/tags/collaboration/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lca modelling</title>
+      <link>https://kwb-r.github.io/fakin/tags/lca-modelling/</link>
+      <pubDate>Sun, 12 Aug 2018 01:11:38 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/lca-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life cycle assessment</title>
+      <link>https://kwb-r.github.io/fakin/tags/life-cycle-assessment/</link>
+      <pubDate>Sun, 12 Aug 2018 01:11:38 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/life-cycle-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smartplant</title>
+      <link>https://kwb-r.github.io/fakin/tags/smartplant/</link>
+      <pubDate>Sun, 12 Aug 2018 01:11:38 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/smartplant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>umberto</title>
+      <link>https://kwb-r.github.io/fakin/tags/umberto/</link>
+      <pubDate>Sun, 12 Aug 2018 01:11:38 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/umberto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>questionaires</title>
+      <link>https://kwb-r.github.io/fakin/tags/questionaires/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/questionaires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geosalz</title>
+      <link>https://kwb-r.github.io/fakin/tags/geosalz/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/geosalz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drawdown model</title>
+      <link>https://kwb-r.github.io/fakin/tags/drawdown-model/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/drawdown-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optiwells2</title>
+      <link>https://kwb-r.github.io/fakin/tags/optiwells2/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/optiwells2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c&#43;&#43;</title>
+      <link>https://kwb-r.github.io/fakin/tags/c&#43;&#43;/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud service</title>
+      <link>https://kwb-r.github.io/fakin/tags/cloud-service/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/cloud-service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fortran</title>
+      <link>https://kwb-r.github.io/fakin/tags/fortran/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/fortran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://kwb-r.github.io/fakin/tags/java/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>julia</title>
+      <link>https://kwb-r.github.io/fakin/tags/julia/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/julia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lua</title>
+      <link>https://kwb-r.github.io/fakin/tags/lua/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/lua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab</title>
+      <link>https://kwb-r.github.io/fakin/tags/matlab/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>octave</title>
+      <link>https://kwb-r.github.io/fakin/tags/octave/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/octave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perl</title>
+      <link>https://kwb-r.github.io/fakin/tags/perl/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/perl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rststs</title>
+      <link>https://kwb-r.github.io/fakin/tags/rststs/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/rststs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stata</title>
+      <link>https://kwb-r.github.io/fakin/tags/stata/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/stata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data cleaning</title>
+      <link>https://kwb-r.github.io/fakin/tags/data-cleaning/</link>
+      <pubDate>Thu, 05 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/data-cleaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lab samples</title>
+      <link>https://kwb-r.github.io/fakin/tags/lab-samples/</link>
+      <pubDate>Thu, 05 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/lab-samples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monitoring</title>
+      <link>https://kwb-r.github.io/fakin/tags/monitoring/</link>
+      <pubDate>Thu, 05 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r package automation</title>
+      <link>https://kwb-r.github.io/fakin/tags/r-package-automation/</link>
+      <pubDate>Tue, 12 Jun 2018 01:11:39 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/r-package-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r script</title>
+      <link>https://kwb-r.github.io/fakin/tags/r-script/</link>
+      <pubDate>Tue, 12 Jun 2018 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/r-script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backup</title>
+      <link>https://kwb-r.github.io/fakin/tags/backup/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/backup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repository</title>
+      <link>https://kwb-r.github.io/fakin/tags/repository/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/repository/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web hosting</title>
+      <link>https://kwb-r.github.io/fakin/tags/web-hosting/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/web-hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>file</title>
+      <link>https://kwb-r.github.io/fakin/tags/file/</link>
+      <pubDate>Mon, 28 May 2018 01:11:35 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logger</title>
+      <link>https://kwb-r.github.io/fakin/tags/logger/</link>
+      <pubDate>Mon, 28 May 2018 01:11:35 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/logger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code testing</title>
+      <link>https://kwb-r.github.io/fakin/tags/code-testing/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/code-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>https://kwb-r.github.io/fakin/tags/testing/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>basel</title>
+      <link>https://kwb-r.github.io/fakin/tags/basel/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/basel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>berlin schoenerlinde</title>
+      <link>https://kwb-r.github.io/fakin/tags/berlin-schoenerlinde/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/berlin-schoenerlinde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>berlin tiefwerder</title>
+      <link>https://kwb-r.github.io/fakin/tags/berlin-tiefwerder/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/berlin-tiefwerder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>haridwar</title>
+      <link>https://kwb-r.github.io/fakin/tags/haridwar/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/haridwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nanofiltration</title>
+      <link>https://kwb-r.github.io/fakin/tags/nanofiltration/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/nanofiltration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog engine</title>
+      <link>https://kwb-r.github.io/fakin/tags/blog-engine/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/blog-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cms</title>
+      <link>https://kwb-r.github.io/fakin/tags/cms/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>content management system</title>
+      <link>https://kwb-r.github.io/fakin/tags/content-management-system/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/content-management-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentation generator</title>
+      <link>https://kwb-r.github.io/fakin/tags/documentation-generator/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/documentation-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentation tool</title>
+      <link>https://kwb-r.github.io/fakin/tags/documentation-tool/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/documentation-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github pages</title>
+      <link>https://kwb-r.github.io/fakin/tags/github-pages/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://kwb-r.github.io/fakin/tags/go/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netlify</title>
+      <link>https://kwb-r.github.io/fakin/tags/netlify/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static site generator</title>
+      <link>https://kwb-r.github.io/fakin/tags/static-site-generator/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/static-site-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>https://kwb-r.github.io/fakin/tags/theme/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kickoff</title>
+      <link>https://kwb-r.github.io/fakin/tags/kickoff/</link>
+      <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/kickoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>https://kwb-r.github.io/fakin/tags/open-source/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backend</title>
+      <link>https://kwb-r.github.io/fakin/tags/backend/</link>
+      <pubDate>Fri, 07 Jul 2017 22:16:19 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database</title>
+      <link>https://kwb-r.github.io/fakin/tags/database/</link>
+      <pubDate>Fri, 07 Jul 2017 22:16:19 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ms access</title>
+      <link>https://kwb-r.github.io/fakin/tags/ms-access/</link>
+      <pubDate>Fri, 07 Jul 2017 22:16:19 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/ms-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qmra</title>
+      <link>https://kwb-r.github.io/fakin/tags/qmra/</link>
+      <pubDate>Fri, 07 Jul 2017 22:16:19 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/qmra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://kwb-r.github.io/fakin/tags/network/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>long term storage</title>
+      <link>https://kwb-r.github.io/fakin/tags/long-term-storage/</link>
+      <pubDate>Tue, 26 Jul 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/long-term-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collaborative software development</title>
+      <link>https://kwb-r.github.io/fakin/tags/collaborative-software-development/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/collaborative-software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web app</title>
+      <link>https://kwb-r.github.io/fakin/tags/web-app/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/web-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://kwb-r.github.io/fakin/tags/linux/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>https://kwb-r.github.io/fakin/tags/mac/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demoware</title>
+      <link>https://kwb-r.github.io/fakin/tags/demoware/</link>
+      <pubDate>Fri, 12 Feb 2016 01:11:23 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/demoware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opencpu</title>
+      <link>https://kwb-r.github.io/fakin/tags/opencpu/</link>
+      <pubDate>Fri, 12 Feb 2016 01:11:23 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/opencpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>persistent identifier</title>
+      <link>https://kwb-r.github.io/fakin/tags/persistent-identifier/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/persistent-identifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown</title>
+      <link>https://kwb-r.github.io/fakin/tags/rmarkdown/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/rmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data analysis</title>
+      <link>https://kwb-r.github.io/fakin/tags/data-analysis/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ide</title>
+      <link>https://kwb-r.github.io/fakin/tags/ide/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/ide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data carpentry</title>
+      <link>https://kwb-r.github.io/fakin/tags/data-carpentry/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/data-carpentry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microsoft</title>
+      <link>https://kwb-r.github.io/fakin/tags/microsoft/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

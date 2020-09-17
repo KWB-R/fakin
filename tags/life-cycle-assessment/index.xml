@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life cycle assessment | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/life-cycle-assessment/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/life-cycle-assessment/index.xml" rel="self" type="application/rss+xml" />
+    <description>life cycle assessment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Sun, 12 Aug 2018 01:11:38 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>life cycle assessment</title>
+      <link>https://kwb-r.github.io/fakin/tags/life-cycle-assessment/</link>
+    </image>
+    
+    <item>
+      <title>kwb.umberto</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.umberto/</link>
+      <pubDate>Sun, 12 Aug 2018 01:11:38 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.umberto/</guid>
+      <description>&lt;h1 id=&#34;helper-functions-for-data-import-aggregation-and-visualisation-of-umbertohttpswwwifucomumberto-model-output&#34;&gt;Helper functions for data import, aggregation and visualisation of &lt;a href=&#34;https://www.ifu.com/umberto/&#34;&gt;UMBERTO&lt;/a&gt; model output.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.lca</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.lca/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.lca/</guid>
+      <description>&lt;h1 id=&#34;functions-to-be-used-in-life-cycle-assessment-lca-projects&#34;&gt;Functions to Be Used in Life Cycle Assessment (LCA) Projects&lt;/h1&gt;
+&lt;p&gt;This package contains a function to read LCA parameters from an Excel file that was sent to and received from a project partner. The parameters are read into a data frame. Another function can be used to write the dataframe into an Excel file with different sheets and data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SMART-Plant</title>
+      <link>https://kwb-r.github.io/fakin/project/smartplant/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/smartplant/</guid>
+      <description>&lt;p&gt;Life Cycle Assessment (Modelling with &lt;a href=&#34;https://www.ifu.com/umberto/&#34;&gt;UMBERTO&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Umberto</title>
+      <link>https://kwb-r.github.io/fakin/tool/umberto/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/umberto/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ifu.com/en/umberto/&#34;&gt;Umberto&lt;/a&gt; is a software for material flow management and material flow analyses. At KWB it is used for modelling in life
+cycle assessment projects, e.g. &lt;a href=&#34;../../project/smartplant/&#34;&gt;Smart-Plant&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

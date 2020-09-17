@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fdm netzwerk | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/fdm-netzwerk/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/fdm-netzwerk/index.xml" rel="self" type="application/rss+xml" />
+    <description>fdm netzwerk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 19 Oct 2018 10:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>fdm netzwerk</title>
+      <link>https://kwb-r.github.io/fakin/tags/fdm-netzwerk/</link>
+    </image>
+    
+    <item>
+      <title>FAKIN: Forschungsdatenmanagement an kleinen Instituten</title>
+      <link>https://kwb-r.github.io/fakin/talk/2018-10-19_fdm-netzwerk/</link>
+      <pubDate>Fri, 19 Oct 2018 10:30:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2018-10-19_fdm-netzwerk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forschungsdatenmanagement an kleinen Instituten (Session 1: Kompetenzen)</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-06-01_fdm-netzwerk_kompetenzen/</link>
+      <pubDate>Thu, 01 Jun 2017 10:30:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-06-01_fdm-netzwerk_kompetenzen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statement (Session 3: Disziplinenspezifische Besonderheiten im FDM)</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-06-01_fdm-netzwerk_disziplinen/</link>
+      <pubDate>Thu, 01 Jun 2017 10:30:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-06-01_fdm-netzwerk_disziplinen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

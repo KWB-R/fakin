@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/project/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 17 Oct 2018 22:09:12 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://kwb-r.github.io/fakin/project/</link>
+    </image>
+    
+    <item>
+      <title>Digital Water City (DWC)</title>
+      <link>https://kwb-r.github.io/fakin/project/dwc/</link>
+      <pubDate>Wed, 17 Oct 2018 22:09:12 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/dwc/</guid>
+      <description>&lt;h3 id=&#34;challenges-and-solutions&#34;&gt;Challenges and Solutions&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;How to best collect budgets from multiple project partners during the proposal phase?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An EXCEL template was developed by &lt;a href=&#34;../../authors/sonnenberg/&#34;&gt;Hauke Sonnenberg&lt;/a&gt;,
+which can be automatically imported into &lt;a href=&#34;../../tool/r/&#34;&gt;R&lt;/a&gt; for data aggregation
+and analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to write a data management plan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../authors/sprenger/&#34;&gt;Christoph Sprenger&lt;/a&gt; used the online service &lt;a href=&#34;../../tool/dmponline/&#34;&gt;DMPonline&lt;/a&gt; for creating a data management plan for a
+task (make groundwater visible) within the DWC project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geosalz</title>
+      <link>https://kwb-r.github.io/fakin/project/geosalz/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/geosalz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netWORKS4</title>
+      <link>https://kwb-r.github.io/fakin/project/networks4/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/networks4/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../../authors/matzinger/&#34;&gt;Andreas Matzinger&lt;/a&gt; had R scripts with functions for assessing
+the resilience of technical systems.&lt;/p&gt;
+&lt;p&gt;Within FAKIN this functions were semi-automatically (with the help of the R
+package &lt;a href=&#34;../../code/kwb.pkgbuild&#34;&gt;kwb.pkgbuild&lt;/a&gt; compiled into the R package  &lt;a href=&#34;../../code/kwb.resilience&#34;&gt;kwb.resilience&lt;/a&gt;, with the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Open-source code on &lt;a href=&#34;https://github.com/kwb-r/kwb.resilience&#34;&gt;Github&lt;/a&gt; with
+&lt;a href=&#34;https://choosealicense.com/licenses/mit/&#34;&gt;MIT license&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.resilience&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Continious integretion: automatically checks for each change in the source code,
+whether the R package can be installed on Windows (&lt;a href=&#34;https://ci.appveyor.com/project/KWB-R/kwb-resilience/branch/master&#34;&gt;Appveyor&lt;/a&gt;) and Linux (&lt;a href=&#34;https://travis-ci.org/KWB-R/kwb.resilience&#34;&gt;Travis-CI&lt;/a&gt;) platforms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tests: if the implemented R code works as expected using the free service of
+&lt;a href=&#34;https://codecov.io/github/KWB-R/kwb.resilience&#34;&gt;codecov.io&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://doi.org/10.5281/zenodo.2243961&#34;&gt;Zenodo DOI&lt;/a&gt; and is thus citable&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aquanes</title>
+      <link>https://kwb-r.github.io/fakin/project/aquanes/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/aquanes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMART-Plant</title>
+      <link>https://kwb-r.github.io/fakin/project/smartplant/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/smartplant/</guid>
+      <description>&lt;p&gt;Life Cycle Assessment (Modelling with &lt;a href=&#34;https://www.ifu.com/umberto/&#34;&gt;UMBERTO&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flusshygiene</title>
+      <link>https://kwb-r.github.io/fakin/project/flusshygiene/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/flusshygiene/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hygienically Relevant Microorganisms and Pathogens in Multifunctional Water Bodies and Hydrologic Circles&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demoware</title>
+      <link>https://kwb-r.github.io/fakin/project/demoware/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/demoware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

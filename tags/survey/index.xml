@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survey | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/survey/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+    <description>survey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 20 Aug 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>survey</title>
+      <link>https://kwb-r.github.io/fakin/tags/survey/</link>
+    </image>
+    
+    <item>
+      <title>Wie etablieren wir FDM an unserem kleinen Wasserforschungsinstitut?</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-08-20_workshop-herder/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-08-20_workshop-herder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #4 (external): Project closure</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</link>
+      <pubDate>Thu, 25 Jul 2019 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #3 (internal): Lessons-learnt</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treejack</title>
+      <link>https://kwb-r.github.io/fakin/tool/treejack/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/treejack/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Know where and why people get lost in your content. Tree testing is a
+usability technique for evaluating the findability of topics
+in a website. It’s also known as ‘reverse card sorting’ or ‘card-based
+classification’. Tree testing is done on a simplified text version of your
+site structure – without the influence of navigation aids and visual design.
+Take the guesswork out of information architecture with Treejack – the usability
+testing tool you can use to test your IA without visual distractions. Treejack
+helps you prove your site structure will work before you get into interface
+design.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.optimalworkshop.com/treejack&#34;&gt;OptimalWorkshop, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop #1 (internal): Kickoff</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-09-25_workshop-kickoff/</link>
+      <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-09-25_workshop-kickoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LimeSurvey</title>
+      <link>https://kwb-r.github.io/fakin/tool/limesurvey/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/limesurvey/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Professional online surveys with LimeSurvey. The worldwide leading open source
+survey software as a professional SaaS solution or as a self-hosted Community Edition.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.limesurvey.org&#34;&gt;LimeSurvey, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

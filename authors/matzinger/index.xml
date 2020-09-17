@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/authors/matzinger/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/authors/matzinger/index.xml" rel="self" type="application/rss+xml" />
+    <description>FAKIN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/authors/matzinger/</link>
+    </image>
+    
+    <item>
+      <title>kwb.resilience (v0.1.0): R Package for the Quantification of Technical Resilience</title>
+      <link>https://kwb-r.github.io/fakin/publication/kwb-resilience/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/kwb-resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://kwb-r.github.io/fakin/tool/git/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/git/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Git is a free and open source distributed version control system designed to
+handle everything from small to very large projects with speed and efficiency.
+Git is easy to learn and has a tiny footprint with lightning fast performance.
+It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with
+features like cheap local branching, convenient staging areas, and multiple
+workflows.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://git-scm.com/&#34;&gt;git-scm.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop #2 (internal): Best-Practices</title>
+      <link>https://kwb-r.github.io/fakin/talk/2018-01-29_workshop-best-practices/</link>
+      <pubDate>Mon, 29 Jan 2018 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2018-01-29_workshop-best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #1 (internal): Kickoff</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-09-25_workshop-kickoff/</link>
+      <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-09-25_workshop-kickoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brownbag #1: FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-07-07_brownbag/</link>
+      <pubDate>Fri, 07 Jul 2017 12:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-07-07_brownbag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/tool/datacamp/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/datacamp/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Learn Data Science from the comfort of your browser, at your own pace with
+DataCamp&#39;s video tutorials &amp;amp; coding challenges on R, Python, Statistics &amp;amp; more.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://datacamp.com&#34;&gt;DataCamp, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>netWORKS4</title>
+      <link>https://kwb-r.github.io/fakin/project/networks4/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/networks4/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../../authors/matzinger/&#34;&gt;Andreas Matzinger&lt;/a&gt; had R scripts with functions for assessing
+the resilience of technical systems.&lt;/p&gt;
+&lt;p&gt;Within FAKIN this functions were semi-automatically (with the help of the R
+package &lt;a href=&#34;../../code/kwb.pkgbuild&#34;&gt;kwb.pkgbuild&lt;/a&gt; compiled into the R package  &lt;a href=&#34;../../code/kwb.resilience&#34;&gt;kwb.resilience&lt;/a&gt;, with the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Open-source code on &lt;a href=&#34;https://github.com/kwb-r/kwb.resilience&#34;&gt;Github&lt;/a&gt; with
+&lt;a href=&#34;https://choosealicense.com/licenses/mit/&#34;&gt;MIT license&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.resilience&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Continious integretion: automatically checks for each change in the source code,
+whether the R package can be installed on Windows (&lt;a href=&#34;https://ci.appveyor.com/project/KWB-R/kwb-resilience/branch/master&#34;&gt;Appveyor&lt;/a&gt;) and Linux (&lt;a href=&#34;https://travis-ci.org/KWB-R/kwb.resilience&#34;&gt;Travis-CI&lt;/a&gt;) platforms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tests: if the implemented R code works as expected using the free service of
+&lt;a href=&#34;https://codecov.io/github/KWB-R/kwb.resilience&#34;&gt;codecov.io&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://doi.org/10.5281/zenodo.2243961&#34;&gt;Zenodo DOI&lt;/a&gt; and is thus citable&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zenodo</title>
+      <link>https://kwb-r.github.io/fakin/tool/zenodo/</link>
+      <pubDate>Tue, 26 Jul 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/zenodo/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Zenodo is a general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN. It allows researchers to deposit data sets, research software, reports, and any other research related digital artifacts. For each submission, a persistent &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_object_identifier&#34;&gt;Digital object identifier&lt;/a&gt; (DOI) is minted, which makes the stored items easily citeable.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://en.wikipedia.org/wiki/Zenodo%5D&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://kwb-r.github.io/fakin/tool/github/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/github/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;GitHub Inc. is a web-based hosting service for version control using Git. It is
+mostly used for computer code. It offers all of the distributed version control
+and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as
+bug tracking, feature requests, task management, and wikis for every project.
+GitHub offers plans for enterprise, team, pro and free accounts which are
+commonly used to host open-source software projects. From January 2019, GitHub
+now offers unlimited private repositories to all plans, including free accounts.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://en.wikipedia.org/wiki/GitHub&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;GitHub can be integrated with &lt;a href=&#34;../zenodo/&#34;&gt;Zenodo&lt;/a&gt; for &lt;a href=&#34;https://guides.github.com/activities/citable-code/&#34;&gt;making your code citable&lt;/a&gt;
+and also for long-term storage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Orcid</title>
+      <link>https://kwb-r.github.io/fakin/tool/orcid/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/orcid/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;rdquo;&lt;a href=&#34;https://orcid.org&#34;&gt;ORCID&lt;/a&gt; provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://orcid.org&#34;&gt;Orcid, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subversion</title>
+      <link>https://kwb-r.github.io/fakin/tool/svn/</link>
+      <pubDate>Wed, 03 Apr 2013 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/svn/</guid>
+      <description>&lt;p&gt;Our Version Control System for (internally) tracking source code (R scripts).
+For developing R Packages we use &lt;a href=&#34;../github/&#34;&gt;GitHub&lt;/a&gt;.) for version control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>https://kwb-r.github.io/fakin/tool/rstudio/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/rstudio/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;RStudio is an integrated development environment (IDE) for &lt;a href=&#34;../r/&#34;&gt;R&lt;/a&gt;.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.rstudio.com/products/rstudio/&#34;&gt;RStudio, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Origin</title>
+      <link>https://kwb-r.github.io/fakin/tool/origin/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/origin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://kwb-r.github.io/fakin/tool/r/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EndNote</title>
+      <link>https://kwb-r.github.io/fakin/tool/endnote/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/endnote/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/EndNote&#34;&gt;EndNote&lt;/a&gt; is currently the standard software at KWB for managing literature references.&lt;/p&gt;
+&lt;p&gt;An open-source alternative for the future could be &lt;a href=&#34;../zotero/&#34;&gt;Zotero&lt;/a&gt;, which offers additional features like cloud-storage or automated access through &lt;a href=&#34;https://www.zotero.org/support/dev/web_api/v3/start&#34;&gt;API&lt;/a&gt; (e.g. the R package
+&lt;a href=&#34;https://cran.r-project.org/web/packages/RefManageR/&#34;&gt;RefManageR&lt;/a&gt; is able to connect to a &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; database using the function &lt;a href=&#34;https://www.rdocumentation.org/packages/RefManageR/versions/1.2.0/topics/ReadZotero&#34;&gt;ReadZotero()&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For a full comparison of the features of different reference management software available see &lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_reference_management_software&#34;&gt;Wikipedia, 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

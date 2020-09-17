@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/authors/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 20 Aug 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://kwb-r.github.io/fakin/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/rustler/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/rustler/</guid>
+      <description>&lt;p&gt;Michael Rustler works as data scientist at the Kompetenzzentrum Wasser Berlin gGmbH (KWB). His research interests include reproducible research, data management and programmable matter. He currently leads the project FAKIN with the goal to improve the research data management and workflows at KWB, a small non-university institute (~ 20 scientists in three departments).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/schwarzmueller/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/schwarzmueller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/sonnenberg/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/sonnenberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anneke Döring</title>
+      <link>https://kwb-r.github.io/fakin/authors/anneke-doring/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/anneke-doring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominik Leutnant</title>
+      <link>https://kwb-r.github.io/fakin/authors/dominik-leutnant/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/dominik-leutnant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/boettiger/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/boettiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/salmon/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/salmon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Krystalli</title>
+      <link>https://kwb-r.github.io/fakin/authors/anna-krystalli/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/anna-krystalli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arfon Smith</title>
+      <link>https://kwb-r.github.io/fakin/authors/arfon-smith/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/arfon-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kara Woo</title>
+      <link>https://kwb-r.github.io/fakin/authors/kara-woo/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/kara-woo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katrin Leinweber</title>
+      <link>https://kwb-r.github.io/fakin/authors/katrin-leinweber/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/katrin-leinweber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noam Ross</title>
+      <link>https://kwb-r.github.io/fakin/authors/noam-ross/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/noam-ross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Meyer</title>
+      <link>https://kwb-r.github.io/fakin/authors/sebastian-meyer/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/sebastian-meyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/conzelmann/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/conzelmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/guensch/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/guensch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/kleyboecker/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/kleyboecker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/miehe/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/miehe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/remy/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/remy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/rouault/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/rouault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/sprenger/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/sprenger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/weigert/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/weigert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/weispfennig/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/weispfennig/</guid>
+      <description>&lt;p&gt;Manages our IT infrastructure and software, e.g. &lt;a href=&#34;../../tool/git/&#34;&gt;Git&lt;/a&gt;, &lt;a href=&#34;../../tool/svn/&#34;&gt;Subversion&lt;/a&gt;, &lt;a href=&#34;../../tool/r/&#34;&gt;R&lt;/a&gt;(&lt;a href=&#34;../../tool/rstudio/&#34;&gt;Studio&lt;/a&gt;) and many more&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/wicke/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/wicke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/zamzow/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/zamzow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/stapf/</link>
+      <pubDate>Tue, 19 Feb 2019 12:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/stapf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/seis/</link>
+      <pubDate>Mon, 18 Feb 2019 16:35:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/seis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/matzinger/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/matzinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/riechel/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/riechel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/caradot/</link>
+      <pubDate>Wed, 17 Oct 2018 22:09:12 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/caradot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/jaehrig/</link>
+      <pubDate>Fri, 21 Sep 2018 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/jaehrig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/schuetz/</link>
+      <pubDate>Fri, 21 Sep 2018 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/schuetz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/menz/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/menz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/kraus/</link>
+      <pubDate>Mon, 29 Jan 2018 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/kraus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/loderer/</link>
+      <pubDate>Mon, 29 Jan 2018 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/loderer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/schubert/</link>
+      <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/schubert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/tatis-muvdi/</link>
+      <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/tatis-muvdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/evel/</link>
+      <pubDate>Fri, 07 Jul 2017 12:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/evel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/zhou/</link>
+      <pubDate>Fri, 07 Jul 2017 12:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/gnirss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/gnirss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/knoche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/knoche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kwb-r.github.io/fakin/authors/rossbach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/authors/rossbach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/categories/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://kwb-r.github.io/fakin/categories/</link>
+    </image>
+    
+    <item>
+      <title>r</title>
+      <link>https://kwb-r.github.io/fakin/categories/r/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rstats</title>
+      <link>https://kwb-r.github.io/fakin/categories/rstats/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/categories/rstats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open science</title>
+      <link>https://kwb-r.github.io/fakin/categories/open-science/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/categories/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://kwb-r.github.io/fakin/categories/workshop/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/categories/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://kwb-r.github.io/fakin/categories/programming/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data management</title>
+      <link>https://kwb-r.github.io/fakin/categories/data-management/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/categories/data-management/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

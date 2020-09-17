@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/authors/seis/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/authors/seis/index.xml" rel="self" type="application/rss+xml" />
+    <description>FAKIN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Mon, 18 Feb 2019 16:35:47 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/authors/seis/</link>
+    </image>
+    
+    <item>
+      <title>fhpredict</title>
+      <link>https://kwb-r.github.io/fakin/code/fhpredict/</link>
+      <pubDate>Mon, 18 Feb 2019 16:35:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fhpredict/</guid>
+      <description>&lt;p&gt;This R package provides all functions that are required for the Web application that is developed within the Flusshygiene project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brownbag #2: FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/talk/2018-09-21_brownbag/</link>
+      <pubDate>Fri, 21 Sep 2018 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2018-09-21_brownbag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qmra.db</title>
+      <link>https://kwb-r.github.io/fakin/code/qmra.db/</link>
+      <pubDate>Fri, 07 Jul 2017 22:16:19 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/qmra.db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brownbag #1: FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-07-07_brownbag/</link>
+      <pubDate>Fri, 07 Jul 2017 12:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-07-07_brownbag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/tool/datacamp/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/datacamp/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Learn Data Science from the comfort of your browser, at your own pace with
+DataCamp&#39;s video tutorials &amp;amp; coding challenges on R, Python, Statistics &amp;amp; more.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://datacamp.com&#34;&gt;DataCamp, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flusshygiene</title>
+      <link>https://kwb-r.github.io/fakin/project/flusshygiene/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/flusshygiene/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hygienically Relevant Microorganisms and Pathogens in Multifunctional Water Bodies and Hydrologic Circles&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://kwb-r.github.io/fakin/tool/github/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/github/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;GitHub Inc. is a web-based hosting service for version control using Git. It is
+mostly used for computer code. It offers all of the distributed version control
+and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as
+bug tracking, feature requests, task management, and wikis for every project.
+GitHub offers plans for enterprise, team, pro and free accounts which are
+commonly used to host open-source software projects. From January 2019, GitHub
+now offers unlimited private repositories to all plans, including free accounts.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://en.wikipedia.org/wiki/GitHub&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;GitHub can be integrated with &lt;a href=&#34;../zenodo/&#34;&gt;Zenodo&lt;/a&gt; for &lt;a href=&#34;https://guides.github.com/activities/citable-code/&#34;&gt;making your code citable&lt;/a&gt;
+and also for long-term storage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Orcid</title>
+      <link>https://kwb-r.github.io/fakin/tool/orcid/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/orcid/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;rdquo;&lt;a href=&#34;https://orcid.org&#34;&gt;ORCID&lt;/a&gt; provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://orcid.org&#34;&gt;Orcid, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subversion</title>
+      <link>https://kwb-r.github.io/fakin/tool/svn/</link>
+      <pubDate>Wed, 03 Apr 2013 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/svn/</guid>
+      <description>&lt;p&gt;Our Version Control System for (internally) tracking source code (R scripts).
+For developing R Packages we use &lt;a href=&#34;../github/&#34;&gt;GitHub&lt;/a&gt;.) for version control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>https://kwb-r.github.io/fakin/tool/rstudio/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/rstudio/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;RStudio is an integrated development environment (IDE) for &lt;a href=&#34;../r/&#34;&gt;R&lt;/a&gt;.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.rstudio.com/products/rstudio/&#34;&gt;RStudio, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://kwb-r.github.io/fakin/tool/r/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

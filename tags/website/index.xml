@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/website/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <description>website</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 01 Mar 2019 21:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>website</title>
+      <link>https://kwb-r.github.io/fakin/tags/website/</link>
+    </image>
+    
+    <item>
+      <title>Chaining Tools to Create a Knowledge Repo for a Small Research Institute</title>
+      <link>https://kwb-r.github.io/fakin/abstract/2019-07-18_user2019/knowledge-repo/</link>
+      <pubDate>Fri, 01 Mar 2019 21:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/abstract/2019-07-18_user2019/knowledge-repo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algolia</title>
+      <link>https://kwb-r.github.io/fakin/tool/algolia/</link>
+      <pubDate>Fri, 22 Feb 2019 21:44:30 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/algolia/</guid>
+      <description>&lt;h1 id=&#34;search-software-as-a-service&#34;&gt;Search (Software As A Service)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://algolia.com&#34;&gt;Algolia&lt;/a&gt; is a French startup company offering a web search product through a SaaS (software as a service) model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fakin</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin/</link>
+      <pubDate>Tue, 01 Jan 2019 09:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin/</guid>
+      <description>&lt;p&gt;Source code for FAKIN project website for FAKIN project based on &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;academic&lt;/a&gt; theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo.io&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pubs</title>
+      <link>https://kwb-r.github.io/fakin/code/pubs/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/pubs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Proof-Of-Concept Prototype For KWB Publication Website.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Linking people, publications (in KWB &lt;a href=&#34;../../tool/endnote&#34;&gt;Endnote&lt;/a&gt; database) and projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://kwb-r.github.io/fakin/tool/academic/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/academic/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Why you should create your (personal) website with Academic and &lt;a href=&#34;../tool/hugo&#34;&gt;Hugo&lt;/a&gt;?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Read the &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34;&gt;blog post&lt;/a&gt;
+(~ 9 min reading time) by the author of the &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;academic&lt;/a&gt; theme &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://kwb-r.github.io/fakin/tool/hugo/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/hugo/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://gohugo.io&#34;&gt;gohugo.io, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

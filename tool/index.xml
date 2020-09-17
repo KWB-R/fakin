@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tool/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tool/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tools</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 01 Mar 2019 10:35:15 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>Tools</title>
+      <link>https://kwb-r.github.io/fakin/tool/</link>
+    </image>
+    
+    <item>
+      <title>Open Science MOOC</title>
+      <link>https://kwb-r.github.io/fakin/tool/mooc/</link>
+      <pubDate>Fri, 01 Mar 2019 10:35:15 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/mooc/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Research is getting a global makeover, in part thanks to the power of the internet and the tools it provides for us, and in part due to a growing call for accountability (e.g., reproducibility and data provenance) in research. Global policies are emerging at different levels that include some aspect of Open Research, Open Scholarship, or Open Science, and inclusive of all research disciplines. But our universities are often letting us down, and they are not teaching us the knowledge, tools and skills we need to do research effectively in the 21st century.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Open Science is about increased rigour, accountability, reproducibility for research. It is based on the principles of inclusion, fairness, equity, and sharing. Open Science can be viewed as research simply done properly, and it extends across the Life and Physical Sciences, Engineering, and Mathematics, to Social Science and Humanities.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This MOOC is designed to help equip students and researchers with the skills they need to excel in a modern research environment. It brings together the efforts and resources of hundreds of researchers and practitioners who have all dedicated their time and experience to create a community platform to help propel research forward.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The content of this MOOC will be distilled into 10 core modules. Each module will comprise a complete range of resources including videos, research articles, dummy datasets and code, as well as tasks to complete as individuals or groups.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The MOOC will be hosted through an open source provider. We expect that in the future different systems of certification will be developed, including completion badges. We also intend to build a forum for the open discussion of the MOOC and any relevant topics.&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://opensciencemooc.eu/about/&#34;&gt;opensciencemooc.eu, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Management Plan (SMP)</title>
+      <link>https://kwb-r.github.io/fakin/tool/smp/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/smp/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;The Software Sustainibility Institute provides a checklist helping you to write a SMP.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.software.ac.uk&#34;&gt;The Software Sustainibility Institute, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Funder Registry</title>
+      <link>https://kwb-r.github.io/fakin/tool/funder/</link>
+      <pubDate>Sat, 23 Feb 2019 11:32:30 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/funder/</guid>
+      <description>&lt;h1 id=&#34;funder-registry&#34;&gt;Funder Registry&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;The &lt;a href=&#34;https://www.crossref.org/services/funder-registry/&#34;&gt;Funder Registry&lt;/a&gt; provides a common taxonomy of international funding body names that funding data participants should use to normalize funder names and IDs for deposit with &lt;a href=&#34;https://www.crossref.org&#34;&gt;Crossref&lt;/a&gt;&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.crossref.org/services/funder-registry/&#34;&gt;CrossRef, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Algolia</title>
+      <link>https://kwb-r.github.io/fakin/tool/algolia/</link>
+      <pubDate>Fri, 22 Feb 2019 21:44:30 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/algolia/</guid>
+      <description>&lt;h1 id=&#34;search-software-as-a-service&#34;&gt;Search (Software As A Service)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://algolia.com&#34;&gt;Algolia&lt;/a&gt; is a French startup company offering a web search product through a SaaS (software as a service) model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DMPonline</title>
+      <link>https://kwb-r.github.io/fakin/tool/dmponline/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/dmponline/</guid>
+      <description>&lt;h1 id=&#34;data-management-plan&#34;&gt;Data Management Plan&lt;/h1&gt;
+&lt;p&gt;[DMPonline](&lt;a href=&#34;https://dmponline.dcc.ac.uk/&#34;&gt;https://dmponline.dcc.ac.uk/&lt;/a&gt;] in an online tool, which helps you to
+create, review, and share data management plans that meet institutional and
+funder requirements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://kwb-r.github.io/fakin/tool/git/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/git/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Git is a free and open source distributed version control system designed to
+handle everything from small to very large projects with speed and efficiency.
+Git is easy to learn and has a tiny footprint with lightning fast performance.
+It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with
+features like cheap local branching, convenient staging areas, and multiple
+workflows.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://git-scm.com/&#34;&gt;git-scm.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Executable Research Compendia</title>
+      <link>https://kwb-r.github.io/fakin/tool/erc/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/erc/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Open access is not only a form of publishing such that research papers become available to the large public free of charge, it also refers to a trend in science that the act of doing research becomes more open and transparent. When science transforms to open access we mean access to papers, research data being collected, data being generated, access to the procedures carried out in the research paper, even to the computational environment that was used, in order to reproduce and inspect the findings in the paper.Reproducibility of research findings, the ability to repeat experimental procedures and confirm previously found results, is at the heart of the scientific method. For many sciences the reproduction involves the replication of an experimental set up, e.g. in the lab or a field mission to collect data. Increasingly, scientific results are generated by numerical manipulation of data that were already collected, and may involve simulation experiments that are completely carried out computationally.In this proposal Opening Reproducible Research (ORR) we directly aim for the main aspects of open access, by improving the exchange of, by facilitating productive access to and by simplifying reuse of research results that are published over the Internet. The experimentally oriented proposal ORR aims at both the publication process (technische und organisatorische Aspekte des Publikationsprozesses) and the reuse of publications (Absichern der möglichst umfassenden Nachnutzbarkeit der Publikationen), but combines these goals by setting a clear innovation in the area of reproducible research, a goal that has extraordinary meaning for scientific publication. Central to the proposal is a new form for creating and providing research results, the executable research compendium (ERC), which not only enables third parties to reproduce the original research and hence recreate the original research results (figures, tables), but also facilitates interaction with them and the recombination of them with new data or methods. The container format that specifies the ERC will store all information required by different applications (e.g. one-click reproduce, long-term archive, research information systems, discovery purposes) and thus guarantees use independent from original information systems. Building on existing open standards and software, this project will develop standards and tools for ERCs and demonstrate and evaluate these based on fully fledged case studies, initially taken from the geosciences domain. ORR will make a step forward towards executable papers as a new standard in scientific publication.&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://www.uni-muenster.de/Geoinformatics/en/research/projects/O2R.html&#34;&gt;o2r project, WWW Muenster&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Codemeta</title>
+      <link>https://kwb-r.github.io/fakin/tool/codemeta/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/codemeta/</guid>
+      <description>&lt;p&gt;The following text is copied from &lt;a href=&#34;https://codemeta.github.io/&#34;&gt;CodeMeta, 2019&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;the-codemeta-project&#34;&gt;The CodeMeta Project&lt;/h1&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;Research relies heavily on scientific software, and a large and growing fraction of researchers are engaged in developing software as part of their own research (&lt;a href=&#34;https://doi.org/10.1109/SECSE.2009.5069155&#34;&gt;Hannay et al 2009&lt;/a&gt;). Despite this, infrastructure to support the preservation, discovery, reuse, and attribution of software lags substantially behind that of other research products such as journal articles and research data. This lag is driven not so much by a lack of technology as it is by a lack of unity: existing mechanisms to archive, document, index, share, discover, and cite software contributions are heterogeneous among both disciplines and archives and rarely meet best practices (&lt;a href=&#34;https://doi.org/10.1002/asi.23538&#34;&gt;Howison 2015&lt;/a&gt;). Fortunately, a rapidly growing movement to improve preservation, discovery, reuse and attribution of academic software is now underway: a recent &lt;a href=&#34;http://softwarediscoveryindex.org/&#34;&gt;NIH report&lt;/a&gt;, conferences and working groups of &lt;a href=&#34;https://www.force11.org/&#34;&gt;FORCE11&lt;/a&gt;, &lt;a href=&#34;http://wssspe.researchcomputing.org.uk/&#34;&gt;WSSSPE&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://www.software.ac.uk/&#34;&gt;Software Sustainability Institute&lt;/a&gt;, and the rising adoption of repositories like &lt;a href=&#34;../github&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;../zenodo&#34;&gt;Zenodo&lt;/a&gt;, &lt;a href=&#34;https://figshare.com/&#34;&gt;figshare&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.dataone.org/&#34;&gt;DataONE&lt;/a&gt; by academic software developers. Now is the time to improve how these resources can talk to each other.&lt;/p&gt;
+&lt;h2 id=&#34;what-can-software-metadata-do-for-you&#34;&gt;What can software metadata do for you?&lt;/h2&gt;
+&lt;p&gt;What metadata you want from software is determined by your use case. If your primary concerns are credit for academic software, then you’re most interested in citation metadata. If you’re trying to replicate some analysis, you worry more about versions and dependencies than about authors and titles. And if you seek to discover software you don’t already know about that is suitable for a particular task, well then you are interested more in keywords and descriptions. Frequently, developers of scientific software, repositories that host that software, and users themselves are interested in more than one of these objectives, and others besides.&lt;/p&gt;
+&lt;p&gt;Different software repositories, software languages and scientific domains denote this information in different ways, which makes it difficult or impossible for tools to work across these different sources without losing valuable information along the way. For instance, a fantastic collaboration between GitHub and figshare provides researchers a way to import software on the former into the persistent archive of the latter, getting a permanent identifier, a DOI in the process. To assign a DOI, figshare must then pass metadata about the object to DataCite, the central DOI provider for all repositories. While this makes DataCite a powerful aggregator, the lack of a crosswalk table means that much valuable metadata is currently lost along the way, such as the original software license, platform, and so forth. Any tool or approach working across software repositories faces similar challenges without a crosswalk table to translate between these.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Treejack</title>
+      <link>https://kwb-r.github.io/fakin/tool/treejack/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/treejack/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Know where and why people get lost in your content. Tree testing is a
+usability technique for evaluating the findability of topics
+in a website. It’s also known as ‘reverse card sorting’ or ‘card-based
+classification’. Tree testing is done on a simplified text version of your
+site structure – without the influence of navigation aids and visual design.
+Take the guesswork out of information architecture with Treejack – the usability
+testing tool you can use to test your IA without visual distractions. Treejack
+helps you prove your site structure will work before you get into interface
+design.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.optimalworkshop.com/treejack&#34;&gt;OptimalWorkshop, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slack</title>
+      <link>https://kwb-r.github.io/fakin/tool/slack/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/slack/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Slack is an American cloud-based set of proprietary team collaboration tools and
+services, founded by Stewart Butterfield. The name is an acronym for
+&amp;lsquo;Searchable Log of All Conversation and Knowledge&amp;rsquo; &amp;quot;
+&amp;mdash; &lt;a href=&#34;https://https://en.wikipedia.org/wiki/Slack_(software)&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CodeOcean</title>
+      <link>https://kwb-r.github.io/fakin/tool/codeocean/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/codeocean/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Our mission is to make the world&#39;s scientific code more reusable, executable and reproducible
+Code Ocean is a cloud-based computational reproducibility platform that provides researchers and developers an easy way to share, discover and run code published in academic journals and conferences.
+More and more of today&#39;s research includes software code, statistical analysis and algorithms that are not included in traditional publishing. But they are often essential to reproducing the research results and reusing them in a new product or research. This creates a major roadblock for researchers, one that inspired the first steps of Code Ocean as part of the 2014 Runway Startup Postdoc Program at the Jacobs Technion Cornell Institute.
+For the first time, researchers, engineers, developers and scientists can upload code and data in any open source programming language and link working code in a computational environment with the associated article for free. We assign a Digital Object Identifier (DOI) to the algorithm, providing correct attribution and a connection to the published research.
+Phyton
+R
+Julia
+Matlab
+Octave
+C++
+Fortran
+Perl
+Java
+Lua
+Stata&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The platform provides open access to the published software code and data to view and download for everyone for free. But the real treat is that users can execute all published code without installing anything on their personal computer. Everything runs in the cloud on CPUs or GPUs according to the user needs. We make it easy to change parameters, modify the code, upload data, run it again, and see how the results change.
+We&#39;re excited to be on this mission to make scientific code more open. We hope you&#39;ll join us!&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://codeocean.com/about&#34;&gt;CodeOcean, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gitlab</title>
+      <link>https://kwb-r.github.io/fakin/tool/gitlab/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/gitlab/</guid>
+      <description>&lt;p&gt;Gitlab is a collaborative code repository. It is used as backup mirror for our &lt;a href=&#34;fakin/tool/github/&#34;&gt;Github&lt;/a&gt; code repository.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Codecov</title>
+      <link>https://kwb-r.github.io/fakin/tool/codecov/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/codecov/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Develop healthier code. Improve your code review workflow and quality. Codecov
+provides highly integrated tools to group, merge, archive, and compare coverage
+reports.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://codecov.io/&#34;&gt;Codecov.io&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mybinder</title>
+      <link>https://kwb-r.github.io/fakin/tool/mybinder/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/mybinder/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Turn a Git repo into a collection of interactive notebooks.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Have a repository full of Jupyter notebooks? With Binder, open those notebooks
+in an executable environment, making your code immediately reproducible by anyone,
+anywhere.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://mybinder.org&#34;&gt;mybinder, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Science Framework (OSF)</title>
+      <link>https://kwb-r.github.io/fakin/tool/osf/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/osf/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;rdquo;&lt;a href=&#34;https://osf.io/&#34;&gt;OSF&lt;/a&gt; is an open source software project that facilitates open collaboration in science research.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://osf.io/&#34;&gt;OSF, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zotero</title>
+      <link>https://kwb-r.github.io/fakin/tool/zotero/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/zotero/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;rdquo;&lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt; is a free and open-source reference management software to manage bibliographic data and related research materials&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Compared to our current standard software &lt;a href=&#34;../endnote/&#34;&gt;Endnote&lt;/a&gt;, &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; offers offers additional features like cloud-storage or automated access through &lt;a href=&#34;https://www.zotero.org/support/dev/web_api/v3/start&#34;&gt;API&lt;/a&gt; (e.g. the R package &lt;a href=&#34;https://cran.r-project.org/web/packages/RefManageR/&#34;&gt;RefManageR&lt;/a&gt; is able to connect to a &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; database using the function &lt;a href=&#34;https://www.rdocumentation.org/packages/RefManageR/versions/1.2.0/topics/ReadZotero&#34;&gt;ReadZotero()&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For a full comparison of the features of different reference management software available see &lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_reference_management_software&#34;&gt;Wikipedia, 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://kwb-r.github.io/fakin/tool/academic/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/academic/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Why you should create your (personal) website with Academic and &lt;a href=&#34;../tool/hugo&#34;&gt;Hugo&lt;/a&gt;?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Read the &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34;&gt;blog post&lt;/a&gt;
+(~ 9 min reading time) by the author of the &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;academic&lt;/a&gt; theme &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://kwb-r.github.io/fakin/tool/hugo/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/hugo/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://gohugo.io&#34;&gt;gohugo.io, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LimeSurvey</title>
+      <link>https://kwb-r.github.io/fakin/tool/limesurvey/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/limesurvey/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Professional online surveys with LimeSurvey. The worldwide leading open source
+survey software as a professional SaaS solution or as a self-hosted Community Edition.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.limesurvey.org&#34;&gt;LimeSurvey, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/tool/datacamp/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/datacamp/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Learn Data Science from the comfort of your browser, at your own pace with
+DataCamp&#39;s video tutorials &amp;amp; coding challenges on R, Python, Statistics &amp;amp; more.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://datacamp.com&#34;&gt;DataCamp, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zenodo</title>
+      <link>https://kwb-r.github.io/fakin/tool/zenodo/</link>
+      <pubDate>Tue, 26 Jul 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/zenodo/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Zenodo is a general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN. It allows researchers to deposit data sets, research software, reports, and any other research related digital artifacts. For each submission, a persistent &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_object_identifier&#34;&gt;Digital object identifier&lt;/a&gt; (DOI) is minted, which makes the stored items easily citeable.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://en.wikipedia.org/wiki/Zenodo%5D&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Appveyor</title>
+      <link>https://kwb-r.github.io/fakin/tool/appveyor/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/appveyor/</guid>
+      <description>&lt;p&gt;Continious integration for Windows (free for public repositories)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Travis-CI</title>
+      <link>https://kwb-r.github.io/fakin/tool/travis/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/travis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://kwb-r.github.io/fakin/tool/github/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/github/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;GitHub Inc. is a web-based hosting service for version control using Git. It is
+mostly used for computer code. It offers all of the distributed version control
+and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as
+bug tracking, feature requests, task management, and wikis for every project.
+GitHub offers plans for enterprise, team, pro and free accounts which are
+commonly used to host open-source software projects. From January 2019, GitHub
+now offers unlimited private repositories to all plans, including free accounts.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://en.wikipedia.org/wiki/GitHub&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;GitHub can be integrated with &lt;a href=&#34;../zenodo/&#34;&gt;Zenodo&lt;/a&gt; for &lt;a href=&#34;https://guides.github.com/activities/citable-code/&#34;&gt;making your code citable&lt;/a&gt;
+and also for long-term storage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Orcid</title>
+      <link>https://kwb-r.github.io/fakin/tool/orcid/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/orcid/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;rdquo;&lt;a href=&#34;https://orcid.org&#34;&gt;ORCID&lt;/a&gt; provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://orcid.org&#34;&gt;Orcid, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Umberto</title>
+      <link>https://kwb-r.github.io/fakin/tool/umberto/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/umberto/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ifu.com/en/umberto/&#34;&gt;Umberto&lt;/a&gt; is a software for material flow management and material flow analyses. At KWB it is used for modelling in life
+cycle assessment projects, e.g. &lt;a href=&#34;../../project/smartplant/&#34;&gt;Smart-Plant&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subversion</title>
+      <link>https://kwb-r.github.io/fakin/tool/svn/</link>
+      <pubDate>Wed, 03 Apr 2013 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/svn/</guid>
+      <description>&lt;p&gt;Our Version Control System for (internally) tracking source code (R scripts).
+For developing R Packages we use &lt;a href=&#34;../github/&#34;&gt;GitHub&lt;/a&gt;.) for version control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>https://kwb-r.github.io/fakin/tool/rstudio/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/rstudio/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;RStudio is an integrated development environment (IDE) for &lt;a href=&#34;../r/&#34;&gt;R&lt;/a&gt;.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.rstudio.com/products/rstudio/&#34;&gt;RStudio, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Origin</title>
+      <link>https://kwb-r.github.io/fakin/tool/origin/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/origin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://kwb-r.github.io/fakin/tool/r/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EndNote</title>
+      <link>https://kwb-r.github.io/fakin/tool/endnote/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/endnote/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/EndNote&#34;&gt;EndNote&lt;/a&gt; is currently the standard software at KWB for managing literature references.&lt;/p&gt;
+&lt;p&gt;An open-source alternative for the future could be &lt;a href=&#34;../zotero/&#34;&gt;Zotero&lt;/a&gt;, which offers additional features like cloud-storage or automated access through &lt;a href=&#34;https://www.zotero.org/support/dev/web_api/v3/start&#34;&gt;API&lt;/a&gt; (e.g. the R package
+&lt;a href=&#34;https://cran.r-project.org/web/packages/RefManageR/&#34;&gt;RefManageR&lt;/a&gt; is able to connect to a &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; database using the function &lt;a href=&#34;https://www.rdocumentation.org/packages/RefManageR/versions/1.2.0/topics/ReadZotero&#34;&gt;ReadZotero()&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For a full comparison of the features of different reference management software available see &lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_reference_management_software&#34;&gt;Wikipedia, 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>https://kwb-r.github.io/fakin/tool/excel/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/excel/</guid>
+      <description>&lt;p&gt;For best practices on using EXCEL, checkout the online workshop &lt;a href=&#34;https://datacarpentry.org/spreadsheet-ecology-lesson/&#34;&gt;Data Organization in Spreadsheets&lt;/a&gt; provided
+by the organisation &lt;a href=&#34;https://datacarpentry.org/&#34;&gt;Data Carpentry&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

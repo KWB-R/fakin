@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automated reporting | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/automated-reporting/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/automated-reporting/index.xml" rel="self" type="application/rss+xml" />
+    <description>automated reporting</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 17 Oct 2018 22:09:12 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>automated reporting</title>
+      <link>https://kwb-r.github.io/fakin/tags/automated-reporting/</link>
+    </image>
+    
+    <item>
+      <title>Digital Water City (DWC)</title>
+      <link>https://kwb-r.github.io/fakin/project/dwc/</link>
+      <pubDate>Wed, 17 Oct 2018 22:09:12 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/dwc/</guid>
+      <description>&lt;h3 id=&#34;challenges-and-solutions&#34;&gt;Challenges and Solutions&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;How to best collect budgets from multiple project partners during the proposal phase?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An EXCEL template was developed by &lt;a href=&#34;../../authors/sonnenberg/&#34;&gt;Hauke Sonnenberg&lt;/a&gt;,
+which can be automatically imported into &lt;a href=&#34;../../tool/r/&#34;&gt;R&lt;/a&gt; for data aggregation
+and analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to write a data management plan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../authors/sprenger/&#34;&gt;Christoph Sprenger&lt;/a&gt; used the online service &lt;a href=&#34;../../tool/dmponline/&#34;&gt;DMPonline&lt;/a&gt; for creating a data management plan for a
+task (make groundwater visible) within the DWC project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App: aquanes.report</title>
+      <link>https://kwb-r.github.io/fakin/app/aquanes.report/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/aquanes.report/</guid>
+      <description>&lt;h3 id=&#34;automated-reporting-tool-for-water-suppliers&#34;&gt;Automated Reporting Tool for Water Suppliers&lt;/h3&gt;
+&lt;p&gt;The massive amounts of data from sensors, which is usually recorded in a high
+temporal resolution (up to every second) is challenging for data processing and
+visualisation. Especially if standard tools like MS EXCEL are used, which are
+not well suited for such tasks to data import restrictions (e.g. rows per
+spreadsheet limited to maximum 1 million rows in MS EXCEL 2010) or missing
+built-in features for data aggregation (e.g. calculating one hour median values
+from the raw data).
+In addition operational data often needs to be combined with analytical data
+(usually with a temporal resolution of days to weeks) for example in order to
+(1) assess the impact of the plant’s operation scheme (e.g. flow rate) on its
+performance for reducing specific substances or for (2) calculating substance
+loads (by multiplying substance concentrations with flow rates)&lt;/p&gt;
+&lt;p&gt;Within the AQUANES project – in order to address the above challenges for
+small companies or wa-ter operators – a data visualization and reporting tool
+was developed with the software R (&lt;a href=&#34;http://www.r-project.org&#34;&gt;www.r-project.org&lt;/a&gt;), which enables the user to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Explore online and offline data at different temporal aggregation levels (e.g.
+raw data or 10 minutes median values)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create automated reports not only including the raw (online/offline) data but
+also with more advanced calculations combining different online and/or offline
+data (e.g. specific en-ergy demand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a first step, the R reporting tool was implemented and tested for the AQUANES site Haridwar,
+which is used to demonstrate the functionality of the app.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/aquanes.report?urlpath=shiny/haridwar/&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>aquanes.report (v0.5.0): Automated Reporting Tool for Water Suppliers</title>
+      <link>https://kwb-r.github.io/fakin/publication/aquanes-report/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/aquanes-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aquanes.report</title>
+      <link>https://kwb-r.github.io/fakin/code/aquanes.report/</link>
+      <pubDate>Sun, 12 Mar 2017 01:11:25 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/aquanes.report/</guid>
+      <description>&lt;h3 id=&#34;automated-reporting-tool-for-water-suppliers&#34;&gt;Automated Reporting Tool for Water Suppliers&lt;/h3&gt;
+&lt;p&gt;Collects, aggregates and visualises operational and analytical data from water suppliers (including a standardised reporting document)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aquanes</title>
+      <link>https://kwb-r.github.io/fakin/project/aquanes/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/aquanes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ozonation | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/ozonation/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/ozonation/index.xml" rel="self" type="application/rss+xml" />
+    <description>ozonation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 19 Feb 2019 12:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>ozonation</title>
+      <link>https://kwb-r.github.io/fakin/tags/ozonation/</link>
+    </image>
+    
+    <item>
+      <title>AquaNES</title>
+      <link>https://kwb-r.github.io/fakin/code/aquanes/</link>
+      <pubDate>Tue, 19 Feb 2019 12:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/aquanes/</guid>
+      <description>&lt;p&gt;The R package &lt;a href=&#34;https://github.com/KWB-R/AquaNES&#34;&gt;AquaNES&lt;/a&gt; is written by &lt;a href=&#34;../../authors/stapf/&#34;&gt;Michael Stapf&lt;/a&gt; for an advanced data analysis for the ozonation pilot plant
+at the wastewater treatment plant (WWTP) Schönerlinde.&lt;/p&gt;
+&lt;p&gt;Within the FAKIN project it was standardised with the help of the R package
+&lt;a href=&#34;../kwb.pkgbuild/&#34;&gt;kwb.pkgbuild&lt;/a&gt;. For details on how to create your own R
+package skeleton to the predefined KWB-R style, have a look &lt;a href=&#34;../kwb.pkgbuild/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>aquanes.report (v0.5.0): Automated Reporting Tool for Water Suppliers</title>
+      <link>https://kwb-r.github.io/fakin/publication/aquanes-report/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/aquanes-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aquanes.report</title>
+      <link>https://kwb-r.github.io/fakin/code/aquanes.report/</link>
+      <pubDate>Sun, 12 Mar 2017 01:11:25 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/aquanes.report/</guid>
+      <description>&lt;h3 id=&#34;automated-reporting-tool-for-water-suppliers&#34;&gt;Automated Reporting Tool for Water Suppliers&lt;/h3&gt;
+&lt;p&gt;Collects, aggregates and visualises operational and analytical data from water suppliers (including a standardised reporting document)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brownbag | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/brownbag/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/brownbag/index.xml" rel="self" type="application/rss+xml" />
+    <description>brownbag</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 21 Sep 2018 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>brownbag</title>
+      <link>https://kwb-r.github.io/fakin/tags/brownbag/</link>
+    </image>
+    
+    <item>
+      <title>Brownbag #2: FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/talk/2018-09-21_brownbag/</link>
+      <pubDate>Fri, 21 Sep 2018 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2018-09-21_brownbag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brownbag #1: FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-07-07_brownbag/</link>
+      <pubDate>Fri, 07 Jul 2017 12:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-07-07_brownbag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

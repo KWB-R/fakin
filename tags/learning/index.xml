@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/learning/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 01 Mar 2019 10:35:15 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>learning</title>
+      <link>https://kwb-r.github.io/fakin/tags/learning/</link>
+    </image>
+    
+    <item>
+      <title>Open Science MOOC</title>
+      <link>https://kwb-r.github.io/fakin/tool/mooc/</link>
+      <pubDate>Fri, 01 Mar 2019 10:35:15 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/mooc/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Research is getting a global makeover, in part thanks to the power of the internet and the tools it provides for us, and in part due to a growing call for accountability (e.g., reproducibility and data provenance) in research. Global policies are emerging at different levels that include some aspect of Open Research, Open Scholarship, or Open Science, and inclusive of all research disciplines. But our universities are often letting us down, and they are not teaching us the knowledge, tools and skills we need to do research effectively in the 21st century.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Open Science is about increased rigour, accountability, reproducibility for research. It is based on the principles of inclusion, fairness, equity, and sharing. Open Science can be viewed as research simply done properly, and it extends across the Life and Physical Sciences, Engineering, and Mathematics, to Social Science and Humanities.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This MOOC is designed to help equip students and researchers with the skills they need to excel in a modern research environment. It brings together the efforts and resources of hundreds of researchers and practitioners who have all dedicated their time and experience to create a community platform to help propel research forward.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The content of this MOOC will be distilled into 10 core modules. Each module will comprise a complete range of resources including videos, research articles, dummy datasets and code, as well as tasks to complete as individuals or groups.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The MOOC will be hosted through an open source provider. We expect that in the future different systems of certification will be developed, including completion badges. We also intend to build a forum for the open discussion of the MOOC and any relevant topics.&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://opensciencemooc.eu/about/&#34;&gt;opensciencemooc.eu, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/tool/datacamp/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/datacamp/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Learn Data Science from the comfort of your browser, at your own pace with
+DataCamp&#39;s video tutorials &amp;amp; coding challenges on R, Python, Statistics &amp;amp; more.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://datacamp.com&#34;&gt;DataCamp, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>E(R)lernen auf Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/post/kwb-datacamp-group-account/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/post/kwb-datacamp-group-account/</guid>
+      <description>&lt;p&gt;Seit heute hat das KWB auf der Online Programmierplattform &lt;a href=&#34;https://www.datacamp.com&#34;&gt;DataCamp&lt;/a&gt; ein kostenpflichtes Gruppenkonto mit 5 Plätzen abonniert, dass das e**&lt;a href=&#34;https://cran.r-project.org/&#34;&gt;R&lt;/a&gt;**lernen
+nochmals verbessern dürfte.&lt;/p&gt;
+&lt;p&gt;Bisher gab es zwar schon eine KWB Gruppe auf &lt;a href=&#34;https://www.datacamp.com&#34;&gt;DataCamp&lt;/a&gt;,
+jedoch mussten Interssierte für die kostenpflichtigen Kurse jeweils ein monatliches
+Abo für Datacamp abschließen und sich die Kosten dann nachträglich wieder vom KWB
+erstatten zu lassen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Es gilt folgender Workflow:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Werde Mitglied in unserer kostenfreien &lt;a href=&#34;https://www.datacamp.com/groups/r-kwb&#34;&gt;R@KWB DataCamp Gruppe&lt;/a&gt;&lt;/strong&gt; indem du den folgenden &lt;a href=&#34;https://www.datacamp.com/groups/3a6e6d4a7314de1b56a33c99c457b5c7eca00f6a/invite&#34;&gt;Link&lt;/a&gt;
+klickst. Wenn du noch kein DataCamp Account hast, registiere dich bitte unter Angabe
+deiner KWB Emailadresse. Die Mitgliedschaft in dieser Gruppe dient zweierlei.
+Zum einen sollten hier zunächst die kostenlosen DataCamp Kurse wie z.B. &lt;a href=&#34;https://www.datacamp.com/courses/free-introduction-to-r&#34;&gt;Introduction to R&lt;/a&gt; absolviert werden.
+Zum anderen ist die Gruppe eine Art Langzeitgedächtnis der uns ermöglicht zu sehen
+wer in welchem Umfang die DataCamp Schulungen genutzt hat, da hier die Nutzerzahl
+(im Gegensatz zu unserem kostenpflichtigem DataCamp Gruppenaccount) nicht
+limitiert ist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Willst du kostenpflichtige DataCamp Kurse belegen, dann melde dich bitte bei
+&lt;a href=&#34;https://mrustl.github.io&#34;&gt;Michael Rustler&lt;/a&gt; persönlich oder per &lt;a href=&#34;mailto:michael.rustler@kompetenz-wasser.de&#34;&gt;Email&lt;/a&gt;,
+dann füge ich dich unserer kostenpflichtigen Gruppe hinzu und es können alle
+DataCamp Kurse absolviert werden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sobald kein Bedarf oder längere Zeit keine Kurse absolviert werden können (z.B.
+wegen Zeitmangel), bitte ebenfalls mit &lt;a href=&#34;https://mrustl.github.io&#34;&gt;Michael Rustler&lt;/a&gt;
+persönlich oder per &lt;a href=&#34;mailto:michael.rustler@kompetenz-wasser.de&#34;&gt;Email&lt;/a&gt; Kontakt
+aufnehmen, damit der Platz für weitere Lernwillige zur Verfügung steht.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

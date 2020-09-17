@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microsoft | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/microsoft/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <description>microsoft</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>microsoft</title>
+      <link>https://kwb-r.github.io/fakin/tags/microsoft/</link>
+    </image>
+    
+    <item>
+      <title>Excel</title>
+      <link>https://kwb-r.github.io/fakin/tool/excel/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/excel/</guid>
+      <description>&lt;p&gt;For best practices on using EXCEL, checkout the online workshop &lt;a href=&#34;https://datacarpentry.org/spreadsheet-ecology-lesson/&#34;&gt;Data Organization in Spreadsheets&lt;/a&gt; provided
+by the organisation &lt;a href=&#34;https://datacarpentry.org/&#34;&gt;Data Carpentry&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

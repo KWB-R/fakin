@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test project | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/test-project/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/test-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>test project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 20 Aug 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>test project</title>
+      <link>https://kwb-r.github.io/fakin/tags/test-project/</link>
+    </image>
+    
+    <item>
+      <title>Wie etablieren wir FDM an unserem kleinen Wasserforschungsinstitut?</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-08-20_workshop-herder/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-08-20_workshop-herder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #4 (external): Project closure</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</link>
+      <pubDate>Thu, 25 Jul 2019 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #3 (internal): Lessons-learnt</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AquaNES</title>
+      <link>https://kwb-r.github.io/fakin/code/aquanes/</link>
+      <pubDate>Tue, 19 Feb 2019 12:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/aquanes/</guid>
+      <description>&lt;p&gt;The R package &lt;a href=&#34;https://github.com/KWB-R/AquaNES&#34;&gt;AquaNES&lt;/a&gt; is written by &lt;a href=&#34;../../authors/stapf/&#34;&gt;Michael Stapf&lt;/a&gt; for an advanced data analysis for the ozonation pilot plant
+at the wastewater treatment plant (WWTP) Schönerlinde.&lt;/p&gt;
+&lt;p&gt;Within the FAKIN project it was standardised with the help of the R package
+&lt;a href=&#34;../kwb.pkgbuild/&#34;&gt;kwb.pkgbuild&lt;/a&gt;. For details on how to create your own R
+package skeleton to the predefined KWB-R style, have a look &lt;a href=&#34;../kwb.pkgbuild/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Practices in Research Data Management</title>
+      <link>https://kwb-r.github.io/fakin/publication/best-practices/</link>
+      <pubDate>Sat, 09 Feb 2019 21:01:12 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.umberto</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.umberto/</link>
+      <pubDate>Sun, 12 Aug 2018 01:11:38 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.umberto/</guid>
+      <description>&lt;h1 id=&#34;helper-functions-for-data-import-aggregation-and-visualisation-of-umbertohttpswwwifucomumberto-model-output&#34;&gt;Helper functions for data import, aggregation and visualisation of &lt;a href=&#34;https://www.ifu.com/umberto/&#34;&gt;UMBERTO&lt;/a&gt; model output.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.lca</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.lca/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.lca/</guid>
+      <description>&lt;h1 id=&#34;functions-to-be-used-in-life-cycle-assessment-lca-projects&#34;&gt;Functions to Be Used in Life Cycle Assessment (LCA) Projects&lt;/h1&gt;
+&lt;p&gt;This package contains a function to read LCA parameters from an Excel file that was sent to and received from a project partner. The parameters are read into a data frame. Another function can be used to write the dataframe into an Excel file with different sheets and data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.readxl</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.readxl/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.readxl/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Read Data From Excel Files&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This package is based on the package &lt;a href=&#34;https://readxl.tidyverse.org/&#34;&gt;readxl&lt;/a&gt;. It provides functions that read all Excel sheets as pure text and then try to split each sheet into a set of line ranges that are assumed to represent single tables.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App: aquanes.report</title>
+      <link>https://kwb-r.github.io/fakin/app/aquanes.report/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/aquanes.report/</guid>
+      <description>&lt;h3 id=&#34;automated-reporting-tool-for-water-suppliers&#34;&gt;Automated Reporting Tool for Water Suppliers&lt;/h3&gt;
+&lt;p&gt;The massive amounts of data from sensors, which is usually recorded in a high
+temporal resolution (up to every second) is challenging for data processing and
+visualisation. Especially if standard tools like MS EXCEL are used, which are
+not well suited for such tasks to data import restrictions (e.g. rows per
+spreadsheet limited to maximum 1 million rows in MS EXCEL 2010) or missing
+built-in features for data aggregation (e.g. calculating one hour median values
+from the raw data).
+In addition operational data often needs to be combined with analytical data
+(usually with a temporal resolution of days to weeks) for example in order to
+(1) assess the impact of the plant’s operation scheme (e.g. flow rate) on its
+performance for reducing specific substances or for (2) calculating substance
+loads (by multiplying substance concentrations with flow rates)&lt;/p&gt;
+&lt;p&gt;Within the AQUANES project – in order to address the above challenges for
+small companies or wa-ter operators – a data visualization and reporting tool
+was developed with the software R (&lt;a href=&#34;http://www.r-project.org&#34;&gt;www.r-project.org&lt;/a&gt;), which enables the user to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Explore online and offline data at different temporal aggregation levels (e.g.
+raw data or 10 minutes median values)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create automated reports not only including the raw (online/offline) data but
+also with more advanced calculations combining different online and/or offline
+data (e.g. specific en-ergy demand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a first step, the R reporting tool was implemented and tested for the AQUANES site Haridwar,
+which is used to demonstrate the functionality of the app.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/aquanes.report?urlpath=shiny/haridwar/&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.geosalz</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.geosalz/</link>
+      <pubDate>Thu, 05 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.geosalz/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R Package for Documenting Workflow Used in Project geosalz&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GeoSalz</title>
+      <link>https://kwb-r.github.io/fakin/code/geosalz/</link>
+      <pubDate>Tue, 12 Jun 2018 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/geosalz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aquanes.report (v0.5.0): Automated Reporting Tool for Water Suppliers</title>
+      <link>https://kwb-r.github.io/fakin/publication/aquanes-report/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/aquanes-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geosalz</title>
+      <link>https://kwb-r.github.io/fakin/project/geosalz/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/geosalz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #2 (internal): Best-Practices</title>
+      <link>https://kwb-r.github.io/fakin/talk/2018-01-29_workshop-best-practices/</link>
+      <pubDate>Mon, 29 Jan 2018 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2018-01-29_workshop-best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qmra.db</title>
+      <link>https://kwb-r.github.io/fakin/code/qmra.db/</link>
+      <pubDate>Fri, 07 Jul 2017 22:16:19 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/qmra.db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aquanes.report</title>
+      <link>https://kwb-r.github.io/fakin/code/aquanes.report/</link>
+      <pubDate>Sun, 12 Mar 2017 01:11:25 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/aquanes.report/</guid>
+      <description>&lt;h3 id=&#34;automated-reporting-tool-for-water-suppliers&#34;&gt;Automated Reporting Tool for Water Suppliers&lt;/h3&gt;
+&lt;p&gt;Collects, aggregates and visualises operational and analytical data from water suppliers (including a standardised reporting document)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aquanes</title>
+      <link>https://kwb-r.github.io/fakin/project/aquanes/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/aquanes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMART-Plant</title>
+      <link>https://kwb-r.github.io/fakin/project/smartplant/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/smartplant/</guid>
+      <description>&lt;p&gt;Life Cycle Assessment (Modelling with &lt;a href=&#34;https://www.ifu.com/umberto/&#34;&gt;UMBERTO&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

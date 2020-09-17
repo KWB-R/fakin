@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>collaboration | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/collaboration/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>collaboration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>collaboration</title>
+      <link>https://kwb-r.github.io/fakin/tags/collaboration/</link>
+    </image>
+    
+    <item>
+      <title>Slack</title>
+      <link>https://kwb-r.github.io/fakin/tool/slack/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/slack/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Slack is an American cloud-based set of proprietary team collaboration tools and
+services, founded by Stewart Butterfield. The name is an acronym for
+&amp;lsquo;Searchable Log of All Conversation and Knowledge&amp;rsquo; &amp;quot;
+&amp;mdash; &lt;a href=&#34;https://https://en.wikipedia.org/wiki/Slack_(software)&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gitlab</title>
+      <link>https://kwb-r.github.io/fakin/tool/gitlab/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/gitlab/</guid>
+      <description>&lt;p&gt;Gitlab is a collaborative code repository. It is used as backup mirror for our &lt;a href=&#34;fakin/tool/github/&#34;&gt;Github&lt;/a&gt; code repository.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mybinder</title>
+      <link>https://kwb-r.github.io/fakin/tool/mybinder/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/mybinder/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Turn a Git repo into a collection of interactive notebooks.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Have a repository full of Jupyter notebooks? With Binder, open those notebooks
+in an executable environment, making your code immediately reproducible by anyone,
+anywhere.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://mybinder.org&#34;&gt;mybinder, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Science Framework (OSF)</title>
+      <link>https://kwb-r.github.io/fakin/tool/osf/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/osf/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;rdquo;&lt;a href=&#34;https://osf.io/&#34;&gt;OSF&lt;/a&gt; is an open source software project that facilitates open collaboration in science research.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://osf.io/&#34;&gt;OSF, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://kwb-r.github.io/fakin/tool/github/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/github/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;GitHub Inc. is a web-based hosting service for version control using Git. It is
+mostly used for computer code. It offers all of the distributed version control
+and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as
+bug tracking, feature requests, task management, and wikis for every project.
+GitHub offers plans for enterprise, team, pro and free accounts which are
+commonly used to host open-source software projects. From January 2019, GitHub
+now offers unlimited private repositories to all plans, including free accounts.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://en.wikipedia.org/wiki/GitHub&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;GitHub can be integrated with &lt;a href=&#34;../zenodo/&#34;&gt;Zenodo&lt;/a&gt; for &lt;a href=&#34;https://guides.github.com/activities/citable-code/&#34;&gt;making your code citable&lt;/a&gt;
+and also for long-term storage.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gitlab | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/gitlab/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
+    <description>gitlab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 01 Mar 2019 21:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>gitlab</title>
+      <link>https://kwb-r.github.io/fakin/tags/gitlab/</link>
+    </image>
+    
+    <item>
+      <title>Chaining Tools to Create a Knowledge Repo for a Small Research Institute</title>
+      <link>https://kwb-r.github.io/fakin/abstract/2019-07-18_user2019/knowledge-repo/</link>
+      <pubDate>Fri, 01 Mar 2019 21:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/abstract/2019-07-18_user2019/knowledge-repo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fakin</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin/</link>
+      <pubDate>Tue, 01 Jan 2019 09:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin/</guid>
+      <description>&lt;p&gt;Source code for FAKIN project website for FAKIN project based on &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;academic&lt;/a&gt; theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo.io&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

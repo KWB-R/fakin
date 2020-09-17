@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shiny apps | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/shiny-apps/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/shiny-apps/index.xml" rel="self" type="application/rss+xml" />
+    <description>shiny apps</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 12 Feb 2019 01:11:44 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>shiny apps</title>
+      <link>https://kwb-r.github.io/fakin/tags/shiny-apps/</link>
+    </image>
+    
+    <item>
+      <title>apps</title>
+      <link>https://kwb-r.github.io/fakin/code/apps/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/apps/</guid>
+      <description>&lt;h1 id=&#34;interactive-apps&#34;&gt;Interactive Apps&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

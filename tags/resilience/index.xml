@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resilience | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/resilience/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/resilience/index.xml" rel="self" type="application/rss+xml" />
+    <description>resilience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>resilience</title>
+      <link>https://kwb-r.github.io/fakin/tags/resilience/</link>
+    </image>
+    
+    <item>
+      <title>kwb.resilience (v0.1.0): R Package for the Quantification of Technical Resilience</title>
+      <link>https://kwb-r.github.io/fakin/publication/kwb-resilience/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/kwb-resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.resilience</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.resilience/</link>
+      <pubDate>Thu, 12 Jul 2018 09:11:40 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.resilience/</guid>
+      <description>&lt;h1 id=&#34;r-package-for-the-quantification-of-technical-resilience&#34;&gt;R Package for the Quantification of Technical Resilience&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/KWB-R/kwb.resilience&#34;&gt;kwb.resilience&lt;/a&gt; allows calculating different resilience indices for time series. Equations are described and discussed in the freely available conference paper by &lt;a href=&#34;https://www.researchgate.net/publication/326040304_Quantitative_Beschreibung_der_Resilienz_urbaner_Wassersysteme&#34;&gt;Matzinger et al. (2018)&lt;/a&gt; (unfortunately in German only). The sample data for the first example in the paper is also contained in the package as a data.frame “oxygen”.&lt;/p&gt;
+&lt;p&gt;The package should make a starting point for a broader discussion of approaches to tackle resilience of urban water infrastructure for applied cases. Accordingly, adaptations and suggestions are encouraged!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.fakin (v0.3.0): R Package with Functions used in the FAKIN Project</title>
+      <link>https://kwb-r.github.io/fakin/publication/kwb-fakin/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/kwb-fakin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netWORKS4</title>
+      <link>https://kwb-r.github.io/fakin/project/networks4/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/networks4/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../../authors/matzinger/&#34;&gt;Andreas Matzinger&lt;/a&gt; had R scripts with functions for assessing
+the resilience of technical systems.&lt;/p&gt;
+&lt;p&gt;Within FAKIN this functions were semi-automatically (with the help of the R
+package &lt;a href=&#34;../../code/kwb.pkgbuild&#34;&gt;kwb.pkgbuild&lt;/a&gt; compiled into the R package  &lt;a href=&#34;../../code/kwb.resilience&#34;&gt;kwb.resilience&lt;/a&gt;, with the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Open-source code on &lt;a href=&#34;https://github.com/kwb-r/kwb.resilience&#34;&gt;Github&lt;/a&gt; with
+&lt;a href=&#34;https://choosealicense.com/licenses/mit/&#34;&gt;MIT license&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.resilience&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Continious integretion: automatically checks for each change in the source code,
+whether the R package can be installed on Windows (&lt;a href=&#34;https://ci.appveyor.com/project/KWB-R/kwb-resilience/branch/master&#34;&gt;Appveyor&lt;/a&gt;) and Linux (&lt;a href=&#34;https://travis-ci.org/KWB-R/kwb.resilience&#34;&gt;Travis-CI&lt;/a&gt;) platforms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tests: if the implemented R code works as expected using the free service of
+&lt;a href=&#34;https://codecov.io/github/KWB-R/kwb.resilience&#34;&gt;codecov.io&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://doi.org/10.5281/zenodo.2243961&#34;&gt;Zenodo DOI&lt;/a&gt; and is thus citable&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

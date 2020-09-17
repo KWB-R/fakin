@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publication | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/publication/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>publication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>publication</title>
+      <link>https://kwb-r.github.io/fakin/tags/publication/</link>
+    </image>
+    
+    <item>
+      <title>App: pathana</title>
+      <link>https://kwb-r.github.io/fakin/app/fakin.path.app/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/fakin.path.app/</guid>
+      <description>&lt;h3 id=&#34;pathana-an-interactive-tool-for-path-analysis&#34;&gt;Pathana: an interactive tool for path analysis&lt;/h3&gt;
+&lt;p&gt;This R Shiny App loads file path information from a file and displays the paths in different ways. The aim of the app is to find weaknesses in the folder structure.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/fakin.path.app?urlpath=shiny&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fakin.path.app</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin.path.app/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin.path.app/</guid>
+      <description>&lt;p&gt;This R package contains an R Shiny App that loads file path information from a
+file and displays the paths in different ways. The aim of the app is to find
+weaknesses in the folder structure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Funder Registry</title>
+      <link>https://kwb-r.github.io/fakin/tool/funder/</link>
+      <pubDate>Sat, 23 Feb 2019 11:32:30 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/funder/</guid>
+      <description>&lt;h1 id=&#34;funder-registry&#34;&gt;Funder Registry&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;The &lt;a href=&#34;https://www.crossref.org/services/funder-registry/&#34;&gt;Funder Registry&lt;/a&gt; provides a common taxonomy of international funding body names that funding data participants should use to normalize funder names and IDs for deposit with &lt;a href=&#34;https://www.crossref.org&#34;&gt;Crossref&lt;/a&gt;&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.crossref.org/services/funder-registry/&#34;&gt;CrossRef, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.pubs</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.pubs/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.pubs/</guid>
+      <description>&lt;h1 id=&#34;r-package-for-generating-publication-websites-based-on-hugo-theme-academic&#34;&gt;R Package For Generating (Publication) Websites Based on Hugo Theme Academic&lt;/h1&gt;
+&lt;p&gt;Using the following tools:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;: static website generator&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;: a open-source theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; adapted to the needs of researchers and/or small research labs. For example used by Stanford`s Causality in Cognition Lab (see: &lt;a href=&#34;https://cicl.stanford.edu&#34;&gt;https://cicl.stanford.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;R package &lt;a href=&#34;https://bookdown.org/yihui/blogdown&#34;&gt;blogdown&lt;/a&gt;: for generating the website from R(Studio) and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/github-pages.html&#34;&gt;GitHub&lt;/a&gt;/&lt;a href=&#34;https://bookdown.org/yihui/blogdown/gitlab-pages.html&#34;&gt;GitLab&lt;/a&gt; Pages: for automatically deploying the website for free&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>apps</title>
+      <link>https://kwb-r.github.io/fakin/code/apps/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/apps/</guid>
+      <description>&lt;h1 id=&#34;interactive-apps&#34;&gt;Interactive Apps&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.pkgstatus</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.pkgstatus/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:39 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.pkgstatus/</guid>
+      <description>&lt;p&gt;R Package for Checking KWB Package Status (e.g. generating &lt;a href=&#34;https://kwb-r.github.io/status&#34;&gt;https://kwb-r.github.io/status&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fakin.doc</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin.doc/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin.doc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fakin.blog</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin.blog/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:26 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin.blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb-r.github.io</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb-r.github.io/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:22 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb-r.github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fakin</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin/</link>
+      <pubDate>Tue, 01 Jan 2019 09:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin/</guid>
+      <description>&lt;p&gt;Source code for FAKIN project website for FAKIN project based on &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;academic&lt;/a&gt; theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo.io&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.endnote</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.endnote/</link>
+      <pubDate>Fri, 21 Dec 2018 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.endnote/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R Package For Analysing KWB Endnote Library (Exported As .XML)&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pubs</title>
+      <link>https://kwb-r.github.io/fakin/code/pubs/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/pubs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Proof-Of-Concept Prototype For KWB Publication Website.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Linking people, publications (in KWB &lt;a href=&#34;../../tool/endnote&#34;&gt;Endnote&lt;/a&gt; database) and projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.twitter</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.twitter/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App: hantush</title>
+      <link>https://kwb-r.github.io/fakin/app/hantush/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/hantush/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-mounding-beneath-an-infiltration-basin&#34;&gt;Calculation of Groundwater Mounding Beneath an Infiltration Basin&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/hantush?urlpath=shiny&#34;&gt;app&lt;/a&gt; is deployed
+using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important note:&lt;/strong&gt; in order to see the plot in the tab &lt;strong&gt;Explore&lt;/strong&gt; (see
+screenshot abovce) it is necessary to enable the checkbox &lt;strong&gt;Details&lt;/strong&gt; once after
+starting the app.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Executable Research Compendia</title>
+      <link>https://kwb-r.github.io/fakin/tool/erc/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/erc/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Open access is not only a form of publishing such that research papers become available to the large public free of charge, it also refers to a trend in science that the act of doing research becomes more open and transparent. When science transforms to open access we mean access to papers, research data being collected, data being generated, access to the procedures carried out in the research paper, even to the computational environment that was used, in order to reproduce and inspect the findings in the paper.Reproducibility of research findings, the ability to repeat experimental procedures and confirm previously found results, is at the heart of the scientific method. For many sciences the reproduction involves the replication of an experimental set up, e.g. in the lab or a field mission to collect data. Increasingly, scientific results are generated by numerical manipulation of data that were already collected, and may involve simulation experiments that are completely carried out computationally.In this proposal Opening Reproducible Research (ORR) we directly aim for the main aspects of open access, by improving the exchange of, by facilitating productive access to and by simplifying reuse of research results that are published over the Internet. The experimentally oriented proposal ORR aims at both the publication process (technische und organisatorische Aspekte des Publikationsprozesses) and the reuse of publications (Absichern der möglichst umfassenden Nachnutzbarkeit der Publikationen), but combines these goals by setting a clear innovation in the area of reproducible research, a goal that has extraordinary meaning for scientific publication. Central to the proposal is a new form for creating and providing research results, the executable research compendium (ERC), which not only enables third parties to reproduce the original research and hence recreate the original research results (figures, tables), but also facilitates interaction with them and the recombination of them with new data or methods. The container format that specifies the ERC will store all information required by different applications (e.g. one-click reproduce, long-term archive, research information systems, discovery purposes) and thus guarantees use independent from original information systems. Building on existing open standards and software, this project will develop standards and tools for ERCs and demonstrate and evaluate these based on fully fledged case studies, initially taken from the geosciences domain. ORR will make a step forward towards executable papers as a new standard in scientific publication.&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://www.uni-muenster.de/Geoinformatics/en/research/projects/O2R.html&#34;&gt;o2r project, WWW Muenster&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App: aquanes.report</title>
+      <link>https://kwb-r.github.io/fakin/app/aquanes.report/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/aquanes.report/</guid>
+      <description>&lt;h3 id=&#34;automated-reporting-tool-for-water-suppliers&#34;&gt;Automated Reporting Tool for Water Suppliers&lt;/h3&gt;
+&lt;p&gt;The massive amounts of data from sensors, which is usually recorded in a high
+temporal resolution (up to every second) is challenging for data processing and
+visualisation. Especially if standard tools like MS EXCEL are used, which are
+not well suited for such tasks to data import restrictions (e.g. rows per
+spreadsheet limited to maximum 1 million rows in MS EXCEL 2010) or missing
+built-in features for data aggregation (e.g. calculating one hour median values
+from the raw data).
+In addition operational data often needs to be combined with analytical data
+(usually with a temporal resolution of days to weeks) for example in order to
+(1) assess the impact of the plant’s operation scheme (e.g. flow rate) on its
+performance for reducing specific substances or for (2) calculating substance
+loads (by multiplying substance concentrations with flow rates)&lt;/p&gt;
+&lt;p&gt;Within the AQUANES project – in order to address the above challenges for
+small companies or wa-ter operators – a data visualization and reporting tool
+was developed with the software R (&lt;a href=&#34;http://www.r-project.org&#34;&gt;www.r-project.org&lt;/a&gt;), which enables the user to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Explore online and offline data at different temporal aggregation levels (e.g.
+raw data or 10 minutes median values)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create automated reports not only including the raw (online/offline) data but
+also with more advanced calculations combining different online and/or offline
+data (e.g. specific en-ergy demand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a first step, the R reporting tool was implemented and tested for the AQUANES site Haridwar,
+which is used to demonstrate the functionality of the app.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/aquanes.report?urlpath=shiny/haridwar/&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App: wtaqWeb</title>
+      <link>https://kwb-r.github.io/fakin/app/wtaqweb/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/wtaqweb/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-drawdown-beneath-an-abstraction-well&#34;&gt;Calculation of Groundwater Drawdown Beneath an Abstraction Well&lt;/h3&gt;
+&lt;p&gt;The drawdown calculation is performed with USGS model &lt;a href=&#34;https://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt;.
+For creating the &lt;a href=&#34;https://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt; input files, running the model and reading the output files the R package
+&lt;a href=&#34;code/kwb.wtaq/&#34;&gt;kwb.wtaq&lt;/a&gt; is used.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/wtaqWeb?urlpath=shiny&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.orcid</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.orcid/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.orcid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.pkgbuild</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.pkgbuild/</link>
+      <pubDate>Tue, 12 Jun 2018 01:11:39 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.pkgbuild/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R package for Automating R package development at KWB to a Predefined Style&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For details on how to create your own R package skeleton to the predefined KWB-R
+style, the following resources are avaiable:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.pkgbuild/articles/install.html&#34;&gt;How to install KWB-R packages?&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.pkgbuild/articles/tutorial.html&#34;&gt;Create an KWB-R package from scratch&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Code examples&lt;/strong&gt;: for an overview on R scripts used to either create a new R
+package from scratch or to standardise an already existing R package, have a look at &lt;a href=&#34;https://github.com/KWB-R/kwb.pkgbuild/issues/26&#34;&gt;https://github.com/KWB-R/kwb.pkgbuild/issues/26&lt;/a&gt;. In case you successfully used
+&lt;a href=&#34;https://github.com/kwb-r/kwb.pkgbuild/&#34;&gt;kwb.pkgbuild&lt;/a&gt; it would be great if you
+could add your R script to this &lt;a href=&#34;https://github.com/KWB-R/kwb.pkgbuild/issues/26&#34;&gt;showcase&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gitlab</title>
+      <link>https://kwb-r.github.io/fakin/tool/gitlab/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/gitlab/</guid>
+      <description>&lt;p&gt;Gitlab is a collaborative code repository. It is used as backup mirror for our &lt;a href=&#34;fakin/tool/github/&#34;&gt;Github&lt;/a&gt; code repository.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mybinder</title>
+      <link>https://kwb-r.github.io/fakin/tool/mybinder/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/mybinder/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Turn a Git repo into a collection of interactive notebooks.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Have a repository full of Jupyter notebooks? With Binder, open those notebooks
+in an executable environment, making your code immediately reproducible by anyone,
+anywhere.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://mybinder.org&#34;&gt;mybinder, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Science Framework (OSF)</title>
+      <link>https://kwb-r.github.io/fakin/tool/osf/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/osf/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;rdquo;&lt;a href=&#34;https://osf.io/&#34;&gt;OSF&lt;/a&gt; is an open source software project that facilitates open collaboration in science research.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://osf.io/&#34;&gt;OSF, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zotero</title>
+      <link>https://kwb-r.github.io/fakin/tool/zotero/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/zotero/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;rdquo;&lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt; is a free and open-source reference management software to manage bibliographic data and related research materials&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Compared to our current standard software &lt;a href=&#34;../endnote/&#34;&gt;Endnote&lt;/a&gt;, &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; offers offers additional features like cloud-storage or automated access through &lt;a href=&#34;https://www.zotero.org/support/dev/web_api/v3/start&#34;&gt;API&lt;/a&gt; (e.g. the R package &lt;a href=&#34;https://cran.r-project.org/web/packages/RefManageR/&#34;&gt;RefManageR&lt;/a&gt; is able to connect to a &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; database using the function &lt;a href=&#34;https://www.rdocumentation.org/packages/RefManageR/versions/1.2.0/topics/ReadZotero&#34;&gt;ReadZotero()&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For a full comparison of the features of different reference management software available see &lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_reference_management_software&#34;&gt;Wikipedia, 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zenodo</title>
+      <link>https://kwb-r.github.io/fakin/tool/zenodo/</link>
+      <pubDate>Tue, 26 Jul 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/zenodo/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Zenodo is a general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN. It allows researchers to deposit data sets, research software, reports, and any other research related digital artifacts. For each submission, a persistent &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_object_identifier&#34;&gt;Digital object identifier&lt;/a&gt; (DOI) is minted, which makes the stored items easily citeable.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://en.wikipedia.org/wiki/Zenodo%5D&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://kwb-r.github.io/fakin/tool/github/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/github/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;GitHub Inc. is a web-based hosting service for version control using Git. It is
+mostly used for computer code. It offers all of the distributed version control
+and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as
+bug tracking, feature requests, task management, and wikis for every project.
+GitHub offers plans for enterprise, team, pro and free accounts which are
+commonly used to host open-source software projects. From January 2019, GitHub
+now offers unlimited private repositories to all plans, including free accounts.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://en.wikipedia.org/wiki/GitHub&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;GitHub can be integrated with &lt;a href=&#34;../zenodo/&#34;&gt;Zenodo&lt;/a&gt; for &lt;a href=&#34;https://guides.github.com/activities/citable-code/&#34;&gt;making your code citable&lt;/a&gt;
+and also for long-term storage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Orcid</title>
+      <link>https://kwb-r.github.io/fakin/tool/orcid/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/orcid/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;rdquo;&lt;a href=&#34;https://orcid.org&#34;&gt;ORCID&lt;/a&gt; provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://orcid.org&#34;&gt;Orcid, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EndNote</title>
+      <link>https://kwb-r.github.io/fakin/tool/endnote/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/endnote/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/EndNote&#34;&gt;EndNote&lt;/a&gt; is currently the standard software at KWB for managing literature references.&lt;/p&gt;
+&lt;p&gt;An open-source alternative for the future could be &lt;a href=&#34;../zotero/&#34;&gt;Zotero&lt;/a&gt;, which offers additional features like cloud-storage or automated access through &lt;a href=&#34;https://www.zotero.org/support/dev/web_api/v3/start&#34;&gt;API&lt;/a&gt; (e.g. the R package
+&lt;a href=&#34;https://cran.r-project.org/web/packages/RefManageR/&#34;&gt;RefManageR&lt;/a&gt; is able to connect to a &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; database using the function &lt;a href=&#34;https://www.rdocumentation.org/packages/RefManageR/versions/1.2.0/topics/ReadZotero&#34;&gt;ReadZotero()&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For a full comparison of the features of different reference management software available see &lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_reference_management_software&#34;&gt;Wikipedia, 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

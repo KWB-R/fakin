@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rmarkdown | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/rmarkdown/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>rmarkdown</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>rmarkdown</title>
+      <link>https://kwb-r.github.io/fakin/tags/rmarkdown/</link>
+    </image>
+    
+    <item>
+      <title>Demoware</title>
+      <link>https://kwb-r.github.io/fakin/project/demoware/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/demoware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

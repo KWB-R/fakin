@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>communication external | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/communication-external/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/communication-external/index.xml" rel="self" type="application/rss+xml" />
+    <description>communication external</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 20 Aug 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>communication external</title>
+      <link>https://kwb-r.github.io/fakin/tags/communication-external/</link>
+    </image>
+    
+    <item>
+      <title>Wie etablieren wir FDM an unserem kleinen Wasserforschungsinstitut?</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-08-20_workshop-herder/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-08-20_workshop-herder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #4 (external): Project closure</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</link>
+      <pubDate>Thu, 25 Jul 2019 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make Your Code Great Again!</title>
+      <link>https://kwb-r.github.io/fakin/abstract/2019-07-18_user2019/code-analysis/</link>
+      <pubDate>Fri, 01 Mar 2019 23:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/abstract/2019-07-18_user2019/code-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaining Tools to Create a Knowledge Repo for a Small Research Institute</title>
+      <link>https://kwb-r.github.io/fakin/abstract/2019-07-18_user2019/knowledge-repo/</link>
+      <pubDate>Fri, 01 Mar 2019 21:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/abstract/2019-07-18_user2019/knowledge-repo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating a Knowledge Repo for a Small Research Institute</title>
+      <link>https://kwb-r.github.io/fakin/abstract/2019-06-04_derse19/</link>
+      <pubDate>Tue, 26 Feb 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/abstract/2019-06-04_derse19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practices in Research Data Management</title>
+      <link>https://kwb-r.github.io/fakin/publication/best-practices/</link>
+      <pubDate>Sat, 09 Feb 2019 21:01:12 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAKIN: Forschungsdatenmanagement an kleinen Instituten</title>
+      <link>https://kwb-r.github.io/fakin/talk/2018-10-19_fdm-netzwerk/</link>
+      <pubDate>Fri, 19 Oct 2018 10:30:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2018-10-19_fdm-netzwerk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forschungsdatenmanagement an kleinen Instituten (Session 1: Kompetenzen)</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-06-01_fdm-netzwerk_kompetenzen/</link>
+      <pubDate>Thu, 01 Jun 2017 10:30:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-06-01_fdm-netzwerk_kompetenzen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statement (Session 3: Disziplinenspezifische Besonderheiten im FDM)</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-06-01_fdm-netzwerk_disziplinen/</link>
+      <pubDate>Thu, 01 Jun 2017 10:30:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-06-01_fdm-netzwerk_disziplinen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

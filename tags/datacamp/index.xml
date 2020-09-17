@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datacamp | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/datacamp/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/datacamp/index.xml" rel="self" type="application/rss+xml" />
+    <description>datacamp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>datacamp</title>
+      <link>https://kwb-r.github.io/fakin/tags/datacamp/</link>
+    </image>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/code/datacamp/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/datacamp/</guid>
+      <description>&lt;p&gt;R package for checking &lt;a href=&#34;../../tool/datacamp/&#34;&gt;Datacamp&lt;/a&gt; use at KWB. It also provides an overview on available courses, skill and career tracks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

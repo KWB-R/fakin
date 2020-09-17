@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rstats | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/categories/rstats/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/categories/rstats/index.xml" rel="self" type="application/rss+xml" />
+    <description>rstats</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>rstats</title>
+      <link>https://kwb-r.github.io/fakin/categories/rstats/</link>
+    </image>
+    
+    <item>
+      <title>eRum 2018</title>
+      <link>https://kwb-r.github.io/fakin/post/erum2018/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/post/erum2018/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
+&lt;h2 id=&#34;geocomputing-with-r&#34;&gt;Geocomputing with R&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/jannes-m/erum18_geocompr&#34;&gt;&lt;a href=&#34;https://github.com/jannes-m/erum18_geocompr&#34;&gt;https://github.com/jannes-m/erum18_geocompr&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34;&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34;&gt;https://geocompr.robinlovelace.net/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;efficient-r-programming&#34;&gt;Efficient R programming&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/csgillespie/efficient&#34;&gt;&lt;a href=&#34;https://github.com/csgillespie/efficient&#34;&gt;https://github.com/csgillespie/efficient&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://csgillespie.github.io/efficientR/&#34;&gt;&lt;a href=&#34;https://csgillespie.github.io/efficientR/&#34;&gt;https://csgillespie.github.io/efficientR/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;reproducible-data-screening-and-quality-control&#34;&gt;Reproducible data screening and quality control&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.biostatistics.dk/eRum2018/&#34;&gt;&lt;a href=&#34;http://www.biostatistics.dk/eRum2018/&#34;&gt;http://www.biostatistics.dk/eRum2018/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ekstroem.github.io/dataMaid/&#34;&gt;&lt;a href=&#34;https://ekstroem.github.io/dataMaid/&#34;&gt;https://ekstroem.github.io/dataMaid/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;building-a-package-that-lasts&#34;&gt;Building a package that lasts&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ColinFay/erum2018&#34;&gt;Sources&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h1&gt;
+&lt;h2 id=&#34;machine-learning&#34;&gt;Machine learning&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/DdQTk-FX4AE6r20.jpg:large&#34; alt=&#34;performance&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://twitter.com/DataScienceLA/status/996443690280345603&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/szilard/better-than-deep-learning-gradient-boosting-machines-gbm-in-r-erum-conference-budapest-may-2018&#34;&gt;GBM better than deep lerning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/szilard/benchm-ml&#34;&gt;Benchmarks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/szilard/GBM-perf&#34;&gt;GBM benchmarks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;RStudio:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Practitioners should use Keras library&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use R package &lt;code&gt;tfruns&lt;/code&gt; for logging model performance progress&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If training takes longer than &amp;gt; 5min, cloudml could be an option &lt;a href=&#34;https://tensorflow.rstudio.com/tools/cloudml/articles/getting_started.html&#34;&gt;&lt;a href=&#34;https://tensorflow.rstudio.com/tools/cloudml/articles/getting_started.html&#34;&gt;https://tensorflow.rstudio.com/tools/cloudml/articles/getting_started.html&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrie/erum-tensorflow-tools&#34;&gt;&lt;a href=&#34;https://github.com/andrie/erum-tensorflow-tools&#34;&gt;https://github.com/andrie/erum-tensorflow-tools&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Slides of other talks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/pbiecek/Talks/blob/master/2018/ShowMeYourModel_20_eRum.pdf&#34;&gt;Show me your model 2.0&lt;/a&gt;, &lt;a href=&#34;https://pbiecek.github.io/DALEX/&#34;&gt;R Package DALEX&lt;/a&gt;; alternative R package lime&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitpitch.com/hturner/talks/eRum2018&#34;&gt;Modelling Item Worth Based on Rankings&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://dirk.eddelbuettel.com/blog/2017/11/27/#011_faster_package_installation_one&#34;&gt;Faster package installation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/csoneson/iSEE&#34;&gt;R/shiny interface for interactive visualization of data in objects derived from the SummarizedExperiment class&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/fi5fswytwatw1kk/condition-erum.pdf&#34;&gt;Errors &amp;amp; conditions&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://datawookie.github.io/talk-first-steps-with-stan/&#34;&gt;First steps with Stan&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rsbivand/eRum18&#34;&gt;Keynote: History of R&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data science: stories instead of code, thinking of the long-term horizon (value of data!)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Building a data science team around R&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Infrastructure questions (How to access R / get packages)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bborgesr/erum2018&#34;&gt;Drilldown data discovery with shiny&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

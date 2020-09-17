@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/authors/schuetz/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/authors/schuetz/index.xml" rel="self" type="application/rss+xml" />
+    <description>FAKIN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 21 Sep 2018 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/authors/schuetz/</link>
+    </image>
+    
+    <item>
+      <title>Brownbag #2: FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/talk/2018-09-21_brownbag/</link>
+      <pubDate>Fri, 21 Sep 2018 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2018-09-21_brownbag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/tool/datacamp/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/datacamp/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Learn Data Science from the comfort of your browser, at your own pace with
+DataCamp&#39;s video tutorials &amp;amp; coding challenges on R, Python, Statistics &amp;amp; more.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://datacamp.com&#34;&gt;DataCamp, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://kwb-r.github.io/fakin/tool/github/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/github/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;GitHub Inc. is a web-based hosting service for version control using Git. It is
+mostly used for computer code. It offers all of the distributed version control
+and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as
+bug tracking, feature requests, task management, and wikis for every project.
+GitHub offers plans for enterprise, team, pro and free accounts which are
+commonly used to host open-source software projects. From January 2019, GitHub
+now offers unlimited private repositories to all plans, including free accounts.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://en.wikipedia.org/wiki/GitHub&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;GitHub can be integrated with &lt;a href=&#34;../zenodo/&#34;&gt;Zenodo&lt;/a&gt; for &lt;a href=&#34;https://guides.github.com/activities/citable-code/&#34;&gt;making your code citable&lt;/a&gt;
+and also for long-term storage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>https://kwb-r.github.io/fakin/tool/rstudio/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/rstudio/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;RStudio is an integrated development environment (IDE) for &lt;a href=&#34;../r/&#34;&gt;R&lt;/a&gt;.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.rstudio.com/products/rstudio/&#34;&gt;RStudio, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://kwb-r.github.io/fakin/tool/r/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

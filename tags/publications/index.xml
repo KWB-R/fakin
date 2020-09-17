@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publications | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/publications/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 12 Feb 2019 01:11:47 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>publications</title>
+      <link>https://kwb-r.github.io/fakin/tags/publications/</link>
+    </image>
+    
+    <item>
+      <title>kwb.pubs</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.pubs/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.pubs/</guid>
+      <description>&lt;h1 id=&#34;r-package-for-generating-publication-websites-based-on-hugo-theme-academic&#34;&gt;R Package For Generating (Publication) Websites Based on Hugo Theme Academic&lt;/h1&gt;
+&lt;p&gt;Using the following tools:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;: static website generator&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;: a open-source theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; adapted to the needs of researchers and/or small research labs. For example used by Stanford`s Causality in Cognition Lab (see: &lt;a href=&#34;https://cicl.stanford.edu&#34;&gt;https://cicl.stanford.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;R package &lt;a href=&#34;https://bookdown.org/yihui/blogdown&#34;&gt;blogdown&lt;/a&gt;: for generating the website from R(Studio) and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/github-pages.html&#34;&gt;GitHub&lt;/a&gt;/&lt;a href=&#34;https://bookdown.org/yihui/blogdown/gitlab-pages.html&#34;&gt;GitLab&lt;/a&gt; Pages: for automatically deploying the website for free&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

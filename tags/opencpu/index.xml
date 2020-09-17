@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opencpu | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/opencpu/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/opencpu/index.xml" rel="self" type="application/rss+xml" />
+    <description>opencpu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 12 Feb 2016 01:11:23 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>opencpu</title>
+      <link>https://kwb-r.github.io/fakin/tags/opencpu/</link>
+    </image>
+    
+    <item>
+      <title>kwb.qmra</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.qmra/</link>
+      <pubDate>Fri, 12 Feb 2016 01:11:23 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.qmra/</guid>
+      <description>&lt;h1 id=&#34;quantitative-microbial-risk-assessment-qmra-for-water-supply-systems&#34;&gt;Quantitative Microbial Risk Assessment (QMRA) for water supply systems&lt;/h1&gt;
+&lt;p&gt;For performing quantitative microbiological risk assessment (QMRA) the open-source
+R package &lt;a href=&#34;https://github.com/KWB-R/kwb.qmra&#34;&gt;kwb.qmra&lt;/a&gt; was developed at KWB
+within the &lt;a href=&#34;../../project/demoware/&#34;&gt;DEMOWARE&lt;/a&gt; project and is extended and tested within the &lt;a href=&#34;../../project/aquanes/&#34;&gt;AquaNES&lt;/a&gt; project&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

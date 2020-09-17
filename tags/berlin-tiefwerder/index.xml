@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>berlin tiefwerder | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/berlin-tiefwerder/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/berlin-tiefwerder/index.xml" rel="self" type="application/rss+xml" />
+    <description>berlin tiefwerder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>berlin tiefwerder</title>
+      <link>https://kwb-r.github.io/fakin/tags/berlin-tiefwerder/</link>
+    </image>
+    
+    <item>
+      <title>aquanes.report (v0.5.0): Automated Reporting Tool for Water Suppliers</title>
+      <link>https://kwb-r.github.io/fakin/publication/aquanes-report/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/aquanes-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aquanes.report</title>
+      <link>https://kwb-r.github.io/fakin/code/aquanes.report/</link>
+      <pubDate>Sun, 12 Mar 2017 01:11:25 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/aquanes.report/</guid>
+      <description>&lt;h3 id=&#34;automated-reporting-tool-for-water-suppliers&#34;&gt;Automated Reporting Tool for Water Suppliers&lt;/h3&gt;
+&lt;p&gt;Collects, aggregates and visualises operational and analytical data from water suppliers (including a standardised reporting document)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

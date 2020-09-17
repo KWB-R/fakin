@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codemeta | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/codemeta/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/codemeta/index.xml" rel="self" type="application/rss+xml" />
+    <description>codemeta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>codemeta</title>
+      <link>https://kwb-r.github.io/fakin/tags/codemeta/</link>
+    </image>
+    
+    <item>
+      <title>codemetar</title>
+      <link>https://kwb-r.github.io/fakin/publication/codemetar/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/codemetar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pkgmeta</title>
+      <link>https://kwb-r.github.io/fakin/code/pkgmeta/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/pkgmeta/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R Package for meta-analysis of KWB-R packages on Github&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Codemeta</title>
+      <link>https://kwb-r.github.io/fakin/tool/codemeta/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/codemeta/</guid>
+      <description>&lt;p&gt;The following text is copied from &lt;a href=&#34;https://codemeta.github.io/&#34;&gt;CodeMeta, 2019&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;the-codemeta-project&#34;&gt;The CodeMeta Project&lt;/h1&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;Research relies heavily on scientific software, and a large and growing fraction of researchers are engaged in developing software as part of their own research (&lt;a href=&#34;https://doi.org/10.1109/SECSE.2009.5069155&#34;&gt;Hannay et al 2009&lt;/a&gt;). Despite this, infrastructure to support the preservation, discovery, reuse, and attribution of software lags substantially behind that of other research products such as journal articles and research data. This lag is driven not so much by a lack of technology as it is by a lack of unity: existing mechanisms to archive, document, index, share, discover, and cite software contributions are heterogeneous among both disciplines and archives and rarely meet best practices (&lt;a href=&#34;https://doi.org/10.1002/asi.23538&#34;&gt;Howison 2015&lt;/a&gt;). Fortunately, a rapidly growing movement to improve preservation, discovery, reuse and attribution of academic software is now underway: a recent &lt;a href=&#34;http://softwarediscoveryindex.org/&#34;&gt;NIH report&lt;/a&gt;, conferences and working groups of &lt;a href=&#34;https://www.force11.org/&#34;&gt;FORCE11&lt;/a&gt;, &lt;a href=&#34;http://wssspe.researchcomputing.org.uk/&#34;&gt;WSSSPE&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://www.software.ac.uk/&#34;&gt;Software Sustainability Institute&lt;/a&gt;, and the rising adoption of repositories like &lt;a href=&#34;../github&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;../zenodo&#34;&gt;Zenodo&lt;/a&gt;, &lt;a href=&#34;https://figshare.com/&#34;&gt;figshare&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.dataone.org/&#34;&gt;DataONE&lt;/a&gt; by academic software developers. Now is the time to improve how these resources can talk to each other.&lt;/p&gt;
+&lt;h2 id=&#34;what-can-software-metadata-do-for-you&#34;&gt;What can software metadata do for you?&lt;/h2&gt;
+&lt;p&gt;What metadata you want from software is determined by your use case. If your primary concerns are credit for academic software, then you’re most interested in citation metadata. If you’re trying to replicate some analysis, you worry more about versions and dependencies than about authors and titles. And if you seek to discover software you don’t already know about that is suitable for a particular task, well then you are interested more in keywords and descriptions. Frequently, developers of scientific software, repositories that host that software, and users themselves are interested in more than one of these objectives, and others besides.&lt;/p&gt;
+&lt;p&gt;Different software repositories, software languages and scientific domains denote this information in different ways, which makes it difficult or impossible for tools to work across these different sources without losing valuable information along the way. For instance, a fantastic collaboration between GitHub and figshare provides researchers a way to import software on the former into the persistent archive of the latter, getting a permanent identifier, a DOI in the process. To assign a DOI, figshare must then pass metadata about the object to DataCite, the central DOI provider for all repositories. While this makes DataCite a powerful aggregator, the lack of a crosswalk table means that much valuable metadata is currently lost along the way, such as the original software license, platform, and so forth. Any tool or approach working across software repositories faces similar challenges without a crosswalk table to translate between these.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

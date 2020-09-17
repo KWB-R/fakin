@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spreadsheets | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/spreadsheets/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/spreadsheets/index.xml" rel="self" type="application/rss+xml" />
+    <description>spreadsheets</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>spreadsheets</title>
+      <link>https://kwb-r.github.io/fakin/tags/spreadsheets/</link>
+    </image>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/code/datacamp/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/datacamp/</guid>
+      <description>&lt;p&gt;R package for checking &lt;a href=&#34;../../tool/datacamp/&#34;&gt;Datacamp&lt;/a&gt; use at KWB. It also provides an overview on available courses, skill and career tracks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.lca</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.lca/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.lca/</guid>
+      <description>&lt;h1 id=&#34;functions-to-be-used-in-life-cycle-assessment-lca-projects&#34;&gt;Functions to Be Used in Life Cycle Assessment (LCA) Projects&lt;/h1&gt;
+&lt;p&gt;This package contains a function to read LCA parameters from an Excel file that was sent to and received from a project partner. The parameters are read into a data frame. Another function can be used to write the dataframe into an Excel file with different sheets and data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.readxl</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.readxl/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.readxl/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Read Data From Excel Files&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This package is based on the package &lt;a href=&#34;https://readxl.tidyverse.org/&#34;&gt;readxl&lt;/a&gt;. It provides functions that read all Excel sheets as pure text and then try to split each sheet into a set of line ranges that are assumed to represent single tables.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.geosalz</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.geosalz/</link>
+      <pubDate>Thu, 05 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.geosalz/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R Package for Documenting Workflow Used in Project geosalz&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GeoSalz</title>
+      <link>https://kwb-r.github.io/fakin/code/geosalz/</link>
+      <pubDate>Tue, 12 Jun 2018 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/geosalz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geosalz</title>
+      <link>https://kwb-r.github.io/fakin/project/geosalz/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/geosalz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/tool/datacamp/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/datacamp/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Learn Data Science from the comfort of your browser, at your own pace with
+DataCamp&#39;s video tutorials &amp;amp; coding challenges on R, Python, Statistics &amp;amp; more.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://datacamp.com&#34;&gt;DataCamp, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>https://kwb-r.github.io/fakin/tool/excel/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/excel/</guid>
+      <description>&lt;p&gt;For best practices on using EXCEL, checkout the online workshop &lt;a href=&#34;https://datacarpentry.org/spreadsheet-ecology-lesson/&#34;&gt;Data Organization in Spreadsheets&lt;/a&gt; provided
+by the organisation &lt;a href=&#34;https://datacarpentry.org/&#34;&gt;Data Carpentry&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

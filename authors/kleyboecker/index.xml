@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/authors/kleyboecker/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/authors/kleyboecker/index.xml" rel="self" type="application/rss+xml" />
+    <description>FAKIN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 06 Mar 2019 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/authors/kleyboecker/</link>
+    </image>
+    
+    <item>
+      <title>Workshop #3 (internal): Lessons-learnt</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brownbag #2: FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/talk/2018-09-21_brownbag/</link>
+      <pubDate>Fri, 21 Sep 2018 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2018-09-21_brownbag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

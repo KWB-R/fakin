@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lca modelling | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/lca-modelling/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/lca-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>lca modelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Sun, 12 Aug 2018 01:11:38 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>lca modelling</title>
+      <link>https://kwb-r.github.io/fakin/tags/lca-modelling/</link>
+    </image>
+    
+    <item>
+      <title>kwb.umberto</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.umberto/</link>
+      <pubDate>Sun, 12 Aug 2018 01:11:38 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.umberto/</guid>
+      <description>&lt;h1 id=&#34;helper-functions-for-data-import-aggregation-and-visualisation-of-umbertohttpswwwifucomumberto-model-output&#34;&gt;Helper functions for data import, aggregation and visualisation of &lt;a href=&#34;https://www.ifu.com/umberto/&#34;&gt;UMBERTO&lt;/a&gt; model output.&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

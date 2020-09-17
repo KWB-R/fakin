@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drawdown model | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/drawdown-model/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/drawdown-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>drawdown model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Thu, 12 Jul 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>drawdown model</title>
+      <link>https://kwb-r.github.io/fakin/tags/drawdown-model/</link>
+    </image>
+    
+    <item>
+      <title>App: wtaqWeb</title>
+      <link>https://kwb-r.github.io/fakin/app/wtaqweb/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/wtaqweb/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-drawdown-beneath-an-abstraction-well&#34;&gt;Calculation of Groundwater Drawdown Beneath an Abstraction Well&lt;/h3&gt;
+&lt;p&gt;The drawdown calculation is performed with USGS model &lt;a href=&#34;https://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt;.
+For creating the &lt;a href=&#34;https://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt; input files, running the model and reading the output files the R package
+&lt;a href=&#34;code/kwb.wtaq/&#34;&gt;kwb.wtaq&lt;/a&gt; is used.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/wtaqWeb?urlpath=shiny&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.wtaq</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.wtaq/</link>
+      <pubDate>Tue, 12 Jul 2016 01:11:21 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.wtaq/</guid>
+      <description>&lt;h3 id=&#34;interface-to-wtaqhttpwaterusgsgovogwwtaq-drawdown-model&#34;&gt;Interface to &lt;a href=&#34;http://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt; Drawdown Model&lt;/h3&gt;
+&lt;p&gt;Functions enabling the writing of WTAQ input files, running of WTAQ and reading
+of WTAQ output files.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>documentation | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/documentation/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>documentation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 22 Feb 2019 21:44:30 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>documentation</title>
+      <link>https://kwb-r.github.io/fakin/tags/documentation/</link>
+    </image>
+    
+    <item>
+      <title>Algolia</title>
+      <link>https://kwb-r.github.io/fakin/tool/algolia/</link>
+      <pubDate>Fri, 22 Feb 2019 21:44:30 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/algolia/</guid>
+      <description>&lt;h1 id=&#34;search-software-as-a-service&#34;&gt;Search (Software As A Service)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://algolia.com&#34;&gt;Algolia&lt;/a&gt; is a French startup company offering a web search product through a SaaS (software as a service) model.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

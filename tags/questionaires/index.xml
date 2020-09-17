@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>questionaires | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/questionaires/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/questionaires/index.xml" rel="self" type="application/rss+xml" />
+    <description>questionaires</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Thu, 12 Jul 2018 01:11:44 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>questionaires</title>
+      <link>https://kwb-r.github.io/fakin/tags/questionaires/</link>
+    </image>
+    
+    <item>
+      <title>kwb.lca</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.lca/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.lca/</guid>
+      <description>&lt;h1 id=&#34;functions-to-be-used-in-life-cycle-assessment-lca-projects&#34;&gt;Functions to Be Used in Life Cycle Assessment (LCA) Projects&lt;/h1&gt;
+&lt;p&gt;This package contains a function to read LCA parameters from an Excel file that was sent to and received from a project partner. The parameters are read into a data frame. Another function can be used to write the dataframe into an Excel file with different sheets and data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud service | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/cloud-service/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/cloud-service/index.xml" rel="self" type="application/rss+xml" />
+    <description>cloud service</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>cloud service</title>
+      <link>https://kwb-r.github.io/fakin/tags/cloud-service/</link>
+    </image>
+    
+    <item>
+      <title>CodeOcean</title>
+      <link>https://kwb-r.github.io/fakin/tool/codeocean/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/codeocean/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Our mission is to make the world&#39;s scientific code more reusable, executable and reproducible
+Code Ocean is a cloud-based computational reproducibility platform that provides researchers and developers an easy way to share, discover and run code published in academic journals and conferences.
+More and more of today&#39;s research includes software code, statistical analysis and algorithms that are not included in traditional publishing. But they are often essential to reproducing the research results and reusing them in a new product or research. This creates a major roadblock for researchers, one that inspired the first steps of Code Ocean as part of the 2014 Runway Startup Postdoc Program at the Jacobs Technion Cornell Institute.
+For the first time, researchers, engineers, developers and scientists can upload code and data in any open source programming language and link working code in a computational environment with the associated article for free. We assign a Digital Object Identifier (DOI) to the algorithm, providing correct attribution and a connection to the published research.
+Phyton
+R
+Julia
+Matlab
+Octave
+C++
+Fortran
+Perl
+Java
+Lua
+Stata&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The platform provides open access to the published software code and data to view and download for everyone for free. But the real treat is that users can execute all published code without installing anything on their personal computer. Everything runs in the cloud on CPUs or GPUs according to the user needs. We make it easy to change parameters, modify the code, upload data, run it again, and see how the results change.
+We&#39;re excited to be on this mission to make scientific code more open. We hope you&#39;ll join us!&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://codeocean.com/about&#34;&gt;CodeOcean, 2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

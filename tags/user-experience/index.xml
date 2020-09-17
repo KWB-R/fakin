@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>user experience | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/user-experience/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/user-experience/index.xml" rel="self" type="application/rss+xml" />
+    <description>user experience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>user experience</title>
+      <link>https://kwb-r.github.io/fakin/tags/user-experience/</link>
+    </image>
+    
+    <item>
+      <title>Treejack</title>
+      <link>https://kwb-r.github.io/fakin/tool/treejack/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/treejack/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Know where and why people get lost in your content. Tree testing is a
+usability technique for evaluating the findability of topics
+in a website. It’s also known as ‘reverse card sorting’ or ‘card-based
+classification’. Tree testing is done on a simplified text version of your
+site structure – without the influence of navigation aids and visual design.
+Take the guesswork out of information architecture with Treejack – the usability
+testing tool you can use to test your IA without visual distractions. Treejack
+helps you prove your site structure will work before you get into interface
+design.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.optimalworkshop.com/treejack&#34;&gt;OptimalWorkshop, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>content management system | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/content-management-system/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/content-management-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>content management system</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>content management system</title>
+      <link>https://kwb-r.github.io/fakin/tags/content-management-system/</link>
+    </image>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://kwb-r.github.io/fakin/tool/academic/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/academic/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Why you should create your (personal) website with Academic and &lt;a href=&#34;../tool/hugo&#34;&gt;Hugo&lt;/a&gt;?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Read the &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34;&gt;blog post&lt;/a&gt;
+(~ 9 min reading time) by the author of the &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;academic&lt;/a&gt; theme &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://kwb-r.github.io/fakin/tool/hugo/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/hugo/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://gohugo.io&#34;&gt;gohugo.io, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

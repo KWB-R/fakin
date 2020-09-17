@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mybinder | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/mybinder/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/mybinder/index.xml" rel="self" type="application/rss+xml" />
+    <description>mybinder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>mybinder</title>
+      <link>https://kwb-r.github.io/fakin/tags/mybinder/</link>
+    </image>
+    
+    <item>
+      <title>App: pathana</title>
+      <link>https://kwb-r.github.io/fakin/app/fakin.path.app/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/fakin.path.app/</guid>
+      <description>&lt;h3 id=&#34;pathana-an-interactive-tool-for-path-analysis&#34;&gt;Pathana: an interactive tool for path analysis&lt;/h3&gt;
+&lt;p&gt;This R Shiny App loads file path information from a file and displays the paths in different ways. The aim of the app is to find weaknesses in the folder structure.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/fakin.path.app?urlpath=shiny&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fakin.path.app</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin.path.app/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin.path.app/</guid>
+      <description>&lt;p&gt;This R package contains an R Shiny App that loads file path information from a
+file and displays the paths in different ways. The aim of the app is to find
+weaknesses in the folder structure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App: hantush</title>
+      <link>https://kwb-r.github.io/fakin/app/hantush/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/hantush/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-mounding-beneath-an-infiltration-basin&#34;&gt;Calculation of Groundwater Mounding Beneath an Infiltration Basin&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/hantush?urlpath=shiny&#34;&gt;app&lt;/a&gt; is deployed
+using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important note:&lt;/strong&gt; in order to see the plot in the tab &lt;strong&gt;Explore&lt;/strong&gt; (see
+screenshot abovce) it is necessary to enable the checkbox &lt;strong&gt;Details&lt;/strong&gt; once after
+starting the app.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App: aquanes.report</title>
+      <link>https://kwb-r.github.io/fakin/app/aquanes.report/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/aquanes.report/</guid>
+      <description>&lt;h3 id=&#34;automated-reporting-tool-for-water-suppliers&#34;&gt;Automated Reporting Tool for Water Suppliers&lt;/h3&gt;
+&lt;p&gt;The massive amounts of data from sensors, which is usually recorded in a high
+temporal resolution (up to every second) is challenging for data processing and
+visualisation. Especially if standard tools like MS EXCEL are used, which are
+not well suited for such tasks to data import restrictions (e.g. rows per
+spreadsheet limited to maximum 1 million rows in MS EXCEL 2010) or missing
+built-in features for data aggregation (e.g. calculating one hour median values
+from the raw data).
+In addition operational data often needs to be combined with analytical data
+(usually with a temporal resolution of days to weeks) for example in order to
+(1) assess the impact of the plant’s operation scheme (e.g. flow rate) on its
+performance for reducing specific substances or for (2) calculating substance
+loads (by multiplying substance concentrations with flow rates)&lt;/p&gt;
+&lt;p&gt;Within the AQUANES project – in order to address the above challenges for
+small companies or wa-ter operators – a data visualization and reporting tool
+was developed with the software R (&lt;a href=&#34;http://www.r-project.org&#34;&gt;www.r-project.org&lt;/a&gt;), which enables the user to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Explore online and offline data at different temporal aggregation levels (e.g.
+raw data or 10 minutes median values)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create automated reports not only including the raw (online/offline) data but
+also with more advanced calculations combining different online and/or offline
+data (e.g. specific en-ergy demand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a first step, the R reporting tool was implemented and tested for the AQUANES site Haridwar,
+which is used to demonstrate the functionality of the app.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/aquanes.report?urlpath=shiny/haridwar/&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App: wtaqWeb</title>
+      <link>https://kwb-r.github.io/fakin/app/wtaqweb/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/wtaqweb/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-drawdown-beneath-an-abstraction-well&#34;&gt;Calculation of Groundwater Drawdown Beneath an Abstraction Well&lt;/h3&gt;
+&lt;p&gt;The drawdown calculation is performed with USGS model &lt;a href=&#34;https://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt;.
+For creating the &lt;a href=&#34;https://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt; input files, running the model and reading the output files the R package
+&lt;a href=&#34;code/kwb.wtaq/&#34;&gt;kwb.wtaq&lt;/a&gt; is used.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/wtaqWeb?urlpath=shiny&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

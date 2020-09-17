@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>collaboration external | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/collaboration-external/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/collaboration-external/index.xml" rel="self" type="application/rss+xml" />
+    <description>collaboration external</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>collaboration external</title>
+      <link>https://kwb-r.github.io/fakin/tags/collaboration-external/</link>
+    </image>
+    
+    <item>
+      <title>swmmr</title>
+      <link>https://kwb-r.github.io/fakin/publication/swmmr/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/swmmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codemetar</title>
+      <link>https://kwb-r.github.io/fakin/publication/codemetar/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/codemetar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

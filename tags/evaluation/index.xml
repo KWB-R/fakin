@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>evaluation | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/evaluation/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <description>evaluation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 01 Mar 2019 09:24:52 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>evaluation</title>
+      <link>https://kwb-r.github.io/fakin/tags/evaluation/</link>
+    </image>
+    
+    <item>
+      <title>Software Management Plan (SMP)</title>
+      <link>https://kwb-r.github.io/fakin/tool/smp/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/smp/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;The Software Sustainibility Institute provides a checklist helping you to write a SMP.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.software.ac.uk&#34;&gt;The Software Sustainibility Institute, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

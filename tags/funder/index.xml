@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>funder | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/funder/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/funder/index.xml" rel="self" type="application/rss+xml" />
+    <description>funder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Sat, 23 Feb 2019 11:32:30 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>funder</title>
+      <link>https://kwb-r.github.io/fakin/tags/funder/</link>
+    </image>
+    
+    <item>
+      <title>Open Funder Registry</title>
+      <link>https://kwb-r.github.io/fakin/tool/funder/</link>
+      <pubDate>Sat, 23 Feb 2019 11:32:30 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/funder/</guid>
+      <description>&lt;h1 id=&#34;funder-registry&#34;&gt;Funder Registry&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;The &lt;a href=&#34;https://www.crossref.org/services/funder-registry/&#34;&gt;Funder Registry&lt;/a&gt; provides a common taxonomy of international funding body names that funding data participants should use to normalize funder names and IDs for deposit with &lt;a href=&#34;https://www.crossref.org&#34;&gt;Crossref&lt;/a&gt;&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.crossref.org/services/funder-registry/&#34;&gt;CrossRef, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

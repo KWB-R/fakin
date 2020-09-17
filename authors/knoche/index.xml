@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/authors/knoche/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/authors/knoche/index.xml" rel="self" type="application/rss+xml" />
+    <description>FAKIN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/authors/knoche/</link>
+    </image>
+    
+  </channel>
+</rss>

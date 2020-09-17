@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dwc | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/dwc/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/dwc/index.xml" rel="self" type="application/rss+xml" />
+    <description>dwc</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 17 Oct 2018 22:09:12 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>dwc</title>
+      <link>https://kwb-r.github.io/fakin/tags/dwc/</link>
+    </image>
+    
+    <item>
+      <title>Digital Water City (DWC)</title>
+      <link>https://kwb-r.github.io/fakin/project/dwc/</link>
+      <pubDate>Wed, 17 Oct 2018 22:09:12 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/dwc/</guid>
+      <description>&lt;h3 id=&#34;challenges-and-solutions&#34;&gt;Challenges and Solutions&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;How to best collect budgets from multiple project partners during the proposal phase?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An EXCEL template was developed by &lt;a href=&#34;../../authors/sonnenberg/&#34;&gt;Hauke Sonnenberg&lt;/a&gt;,
+which can be automatically imported into &lt;a href=&#34;../../tool/r/&#34;&gt;R&lt;/a&gt; for data aggregation
+and analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to write a data management plan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../authors/sprenger/&#34;&gt;Christoph Sprenger&lt;/a&gt; used the online service &lt;a href=&#34;../../tool/dmponline/&#34;&gt;DMPonline&lt;/a&gt; for creating a data management plan for a
+task (make groundwater visible) within the DWC project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

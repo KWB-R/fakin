@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>persistent identifier | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/persistent-identifier/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/persistent-identifier/index.xml" rel="self" type="application/rss+xml" />
+    <description>persistent identifier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>persistent identifier</title>
+      <link>https://kwb-r.github.io/fakin/tags/persistent-identifier/</link>
+    </image>
+    
+    <item>
+      <title>Orcid</title>
+      <link>https://kwb-r.github.io/fakin/tool/orcid/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/orcid/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;rdquo;&lt;a href=&#34;https://orcid.org&#34;&gt;ORCID&lt;/a&gt; provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://orcid.org&#34;&gt;Orcid, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

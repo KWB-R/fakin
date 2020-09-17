@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project management | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/project-management/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>project management</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 01 Mar 2019 09:24:52 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>project management</title>
+      <link>https://kwb-r.github.io/fakin/tags/project-management/</link>
+    </image>
+    
+    <item>
+      <title>Software Management Plan (SMP)</title>
+      <link>https://kwb-r.github.io/fakin/tool/smp/</link>
+      <pubDate>Fri, 01 Mar 2019 09:24:52 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/smp/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;The Software Sustainibility Institute provides a checklist helping you to write a SMP.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.software.ac.uk&#34;&gt;The Software Sustainibility Institute, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Funder Registry</title>
+      <link>https://kwb-r.github.io/fakin/tool/funder/</link>
+      <pubDate>Sat, 23 Feb 2019 11:32:30 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/funder/</guid>
+      <description>&lt;h1 id=&#34;funder-registry&#34;&gt;Funder Registry&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;The &lt;a href=&#34;https://www.crossref.org/services/funder-registry/&#34;&gt;Funder Registry&lt;/a&gt; provides a common taxonomy of international funding body names that funding data participants should use to normalize funder names and IDs for deposit with &lt;a href=&#34;https://www.crossref.org&#34;&gt;Crossref&lt;/a&gt;&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.crossref.org/services/funder-registry/&#34;&gt;CrossRef, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DMPonline</title>
+      <link>https://kwb-r.github.io/fakin/tool/dmponline/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/dmponline/</guid>
+      <description>&lt;h1 id=&#34;data-management-plan&#34;&gt;Data Management Plan&lt;/h1&gt;
+&lt;p&gt;[DMPonline](&lt;a href=&#34;https://dmponline.dcc.ac.uk/&#34;&gt;https://dmponline.dcc.ac.uk/&lt;/a&gt;] in an online tool, which helps you to
+create, review, and share data management plans that meet institutional and
+funder requirements.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

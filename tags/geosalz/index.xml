@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geosalz | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/geosalz/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/geosalz/index.xml" rel="self" type="application/rss+xml" />
+    <description>geosalz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Thu, 12 Jul 2018 01:11:42 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>geosalz</title>
+      <link>https://kwb-r.github.io/fakin/tags/geosalz/</link>
+    </image>
+    
+    <item>
+      <title>kwb.readxl</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.readxl/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.readxl/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Read Data From Excel Files&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This package is based on the package &lt;a href=&#34;https://readxl.tidyverse.org/&#34;&gt;readxl&lt;/a&gt;. It provides functions that read all Excel sheets as pure text and then try to split each sheet into a set of line ranges that are assumed to represent single tables.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.geosalz</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.geosalz/</link>
+      <pubDate>Thu, 05 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.geosalz/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R Package for Documenting Workflow Used in Project geosalz&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GeoSalz</title>
+      <link>https://kwb-r.github.io/fakin/code/geosalz/</link>
+      <pubDate>Tue, 12 Jun 2018 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/geosalz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geosalz</title>
+      <link>https://kwb-r.github.io/fakin/project/geosalz/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/geosalz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origin</title>
+      <link>https://kwb-r.github.io/fakin/tool/origin/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/origin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

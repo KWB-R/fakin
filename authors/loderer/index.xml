@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/authors/loderer/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/authors/loderer/index.xml" rel="self" type="application/rss+xml" />
+    <description>FAKIN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Mon, 29 Jan 2018 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/authors/loderer/</link>
+    </image>
+    
+    <item>
+      <title>Workshop #2 (internal): Best-Practices</title>
+      <link>https://kwb-r.github.io/fakin/talk/2018-01-29_workshop-best-practices/</link>
+      <pubDate>Mon, 29 Jan 2018 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2018-01-29_workshop-best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #1 (internal): Kickoff</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-09-25_workshop-kickoff/</link>
+      <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-09-25_workshop-kickoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brownbag #1: FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-07-07_brownbag/</link>
+      <pubDate>Fri, 07 Jul 2017 12:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-07-07_brownbag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

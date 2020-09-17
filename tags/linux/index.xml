@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/linux/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>linux</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Mon, 16 May 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>linux</title>
+      <link>https://kwb-r.github.io/fakin/tags/linux/</link>
+    </image>
+    
+    <item>
+      <title>Appveyor</title>
+      <link>https://kwb-r.github.io/fakin/tool/appveyor/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/appveyor/</guid>
+      <description>&lt;p&gt;Continious integration for Windows (free for public repositories)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Travis-CI</title>
+      <link>https://kwb-r.github.io/fakin/tool/travis/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/travis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

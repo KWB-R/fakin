@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>literature data management | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/literature-data-management/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/literature-data-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>literature data management</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 21 Dec 2018 01:11:47 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>literature data management</title>
+      <link>https://kwb-r.github.io/fakin/tags/literature-data-management/</link>
+    </image>
+    
+    <item>
+      <title>kwb.endnote</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.endnote/</link>
+      <pubDate>Fri, 21 Dec 2018 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.endnote/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R Package For Analysing KWB Endnote Library (Exported As .XML)&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pubs</title>
+      <link>https://kwb-r.github.io/fakin/code/pubs/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/pubs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Proof-Of-Concept Prototype For KWB Publication Website.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Linking people, publications (in KWB &lt;a href=&#34;../../tool/endnote&#34;&gt;Endnote&lt;/a&gt; database) and projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zotero</title>
+      <link>https://kwb-r.github.io/fakin/tool/zotero/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/zotero/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;rdquo;&lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt; is a free and open-source reference management software to manage bibliographic data and related research materials&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Compared to our current standard software &lt;a href=&#34;../endnote/&#34;&gt;Endnote&lt;/a&gt;, &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; offers offers additional features like cloud-storage or automated access through &lt;a href=&#34;https://www.zotero.org/support/dev/web_api/v3/start&#34;&gt;API&lt;/a&gt; (e.g. the R package &lt;a href=&#34;https://cran.r-project.org/web/packages/RefManageR/&#34;&gt;RefManageR&lt;/a&gt; is able to connect to a &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; database using the function &lt;a href=&#34;https://www.rdocumentation.org/packages/RefManageR/versions/1.2.0/topics/ReadZotero&#34;&gt;ReadZotero()&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For a full comparison of the features of different reference management software available see &lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_reference_management_software&#34;&gt;Wikipedia, 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EndNote</title>
+      <link>https://kwb-r.github.io/fakin/tool/endnote/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/endnote/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/EndNote&#34;&gt;EndNote&lt;/a&gt; is currently the standard software at KWB for managing literature references.&lt;/p&gt;
+&lt;p&gt;An open-source alternative for the future could be &lt;a href=&#34;../zotero/&#34;&gt;Zotero&lt;/a&gt;, which offers additional features like cloud-storage or automated access through &lt;a href=&#34;https://www.zotero.org/support/dev/web_api/v3/start&#34;&gt;API&lt;/a&gt; (e.g. the R package
+&lt;a href=&#34;https://cran.r-project.org/web/packages/RefManageR/&#34;&gt;RefManageR&lt;/a&gt; is able to connect to a &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; database using the function &lt;a href=&#34;https://www.rdocumentation.org/packages/RefManageR/versions/1.2.0/topics/ReadZotero&#34;&gt;ReadZotero()&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For a full comparison of the features of different reference management software available see &lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_reference_management_software&#34;&gt;Wikipedia, 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+id,frage,prozent_richtig,n_richtig,n_falsch,n
+1,"Bei welcher Fakin Veranstaltung war Tobias Evel dabei?",94.1,16,1,17
+2,"Bei welchen internen FAKIN Veranstaltungen (Vortraege, Workshops) kamen Umfragetools zum Einsatz?",76.5,26,8,34
+3,"Welches Tool wird am KWB verwendet um Interessierten individuelle web-basierte R Schulungen anzubieten",94.1,16,1,17
+4,"Finde nun heraus an wen du dich wenden musst um dich fuer die kostenpflichtigen Kurse dieses Tools freischalten zu lassen.",88.6,31,4,35
+5,"Wer am KWB hat die meiste Erfahrung mit diesem Tool (d.h. hat die meisten Uebungen absolviert bzw. die meisten Erfahrungspunkte gesammelt?",25.0,4,12,16
+6,"Im Rahmen von FAKIN wurde ein R Paket als Analysetool fuer unsere KWB EndNote Datenbank entwickelt. Suche es um herausfinden in welchem Jahr die meisten KWB-Publikationen entstanden sind?",61.5,8,5,13
+7,"Es wurde des weiteren ein Prototyp fuer eine KWB Publikations Website erstellt.  Such diese eine Publikation dessen Abstract die folgenden Keywords beinhaltet ""bank filtration doc removal berlin tegel"".Gesucht sind der Erstautor sowie das Projekt in dem die Publikation erstellt wurde.",69.2,9,4,13

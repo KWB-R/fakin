@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/authors/weispfennig/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/authors/weispfennig/index.xml" rel="self" type="application/rss+xml" />
+    <description>FAKIN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Wed, 06 Mar 2019 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/authors/weispfennig/</link>
+    </image>
+    
+    <item>
+      <title>Workshop #3 (internal): Lessons-learnt</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://kwb-r.github.io/fakin/tool/git/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/git/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Git is a free and open source distributed version control system designed to
+handle everything from small to very large projects with speed and efficiency.
+Git is easy to learn and has a tiny footprint with lightning fast performance.
+It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with
+features like cheap local branching, convenient staging areas, and multiple
+workflows.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://git-scm.com/&#34;&gt;git-scm.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Umberto</title>
+      <link>https://kwb-r.github.io/fakin/tool/umberto/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/umberto/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ifu.com/en/umberto/&#34;&gt;Umberto&lt;/a&gt; is a software for material flow management and material flow analyses. At KWB it is used for modelling in life
+cycle assessment projects, e.g. &lt;a href=&#34;../../project/smartplant/&#34;&gt;Smart-Plant&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subversion</title>
+      <link>https://kwb-r.github.io/fakin/tool/svn/</link>
+      <pubDate>Wed, 03 Apr 2013 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/svn/</guid>
+      <description>&lt;p&gt;Our Version Control System for (internally) tracking source code (R scripts).
+For developing R Packages we use &lt;a href=&#34;../github/&#34;&gt;GitHub&lt;/a&gt;.) for version control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>https://kwb-r.github.io/fakin/tool/rstudio/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/rstudio/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;RStudio is an integrated development environment (IDE) for &lt;a href=&#34;../r/&#34;&gt;R&lt;/a&gt;.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.rstudio.com/products/rstudio/&#34;&gt;RStudio, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://kwb-r.github.io/fakin/tool/r/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EndNote</title>
+      <link>https://kwb-r.github.io/fakin/tool/endnote/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/endnote/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/EndNote&#34;&gt;EndNote&lt;/a&gt; is currently the standard software at KWB for managing literature references.&lt;/p&gt;
+&lt;p&gt;An open-source alternative for the future could be &lt;a href=&#34;../zotero/&#34;&gt;Zotero&lt;/a&gt;, which offers additional features like cloud-storage or automated access through &lt;a href=&#34;https://www.zotero.org/support/dev/web_api/v3/start&#34;&gt;API&lt;/a&gt; (e.g. the R package
+&lt;a href=&#34;https://cran.r-project.org/web/packages/RefManageR/&#34;&gt;RefManageR&lt;/a&gt; is able to connect to a &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; database using the function &lt;a href=&#34;https://www.rdocumentation.org/packages/RefManageR/versions/1.2.0/topics/ReadZotero&#34;&gt;ReadZotero()&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For a full comparison of the features of different reference management software available see &lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_reference_management_software&#34;&gt;Wikipedia, 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

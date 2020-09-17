@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rstats | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/rstats/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
+    <description>rstats</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>rstats</title>
+      <link>https://kwb-r.github.io/fakin/tags/rstats/</link>
+    </image>
+    
+    <item>
+      <title>App: pathana</title>
+      <link>https://kwb-r.github.io/fakin/app/fakin.path.app/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/fakin.path.app/</guid>
+      <description>&lt;h3 id=&#34;pathana-an-interactive-tool-for-path-analysis&#34;&gt;Pathana: an interactive tool for path analysis&lt;/h3&gt;
+&lt;p&gt;This R Shiny App loads file path information from a file and displays the paths in different ways. The aim of the app is to find weaknesses in the folder structure.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/fakin.path.app?urlpath=shiny&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fakin.path.app</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin.path.app/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin.path.app/</guid>
+      <description>&lt;p&gt;This R package contains an R Shiny App that loads file path information from a
+file and displays the paths in different ways. The aim of the app is to find
+weaknesses in the folder structure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>algoliar</title>
+      <link>https://kwb-r.github.io/fakin/code/algoliar/</link>
+      <pubDate>Tue, 12 Mar 2019 11:52:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/algoliar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science MOOC</title>
+      <link>https://kwb-r.github.io/fakin/tool/mooc/</link>
+      <pubDate>Fri, 01 Mar 2019 10:35:15 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/mooc/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Research is getting a global makeover, in part thanks to the power of the internet and the tools it provides for us, and in part due to a growing call for accountability (e.g., reproducibility and data provenance) in research. Global policies are emerging at different levels that include some aspect of Open Research, Open Scholarship, or Open Science, and inclusive of all research disciplines. But our universities are often letting us down, and they are not teaching us the knowledge, tools and skills we need to do research effectively in the 21st century.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Open Science is about increased rigour, accountability, reproducibility for research. It is based on the principles of inclusion, fairness, equity, and sharing. Open Science can be viewed as research simply done properly, and it extends across the Life and Physical Sciences, Engineering, and Mathematics, to Social Science and Humanities.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This MOOC is designed to help equip students and researchers with the skills they need to excel in a modern research environment. It brings together the efforts and resources of hundreds of researchers and practitioners who have all dedicated their time and experience to create a community platform to help propel research forward.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The content of this MOOC will be distilled into 10 core modules. Each module will comprise a complete range of resources including videos, research articles, dummy datasets and code, as well as tasks to complete as individuals or groups.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The MOOC will be hosted through an open source provider. We expect that in the future different systems of certification will be developed, including completion badges. We also intend to build a forum for the open discussion of the MOOC and any relevant topics.&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://opensciencemooc.eu/about/&#34;&gt;opensciencemooc.eu, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating a Knowledge Repo for a Small Research Institute</title>
+      <link>https://kwb-r.github.io/fakin/abstract/2019-06-04_derse19/</link>
+      <pubDate>Tue, 26 Feb 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/abstract/2019-06-04_derse19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.dwd</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.dwd/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.dwd/</guid>
+      <description>&lt;p&gt;This package provides functions to simplify the access to the data provided online
+by the Deutscher Wetterdienst (DWD, &lt;a href=&#34;https://www.dwd.de)&#34;&gt;https://www.dwd.de)&lt;/a&gt;. It currently contains
+a function &lt;a href=&#34;https://kwb-r.github.io/kwb.dwd/reference/get_radolan_urls.html&#34;&gt;get_radolan_urls()&lt;/a&gt;
+that returns the internet addresses (Unified Resource Locators, URLs) to the zip
+files containing rain data from the RADOLAN system in daily or hourly resolution
+(see &lt;a href=&#34;https://www.dwd.de/DE/leistungen/radolan/radolan.html)&#34;&gt;https://www.dwd.de/DE/leistungen/radolan/radolan.html)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The function &lt;a href=&#34;https://kwb-r.github.io/kwb.dwd/reference/download_radolan.html&#34;&gt;download_radolan()&lt;/a&gt;
+helps you to download these files. But take care, you should restrict the time
+period as each file contains the data for all of Germany.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AquaNES</title>
+      <link>https://kwb-r.github.io/fakin/code/aquanes/</link>
+      <pubDate>Tue, 19 Feb 2019 12:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/aquanes/</guid>
+      <description>&lt;p&gt;The R package &lt;a href=&#34;https://github.com/KWB-R/AquaNES&#34;&gt;AquaNES&lt;/a&gt; is written by &lt;a href=&#34;../../authors/stapf/&#34;&gt;Michael Stapf&lt;/a&gt; for an advanced data analysis for the ozonation pilot plant
+at the wastewater treatment plant (WWTP) Schönerlinde.&lt;/p&gt;
+&lt;p&gt;Within the FAKIN project it was standardised with the help of the R package
+&lt;a href=&#34;../kwb.pkgbuild/&#34;&gt;kwb.pkgbuild&lt;/a&gt;. For details on how to create your own R
+package skeleton to the predefined KWB-R style, have a look &lt;a href=&#34;../kwb.pkgbuild/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fhpredict</title>
+      <link>https://kwb-r.github.io/fakin/code/fhpredict/</link>
+      <pubDate>Mon, 18 Feb 2019 16:35:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fhpredict/</guid>
+      <description>&lt;p&gt;This R package provides all functions that are required for the Web application that is developed within the Flusshygiene project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.pubs</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.pubs/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.pubs/</guid>
+      <description>&lt;h1 id=&#34;r-package-for-generating-publication-websites-based-on-hugo-theme-academic&#34;&gt;R Package For Generating (Publication) Websites Based on Hugo Theme Academic&lt;/h1&gt;
+&lt;p&gt;Using the following tools:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;: static website generator&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;: a open-source theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; adapted to the needs of researchers and/or small research labs. For example used by Stanford`s Causality in Cognition Lab (see: &lt;a href=&#34;https://cicl.stanford.edu&#34;&gt;https://cicl.stanford.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;R package &lt;a href=&#34;https://bookdown.org/yihui/blogdown&#34;&gt;blogdown&lt;/a&gt;: for generating the website from R(Studio) and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/github-pages.html&#34;&gt;GitHub&lt;/a&gt;/&lt;a href=&#34;https://bookdown.org/yihui/blogdown/gitlab-pages.html&#34;&gt;GitLab&lt;/a&gt; Pages: for automatically deploying the website for free&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.read</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.read/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:46 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.read/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apps</title>
+      <link>https://kwb-r.github.io/fakin/code/apps/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/apps/</guid>
+      <description>&lt;h1 id=&#34;interactive-apps&#34;&gt;Interactive Apps&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.code</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.code/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:40 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.pkgstatus</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.pkgstatus/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:39 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.pkgstatus/</guid>
+      <description>&lt;p&gt;R Package for Checking KWB Package Status (e.g. generating &lt;a href=&#34;https://kwb-r.github.io/status&#34;&gt;https://kwb-r.github.io/status&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.monitoring</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.monitoring/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:37 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.base</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.base/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:36 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.base/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.db</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.db/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:36 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.demeau</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.demeau/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:34 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.demeau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.vs2dh</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.vs2dh/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:34 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.vs2dh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.event</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.event/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:32 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fakin.doc</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin.doc/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin.doc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.dwa.m150</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.dwa.m150/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:29 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.dwa.m150/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.datetime</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.datetime/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:28 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.datetime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.plot</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.plot/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:26 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.test</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.test/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:24 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.default</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.default/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:23 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.default/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb-r.github.io</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb-r.github.io/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:22 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb-r.github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fakin</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin/</link>
+      <pubDate>Tue, 01 Jan 2019 09:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin/</guid>
+      <description>&lt;p&gt;Source code for FAKIN project website for FAKIN project based on &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;academic&lt;/a&gt; theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo.io&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pubs</title>
+      <link>https://kwb-r.github.io/fakin/code/pubs/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/pubs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Proof-Of-Concept Prototype For KWB Publication Website.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Linking people, publications (in KWB &lt;a href=&#34;../../tool/endnote&#34;&gt;Endnote&lt;/a&gt; database) and projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.resilience (v0.1.0): R Package for the Quantification of Technical Resilience</title>
+      <link>https://kwb-r.github.io/fakin/publication/kwb-resilience/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/kwb-resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.twitter</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.twitter/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App: hantush</title>
+      <link>https://kwb-r.github.io/fakin/app/hantush/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/hantush/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-mounding-beneath-an-infiltration-basin&#34;&gt;Calculation of Groundwater Mounding Beneath an Infiltration Basin&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/hantush?urlpath=shiny&#34;&gt;app&lt;/a&gt; is deployed
+using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important note:&lt;/strong&gt; in order to see the plot in the tab &lt;strong&gt;Explore&lt;/strong&gt; (see
+screenshot abovce) it is necessary to enable the checkbox &lt;strong&gt;Details&lt;/strong&gt; once after
+starting the app.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>pkgmeta</title>
+      <link>https://kwb-r.github.io/fakin/code/pkgmeta/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/pkgmeta/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R Package for meta-analysis of KWB-R packages on Github&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/code/datacamp/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/datacamp/</guid>
+      <description>&lt;p&gt;R package for checking &lt;a href=&#34;../../tool/datacamp/&#34;&gt;Datacamp&lt;/a&gt; use at KWB. It also provides an overview on available courses, skill and career tracks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Executable Research Compendia</title>
+      <link>https://kwb-r.github.io/fakin/tool/erc/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/erc/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Open access is not only a form of publishing such that research papers become available to the large public free of charge, it also refers to a trend in science that the act of doing research becomes more open and transparent. When science transforms to open access we mean access to papers, research data being collected, data being generated, access to the procedures carried out in the research paper, even to the computational environment that was used, in order to reproduce and inspect the findings in the paper.Reproducibility of research findings, the ability to repeat experimental procedures and confirm previously found results, is at the heart of the scientific method. For many sciences the reproduction involves the replication of an experimental set up, e.g. in the lab or a field mission to collect data. Increasingly, scientific results are generated by numerical manipulation of data that were already collected, and may involve simulation experiments that are completely carried out computationally.In this proposal Opening Reproducible Research (ORR) we directly aim for the main aspects of open access, by improving the exchange of, by facilitating productive access to and by simplifying reuse of research results that are published over the Internet. The experimentally oriented proposal ORR aims at both the publication process (technische und organisatorische Aspekte des Publikationsprozesses) and the reuse of publications (Absichern der möglichst umfassenden Nachnutzbarkeit der Publikationen), but combines these goals by setting a clear innovation in the area of reproducible research, a goal that has extraordinary meaning for scientific publication. Central to the proposal is a new form for creating and providing research results, the executable research compendium (ERC), which not only enables third parties to reproduce the original research and hence recreate the original research results (figures, tables), but also facilitates interaction with them and the recombination of them with new data or methods. The container format that specifies the ERC will store all information required by different applications (e.g. one-click reproduce, long-term archive, research information systems, discovery purposes) and thus guarantees use independent from original information systems. Building on existing open standards and software, this project will develop standards and tools for ERCs and demonstrate and evaluate these based on fully fledged case studies, initially taken from the geosciences domain. ORR will make a step forward towards executable papers as a new standard in scientific publication.&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://www.uni-muenster.de/Geoinformatics/en/research/projects/O2R.html&#34;&gt;o2r project, WWW Muenster&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.umberto</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.umberto/</link>
+      <pubDate>Sun, 12 Aug 2018 01:11:38 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.umberto/</guid>
+      <description>&lt;h1 id=&#34;helper-functions-for-data-import-aggregation-and-visualisation-of-umbertohttpswwwifucomumberto-model-output&#34;&gt;Helper functions for data import, aggregation and visualisation of &lt;a href=&#34;https://www.ifu.com/umberto/&#34;&gt;UMBERTO&lt;/a&gt; model output.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.resilience</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.resilience/</link>
+      <pubDate>Thu, 12 Jul 2018 09:11:40 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.resilience/</guid>
+      <description>&lt;h1 id=&#34;r-package-for-the-quantification-of-technical-resilience&#34;&gt;R Package for the Quantification of Technical Resilience&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/KWB-R/kwb.resilience&#34;&gt;kwb.resilience&lt;/a&gt; allows calculating different resilience indices for time series. Equations are described and discussed in the freely available conference paper by &lt;a href=&#34;https://www.researchgate.net/publication/326040304_Quantitative_Beschreibung_der_Resilienz_urbaner_Wassersysteme&#34;&gt;Matzinger et al. (2018)&lt;/a&gt; (unfortunately in German only). The sample data for the first example in the paper is also contained in the package as a data.frame “oxygen”.&lt;/p&gt;
+&lt;p&gt;The package should make a starting point for a broader discussion of approaches to tackle resilience of urban water infrastructure for applied cases. Accordingly, adaptations and suggestions are encouraged!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.lca</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.lca/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.lca/</guid>
+      <description>&lt;h1 id=&#34;functions-to-be-used-in-life-cycle-assessment-lca-projects&#34;&gt;Functions to Be Used in Life Cycle Assessment (LCA) Projects&lt;/h1&gt;
+&lt;p&gt;This package contains a function to read LCA parameters from an Excel file that was sent to and received from a project partner. The parameters are read into a data frame. Another function can be used to write the dataframe into an Excel file with different sheets and data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.readxl</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.readxl/</link>
+      <pubDate>Thu, 12 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.readxl/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Read Data From Excel Files&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This package is based on the package &lt;a href=&#34;https://readxl.tidyverse.org/&#34;&gt;readxl&lt;/a&gt;. It provides functions that read all Excel sheets as pure text and then try to split each sheet into a set of line ranges that are assumed to represent single tables.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App: aquanes.report</title>
+      <link>https://kwb-r.github.io/fakin/app/aquanes.report/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/aquanes.report/</guid>
+      <description>&lt;h3 id=&#34;automated-reporting-tool-for-water-suppliers&#34;&gt;Automated Reporting Tool for Water Suppliers&lt;/h3&gt;
+&lt;p&gt;The massive amounts of data from sensors, which is usually recorded in a high
+temporal resolution (up to every second) is challenging for data processing and
+visualisation. Especially if standard tools like MS EXCEL are used, which are
+not well suited for such tasks to data import restrictions (e.g. rows per
+spreadsheet limited to maximum 1 million rows in MS EXCEL 2010) or missing
+built-in features for data aggregation (e.g. calculating one hour median values
+from the raw data).
+In addition operational data often needs to be combined with analytical data
+(usually with a temporal resolution of days to weeks) for example in order to
+(1) assess the impact of the plant’s operation scheme (e.g. flow rate) on its
+performance for reducing specific substances or for (2) calculating substance
+loads (by multiplying substance concentrations with flow rates)&lt;/p&gt;
+&lt;p&gt;Within the AQUANES project – in order to address the above challenges for
+small companies or wa-ter operators – a data visualization and reporting tool
+was developed with the software R (&lt;a href=&#34;http://www.r-project.org&#34;&gt;www.r-project.org&lt;/a&gt;), which enables the user to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Explore online and offline data at different temporal aggregation levels (e.g.
+raw data or 10 minutes median values)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create automated reports not only including the raw (online/offline) data but
+also with more advanced calculations combining different online and/or offline
+data (e.g. specific en-ergy demand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a first step, the R reporting tool was implemented and tested for the AQUANES site Haridwar,
+which is used to demonstrate the functionality of the app.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/aquanes.report?urlpath=shiny/haridwar/&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App: wtaqWeb</title>
+      <link>https://kwb-r.github.io/fakin/app/wtaqweb/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/wtaqweb/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-drawdown-beneath-an-abstraction-well&#34;&gt;Calculation of Groundwater Drawdown Beneath an Abstraction Well&lt;/h3&gt;
+&lt;p&gt;The drawdown calculation is performed with USGS model &lt;a href=&#34;https://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt;.
+For creating the &lt;a href=&#34;https://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt; input files, running the model and reading the output files the R package
+&lt;a href=&#34;code/kwb.wtaq/&#34;&gt;kwb.wtaq&lt;/a&gt; is used.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/wtaqWeb?urlpath=shiny&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.fakin (v0.3.0): R Package with Functions used in the FAKIN Project</title>
+      <link>https://kwb-r.github.io/fakin/publication/kwb-fakin/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/kwb-fakin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.orcid</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.orcid/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.orcid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.geosalz</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.geosalz/</link>
+      <pubDate>Thu, 05 Jul 2018 01:11:42 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.geosalz/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R Package for Documenting Workflow Used in Project geosalz&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.pkgbuild</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.pkgbuild/</link>
+      <pubDate>Tue, 12 Jun 2018 01:11:39 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.pkgbuild/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R package for Automating R package development at KWB to a Predefined Style&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For details on how to create your own R package skeleton to the predefined KWB-R
+style, the following resources are avaiable:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.pkgbuild/articles/install.html&#34;&gt;How to install KWB-R packages?&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.pkgbuild/articles/tutorial.html&#34;&gt;Create an KWB-R package from scratch&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Code examples&lt;/strong&gt;: for an overview on R scripts used to either create a new R
+package from scratch or to standardise an already existing R package, have a look at &lt;a href=&#34;https://github.com/KWB-R/kwb.pkgbuild/issues/26&#34;&gt;https://github.com/KWB-R/kwb.pkgbuild/issues/26&lt;/a&gt;. In case you successfully used
+&lt;a href=&#34;https://github.com/kwb-r/kwb.pkgbuild/&#34;&gt;kwb.pkgbuild&lt;/a&gt; it would be great if you
+could add your R script to this &lt;a href=&#34;https://github.com/KWB-R/kwb.pkgbuild/issues/26&#34;&gt;showcase&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GeoSalz</title>
+      <link>https://kwb-r.github.io/fakin/code/geosalz/</link>
+      <pubDate>Tue, 12 Jun 2018 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/geosalz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.en13508.2</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.en13508.2/</link>
+      <pubDate>Mon, 28 May 2018 01:11:35 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.en13508.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.file</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.file/</link>
+      <pubDate>Mon, 28 May 2018 01:11:35 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.logger</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.logger/</link>
+      <pubDate>Mon, 28 May 2018 01:11:35 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.logger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.fakin</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.fakin/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.fakin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aquanes.report (v0.5.0): Automated Reporting Tool for Water Suppliers</title>
+      <link>https://kwb-r.github.io/fakin/publication/aquanes-report/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/aquanes-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qmra.db</title>
+      <link>https://kwb-r.github.io/fakin/code/qmra.db/</link>
+      <pubDate>Fri, 07 Jul 2017 22:16:19 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/qmra.db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aquanes.report</title>
+      <link>https://kwb-r.github.io/fakin/code/aquanes.report/</link>
+      <pubDate>Sun, 12 Mar 2017 01:11:25 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/aquanes.report/</guid>
+      <description>&lt;h3 id=&#34;automated-reporting-tool-for-water-suppliers&#34;&gt;Automated Reporting Tool for Water Suppliers&lt;/h3&gt;
+&lt;p&gt;Collects, aggregates and visualises operational and analytical data from water suppliers (including a standardised reporting document)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.wtaq</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.wtaq/</link>
+      <pubDate>Tue, 12 Jul 2016 01:11:21 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.wtaq/</guid>
+      <description>&lt;h3 id=&#34;interface-to-wtaqhttpwaterusgsgovogwwtaq-drawdown-model&#34;&gt;Interface to &lt;a href=&#34;http://water.usgs.gov/ogw/wtaq/&#34;&gt;WTAQ&lt;/a&gt; Drawdown Model&lt;/h3&gt;
+&lt;p&gt;Functions enabling the writing of WTAQ input files, running of WTAQ and reading
+of WTAQ output files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.utils</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.utils/</link>
+      <pubDate>Wed, 01 Jun 2016 01:11:21 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.utils/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;General Utility Functions Developed at KWB&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.qmra</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.qmra/</link>
+      <pubDate>Fri, 12 Feb 2016 01:11:23 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.qmra/</guid>
+      <description>&lt;h1 id=&#34;quantitative-microbial-risk-assessment-qmra-for-water-supply-systems&#34;&gt;Quantitative Microbial Risk Assessment (QMRA) for water supply systems&lt;/h1&gt;
+&lt;p&gt;For performing quantitative microbiological risk assessment (QMRA) the open-source
+R package &lt;a href=&#34;https://github.com/KWB-R/kwb.qmra&#34;&gt;kwb.qmra&lt;/a&gt; was developed at KWB
+within the &lt;a href=&#34;../../project/demoware/&#34;&gt;DEMOWARE&lt;/a&gt; project and is extended and tested within the &lt;a href=&#34;../../project/aquanes/&#34;&gt;AquaNES&lt;/a&gt; project&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.hantush</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.hantush/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.hantush/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-mounding-beneath-an-infiltration-basin&#34;&gt;Calculation of Groundwater Mounding Beneath an Infiltration Basin&lt;/h3&gt;
+&lt;p&gt;Calculation groundwater mounding beneath an infiltration basin based on the
+&lt;a href=&#34;http://doi.org/10.1029/WR003i001p00227&#34;&gt;Hantush (1967)&lt;/a&gt; equation.
+The correct implementation is shown with a verification example based on a USGS
+report (&lt;a href=&#34;http://pubs.usgs.gov/sir/2010/5102/support/sir2010-5102.pdf#page=35&#34;&gt;page 25&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demoware</title>
+      <link>https://kwb-r.github.io/fakin/project/demoware/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/project/demoware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>https://kwb-r.github.io/fakin/tool/rstudio/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/rstudio/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;RStudio is an integrated development environment (IDE) for &lt;a href=&#34;../r/&#34;&gt;R&lt;/a&gt;.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.rstudio.com/products/rstudio/&#34;&gt;RStudio, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://kwb-r.github.io/fakin/tool/r/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

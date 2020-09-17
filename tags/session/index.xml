@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>session | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/session/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/session/index.xml" rel="self" type="application/rss+xml" />
+    <description>session</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Sat, 16 Feb 2019 14:45:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>session</title>
+      <link>https://kwb-r.github.io/fakin/tags/session/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge Repo: An Innovative Way For Sharing Knowledge At An Institutional Level</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-03-18_barcamp_open_science/</link>
+      <pubDate>Sat, 16 Feb 2019 14:45:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-03-18_barcamp_open_science/</guid>
+      <description>&lt;p&gt;Implementing a &lt;a href=&#34;https://www.nature.com/articles/d41586-018-05256-0&#34;&gt;(pre-)reproducible&lt;/a&gt;
+(open) science workflow at an institutional level is very challenging, as it
+requires that researchers do not only have the sufficient skills (e.g. programming)
+but also know a &lt;a href=&#34;https://osf.io/thvef/&#34;&gt;myriad of tools&lt;/a&gt; (e.g. version control
+software, virtual machines, containers, metadata, repositories).&lt;/p&gt;
+&lt;p&gt;While learning some these skills/tools can be sometimes outsourced to elearning
+plattforms (e.g. &lt;a href=&#34;../../tool/datacamp/&#34;&gt;DataCamp&lt;/a&gt;, &lt;a href=&#34;../../tool/mooc/&#34;&gt;Open Science MOOC&lt;/a&gt;,
+&lt;a href=&#34;https://software.ac.uk/blog/2019-03-05-turing-way-open-source-resource-promoting-best-practice-reproducible-research&#34;&gt;The Turing Way&lt;/a&gt;), knowledge exchange at an institutional level (Who? Where?
+What? When?) is often informal. Consequently staff fluctuation leads to a loss of
+knowledge as processes and decisions are documented insufficiently.&lt;/p&gt;
+&lt;p&gt;Creating a knowledge repository helps formalising the documentation process. We tested a workflow for creating a knowledge repo within our BMBF funded project &lt;a href=&#34;https://www.kompetenz-wasser.de/en/project/fakin-research-data-management/&#34;&gt;FAKIN&lt;/a&gt;.
+Information from different sources (e.g. &lt;a href=&#34;../../tool/datacamp/&#34;&gt;DataCamp&lt;/a&gt;,
+&lt;a href=&#34;../../tool/github/&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;../../tool/zenodo/&#34;&gt;Zenodo&lt;/a&gt; and &lt;a href=&#34;../../tool/endnote/&#34;&gt;Endnote&lt;/a&gt;)
+are collected, links between different objects (e.g. &lt;a href=&#34;../../#code&#34;&gt;code&lt;/a&gt;,
+&lt;a href=&#34;../../#projects&#34;&gt;projects&lt;/a&gt;, &lt;a href=&#34;../../#people&#34;&gt;people&lt;/a&gt;, &lt;a href=&#34;../../publication/&#34;&gt;publications&lt;/a&gt;,
+&lt;a href=&#34;../../#tool&#34;&gt;tools&lt;/a&gt;) are generated and stored at one place. The structure is simple and allows adding content in the form of text file templates. Everything is based on open-source tools and services such as &lt;a href=&#34;../../tool/r/&#34;&gt;R&lt;/a&gt;(&lt;a href=&#34;../../tool/rstudio/&#34;&gt;Studio&lt;/a&gt;), &lt;a href=&#34;../../tool/hugo/&#34;&gt;Hugo&lt;/a&gt; and &lt;a href=&#34;../../tool/github/&#34;&gt;GitHub&lt;/a&gt;/&lt;a href=&#34;../../tool/gitlab/&#34;&gt;GitLab&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We would like to present our approach, compare it to similar tools we know (&lt;a href=&#34;https://github.com/airbnb/knowledge-repo&#34;&gt;AirBnB knowledge repo&lt;/a&gt;,
+&lt;a href=&#34;https://vivo.tib.eu/fis/&#34;&gt;TIB Vivo&lt;/a&gt;) and discuss with you whether you experience similar challenges and how you are trying to solve these at your (small) research institute.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

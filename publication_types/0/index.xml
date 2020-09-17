@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/publication_types/0/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>0</title>
+      <link>https://kwb-r.github.io/fakin/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>swmmr</title>
+      <link>https://kwb-r.github.io/fakin/publication/swmmr/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/swmmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codemetar</title>
+      <link>https://kwb-r.github.io/fakin/publication/codemetar/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/codemetar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.resilience (v0.1.0): R Package for the Quantification of Technical Resilience</title>
+      <link>https://kwb-r.github.io/fakin/publication/kwb-resilience/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/kwb-resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.fakin (v0.3.0): R Package with Functions used in the FAKIN Project</title>
+      <link>https://kwb-r.github.io/fakin/publication/kwb-fakin/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/kwb-fakin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aquanes.report (v0.5.0): Automated Reporting Tool for Water Suppliers</title>
+      <link>https://kwb-r.github.io/fakin/publication/aquanes-report/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/publication/aquanes-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

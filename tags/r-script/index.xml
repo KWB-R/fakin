@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>r script | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/r-script/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/r-script/index.xml" rel="self" type="application/rss+xml" />
+    <description>r script</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 12 Jun 2018 01:11:31 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>r script</title>
+      <link>https://kwb-r.github.io/fakin/tags/r-script/</link>
+    </image>
+    
+    <item>
+      <title>GeoSalz</title>
+      <link>https://kwb-r.github.io/fakin/code/geosalz/</link>
+      <pubDate>Tue, 12 Jun 2018 01:11:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/geosalz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

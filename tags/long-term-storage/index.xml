@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>long term storage | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/long-term-storage/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/long-term-storage/index.xml" rel="self" type="application/rss+xml" />
+    <description>long term storage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 26 Jul 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>long term storage</title>
+      <link>https://kwb-r.github.io/fakin/tags/long-term-storage/</link>
+    </image>
+    
+    <item>
+      <title>Zenodo</title>
+      <link>https://kwb-r.github.io/fakin/tool/zenodo/</link>
+      <pubDate>Tue, 26 Jul 2016 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/zenodo/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Zenodo is a general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN. It allows researchers to deposit data sets, research software, reports, and any other research related digital artifacts. For each submission, a persistent &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_object_identifier&#34;&gt;Digital object identifier&lt;/a&gt; (DOI) is minted, which makes the stored items easily citeable.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://en.wikipedia.org/wiki/Zenodo%5D&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

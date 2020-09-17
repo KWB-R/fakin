@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demeau | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/demeau/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/demeau/index.xml" rel="self" type="application/rss+xml" />
+    <description>demeau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 12 Feb 2019 01:11:34 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>demeau</title>
+      <link>https://kwb-r.github.io/fakin/tags/demeau/</link>
+    </image>
+    
+    <item>
+      <title>kwb.demeau</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.demeau/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:34 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.demeau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwb.vs2dh</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.vs2dh/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:34 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.vs2dh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App: hantush</title>
+      <link>https://kwb-r.github.io/fakin/app/hantush/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/hantush/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-mounding-beneath-an-infiltration-basin&#34;&gt;Calculation of Groundwater Mounding Beneath an Infiltration Basin&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/hantush?urlpath=shiny&#34;&gt;app&lt;/a&gt; is deployed
+using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important note:&lt;/strong&gt; in order to see the plot in the tab &lt;strong&gt;Explore&lt;/strong&gt; (see
+screenshot abovce) it is necessary to enable the checkbox &lt;strong&gt;Details&lt;/strong&gt; once after
+starting the app.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.hantush</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.hantush/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.hantush/</guid>
+      <description>&lt;h3 id=&#34;calculation-of-groundwater-mounding-beneath-an-infiltration-basin&#34;&gt;Calculation of Groundwater Mounding Beneath an Infiltration Basin&lt;/h3&gt;
+&lt;p&gt;Calculation groundwater mounding beneath an infiltration basin based on the
+&lt;a href=&#34;http://doi.org/10.1029/WR003i001p00227&#34;&gt;Hantush (1967)&lt;/a&gt; equation.
+The correct implementation is shown with a verification example based on a USGS
+report (&lt;a href=&#34;http://pubs.usgs.gov/sir/2010/5102/support/sir2010-5102.pdf#page=35&#34;&gt;page 25&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>path analysis | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/path-analysis/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/path-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>path analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>path analysis</title>
+      <link>https://kwb-r.github.io/fakin/tags/path-analysis/</link>
+    </image>
+    
+    <item>
+      <title>App: pathana</title>
+      <link>https://kwb-r.github.io/fakin/app/fakin.path.app/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/app/fakin.path.app/</guid>
+      <description>&lt;h3 id=&#34;pathana-an-interactive-tool-for-path-analysis&#34;&gt;Pathana: an interactive tool for path analysis&lt;/h3&gt;
+&lt;p&gt;This R Shiny App loads file path information from a file and displays the paths in different ways. The aim of the app is to find weaknesses in the folder structure.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mybinder.org/v2/gh/kwb-r/apps/fakin.path.app?urlpath=shiny&#34;&gt;app&lt;/a&gt;
+is deployed using the free service &lt;a href=&#34;https://mybinder.org/&#34;&gt;mybinder.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fakin.path.app</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin.path.app/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin.path.app/</guid>
+      <description>&lt;p&gt;This R package contains an R Shiny App that loads file path information from a
+file and displays the paths in different ways. The aim of the app is to find
+weaknesses in the folder structure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop #4 (external): Project closure</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</link>
+      <pubDate>Thu, 25 Jul 2019 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

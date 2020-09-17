@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algolia | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/algolia/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/algolia/index.xml" rel="self" type="application/rss+xml" />
+    <description>algolia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 12 Mar 2019 11:52:31 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>algolia</title>
+      <link>https://kwb-r.github.io/fakin/tags/algolia/</link>
+    </image>
+    
+    <item>
+      <title>algoliar</title>
+      <link>https://kwb-r.github.io/fakin/code/algoliar/</link>
+      <pubDate>Tue, 12 Mar 2019 11:52:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/algoliar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

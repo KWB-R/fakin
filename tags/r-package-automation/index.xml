@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>r package automation | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/r-package-automation/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/r-package-automation/index.xml" rel="self" type="application/rss+xml" />
+    <description>r package automation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 12 Jun 2018 01:11:39 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>r package automation</title>
+      <link>https://kwb-r.github.io/fakin/tags/r-package-automation/</link>
+    </image>
+    
+    <item>
+      <title>kwb.pkgbuild</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.pkgbuild/</link>
+      <pubDate>Tue, 12 Jun 2018 01:11:39 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.pkgbuild/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R package for Automating R package development at KWB to a Predefined Style&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For details on how to create your own R package skeleton to the predefined KWB-R
+style, the following resources are avaiable:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.pkgbuild/articles/install.html&#34;&gt;How to install KWB-R packages?&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kwb-r.github.io/kwb.pkgbuild/articles/tutorial.html&#34;&gt;Create an KWB-R package from scratch&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Code examples&lt;/strong&gt;: for an overview on R scripts used to either create a new R
+package from scratch or to standardise an already existing R package, have a look at &lt;a href=&#34;https://github.com/KWB-R/kwb.pkgbuild/issues/26&#34;&gt;https://github.com/KWB-R/kwb.pkgbuild/issues/26&lt;/a&gt;. In case you successfully used
+&lt;a href=&#34;https://github.com/kwb-r/kwb.pkgbuild/&#34;&gt;kwb.pkgbuild&lt;/a&gt; it would be great if you
+could add your R script to this &lt;a href=&#34;https://github.com/KWB-R/kwb.pkgbuild/issues/26&#34;&gt;showcase&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

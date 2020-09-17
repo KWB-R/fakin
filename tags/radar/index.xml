@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radar | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/radar/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/radar/index.xml" rel="self" type="application/rss+xml" />
+    <description>radar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>radar</title>
+      <link>https://kwb-r.github.io/fakin/tags/radar/</link>
+    </image>
+    
+    <item>
+      <title>kwb.dwd</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.dwd/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.dwd/</guid>
+      <description>&lt;p&gt;This package provides functions to simplify the access to the data provided online
+by the Deutscher Wetterdienst (DWD, &lt;a href=&#34;https://www.dwd.de)&#34;&gt;https://www.dwd.de)&lt;/a&gt;. It currently contains
+a function &lt;a href=&#34;https://kwb-r.github.io/kwb.dwd/reference/get_radolan_urls.html&#34;&gt;get_radolan_urls()&lt;/a&gt;
+that returns the internet addresses (Unified Resource Locators, URLs) to the zip
+files containing rain data from the RADOLAN system in daily or hourly resolution
+(see &lt;a href=&#34;https://www.dwd.de/DE/leistungen/radolan/radolan.html)&#34;&gt;https://www.dwd.de/DE/leistungen/radolan/radolan.html)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The function &lt;a href=&#34;https://kwb-r.github.io/kwb.dwd/reference/download_radolan.html&#34;&gt;download_radolan()&lt;/a&gt;
+helps you to download these files. But take care, you should restrict the time
+period as each file contains the data for all of Germany.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

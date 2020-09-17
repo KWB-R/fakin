@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rstudio | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/rstudio/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/rstudio/index.xml" rel="self" type="application/rss+xml" />
+    <description>rstudio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Fri, 01 Mar 2019 10:35:15 +0100</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>rstudio</title>
+      <link>https://kwb-r.github.io/fakin/tags/rstudio/</link>
+    </image>
+    
+    <item>
+      <title>Open Science MOOC</title>
+      <link>https://kwb-r.github.io/fakin/tool/mooc/</link>
+      <pubDate>Fri, 01 Mar 2019 10:35:15 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/mooc/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Research is getting a global makeover, in part thanks to the power of the internet and the tools it provides for us, and in part due to a growing call for accountability (e.g., reproducibility and data provenance) in research. Global policies are emerging at different levels that include some aspect of Open Research, Open Scholarship, or Open Science, and inclusive of all research disciplines. But our universities are often letting us down, and they are not teaching us the knowledge, tools and skills we need to do research effectively in the 21st century.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Open Science is about increased rigour, accountability, reproducibility for research. It is based on the principles of inclusion, fairness, equity, and sharing. Open Science can be viewed as research simply done properly, and it extends across the Life and Physical Sciences, Engineering, and Mathematics, to Social Science and Humanities.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This MOOC is designed to help equip students and researchers with the skills they need to excel in a modern research environment. It brings together the efforts and resources of hundreds of researchers and practitioners who have all dedicated their time and experience to create a community platform to help propel research forward.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The content of this MOOC will be distilled into 10 core modules. Each module will comprise a complete range of resources including videos, research articles, dummy datasets and code, as well as tasks to complete as individuals or groups.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The MOOC will be hosted through an open source provider. We expect that in the future different systems of certification will be developed, including completion badges. We also intend to build a forum for the open discussion of the MOOC and any relevant topics.&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://opensciencemooc.eu/about/&#34;&gt;opensciencemooc.eu, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating a Knowledge Repo for a Small Research Institute</title>
+      <link>https://kwb-r.github.io/fakin/abstract/2019-06-04_derse19/</link>
+      <pubDate>Tue, 26 Feb 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/abstract/2019-06-04_derse19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mybinder</title>
+      <link>https://kwb-r.github.io/fakin/tool/mybinder/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/mybinder/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Turn a Git repo into a collection of interactive notebooks.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Have a repository full of Jupyter notebooks? With Binder, open those notebooks
+in an executable environment, making your code immediately reproducible by anyone,
+anywhere.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://mybinder.org&#34;&gt;mybinder, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

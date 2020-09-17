@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/authors/kraus/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/authors/kraus/index.xml" rel="self" type="application/rss+xml" />
+    <description>FAKIN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Mon, 29 Jan 2018 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/authors/kraus/</link>
+    </image>
+    
+    <item>
+      <title>Workshop #2 (internal): Best-Practices</title>
+      <link>https://kwb-r.github.io/fakin/talk/2018-01-29_workshop-best-practices/</link>
+      <pubDate>Mon, 29 Jan 2018 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2018-01-29_workshop-best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #1 (internal): Kickoff</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-09-25_workshop-kickoff/</link>
+      <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-09-25_workshop-kickoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brownbag #1: FAKIN</title>
+      <link>https://kwb-r.github.io/fakin/talk/2017-07-07_brownbag/</link>
+      <pubDate>Fri, 07 Jul 2017 12:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2017-07-07_brownbag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umberto</title>
+      <link>https://kwb-r.github.io/fakin/tool/umberto/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/umberto/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ifu.com/en/umberto/&#34;&gt;Umberto&lt;/a&gt; is a software for material flow management and material flow analyses. At KWB it is used for modelling in life
+cycle assessment projects, e.g. &lt;a href=&#34;../../project/smartplant/&#34;&gt;Smart-Plant&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>https://kwb-r.github.io/fakin/tool/rstudio/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/rstudio/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;RStudio is an integrated development environment (IDE) for &lt;a href=&#34;../r/&#34;&gt;R&lt;/a&gt;.&amp;rdquo;
+&amp;mdash; &lt;a href=&#34;https://www.rstudio.com/products/rstudio/&#34;&gt;RStudio, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://kwb-r.github.io/fakin/tool/r/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

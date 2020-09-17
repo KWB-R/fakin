@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>knowledge repo | FAKIN</title>
+    <link>https://kwb-r.github.io/fakin/tags/knowledge-repo/</link>
+      <atom:link href="https://kwb-r.github.io/fakin/tags/knowledge-repo/index.xml" rel="self" type="application/rss+xml" />
+    <description>knowledge repo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019 [Kompetenzzentrum Wasser Berlin gGmbH](https://www.kompetenz-wasser.de)</copyright><lastBuildDate>Tue, 20 Aug 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kwb-r.github.io/fakin/img/icon-192.png</url>
+      <title>knowledge repo</title>
+      <link>https://kwb-r.github.io/fakin/tags/knowledge-repo/</link>
+    </image>
+    
+    <item>
+      <title>Wie etablieren wir FDM an unserem kleinen Wasserforschungsinstitut?</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-08-20_workshop-herder/</link>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-08-20_workshop-herder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #4 (external): Project closure</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</link>
+      <pubDate>Thu, 25 Jul 2019 10:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-07-25_workshop-final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algoliar</title>
+      <link>https://kwb-r.github.io/fakin/code/algoliar/</link>
+      <pubDate>Tue, 12 Mar 2019 11:52:31 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/algoliar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop #3 (internal): Lessons-learnt</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</link>
+      <pubDate>Wed, 06 Mar 2019 09:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-03-11_workshop-lessons-learned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaining Tools to Create a Knowledge Repo for a Small Research Institute</title>
+      <link>https://kwb-r.github.io/fakin/abstract/2019-07-18_user2019/knowledge-repo/</link>
+      <pubDate>Fri, 01 Mar 2019 21:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/abstract/2019-07-18_user2019/knowledge-repo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating a Knowledge Repo for a Small Research Institute</title>
+      <link>https://kwb-r.github.io/fakin/abstract/2019-06-04_derse19/</link>
+      <pubDate>Tue, 26 Feb 2019 13:00:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/abstract/2019-06-04_derse19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algolia</title>
+      <link>https://kwb-r.github.io/fakin/tool/algolia/</link>
+      <pubDate>Fri, 22 Feb 2019 21:44:30 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/algolia/</guid>
+      <description>&lt;h1 id=&#34;search-software-as-a-service&#34;&gt;Search (Software As A Service)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://algolia.com&#34;&gt;Algolia&lt;/a&gt; is a French startup company offering a web search product through a SaaS (software as a service) model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Repo: An Innovative Way For Sharing Knowledge At An Institutional Level</title>
+      <link>https://kwb-r.github.io/fakin/talk/2019-03-18_barcamp_open_science/</link>
+      <pubDate>Sat, 16 Feb 2019 14:45:00 +0000</pubDate>
+      <guid>https://kwb-r.github.io/fakin/talk/2019-03-18_barcamp_open_science/</guid>
+      <description>&lt;p&gt;Implementing a &lt;a href=&#34;https://www.nature.com/articles/d41586-018-05256-0&#34;&gt;(pre-)reproducible&lt;/a&gt;
+(open) science workflow at an institutional level is very challenging, as it
+requires that researchers do not only have the sufficient skills (e.g. programming)
+but also know a &lt;a href=&#34;https://osf.io/thvef/&#34;&gt;myriad of tools&lt;/a&gt; (e.g. version control
+software, virtual machines, containers, metadata, repositories).&lt;/p&gt;
+&lt;p&gt;While learning some these skills/tools can be sometimes outsourced to elearning
+plattforms (e.g. &lt;a href=&#34;../../tool/datacamp/&#34;&gt;DataCamp&lt;/a&gt;, &lt;a href=&#34;../../tool/mooc/&#34;&gt;Open Science MOOC&lt;/a&gt;,
+&lt;a href=&#34;https://software.ac.uk/blog/2019-03-05-turing-way-open-source-resource-promoting-best-practice-reproducible-research&#34;&gt;The Turing Way&lt;/a&gt;), knowledge exchange at an institutional level (Who? Where?
+What? When?) is often informal. Consequently staff fluctuation leads to a loss of
+knowledge as processes and decisions are documented insufficiently.&lt;/p&gt;
+&lt;p&gt;Creating a knowledge repository helps formalising the documentation process. We tested a workflow for creating a knowledge repo within our BMBF funded project &lt;a href=&#34;https://www.kompetenz-wasser.de/en/project/fakin-research-data-management/&#34;&gt;FAKIN&lt;/a&gt;.
+Information from different sources (e.g. &lt;a href=&#34;../../tool/datacamp/&#34;&gt;DataCamp&lt;/a&gt;,
+&lt;a href=&#34;../../tool/github/&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;../../tool/zenodo/&#34;&gt;Zenodo&lt;/a&gt; and &lt;a href=&#34;../../tool/endnote/&#34;&gt;Endnote&lt;/a&gt;)
+are collected, links between different objects (e.g. &lt;a href=&#34;../../#code&#34;&gt;code&lt;/a&gt;,
+&lt;a href=&#34;../../#projects&#34;&gt;projects&lt;/a&gt;, &lt;a href=&#34;../../#people&#34;&gt;people&lt;/a&gt;, &lt;a href=&#34;../../publication/&#34;&gt;publications&lt;/a&gt;,
+&lt;a href=&#34;../../#tool&#34;&gt;tools&lt;/a&gt;) are generated and stored at one place. The structure is simple and allows adding content in the form of text file templates. Everything is based on open-source tools and services such as &lt;a href=&#34;../../tool/r/&#34;&gt;R&lt;/a&gt;(&lt;a href=&#34;../../tool/rstudio/&#34;&gt;Studio&lt;/a&gt;), &lt;a href=&#34;../../tool/hugo/&#34;&gt;Hugo&lt;/a&gt; and &lt;a href=&#34;../../tool/github/&#34;&gt;GitHub&lt;/a&gt;/&lt;a href=&#34;../../tool/gitlab/&#34;&gt;GitLab&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We would like to present our approach, compare it to similar tools we know (&lt;a href=&#34;https://github.com/airbnb/knowledge-repo&#34;&gt;AirBnB knowledge repo&lt;/a&gt;,
+&lt;a href=&#34;https://vivo.tib.eu/fis/&#34;&gt;TIB Vivo&lt;/a&gt;) and discuss with you whether you experience similar challenges and how you are trying to solve these at your (small) research institute.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.pubs</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.pubs/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.pubs/</guid>
+      <description>&lt;h1 id=&#34;r-package-for-generating-publication-websites-based-on-hugo-theme-academic&#34;&gt;R Package For Generating (Publication) Websites Based on Hugo Theme Academic&lt;/h1&gt;
+&lt;p&gt;Using the following tools:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;: static website generator&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;: a open-source theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; adapted to the needs of researchers and/or small research labs. For example used by Stanford`s Causality in Cognition Lab (see: &lt;a href=&#34;https://cicl.stanford.edu&#34;&gt;https://cicl.stanford.edu&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;R package &lt;a href=&#34;https://bookdown.org/yihui/blogdown&#34;&gt;blogdown&lt;/a&gt;: for generating the website from R(Studio) and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/github-pages.html&#34;&gt;GitHub&lt;/a&gt;/&lt;a href=&#34;https://bookdown.org/yihui/blogdown/gitlab-pages.html&#34;&gt;GitLab&lt;/a&gt; Pages: for automatically deploying the website for free&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>apps</title>
+      <link>https://kwb-r.github.io/fakin/code/apps/</link>
+      <pubDate>Tue, 12 Feb 2019 01:11:44 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/apps/</guid>
+      <description>&lt;h1 id=&#34;interactive-apps&#34;&gt;Interactive Apps&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fakin</title>
+      <link>https://kwb-r.github.io/fakin/code/fakin/</link>
+      <pubDate>Tue, 01 Jan 2019 09:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/fakin/</guid>
+      <description>&lt;p&gt;Source code for FAKIN project website for FAKIN project based on &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;academic&lt;/a&gt; theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo.io&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.endnote</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.endnote/</link>
+      <pubDate>Fri, 21 Dec 2018 01:11:47 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.endnote/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R Package For Analysing KWB Endnote Library (Exported As .XML)&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pubs</title>
+      <link>https://kwb-r.github.io/fakin/code/pubs/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/pubs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Proof-Of-Concept Prototype For KWB Publication Website.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Linking people, publications (in KWB &lt;a href=&#34;../../tool/endnote&#34;&gt;Endnote&lt;/a&gt; database) and projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.twitter</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.twitter/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pkgmeta</title>
+      <link>https://kwb-r.github.io/fakin/code/pkgmeta/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/pkgmeta/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;R Package for meta-analysis of KWB-R packages on Github&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://kwb-r.github.io/fakin/code/datacamp/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/datacamp/</guid>
+      <description>&lt;p&gt;R package for checking &lt;a href=&#34;../../tool/datacamp/&#34;&gt;Datacamp&lt;/a&gt; use at KWB. It also provides an overview on available courses, skill and career tracks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slack</title>
+      <link>https://kwb-r.github.io/fakin/tool/slack/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/slack/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Slack is an American cloud-based set of proprietary team collaboration tools and
+services, founded by Stewart Butterfield. The name is an acronym for
+&amp;lsquo;Searchable Log of All Conversation and Knowledge&amp;rsquo; &amp;quot;
+&amp;mdash; &lt;a href=&#34;https://https://en.wikipedia.org/wiki/Slack_(software)&#34;&gt;Wikipedia, 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kwb.orcid</title>
+      <link>https://kwb-r.github.io/fakin/code/kwb.orcid/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/code/kwb.orcid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EndNote</title>
+      <link>https://kwb-r.github.io/fakin/tool/endnote/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <guid>https://kwb-r.github.io/fakin/tool/endnote/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/EndNote&#34;&gt;EndNote&lt;/a&gt; is currently the standard software at KWB for managing literature references.&lt;/p&gt;
+&lt;p&gt;An open-source alternative for the future could be &lt;a href=&#34;../zotero/&#34;&gt;Zotero&lt;/a&gt;, which offers additional features like cloud-storage or automated access through &lt;a href=&#34;https://www.zotero.org/support/dev/web_api/v3/start&#34;&gt;API&lt;/a&gt; (e.g. the R package
+&lt;a href=&#34;https://cran.r-project.org/web/packages/RefManageR/&#34;&gt;RefManageR&lt;/a&gt; is able to connect to a &lt;a href=&#34;https://zotero.org&#34;&gt;Zotero&lt;/a&gt; database using the function &lt;a href=&#34;https://www.rdocumentation.org/packages/RefManageR/versions/1.2.0/topics/ReadZotero&#34;&gt;ReadZotero()&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For a full comparison of the features of different reference management software available see &lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_reference_management_software&#34;&gt;Wikipedia, 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
