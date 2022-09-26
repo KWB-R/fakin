@@ -51,15 +51,16 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = "2017-09-25_workshop-best-practices_v1.1.pdf"
+url_slides = ""
 url_video = ""
 url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Result: PM interviews mindmap", url = "mindmap_interviews_with_project-managers_v1.0.pdf"}
+links = [
+{icon_pack = "fas", icon = "file-pdf", name = "Slides", url = "2017-09-25_workshop-best-practices_v1.1.pdf"}, 
+{icon_pack = "fas", icon = "file-pdf", name = "Result: PM interviews mindmap", url = "mindmap_interviews_with_project-managers_v1.0.pdf"}
 ]
-
 
 # Does the content use math formatting?
 math = true
